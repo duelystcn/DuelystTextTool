@@ -1,0 +1,9 @@
+D:\work\winDuelystText\DuelystText\bin\Debug\DuelystText.exe.config
+D:\work\winDuelystText\DuelystText\bin\Debug\DuelystText.exe
+D:\work\winDuelystText\DuelystText\bin\Debug\DuelystText.pdb
+D:\work\winDuelystText\DuelystText\obj\Debug\DuelystText.csproj.AssemblyReference.cache
+D:\work\winDuelystText\DuelystText\obj\Debug\DuelystText.Properties.Resources.resources
+D:\work\winDuelystText\DuelystText\obj\Debug\DuelystText.csproj.GenerateResource.cache
+D:\work\winDuelystText\DuelystText\obj\Debug\DuelystText.csproj.CoreCompileInputs.cache
+D:\work\winDuelystText\DuelystText\obj\Debug\DuelystText.exe
+D:\work\winDuelystText\DuelystText\obj\Debug\DuelystText.pdb
