@@ -8,3 +8,17 @@ D:\work\winDuelystText\DuelystText\obj\Debug\DuelystText.csproj.CoreCompileInput
 D:\work\winDuelystText\DuelystText\obj\Debug\DuelystText.exe
 D:\work\winDuelystText\DuelystText\obj\Debug\DuelystText.pdb
 D:\work\winDuelystText\DuelystText\obj\Debug\DuelystText.Main.resources
+D:\work\DuelystTextTool\bin\Debug\DuelystText.exe.config
+D:\work\DuelystTextTool\bin\Debug\DuelystText.exe
+D:\work\DuelystTextTool\bin\Debug\DuelystText.pdb
+D:\work\DuelystTextTool\bin\Debug\Newtonsoft.Json.dll
+D:\work\DuelystTextTool\bin\Debug\Newtonsoft.Json.xml
+D:\work\DuelystTextTool\obj\Debug\DuelystText.csprojAssemblyReference.cache
+D:\work\DuelystTextTool\obj\Debug\DuelystText.Main.resources
+D:\work\DuelystTextTool\obj\Debug\DuelystText.Properties.Resources.resources
+D:\work\DuelystTextTool\obj\Debug\DuelystText.csproj.GenerateResource.cache
+D:\work\DuelystTextTool\obj\Debug\DuelystText.csproj.CoreCompileInputs.cache
+D:\work\DuelystTextTool\obj\Debug\DuelystText.csproj.CopyComplete
+D:\work\DuelystTextTool\obj\Debug\DuelystText.exe
+D:\work\DuelystTextTool\obj\Debug\DuelystText.pdb
+D:\work\DuelystTextTool\bin\Debug\JSVersion\20.1.0\index.json

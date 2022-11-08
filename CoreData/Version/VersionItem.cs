@@ -1,4 +1,7 @@
-﻿using System;
+﻿using DuelystText.Common.Util;
+using DuelystText.CoreData.Node;
+using Newtonsoft.Json.Linq;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -12,18 +15,19 @@ namespace DuelystText.CoreData.Version
     {
         public string versionCode;
 
+        public NodeItem nodeItem;
+
         public VersionItem(string versionCode)
         {
             this.versionCode = versionCode;
         }
 
-        public void CheckNeedSplit() 
+        public void Initialization() 
         {
-            string path = Application.StartupPath + "/JSVersion/" + versionCode + "/split";
-            if (!Directory.Exists(path))
-            {
-                
-            }
+            string path = Application.StartupPath + "/JSVersion/" + versionCode + "/index.json";
+            string indexJson = FileReadUtil.GetTextFromFile(path);
+            JObject obj = JObject.Parse(indexJson);
+            return;
         }
     }
 }

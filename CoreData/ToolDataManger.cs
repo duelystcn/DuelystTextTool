@@ -43,7 +43,7 @@ namespace DuelystText.CoreData
             foreach (var versionPath in dir)
             {
                 VersionItem versionItem = new VersionItem(Path.GetFileName(versionPath));
-                versionItem.CheckNeedSplit();
+                versionItem.Initialization();
                 versionDic.Add(versionItem.versionCode, versionItem);
             }
         }
