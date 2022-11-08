@@ -30,17 +30,26 @@ namespace DuelystText
         private void InitializeComponent()
         {
             this.VersionGrid = new System.Windows.Forms.DataGridView();
+            this.VersionCode = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.VersionGrid)).BeginInit();
             this.SuspendLayout();
             // 
             // VersionGrid
             // 
             this.VersionGrid.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.VersionGrid.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.VersionCode});
             this.VersionGrid.Location = new System.Drawing.Point(12, 12);
             this.VersionGrid.Name = "VersionGrid";
             this.VersionGrid.RowTemplate.Height = 23;
             this.VersionGrid.Size = new System.Drawing.Size(1024, 641);
             this.VersionGrid.TabIndex = 0;
+            // 
+            // VersionCode
+            // 
+            this.VersionCode.HeaderText = "VersionCode";
+            this.VersionCode.Name = "VersionCode";
+            this.VersionCode.ReadOnly = true;
             // 
             // Main
             // 
@@ -59,6 +68,7 @@ namespace DuelystText
         #endregion
 
         private System.Windows.Forms.DataGridView VersionGrid;
+        private System.Windows.Forms.DataGridViewTextBoxColumn VersionCode;
     }
 }
 

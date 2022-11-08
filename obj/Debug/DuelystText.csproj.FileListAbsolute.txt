@@ -7,3 +7,4 @@ D:\work\winDuelystText\DuelystText\obj\Debug\DuelystText.csproj.GenerateResource
 D:\work\winDuelystText\DuelystText\obj\Debug\DuelystText.csproj.CoreCompileInputs.cache
 D:\work\winDuelystText\DuelystText\obj\Debug\DuelystText.exe
 D:\work\winDuelystText\DuelystText\obj\Debug\DuelystText.pdb
+D:\work\winDuelystText\DuelystText\obj\Debug\DuelystText.Main.resources

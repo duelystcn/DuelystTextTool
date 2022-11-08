@@ -1,4 +1,6 @@
 ﻿using DuelystText.Common.Log;
+using DuelystText.CoreData;
+using DuelystText.CoreData.Version;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -29,10 +31,32 @@ namespace DuelystText
 
         private void Main_Load(object sender, EventArgs e)
         {
-            //获取当前有哪些版本
-
+            //核心管理创建
+            ToolDataManger toolDataManger = new ToolDataManger();
+            toolDataManger.Awake();
+            CreateVersionGirdView();
         }
 
+
+        private void CreateVersionGirdView() 
+        {
+            VersionGrid.AutoGenerateColumns = false;
+            versionDataTable = new DataTable();
+            versionDataTable.Columns.Add("versionCode", typeof(string));
+
+            foreach (VersionItem versionItem  in ToolDataManger.Instance.versionDic.Values)
+            {
+                versionDataTable.Rows.Add(
+                    versionItem.versionCode
+                ); 
+               
+            }
+            VersionGrid.Columns[0].DataPropertyName = "versionCode";
+            VersionGrid.Columns[0].DefaultCellStyle.BackColor = Color.LightSteelBlue;
+            VersionGrid.DataSource = versionDataTable;
+            //提交修改
+            versionDataTable.AcceptChanges();
+        }
 
 
         private void GetText_Click(object sender, EventArgs e)
@@ -59,7 +83,7 @@ namespace DuelystText
 
         public static byte[] ReadFileStream(FileStream stream)
         {
-            const int size = 20607280; 
+            const int size = 114514; 
             byte[] buffer = new byte[size];
             using (MemoryStream memory = new MemoryStream())
             {
