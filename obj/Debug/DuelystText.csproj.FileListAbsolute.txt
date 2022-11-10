@@ -22,3 +22,9 @@ D:\work\DuelystTextTool\obj\Debug\DuelystText.csproj.CopyComplete
 D:\work\DuelystTextTool\obj\Debug\DuelystText.exe
 D:\work\DuelystTextTool\obj\Debug\DuelystText.pdb
 D:\work\DuelystTextTool\bin\Debug\JSVersion\20.1.0\index.json
+D:\work\winDuelystText\DuelystText\bin\Debug\JSVersion\20.1.0\index.json
+D:\work\winDuelystText\DuelystText\bin\Debug\Newtonsoft.Json.dll
+D:\work\winDuelystText\DuelystText\bin\Debug\Newtonsoft.Json.xml
+D:\work\winDuelystText\DuelystText\obj\Debug\DuelystText.csproj.CopyComplete
+D:\work\winDuelystText\DuelystText\obj\Debug\DuelystText.NodeForm.resources
+D:\work\winDuelystText\DuelystText\obj\Debug\DuelystText.TranslateForm.resources

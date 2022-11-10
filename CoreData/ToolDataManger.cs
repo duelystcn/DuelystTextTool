@@ -1,4 +1,5 @@
 ﻿using DuelystText.Common.Log;
+using DuelystText.CoreData.Node;
 using DuelystText.CoreData.Version;
 using System;
 using System.Collections.Generic;
@@ -15,6 +16,10 @@ namespace DuelystText.CoreData
         public static ToolDataManger Instance = null;
 
         public Dictionary<string, VersionItem> versionDic = new Dictionary<string, VersionItem>();
+
+        public VersionItem currentVersionItem;
+
+        public NodeItem currentNodeItem;
 
         public void Awake()
         {

@@ -63,10 +63,25 @@
       <DependentUpon>Main.cs</DependentUpon>
     </Compile>
     <Compile Include="GlobalVariable.cs" />
+    <Compile Include="NodeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NodeForm.Designer.cs">
+      <DependentUpon>NodeForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TranslateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TranslateForm.Designer.cs">
+      <DependentUpon>TranslateForm.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Main.resx">
       <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NodeForm.resx">
+      <DependentUpon>NodeForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -77,6 +92,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="TranslateForm.resx">
+      <DependentUpon>TranslateForm.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="JSVersion\20.1.0\index.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>

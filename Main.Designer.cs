@@ -31,6 +31,7 @@ namespace DuelystText
         {
             this.VersionGrid = new System.Windows.Forms.DataGridView();
             this.VersionCode = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Edit = new System.Windows.Forms.DataGridViewButtonColumn();
             ((System.ComponentModel.ISupportInitialize)(this.VersionGrid)).BeginInit();
             this.SuspendLayout();
             // 
@@ -38,12 +39,14 @@ namespace DuelystText
             // 
             this.VersionGrid.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.VersionGrid.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
-            this.VersionCode});
+            this.VersionCode,
+            this.Edit});
             this.VersionGrid.Location = new System.Drawing.Point(12, 12);
             this.VersionGrid.Name = "VersionGrid";
             this.VersionGrid.RowTemplate.Height = 23;
             this.VersionGrid.Size = new System.Drawing.Size(1024, 641);
             this.VersionGrid.TabIndex = 0;
+            this.VersionGrid.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.VersionGrid_CellContentClick);
             // 
             // VersionCode
             // 
@@ -51,11 +54,16 @@ namespace DuelystText
             this.VersionCode.Name = "VersionCode";
             this.VersionCode.ReadOnly = true;
             // 
+            // Edit
+            // 
+            this.Edit.HeaderText = "Edit";
+            this.Edit.Name = "Edit";
+            // 
             // Main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1103, 714);
+            this.ClientSize = new System.Drawing.Size(1556, 864);
             this.Controls.Add(this.VersionGrid);
             this.Name = "Main";
             this.Text = "Main";
@@ -69,6 +77,7 @@ namespace DuelystText
 
         private System.Windows.Forms.DataGridView VersionGrid;
         private System.Windows.Forms.DataGridViewTextBoxColumn VersionCode;
+        private System.Windows.Forms.DataGridViewButtonColumn Edit;
     }
 }
 

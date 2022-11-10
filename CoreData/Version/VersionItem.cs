@@ -26,8 +26,13 @@ namespace DuelystText.CoreData.Version
         {
             string path = Application.StartupPath + "/JSVersion/" + versionCode + "/index.json";
             string indexJson = FileReadUtil.GetTextFromFile(path);
-            JObject obj = JObject.Parse(indexJson);
+            JToken objTree = JObject.Parse(indexJson);
+            this.nodeItem = new NodeItem("ENO");
+            this.nodeItem.Initialization(null, objTree);
             return;
         }
+
+
+        
     }
 }

@@ -11,5 +11,11 @@ namespace DuelystText.CoreData.Node
         public string code;
         public string eng;
         public string chi;
+
+        public TranslateItem(string code, string eng)
+        {
+            this.code = code;
+            this.eng = eng;
+        }
     }
 }
