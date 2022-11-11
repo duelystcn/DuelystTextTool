@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.0",
+  "nodeCode": "cards",
+  "path": "cards",
+  "orderStart": 600,
+  "orderEnd": 699,
+  "translateItemList": [
+    {
+      "code": "d2_neutral_fire_spitter_desc",
+      "eng": "Ranged\nThis cannot attack minions.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_frostbone_naga_name",
+      "eng": "Frostbone Naga",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_frostbone_naga_desc",
+      "eng": "Opening Gambit: Deal 2 damage to nearby units.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_hailstone_golem_name",
+      "eng": "Hailstone Golem",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_lightbender_name",
+      "eng": "Lightbender",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_lightbender_desc",
+      "eng": "Opening Gambit: Dispel nearby spaces.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_mindwarper_name",
+      "eng": "Mindwarper",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_mindwarper_desc",
+      "eng": "Players replace cards from their opponent's deck.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_moebius_name",
+      "eng": "Moebius",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_moebius_desc",
+      "eng": "Airdrop\nOpening Gambit: Spend your remaining mana. This gains +1/+1 for each mana spent.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_owlbeast_sage_name",
+      "eng": "Owlbeast Sage",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_owlbeast_sage_desc",
+      "eng": "When you play a spell, allied Arcanysts gain +0/+2.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_primus_shieldmaster_name",
+      "eng": "Primus Shieldmaster",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_primus_shieldmaster_desc",
+      "eng": "Provoke\nAt the end of your turn, give nearby allied minions +0/+1.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_purgatos_name",
+      "eng": "Purgatos, The Realmkeeper",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_purgatos_desc",
+      "eng": "When this attacks, heal your General for 2. When this counterattacks, deal 2 damage to the enemy General.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_silhouette_tracer_name",
+      "eng": "Silhouette Tracer",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_silhouette_tracer_desc",
+      "eng": "Opening Gambit: Teleport your General up to 4 spaces.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_sun_elemental_name",
+      "eng": "Sun Elemental",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_sun_elemental_desc",
+      "eng": "At the end of your turn, this gains +2/-1.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_tethermancer_name",
+      "eng": "Tethermancer",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_tethermancer_desc",
+      "eng": "Opening Gambit: Refresh all Mana tiles.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_thorn_needler_name",
+      "eng": "Thorn Needler",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_thorn_needler_desc",
+      "eng": "When this takes damage, it gains +1/+0.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_white_widow_name",
+      "eng": "White Widow",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_white_widow_desc",
+      "eng": "When you replace a card, deal 2 damage split randomly among enemies.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_young_flamewing_name",
+      "eng": "Young Flamewing",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_young_flamewing_desc",
+      "eng": "Flying",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_ash_mephytt_name",
+      "eng": "Ash Mephyt",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_ash_mephytt_desc",
+      "eng": "Opening Gambit: Summon two exact copies of this nearby.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_brightmoss_golem_name",
+      "eng": "Brightmoss Golem",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_dagger_kiri_name",
+      "eng": "Dagger Kiri",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_dagger_kiri_desc",
+      "eng": "Celerity",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_dancing_blades_name",
+      "eng": "Dancing Blades",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_dancing_blades_desc",
+      "eng": "Opening Gambit: Deal 3 damage to the minion in front of this.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_fireblazer_name",
+      "eng": "Cinderbeast",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_fireblazer_desc",
+      "eng": "At the start of each turn, deal 1 damage to both Generals.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_firestarter_name",
+      "eng": "Flame Acolyte",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_firestarter_desc",
+      "eng": "When you play a spell, summon a Spellspark on a random nearby space.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_spellspark_name",
+      "eng": "Spellspark",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_spellspark_desc",
+      "eng": "Rush",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_hollow_grovekeeper_name",
+      "eng": "Hollow Grovekeeper",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_hollow_grovekeeper_desc",
+      "eng": "Frenzy\nOpening Gambit: Give nearby allied minions Provoke.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_keeper_of_the_vale_name",
+      "eng": "Keeper of the Vale",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_keeper_of_the_vale_desc",
+      "eng": "Opening Gambit: Put a 1 cost 1/1 copy of another allied minion into your action bar.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_lux_ignis_name",
+      "eng": "Lux Ignis",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_lux_ignis_desc",
+      "eng": "Ranged\nAt the end of your turn, heal nearby allies for 2.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_rogue_warden_name",
+      "eng": "Rogue Warden",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_rogue_warden_desc",
+      "eng": "Ranged\nThis has +1/+0 for each nearby ally.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_sworn_defender_name",
+      "eng": "Sworn Defender",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_sworn_defender_desc",
+      "eng": "Provoke\nOpening Gambit: This gains +0/+1 for each nearby enemy.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_the_high_hand_name",
+      "eng": "The High Hand",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_the_high_hand_desc",
+      "eng": "Opening Gambit: This gains +1/+1 for each card in your opponent's action bar.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_twilight_sorcerer_name",
+      "eng": "Twilight Sorcerer",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_twilight_sorcerer_desc",
+      "eng": "Opening Gambit: Put a copy of a random spell you have played into your action bar.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_archon_spellbinder_name",
+      "eng": "Archon Spellbinder",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_archon_spellbinder_desc",
+      "eng": "Your opponent's spells cost 1 more to play.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_bonereaper_name",
+      "eng": "Bonereaper",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_bonereaper_desc",
+      "eng": "Provoke\nAt the end of your turn, deal 2 damage to nearby enemy minions.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_deathblighter_name",
+      "eng": "Deathblighter",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_deathblighter_desc",
+      "eng": "Prevent all healing.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_eclipse_name",
+      "eng": "Eclipse",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_eclipse_desc",
+      "eng": "When this takes damage, deal that much damage to the enemy General.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_first_sword_of_akrane_name",
+      "eng": "First Sword of Akrane",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_first_sword_of_akrane_desc",
+      "eng": "Other allies have +1/+0.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_jax_truesight_name",
+      "eng": "Jax Truesight",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_jax_truesight_desc",
+      "eng": "Ranged\nOpening Gambit: Summon a Mini-Jax on each corner space of the battlefield.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_serpenti_name",
+      "eng": "Serpenti",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_serpenti_desc",
+      "eng": "Frenzy",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_storm_aratha_name",
+      "eng": "Storm Aratha",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_storm_aratha_desc",
+      "eng": "Flying\nWhen this attacks an enemy, deal 3 damage to enemies nearby that enemy.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_stormmetal_golem_name",
+      "eng": "Stormmetal Golem",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_zenrui_name",
+      "eng": "Zen'Rui, the Blightspawned",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_zenrui_desc",
+      "eng": "Opening Gambit: Take control of a nearby enemy minion with 2 or less Attack.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_astral_crusader_name",
+      "eng": "Astral Crusader",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_astral_crusader_desc",
+      "eng": "At the start of each turn, switch the positions of both Generals.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_dark_nemesis_name",
+      "eng": "Dark Nemesis",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_dark_nemesis_desc",
+      "eng": "At the start of your turn, this gains +4/+0. Deal 4 damage to the enemy General.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_dragonbone_golem_name",
+      "eng": "Dragonbone Golem",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_grailmaster_name",
+      "eng": "Grailmaster",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_grailmaster_desc",
+      "eng": "When you summon a minion, this gains a new random keyword from Celerity, Flying, Frenzy, Provoke, and Ranged.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_paddo_name",
+      "eng": "Paddo",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_paddo_desc",
+      "eng": "Airdrop\nOpening Gambit: Teleport nearby units to random spaces.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_pandora_name",
+      "eng": "Pandora",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_pandora_desc",
+      "eng": "At the end of your turn, summon a random Spirit on a random nearby space.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_red_synja_name",
+      "eng": "Red Synja",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_red_synja_desc",
+      "eng": "When your General takes damage, this deals 7 damage to a random nearby enemy minion.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_rook_name",
+      "eng": "Rook",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_rook_desc",
+      "eng": "Opening Gambit: This moves forward until a unit is in front of it. Deal damage equal to the number of spaces moved to that unit.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_war_talon_name",
+      "eng": "War Talon",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_war_talon_desc",
+      "eng": "When this attacks an enemy minion, deal excess damage dealt to the enemy General.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_whistling_blade_name",
+      "eng": "Whistling Blade",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_whistling_blade_desc",
+      "eng": "Veil",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_zurael_the_lifegiver_name",
+      "eng": "Zurael, the Lifegiver",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_zurael_the_lifegiver_desc",
+      "eng": "Airdrop, Flying\nOpening Gambit: Summon other allied minions that were destroyed since your last turn on random spaces.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_khymera_name",
+      "eng": "Khymera",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_khymera_desc",
+      "eng": "When this takes damage, summon a random token minion on a random nearby space.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_zukong_name",
+      "eng": "Zukong",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_zukong_desc",
+      "eng": "Opening Gambit: Give all enemies \"This moves and attacks automatically.\" until your next turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_dioltas_tombstone_name",
+      "eng": "Tombstone",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    }
+  ]
+}

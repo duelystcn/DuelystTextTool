@@ -1,4 +1,6 @@
-﻿using DuelystText.CoreData;
+﻿using DuelystText.Common.Util;
+using DuelystText.CoreData;
+using DuelystText.CoreData.Export;
 using DuelystText.CoreData.Node;
 using System;
 using System.Collections.Generic;
@@ -15,10 +17,7 @@ namespace DuelystText
 {
     public partial class NodeForm : Form
     {
-        [DllImport("user32")]
-        public static extern int SetParent(int children, int parent);
-
-
+     
 
         private DataTable versionDataTable;
 
@@ -41,12 +40,22 @@ namespace DuelystText
             NodeGridView.AutoGenerateColumns = false;
             versionDataTable = new DataTable();
             versionDataTable.Columns.Add("nodeCode", typeof(string));
-            versionDataTable.Columns.Add("textNum", typeof(string));
+            versionDataTable.Columns.Add("textNum", typeof(int));
+            versionDataTable.Columns.Add("needTransNum", typeof(int));
+            versionDataTable.Columns.Add("diffNum", typeof(int));
+            versionDataTable.Columns.Add("processedNum", typeof(int));
+            versionDataTable.Columns.Add("markNum", typeof(int));
             versionDataTable.Columns.Add("operate", typeof(string));
+            versionDataTable.Columns.Add("directory", typeof(string));
 
             NodeGridView.Columns[0].DataPropertyName = "nodeCode";
             NodeGridView.Columns[1].DataPropertyName = "textNum";
-            NodeGridView.Columns[2].DataPropertyName = "operate";
+            NodeGridView.Columns[2].DataPropertyName = "needTransNum";
+            NodeGridView.Columns[3].DataPropertyName = "diffNum";
+            NodeGridView.Columns[4].DataPropertyName = "processedNum";
+            NodeGridView.Columns[5].DataPropertyName = "markNum";
+            NodeGridView.Columns[6].DataPropertyName = "operate";
+            NodeGridView.Columns[7].DataPropertyName = "directory";
 
             NodeGridView.DataSource = versionDataTable;
             LoadDataFromCurrentNodeItem();
@@ -60,9 +69,14 @@ namespace DuelystText
             {
                 versionDataTable.Rows.Add(
                     nodeItem.nodeCode,
-                    nodeItem.translateItemList.Count,
-                    (nodeItem.translateItemList.Count == 0 ? "展开" : "翻译")
-                ); ;
+                    nodeItem.GeSumAllState(),
+                    nodeItem.GeSumByState(TranslateState.UnStart),
+                    nodeItem.GeSumByState(TranslateState.Difference),
+                    nodeItem.GeSumByState(TranslateState.Processed),
+                    nodeItem.GeSumByState(TranslateState.Mark),
+                    (nodeItem.GeSumAllState() == 0 ? "展开" : "翻译"),
+                    "打开"
+                );
 
             }
             //提交修改
@@ -87,19 +101,21 @@ namespace DuelystText
         {
             if (NodeGridView.Columns[e.ColumnIndex] is DataGridViewButtonColumn && e.RowIndex > -1)
             {
-                NodeItem currentNodeItem = ToolDataManger.Instance.currentNodeItem;
                 NodeItem nodeItem = ToolDataManger.Instance.currentNodeItem.GetChildNodeByCode((string)versionDataTable.Rows[e.RowIndex][0]);
                 DataGridViewButtonCell btnCell = NodeGridView.CurrentCell as DataGridViewButtonCell;
                 if (btnCell != null)
                 {
-                    if (btnCell.ColumnIndex == 2)
+                    if (btnCell.ColumnIndex == 6)
                     {
-                        if(nodeItem.translateItemList.Count > 0) 
+                        if(nodeItem.translateSaveItemList.Count > 0) 
                         {
                             ShowTranslateButtonClick(nodeItem);
                         }
                     }
-
+                    else
+                    {
+                        FileReadUtil.OpenFolder(ToolDataManger.Instance.GetTargetNodePath(nodeItem));
+                    }
                 }
             }
         }
@@ -109,11 +125,6 @@ namespace DuelystText
             ToolDataManger.Instance.currentNodeItem = nodeItem;
             TranslateForm translateForm = new TranslateForm();
             translateForm.Show();
-        }
-
-        private void NodeForm_Leave(object sender, EventArgs e)
-        {
-
         }
     }
 }

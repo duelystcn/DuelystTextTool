@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.0",
+  "nodeCode": "cards",
+  "path": "cards",
+  "orderStart": 2100,
+  "orderEnd": 2199,
+  "translateItemList": [
+    {
+      "code": "neutral_archon_spellbinder_desc",
+      "eng": "Your opponent's non-Bloodbound spells cost 1 more to cast.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_bonereaper_name",
+      "eng": "Bonereaper",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_bonereaper_desc",
+      "eng": "Provoke\nAt the end of your turn, deal 2 damage to each enemy minion around this one.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_deathblighter_name",
+      "eng": "Deathblighter",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_deathblighter_desc",
+      "eng": "Opening Gambit: Deal 3 damage to all enemy minions around it.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_diamond_golem_name",
+      "eng": "Diamond Golem",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_dust_wailer_name",
+      "eng": "Dust Wailer",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_dust_wailer_desc",
+      "eng": "Flying\nOpening Gambit: Deal 3 damage to all enemies in front of this minion.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_eclipse_name",
+      "eng": "Eclipse",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_eclipse_desc",
+      "eng": "Whenever this minion takes damage, it deals that much damage to the enemy General.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_first_sword_of_akrane_name",
+      "eng": "First Sword of Akrane",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_first_sword_of_akrane_desc",
+      "eng": "Your other minions have +1 Attack.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_grove_lion_name",
+      "eng": "Grove Lion",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_grove_lion_desc",
+      "eng": "While this minion is on the battlefield, your General has Forcefield.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_jax_truesight_name",
+      "eng": "Jax Truesight",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_jax_truesight_desc",
+      "eng": "Ranged\nOpening Gambit: Summon a 1/1 Ranged Mini-Jax in each corner.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_quartermaster_gauj_name",
+      "eng": "Quartermaster Gauj",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_quartermaster_gauj_desc",
+      "eng": "Takes no damage from minions or Generals.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_ruby_rifter_name",
+      "eng": "Ruby Rifter",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_ruby_rifter_desc",
+      "eng": "Whenever your General takes damage, draw a card and give this minion +2 Attack.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_serpenti_name",
+      "eng": "Serpenti",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_serpenti_desc",
+      "eng": "Frenzy",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_storm_aratha_name",
+      "eng": "Storm Aratha",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_storm_aratha_desc",
+      "eng": "Flying",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_stormmetal_golem_name",
+      "eng": "Stormmetal Golem",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_the_scientist_name",
+      "eng": "The Scientist",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_the_scientist_desc",
+      "eng": "Whenever you play a spell that targets a friendly minion, draw a card.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_zenrui_name",
+      "eng": "Zen'Rui, the Blightspawned",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_zenrui_desc",
+      "eng": "Opening Gambit: Take control of a nearby enemy minion with 2 or less Attack.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_astral_crusader_name",
+      "eng": "Astral Crusader",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_astral_crusader_desc",
+      "eng": "Whenever you replace this card, it costs 3 less and gains +3/+3.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_dark_nemesis_name",
+      "eng": "Dark Nemesis",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_dark_nemesis_desc",
+      "eng": "At the start of your turn, deal 4 damage to the enemy General and this minion gains +4 Attack.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_dragonbone_golem_name",
+      "eng": "Drybone Golem",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_exun_name",
+      "eng": "E'Xun",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_exun_desc",
+      "eng": "Forcefield\nWhenever this minion attacks or is attacked, draw a card.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_grailmaster_name",
+      "eng": "Grailmaster",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_grailmaster_desc",
+      "eng": "Whenever you summon a minion, this minion gains a random keyword ability.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_paddo_name",
+      "eng": "Paddo",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_paddo_desc",
+      "eng": "Airdrop\nOpening Gambit: Push ALL nearby minions and Generals to random spaces.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_pandora_name",
+      "eng": "Pandora",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_pandora_desc",
+      "eng": "At the end of your turn, summon a 3/3 Spirit Wolf with a random ability into a nearby space.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_red_synja_name",
+      "eng": "Red Synja",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_red_synja_desc",
+      "eng": "Whenever your General takes damage, deal 7 damage to a random nearby enemy minion.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_rook_name",
+      "eng": "Rook",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_rook_desc",
+      "eng": "At the end of your turn, this minion gains a random Faction ability.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_war_talon_name",
+      "eng": "War Talon",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_war_talon_desc",
+      "eng": "Frenzy\nProvoke",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_bloodletter_name",
+      "eng": "Facestriker",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_bloodletter_desc",
+      "eng": "Deals double damage to Generals.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_whistling_blade_name",
+      "eng": "Whistling Blade",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_whistling_blade_desc",
+      "eng": "Provoke",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_zurael_the_lifegiver_name",
+      "eng": "Zurael, the Lifegiver",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_zurael_the_lifegiver_desc",
+      "eng": "Opening Gambit: Summon all non-token friendly minions destroyed on your opponent's last turn on a random space.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_khymera_name",
+      "eng": "Khymera",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_khymera_desc",
+      "eng": "Whenever this minion takes damage, summon a random token minion nearby.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_blood_taura_name",
+      "eng": "Blood Taura",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_blood_taura_desc",
+      "eng": "Provoke\nThis minion's cost is your General's health.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_dioltas_tombstone_name",
+      "eng": "Tombstone",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_dioltas_tombstone_desc",
+      "eng": "Provoke",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_minijax_name",
+      "eng": "Mini-Jax",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_minijax_desc",
+      "eng": "Ranged",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_pandora_frenzy_name",
+      "eng": "Rage",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_pandora_frenzy_desc",
+      "eng": "Frenzy",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_pandora_ranged_name",
+      "eng": "Envy",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_pandora_ranged_desc",
+      "eng": "Ranged",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_pandora_flying_name",
+      "eng": "Serenity",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_pandora_flying_desc",
+      "eng": "Flying",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_pandora_celerity_name",
+      "eng": "Wrath",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_pandora_celerity_desc",
+      "eng": "Celerity",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_pandora_provoke_name",
+      "eng": "Fear",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_pandora_provoke_desc",
+      "eng": "Provoke",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_mechaz0r_name",
+      "eng": "MECHAZ0R!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_mechaz0r_desc",
+      "eng": "Airdrop, Forcefield, Frenzy, Ranged",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_golden_justicar_name",
+      "eng": "Golden Justicar",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_golden_justicar_desc",
+      "eng": "Provoke\nYour other minions with Provoke can move two additional spaces.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_golden_mantella_name",
+      "eng": "Golden Mantella",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_golden_mantella_desc",
+      "eng": "Opening Gambit: Put a random Battle Pet into your action bar.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_yun_name",
+      "eng": "Yun",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_koi_name",
+      "eng": "Koi",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_koi_desc",
+      "eng": "This minion takes no damage from Generals.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_gnasher_name",
+      "eng": "Gnasher",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_gnasher_desc",
+      "eng": "Dying Wish: This minion deals 3 damage to all enemies around it.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_silverbeak_name",
+      "eng": "Silverbeak",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_amu_name",
+      "eng": "Amu",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_ion_name",
+      "eng": "Ion",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_ion_desc",
+      "eng": "Ranged\nDeals double damage to Generals.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_beastmaster_name",
+      "eng": "Beastbound Savage",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_beastmaster_desc",
+      "eng": "Frenzy\nCelerity",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_sol_name",
+      "eng": "Sol",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_sol_desc",
+      "eng": "Opening Gambit: Activate a friendly Battle Pet.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_soboro_name",
+      "eng": "Soboro",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_soboro_desc",
+      "eng": "Whenever this damages a neutral minion, destroy that minion.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_z0r_name",
+      "eng": "Z0r",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_z0r_desc",
+      "eng": "Dying Wish: Put a random MECH minion into your action bar.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_calculator_name",
+      "eng": "Calculator",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_calculator_desc",
+      "eng": "Opening Gambit: Gain the combined Attack and Health of all Battle Pets in your action bar.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_zukong_name",
+      "eng": "Zukong",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_zukong_desc",
+      "eng": "You control your Battle Pets.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_hydrax_name",
+      "eng": "Hydrax",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    }
+  ]
+}

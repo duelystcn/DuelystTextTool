@@ -1,0 +1,387 @@
+{
+  "versionCode": "20.1.0",
+  "nodeCode": "cards",
+  "path": "cards",
+  "orderStart": 2300,
+  "orderEnd": 2353,
+  "translateItemList": [
+    {
+      "code": "neutral_moro_name",
+      "eng": "Moro",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_moro_desc",
+      "eng": "As long as there is a Spriggin, this minion has +3 Attack.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_saberspine_cub_name",
+      "eng": "Saberspine Cub",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_saberspine_cub_desc",
+      "eng": "Rush",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_replicant_name",
+      "eng": "Replicant",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_replicant_desc",
+      "eng": "Opening Gambit: Draw another Replicant from your deck.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_metaltooth_name",
+      "eng": "Metaltooth",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_metaltooth_desc",
+      "eng": "If you have another Mech minion, this minion has Rush.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_recombobulus_name",
+      "eng": "Recombobulus",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_recombobulus_desc",
+      "eng": "Opening Gambit: Teleport ANY minion one space randomly.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_rescuerx_name",
+      "eng": "Rescue-RX",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_rescuerx_desc",
+      "eng": "Build: (2).\nWhen this minion is built, restore 5 Health to your General.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_redsteel_minos_name",
+      "eng": "Redsteel Minos",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_redsteel_minos_desc",
+      "eng": "Blood Surge: Gains +2/+2.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_timekeeper_name",
+      "eng": "Timekeeper",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_timekeeper_desc",
+      "eng": "Opening Gambit: Your buildings progress by 1 turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_capricious_marauder_name",
+      "eng": "Capricious Marauder",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_capricious_marauder_desc",
+      "eng": "Whenever a friendly minion is destroyed, your opponent takes control of this minion.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_impervious_giago_name",
+      "eng": "Impervious Giago",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_impervious_giago_desc",
+      "eng": "Provoke\nWhenever this minion is attacked, it gains +2 Attack.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_lost_artificer_name",
+      "eng": "Lost Artificer",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_lost_artificer_desc",
+      "eng": "The first artifact you equip each turn costs 1 less.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_architectt2k5_name",
+      "eng": "Architect-T2K5",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_architectt2k5_desc",
+      "eng": "Build: (1).\nWhenever this or another friendly minion is built, draw a card.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_bloodbound_mentor_name",
+      "eng": "Bloodbound Mentor",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_bloodbound_mentor_desc",
+      "eng": "Blood Surge: Put a copy of your Bloodbound Spell into your action bar.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_deceptibot_name",
+      "eng": "DECEPTIB0T",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_deceptibot_desc",
+      "eng": "Whenever this minion destroys an enemy, summon a different Mech minion from your deck nearby.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_qorrhlmaa_name",
+      "eng": "Q'orrhlma'a",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_qorrhlmaa_desc",
+      "eng": "Opening Gambit: Remove all minions that cost 2 or less from each player's deck.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_silver_name",
+      "eng": "S.I.L.V.E.R.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_silver_desc",
+      "eng": "Whenever you summon this or another Mech, friendly Mechs gain all keywords of other friendly Mechs.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_project_omega_name",
+      "eng": "Project Ω",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_project_omega_desc",
+      "eng": "This minion gains +2/+2 for each other Mech minion you summoned this game.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_reliquarian_name",
+      "eng": "Reliquarian",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_reliquarian_desc",
+      "eng": "Opening Gambit: Forge a friendly minion into a Faction artifact with equal Attack.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_empty_relic_name",
+      "eng": "Empty Relic",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_shining_relic_name",
+      "eng": "Shining Relic",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_blazing_relic_name",
+      "eng": "Blazing Relic",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_void_relic_name",
+      "eng": "Void Relic",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_barren_relic_name",
+      "eng": "Barren Relic",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_primal_relic_name",
+      "eng": "Primal Relic",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_howling_relic_name",
+      "eng": "Howling Relic",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_forge_artifact_name",
+      "eng": "Forge Artifact",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_forge_artifact_desc",
+      "eng": "Forge a friendly minion into an artifact.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_gauntletspecial_fortuneshaper_name",
+      "eng": "Fortuneshaper",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_gauntletspecial_fortuneshaper_desc",
+      "eng": "Your next Gauntlet card choices will be Epic cards.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_gauntletspecial_futureshaker_name",
+      "eng": "Futureshaker",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_gauntletspecial_futureshaker_desc",
+      "eng": "Your next Gauntlet card choices will be Legendary Neutral cards.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_gauntletspecial_fatesealer_name",
+      "eng": "Fatesealer",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_gauntletspecial_fatesealer_desc",
+      "eng": "Your next Gauntlet card choices will be Legendary Faction cards.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "frostfire_imp_name",
+      "eng": "Frostfire Imp",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "frostfire_snowchser_name",
+      "eng": "Frostfire Snowchaser",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "frostfire_tiger_name",
+      "eng": "Frostfire Tiger",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    }
+  ]
+}

@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.0",
+  "nodeCode": "modifiers",
+  "path": "modifiers",
+  "orderStart": 0,
+  "orderEnd": 99,
+  "translateItemList": [
+    {
+      "code": "plus_attack_key",
+      "eng": "+{{amount}} Attack.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "minus_attack_key",
+      "eng": "-{{amount}} Attack.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "plus_health_key",
+      "eng": "+{{amount}} Health.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "minus_health_key",
+      "eng": "-{{amount}} Health.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "plus_stat",
+      "eng": "+{{amount}}",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "minus_stat",
+      "eng": "-{{amount}}",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "stat_divider",
+      "eng": "/",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "mana_shift_name",
+      "eng": "Mana Shift",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "mana_shift_plus",
+      "eng": "Mana cost increased by {{amount}}",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "mana_shift_minus",
+      "eng": "Mana cost decreased by {{amount}}",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "mana_shift_set",
+      "eng": "Mana cost changed to {{amount}}",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "egg_text",
+      "eng": "Will hatch into {{unit_name}}",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "temp_transformed",
+      "eng": "{{unit_name}} has temporarily transformed",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "flying_name",
+      "eng": "Flying",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "flying_def",
+      "eng": "Can move anywhere on the battlefield.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "blast_name",
+      "eng": "Blast",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "blast_def",
+      "eng": "Can attack multiple enemies in a line regardless of distance.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "blood_surge_name",
+      "eng": "Blood Surge",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "blood_surge_def",
+      "eng": "Triggers an effect after you activate your Bloodbound Spell.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "bond_name",
+      "eng": "Bond",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "bond_def",
+      "eng": "Triggers an effect when summoned if you have another minion from the same tribe.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "celerity_name",
+      "eng": "Celerity",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "celerity_def",
+      "eng": "Can activate twice per turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "deathwatch_name",
+      "eng": "Deathwatch",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "deathwatch_def",
+      "eng": "Triggers effect when a unit is destroyed.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "destructible_name",
+      "eng": "Destructible",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "destructible_def",
+      "eng": "Artifacts have 3 Durability. When your General takes damage, it loses 1 Durability. When an artifact has no durability, it is destroyed.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "dying_wish_name",
+      "eng": "Dying Wish",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "dying_wish_def",
+      "eng": "Triggers an effect when destroyed.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "ephemeral_name",
+      "eng": "Ephemeral",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "ephemeral_def",
+      "eng": "Disappears at the end of your turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "exhuming_sand_name",
+      "eng": "Exhuming Sand",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "exhuming_sand_def",
+      "eng": "Summons a 2/2 Iron Dervish when its owner summons a minion from their action bar",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "forcefield_name",
+      "eng": "Forcefield",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "forcefield_def",
+      "eng": "Cancel the first damage taken each turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "frenzy_name",
+      "eng": "Frenzy",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "frenzy_def",
+      "eng": "When attacking a nearby enemy, deals its Attack damage to other nearby enemies.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "grow_name",
+      "eng": "Grow",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "grow_def",
+      "eng": "Gains Attack and Health at the start of your turn",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "hallowed_ground_name",
+      "eng": "Hallowed Ground",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "hallowed_ground_def",
+      "eng": "Restores 1 Health to friendly minions and Generals standing on it at the end of owner's turn",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "infiltrate_name",
+      "eng": "Infiltrate",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "infiltrate_def",
+      "eng": "Has an additional effect while on the enemy side of the battlefield.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "mana_spring_name",
+      "eng": "Mana",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "bonus_mana_name",
+      "eng": "Bonus Mana",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "bonus_mana_def",
+      "eng": "Gain +1 Mana this turn",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "mechaz0r_name",
+      "eng": "MECHAZ0R Progress",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "mechaz0r_def",
+      "eng": "When fully assembled, MECHAZ0R will arrive in your action bar!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "opening_gambit_name",
+      "eng": "Opening Gambit",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "opening_gambit_def",
+      "eng": "Triggers an effect when played.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "primal_flourish_name",
+      "eng": "Primal Flourish",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "primal_flourish_def",
+      "eng": "Friendly minions standing on it have \"Grow: +2/+2\"",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "ranged_name",
+      "eng": "Ranged",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "ranged_def",
+      "eng": "Can attack from anywhere on the battlefield.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "rebirth_name",
+      "eng": "Rebirth",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "rebirth_def",
+      "eng": "When this dies, it leaves behind a 0/1 Egg that hatches into the same minion before your next turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_rebirth_name",
+      "eng": "Rebirth",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "d2_rebirth_def",
+      "eng": "When destroyed, summons an Egg on this space that hatches into a copy of it at the end of your next turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "sentinel_name",
+      "eng": "Sentinel",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "sentinel_def",
+      "eng": "Summoned as a 3/3 with no abilities. Will transform into its true form if a specific event occurs on opponent's turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "shadow_creep_name",
+      "eng": "Shadow Creep",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "shadow_creep_def",
+      "eng": "Deals damage to enemy minions and Generals standing on it equal to the number of allied Shadow Creep at the end of owner's turn",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "structure_name",
+      "eng": "Structure",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "structure_def",
+      "eng": "This minion cannot move or attack.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "stunned_name",
+      "eng": "Stunned",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "stunned_def",
+      "eng": "Stunned minions lose their next action.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "summon_dervish_name",
+      "eng": "Summon Dervish",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "summon_dervish_def",
+      "eng": "At the start of your turn, summon a 2/2 Wind Dervish with Rush nearby. It disappears at the end of your turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "gateway_name",
+      "eng": "Gateway",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "gateway_def",
+      "eng": "At the start of your turn, summon a Wind Dervish with Rush nearby. It disappears at the end of your turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "battle_pet_name",
+      "eng": "Battle Pet",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "battle_pet_def",
+      "eng": "Activates at the start of your turn and moves to attack the nearest enemy.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "battle_pet_error",
+      "eng": "Battle Pets have a mind of their own!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "antimagic_field_name",
+      "eng": "Anti-Magic Field",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "antimagic_field_def",
+      "eng": "Cannot be targeted or damaged by spells.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "wall_name",
+      "eng": "Wall",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "wall_def",
+      "eng": "This minion cannot move, and disappears if dispelled.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "zeal_name",
+      "eng": "Zeal",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "zeal_def",
+      "eng": "Gains a bonus effect when nearby your General.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "backstab_name",
+      "eng": "Backstab",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "backstab_def",
+      "eng": "When attacking from behind, this deals extra damage and cannot be counterattacked.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "invulnerable_name",
+      "eng": "Invulnerable",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "invulnerable_def",
+      "eng": "Cannot die or be affected by ANYTHING",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "build_name",
+      "eng": "Build",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "build_def",
+      "eng": "Summon as a 0/10 Structure that transforms into its true form after a number of turns.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "rush_name",
+      "eng": "Rush",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "rush_def",
+      "eng": "Can move and attack immediately.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "airdrop_name",
+      "eng": "Airdrop",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "airdrop_def",
+      "eng": "Summon this minion anywhere on the battlefield.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "provoke_name",
+      "eng": "Provoke",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "provoke_def",
+      "eng": "Stops nearby enemy minions and Generals from moving. They must attack this first.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "provoked_name",
+      "eng": "Provoked",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "provoked_desc",
+      "eng": "Provoked - cannot move and must attack Provoker first",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "provoked_move_error",
+      "eng": "Provoked - cannot move.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "provoked_attack_error",
+      "eng": "Provoked - must first attack the Provoker.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "banding_heal_desc",
+      "eng": "At the end of your turn, fully heal this minion",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "banding_heal_applied_name",
+      "eng": "Zeal: Lion's Recovery",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "banded_heal_applied_name",
+      "eng": "Zealed: Lion's Recovery",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "banded_heal_name",
+      "eng": "Zealed: Lion's Recovery",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "banded_heal_desc",
+      "eng": "At the end of your turn, fully heal this minion",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    }
+  ]
+}

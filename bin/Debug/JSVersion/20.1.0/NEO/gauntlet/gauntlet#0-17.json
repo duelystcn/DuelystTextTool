@@ -1,0 +1,135 @@
+{
+  "versionCode": "20.1.0",
+  "nodeCode": "gauntlet",
+  "path": "gauntlet",
+  "orderStart": 0,
+  "orderEnd": 17,
+  "translateItemList": [
+    {
+      "code": "gauntlet_title",
+      "eng": "The Gauntlet",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "gauntlet_instructions",
+      "eng": "Test your skills in the Gauntlet. Draft a deck of 30 cards and face off against other players. Each win unlocks better rewards. Battle until you lose 3 times.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "gauntlet_start_instructions",
+      "eng": "Start a Gauntlet run for {{gold_price}} Gold or purchase a ticket for {{hard_currency_price}}.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "ticket_inventory_label",
+      "eng": "you have {{count}} ticket",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "ticket_inventory_label_plural",
+      "eng": "you have {{count}} tickets",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "start_button_label",
+      "eng": "Start",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "start_error_message_insufficient_gold",
+      "eng": "You do not have sufficient gold to start the Gauntlet run.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "start_error_message_generic",
+      "eng": "Oops... there was a problem starting your Gauntlet run. Please try again.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "select_faction_label",
+      "eng": "Select your Faction",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "select_general_label",
+      "eng": "Select your General",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "select_card_label",
+      "eng": "Select a Card",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "resign_run_button_label",
+      "eng": "Resign",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "resign_confirmation_message",
+      "eng": "Are you sure you want to resign?",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "claim_rewards_win_count_label",
+      "eng": "{{count}} Win",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "claim_rewards_win_count_label_plural",
+      "eng": "{{count}} Wins",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "claim_rewards_button_label",
+      "eng": "Claim Rewards",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "win_loss_label",
+      "eng": "WINS: {{win_count}}   LOSSES: {{loss_count}}",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "no_available_gauntlet_decks",
+      "eng": "You have no recent gauntlet decks.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "versionCode": "20.1.0",
+  "nodeCode": "registration",
+  "path": "registration",
+  "orderStart": 0,
+  "orderEnd": 20,
+  "translateItemList": [
+    {
+      "code": "registration_title",
+      "eng": "Create Account",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "registration_email_label",
+      "eng": "Email",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "registration_username_label",
+      "eng": "Username",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "registration_password_label",
+      "eng": "Password",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "registration_password_confirmation_label",
+      "eng": "Confirm Password",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "registration_invite_code_label",
+      "eng": "Invite Code",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "registration_show_referral_button_label",
+      "eng": "did a friend refer you?",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "registration_referral_field_label",
+      "eng": "Friend Code",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "registration_referral_field_placeholder",
+      "eng": "friend username",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "registration_submit_button_label",
+      "eng": "Submit",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "registration_success_message",
+      "eng": "One moment while we log you into your new account...",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "registration_validation_invalid_email",
+      "eng": "Invalid Email",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "registration_validation_email_exists",
+      "eng": "Email already exists",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "registration_validation_username_instructions",
+      "eng": "3 to 18 alphanumeric characters",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "registration_validation_username_exists",
+      "eng": "Username already exists",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "registration_validation_password_instructions",
+      "eng": "Minimum 8 characters",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "registration_validation_passwords_dont_match",
+      "eng": "Passwords must match",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "registration_validation_invite_code_invalid",
+      "eng": "Invalid invite code",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "already_have_an_account",
+      "eng": "already have an account?",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "verify_email_notification_message",
+      "eng": "Please verify your account email: ",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "verify_email_notification_resend_button_label",
+      "eng": "Resend Verification Email",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    }
+  ]
+}

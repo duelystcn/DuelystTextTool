@@ -52,5 +52,18 @@ namespace DuelystText.CoreData
                 versionDic.Add(versionItem.versionCode, versionItem);
             }
         }
+
+        public string GetTargetNodePath(NodeItem targetNodeItem) 
+        {
+            string direThisPath = targetNodeItem.path.Replace(".", "\\");
+            string intactPath = Application.StartupPath + "\\JSVersion\\" + currentVersionItem.versionCode + "\\" + GlobalVariable.originNodeCode + "\\" + direThisPath + "\\";
+            Console.WriteLine("intactPath:" + intactPath);
+            return intactPath;
+        }
+
+        public bool IsAdmin() 
+        {
+            return GlobalVariable.isAdmin;
+        }
     }
 }

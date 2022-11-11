@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.0",
+  "nodeCode": "cards",
+  "path": "cards",
+  "orderStart": 1500,
+  "orderEnd": 1599,
+  "translateItemList": [
+    {
+      "code": "faction_5_spell_earth_sphere_name",
+      "eng": "Earth Sphere",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_earth_sphere_description",
+      "eng": "Restore 8 Health to your General.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_bounded_lifeforce_name",
+      "eng": "Bounded Lifeforce",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_bounded_lifeforce_description",
+      "eng": "Your General becomes 10/10.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_amplification_name",
+      "eng": "Amplification",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_amplification_description",
+      "eng": "Give a friendly damaged minion +2 Attack and +4 Health.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_metamorphosis_name",
+      "eng": "Metamorphosis",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_metamorphosis_description",
+      "eng": "Transform all enemy minions into 1/1 Magma with no abilities until the end of your opponent's turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_plasma_storm_name",
+      "eng": "Plasma Storm",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_plasma_storm_description",
+      "eng": "Destroy ALL minions with 3 or less Attack.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_chrysalis_burst_name",
+      "eng": "Chrysalis Burst",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_chrysalis_burst_description",
+      "eng": "Summon a random Egg in 4 random spaces.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_natural_selection_name",
+      "eng": "Natural Selection",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_natural_selection_description",
+      "eng": "Destroy ANY minion with the lowest Attack or tied for the lowest Attack.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_mind_steal_name",
+      "eng": "Mind Steal",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_mind_steal_description",
+      "eng": "Steal a random minion from your opponent's deck and summon it.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_egg_morph_name",
+      "eng": "Egg Morph",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_egg_morph_description",
+      "eng": "Turn a non-Egg minion into an Egg, or hatch an Egg.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_kinetic_equilibrium_name",
+      "eng": "Kinetic Equilibrium",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_kinetic_equilibrium_description",
+      "eng": "Deal 2 damage to ALL minions in a 3x3 area. Friendly minions in the area also gain +2 Attack.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_razor_skin_name",
+      "eng": "Razor Skin",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_razor_skin_description",
+      "eng": "Give all friendly minions +1 Attack. Put a random Battle Pet into your action bar.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_lava_lance_name",
+      "eng": "Lava Lance",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_lava_lance_description",
+      "eng": "Deal 2 damage to a minion. If you have an Egg, deal 4 damage instead.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_natures_confluence_name",
+      "eng": "Nature's Confluence",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_natures_confluence_description",
+      "eng": "Summon four copies of a random Battle Pet in a 2x2 area.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_thumping_wave_name",
+      "eng": "Thumping Wave",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_thumping_wave_description",
+      "eng": "Give a minion +5 Attack. At end of turn, transform it into a 3/3 Kin.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_flaming_stampede_name",
+      "eng": "Flaming Stampede",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_flaming_stampede_description",
+      "eng": "Deal 8 damage to ALL non-Egg minions and Generals.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_entropic_gaze_name",
+      "eng": "Entropic Gaze",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_entropic_gaze_desc",
+      "eng": "Deal 2 damage to the enemy General. Both players draw a card.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_tectonic_spikes_name",
+      "eng": "Tectonic Spikes",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_tectonic_spikes_desc",
+      "eng": "Both players draw 3 cards. Deal 3 damage to both Generals.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_valknus_seal_name",
+      "eng": "Valknu's Seal",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_valknus_seal_desc",
+      "eng": "Summon an Egg that hatches into a copy of your General.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_cascading_rebirth_name",
+      "eng": "Cascading Rebirth",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_cascading_rebirth_desc",
+      "eng": "Destroy a friendly minion to summon a random Magmar minion that costs 1 more.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_vaaths_brutality_name",
+      "eng": "Vaath's Brutality",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_vaaths_brutality_desc",
+      "eng": "Stun an enemy minion. Give your General +1 Attack.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_blood_rage_name",
+      "eng": "Blood Rage",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_blood_rage_desc",
+      "eng": "Give a friendly minion +1/+1 for each time damage was dealt this turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_primal_ballast_name",
+      "eng": "Primal Ballast",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_primal_ballast_desc",
+      "eng": "Dispel a space. If there is a minion on that space, give it +2/+2.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_endure_the_beastlands_name",
+      "eng": "Endure the Beastlands",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_endure_the_beastlands_desc",
+      "eng": "Turn a 2x2 area into Primal Flourish.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_verdant_fulmination_name",
+      "eng": "Verdant Fulmination",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_verdant_fulmination_desc",
+      "eng": "Your minions on friendly Primal Flourish grow. Turn your other minions' spaces into Primal Flourish.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_evolutionary_apex_name",
+      "eng": "Evolutionary Apex",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_evolutionary_apex_desc",
+      "eng": "BOTH players put all minions in their action bars onto the battlefield nearby their General.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_propogate_rage_name",
+      "eng": "Propagate Rage",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_propogate_rage_desc",
+      "eng": "Summon a Ripper Egg nearby your General.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_embryotic_insight_name",
+      "eng": "Embryotic Insight",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_embryotic_insight_desc",
+      "eng": "If you have an Egg, draw 2 cards.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_effulgent_infusion_name",
+      "eng": "Effulgent Infusion",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_effulgent_infusion_desc",
+      "eng": "Give a friendly minion +Attack equal to your General's Attack.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_upper_hand_name",
+      "eng": "Upper Hand",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_upper_hand_desc",
+      "eng": "Deal 1 damage to an enemy minion for each card in your opponent's action bar.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_pupabomb_name",
+      "eng": "Pupabomb",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_pupabomb_desc",
+      "eng": "Destroy a friendly Egg to deal 4 damage to enemies around it.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_homeostatic_rebuke_name",
+      "eng": "Homeostatic Rebuke",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_homeostatic_rebuke_desc",
+      "eng": "ALL minions attack themselves.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_saurian_finality_name",
+      "eng": "Saurian Finality",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_saurian_finality_desc",
+      "eng": "Stun the enemy General.\nYour General gains +3 Attack.\nBoth players lose 3 mana.\nRestore 10 Health to your General.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_artifact_adamantite_claws_name",
+      "eng": "Adamantite Claws",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_artifact_adamantite_claws_description",
+      "eng": "Your General gains +4 Attack.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_artifact_twin_fang_name",
+      "eng": "Twin Fang",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_artifact_twin_fang_description",
+      "eng": "Whenever a friendly minion or your General takes damage, your General gains +2 Attack.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_artifact_iridium_scale_name",
+      "eng": "Iridium Scale",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_artifact_iridium_scale_description",
+      "eng": "Your General gains Frenzy.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_artifact_morinkhur_name",
+      "eng": "Morin-Khur",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_artifact_morinkhur_description",
+      "eng": "Your General gains +3 Attack. Whenever your General deals damage, hatch all friendly Eggs.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_artifact_godhammer_name",
+      "eng": "Godhammer",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_artifact_godhammer_description",
+      "eng": "Your minions have \"Grow: +1/+1.\"",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_artifact_eternal_heart_name",
+      "eng": "Eternal Heart",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_artifact_eternal_heart_desc",
+      "eng": "Your General cannot die.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_artifact_rage_reactor_name",
+      "eng": "Rage Reactor",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_artifact_rage_reactor_desc",
+      "eng": "Your General gains +1 Attack.\nWhenever your General destroys an enemy, summon a Ripper Egg on that space.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_unit_vaath_name",
+      "eng": "Vaath the Immortal",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_unit_vaath_desc",
+      "eng": "Bloodbound Spell: Give your General +1 Attack.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_unit_starhorn_name",
+      "eng": "Starhorn the Seeker",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_unit_starhorn_desc",
+      "eng": "Bloodbound Spell: Both players draw a card.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_unit_ragnora_name",
+      "eng": "Ragnora the Relentless",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_unit_ragnora_desc",
+      "eng": "Bloodbound Spell: Summon a Ripper Egg nearby your General.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_unit_kujata_name",
+      "eng": "Kujata",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_unit_kujata_desc",
+      "eng": "Your minions cost 1 less to summon and take 1 damage when summoned from your action bar.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_unit_phalanxar_name",
+      "eng": "Phalanxar",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_unit_young_silithar_name",
+      "eng": "Young Silithar",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_unit_young_silithar_desc",
+      "eng": "Rebirth",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_unit_earth_walker_name",
+      "eng": "Earth Walker",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_unit_earth_walker_desc",
+      "eng": "Grow: +1/+1",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_unit_primordial_gazer_name",
+      "eng": "Primordial Gazer",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_unit_primordial_gazer_desc",
+      "eng": "Opening Gambit: Give a nearby friendly minion +2/+2.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_unit_vindicator_name",
+      "eng": "Vindicator",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_unit_vindicator_desc",
+      "eng": "Whenever your opponent draws a card, this minion gains +2/+2.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_unit_elucidator_name",
+      "eng": "Elucidator",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_unit_elucidator_desc",
+      "eng": "Rush\nOpening Gambit: Deal 4 damage to your General.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_unit_grimrock_name",
+      "eng": "Grimrock",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_unit_grimrock_desc",
+      "eng": "Grow: +2/+2",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_unit_veteran_silithar_name",
+      "eng": "Veteran Silithar",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    }
+  ]
+}

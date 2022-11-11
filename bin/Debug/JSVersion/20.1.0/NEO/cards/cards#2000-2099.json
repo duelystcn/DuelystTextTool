@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.0",
+  "nodeCode": "cards",
+  "path": "cards",
+  "orderStart": 2000,
+  "orderEnd": 2099,
+  "translateItemList": [
+    {
+      "code": "neutral_wind_runner_name",
+      "eng": "Wind Runner",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_wind_runner_desc",
+      "eng": "After this minion moves, give all friendly minions around it +1/+1.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_wind_stopper_name",
+      "eng": "Wind Stopper",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_wind_stopper_desc",
+      "eng": "Ranged attackers must attack this minion first.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_wings_of_paradise_name",
+      "eng": "Wings of Paradise",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_wings_of_paradise_desc",
+      "eng": "Flying\nWhenever you replace a card, this minion gains +2 Attack this turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_arrow_whistler_name",
+      "eng": "Arrow Whistler",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_arrow_whistler_desc",
+      "eng": "Ranged\nYour other minions with Ranged get +1 Attack.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_artifact_hunter_name",
+      "eng": "Artifact Hunter",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_artifact_hunter_desc",
+      "eng": "Opening Gambit: Draw a random artifact from your deck.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_black_locust_name",
+      "eng": "Black Locust",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_black_locust_desc",
+      "eng": "Flying\nAfter this minion moves, summon a Black Locust nearby.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_captain_hank_hart_name",
+      "eng": "Captain Hank Hart",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_captain_hank_hart_desc",
+      "eng": "Ranged\nWhenever this minion deals damage, restore that much Health to it.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_chassis_of_mechaz0r_name",
+      "eng": "Chassis of MECHAZ0R",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_chassis_of_mechaz0r_desc",
+      "eng": "Forcefield\nOpening Gambit: Progresses MECHAZ0R build by +20%.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_decimus_name",
+      "eng": "Decimus",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_decimus_desc",
+      "eng": "Whenever your opponent draws a card, deal 2 damage to the enemy General.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_dioltas_name",
+      "eng": "Dioltas",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_dioltas_desc",
+      "eng": "Dying Wish: Summon a 0/8 Tombstone minion with Provoke near your General.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_emerald_rejuvinator_name",
+      "eng": "Emerald Rejuvenator",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_emerald_rejuvinator_desc",
+      "eng": "Opening Gambit: Restore 4 Health to BOTH Generals.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_fire_spitter_name",
+      "eng": "Fire Spitter",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_fire_spitter_desc",
+      "eng": "Ranged",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_frostbone_naga_name",
+      "eng": "Frostbone Naga",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_frostbone_naga_desc",
+      "eng": "Opening Gambit: Deal 2 damage to everything around it.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_hailstone_golem_name",
+      "eng": "Hailstone Golem",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_lightbender_name",
+      "eng": "Lightbender",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_lightbender_desc",
+      "eng": "Opening Gambit: Dispel ALL spaces around it.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_mindwarper_name",
+      "eng": "Mindwarper",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_mindwarper_desc",
+      "eng": "Opening Gambit: Gain a copy of a random spell from your opponent's action bar.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_moebius_name",
+      "eng": "Moebius",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_moebius_desc",
+      "eng": "At the start of your turn, fully heal this minion and switch its Attack and Health.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_night_watcher_name",
+      "eng": "Night Watcher",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_night_watcher_desc",
+      "eng": "Forcefield\nWhenever ANY player summons a minion with Rush, exhaust it.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_owlbeast_sage_name",
+      "eng": "Owlbeast Sage",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_owlbeast_sage_desc",
+      "eng": "Whenever you cast a spell, your Arcanyst minions gain +2 Health.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_primus_shieldmaster_name",
+      "eng": "Primus Shieldmaster",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_primus_shieldmaster_desc",
+      "eng": "Provoke",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_purgatos_name",
+      "eng": "Purgatos, The Realmkeeper",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_purgatos_desc",
+      "eng": "Whenever this minion deals damage, either deal 3 damage to the enemy General OR restore 3 Health to your General.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_silhouette_tracer_name",
+      "eng": "Silhouette Tracer",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_silhouette_tracer_desc",
+      "eng": "Opening Gambit: Teleport your General up to 3 spaces.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_sphynx_name",
+      "eng": "Sphynx",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_sphynx_desc",
+      "eng": "Opening Gambit: Put a Riddle in your opponent's action bar.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_sun_elemental_name",
+      "eng": "Sun Elemental",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_sun_elemental_desc",
+      "eng": "Opening Gambit: Give two random friendly minions +2 Health.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_sunsteel_defender_name",
+      "eng": "Sunsteel Defender",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_sunsteel_defender_desc",
+      "eng": "Forcefield",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_tethermancer_name",
+      "eng": "Tethermancer",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_tethermancer_desc",
+      "eng": "Provoke\nDispel any minion that deals damage to this one.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_thorn_needler_name",
+      "eng": "Thorn Needler",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_unseven_name",
+      "eng": "Unseven",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_unseven_desc",
+      "eng": "Dying Wish: Summon a minion with Dying Wish from your action bar.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_white_widow_name",
+      "eng": "White Widow",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_white_widow_desc",
+      "eng": "Whenever you replace a card, deal 2 damage to a random enemy.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_young_flamewing_name",
+      "eng": "Young Flamewing",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_young_flamewing_desc",
+      "eng": "Flying.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_alter_rexx_name",
+      "eng": "Alter Rexx",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_alter_rexx_desc",
+      "eng": "Whenever you summon MECHAZ0R, put a MECHAZ0R in your action bar.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_ash_mephytt_name",
+      "eng": "Ash Mephyt",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_ash_mephytt_desc",
+      "eng": "Opening Gambit: Summon two copies of this minion on random spaces.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_brightmoss_golem_name",
+      "eng": "Brightmoss Golem",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_chakkram_name",
+      "eng": "Chakkram",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_chakkram_desc",
+      "eng": "This minion costs 2 less if your General took damage on opponent's last turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_dagger_kiri_name",
+      "eng": "Dagger Kiri",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_dagger_kiri_desc",
+      "eng": "Celerity",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_dancing_blades_name",
+      "eng": "Dancing Blades",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_dancing_blades_desc",
+      "eng": "Opening Gambit: Deal 3 damage to ANY minion in front of this.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_envybaer_name",
+      "eng": "Envybaer",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_envybaer_desc",
+      "eng": "Whenever this minion damages an enemy, teleport that enemy to a random corner.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_fireblazer_name",
+      "eng": "Fireblazer",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_fireblazer_desc",
+      "eng": "Provoke",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_firestarter_name",
+      "eng": "Firestarter",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_firestarter_desc",
+      "eng": "Whenever you cast a spell, summon a 1/1 Spellspark with Rush on a random nearby space.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_spellspark_name",
+      "eng": "Spellspark",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_spellspark_desc",
+      "eng": "Rush",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_grincher_name",
+      "eng": "Grincher",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_grincher_desc",
+      "eng": "Opening Gambit: Add a random artifact to your action bar. It costs 3 less.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_hollow_grovekeeper_name",
+      "eng": "Hollow Grovekeeper",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_hollow_grovekeeper_desc",
+      "eng": "Opening Gambit: Destroy ANY nearby minion with Provoke or Frenzy. If you do, this minion gains Provoke and Frenzy.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_ironclad_name",
+      "eng": "Ironclad",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_ironclad_desc",
+      "eng": "Dying Wish: Dispel all enemy minions.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_keeper_of_the_vale_name",
+      "eng": "Keeper of the Vale",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_keeper_of_the_vale_desc",
+      "eng": "Opening Gambit: Summon a random friendly minion destroyed this game nearby this minion.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_lux_ignis_name",
+      "eng": "Lux Ignis",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_lux_ignis_desc",
+      "eng": "Ranged\nAt the end of your turn, restore 2 Health to all nearby friendly minions.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_necroseer_name",
+      "eng": "Necroseer",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_necroseer_desc",
+      "eng": "Dying Wish: Draw a card.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_rogue_warden_name",
+      "eng": "Rogue Warden",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_rogue_warden_desc",
+      "eng": "Ranged",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_sunset_paragon_name",
+      "eng": "Sunset Paragon",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_sunset_paragon_desc",
+      "eng": "Opening Gambit: ALL nearby minions deal damage to themselves equal to their Attack.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_sworn_defender_name",
+      "eng": "Sworn Defender",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_sworn_defender_desc",
+      "eng": "Whenever your General takes damage, fully heal this minion.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_the_high_hand_name",
+      "eng": "The High Hand",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_the_high_hand_desc",
+      "eng": "Opening Gambit: Gains +1/+1 for each card in your opponent's action bar.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_twilight_sorcerer_name",
+      "eng": "Twilight Sorcerer",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_twilight_sorcerer_desc",
+      "eng": "Opening Gambit: Put a copy of a random spell you cast this game into your action bar.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_archon_spellbinder_name",
+      "eng": "Archon Spellbinder",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    }
+  ]
+}

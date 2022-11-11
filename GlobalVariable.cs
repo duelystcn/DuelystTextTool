@@ -9,8 +9,12 @@ namespace DuelystText
 {
     public class GlobalVariable
     {
-        public static string version = "20.1.0";
+        public static string originNodeCode = "NEO";
 
         public static Size formSizeBig = new Size(1572, 900);
+
+        public static int cutSpac = 100;
+
+        public static bool isAdmin = false;
     }
 }

@@ -1,0 +1,443 @@
+{
+  "versionCode": "20.1.0",
+  "nodeCode": "cosmetics",
+  "path": "cosmetics",
+  "orderStart": 700,
+  "orderEnd": 761,
+  "translateItemList": [
+    {
+      "code": "emote_ciphron_name",
+      "eng": "Ciphyron",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "emote_lilithe_name",
+      "eng": "Lilithe",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "emote_cassyva_name",
+      "eng": "Cassyva",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "emote_maehv_name",
+      "eng": "Maehv",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "emote_vaath_name",
+      "eng": "Vaath",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "emote_starhorn_name",
+      "eng": "Starhorn",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "emote_ragnora_name",
+      "eng": "Ragnora",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "emote_faie_name",
+      "eng": "Faie",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "emote_kara_name",
+      "eng": "Kara",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "emote_ilena_name",
+      "eng": "Ilena",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "emote_cool_name",
+      "eng": "Cool",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "emote_bowing_name",
+      "eng": "Bowing",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "emote_sleepy_name",
+      "eng": "Sleepy",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "emote_winking_name",
+      "eng": "Winking",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "emote_frustrated_name",
+      "eng": "Frustrated",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "emote_confused_name",
+      "eng": "Confused",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "emote_sad_name",
+      "eng": "Sad",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "emote_surprised_name",
+      "eng": "Surprised",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "emote_happy_name",
+      "eng": "Happy",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "emote_loving_name",
+      "eng": "Loving",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "emote_angry_name",
+      "eng": "Angry",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "emote_anger",
+      "eng": "anger",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "emote_respect",
+      "eng": "respect",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "emote_confusion",
+      "eng": "confusion",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "emote_frustration",
+      "eng": "frustration",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "emote_happiness",
+      "eng": "happiness",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "emote_sadness",
+      "eng": "sadness",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "emote_impatience",
+      "eng": "impatience",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "emote_style",
+      "eng": "style",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "emote_surprise",
+      "eng": "surprise",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "emote_confidence",
+      "eng": "confidence",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "emote_love",
+      "eng": "love",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "emote_emotion",
+      "eng": "emotion",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_argeon",
+      "eng": " as Argeon Highmayne",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_ziran",
+      "eng": " as Zir'An Sunforge",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_brome",
+      "eng": " as Brome Warcrest",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_kaleos",
+      "eng": " as Kaleos Xaan",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_reva",
+      "eng": " as Reva Eventide",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_shidai",
+      "eng": " as Shidai Stormblossom",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_zirix",
+      "eng": " as Zirix Starstrider",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_sajj",
+      "eng": " as Scioness Sajj",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_ciphyron",
+      "eng": " as Ciphyron Ascendant",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_lilithe",
+      "eng": " as Lilithe Blightchaser",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_cassyva",
+      "eng": " as Cassyva Soulreaper",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_maehv",
+      "eng": " as Maehv Skinsolder",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_vaath",
+      "eng": " as Vaath the Immortal",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_starhorn",
+      "eng": " as Starhorn the Seeker",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_ragnora",
+      "eng": " as Ragnora the Relentless",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_faie",
+      "eng": " as Faie Bloodwing",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_kara",
+      "eng": " as Kara Winterblade",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_ilena",
+      "eng": " as Ilena Cryobyte",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote",
+      "eng": "Express your {{emote}} in game {{general}}",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "battlemap_magmar_name",
+      "eng": "Magmar Battlemap",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "battlemap_magmar_desc",
+      "eng": "...",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "battlemap_abyssian_name",
+      "eng": "Abyssian Battlemap",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "battlemap_abyssian_desc",
+      "eng": "...",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "battlemap_redrock_name",
+      "eng": "Red Rock Battlemap",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "battlemap_redrock_desc",
+      "eng": "...",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "battlemap_vanar_name",
+      "eng": "Vanar Battlemap",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "battlemap_vanar_desc",
+      "eng": "...",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "cosmetic_crafting_error_msg",
+      "eng": "There was a problem crafting this item.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "cosmetic_chest_duplicate",
+      "eng": "(duplicate)",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    }
+  ]
+}

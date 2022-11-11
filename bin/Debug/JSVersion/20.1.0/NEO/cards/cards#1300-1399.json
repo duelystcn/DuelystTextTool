@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.0",
+  "nodeCode": "cards",
+  "path": "cards",
+  "orderStart": 1300,
+  "orderEnd": 1399,
+  "translateItemList": [
+    {
+      "code": "faction_4_spell_daemonic_lure_description",
+      "eng": "Deal 1 damage to an enemy minion and teleport it anywhere.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_nether_summoning_name",
+      "eng": "Nether Summoning",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_nether_summoning_description",
+      "eng": "Summon 2 non-token minions destroyed since the end of your last turn nearby.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_shadow_nova_name",
+      "eng": "Shadow Nova",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_shadow_nova_description",
+      "eng": "Turn a 2x2 area into Shadow Creep.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_void_pulse_name",
+      "eng": "Void Pulse",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_void_pulse_description",
+      "eng": "Deal 2 damage to enemy General. Restore 3 Health to your General.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_deathfire_crescendo_name",
+      "eng": "Deathfire Crescendo",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_deathfire_crescendo_description",
+      "eng": "Give a friendly minion, \"Deathwatch: Gains +2/+2.\"",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_breath_of_the_unborn_name",
+      "eng": "Breath Of The Unborn",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_breath_of_the_unborn_description",
+      "eng": "Deal 2 damage to all enemy minions. Fully heal all friendly minions.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_rite_of_the_undervault_name",
+      "eng": "Rite Of The Undervault",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_rite_of_the_undervault_description",
+      "eng": "Draw to fill your action bar.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_darkfire_sacrifice_name",
+      "eng": "Darkfire Sacrifice",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_darkfire_sacrifice_description",
+      "eng": "Destroy a friendly minion. Your next minion costs 2 less.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_ritual_banishing_name",
+      "eng": "Ritual Banishing",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_ritual_banishing_description",
+      "eng": "Destroy a friendly minion to destroy an enemy minion.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_dark_transformation_name",
+      "eng": "Dark Transformation",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_dark_transformation_description",
+      "eng": "Destroy an enemy minion and summon a 1/1 Wraithling on that space.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_dark_seed_name",
+      "eng": "Dark Seed",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_dark_seed_description",
+      "eng": "Deal 1 damage to the enemy General for each card in the opponent's action bar.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_grasp_of_agony_name",
+      "eng": "Grasp of Agony",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_grasp_of_agony_description",
+      "eng": "Choose an enemy minion. When it dies, it deals 3 damage to enemies around it.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_shadow_reflection_name",
+      "eng": "Shadow Reflection",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_shadow_reflection_description",
+      "eng": "Give a friendly minion +5 Attack.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_soulshatter_pact_name",
+      "eng": "Soulshatter Pact",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_soulshatter_pact_description",
+      "eng": "Give all friendly minions +2 Attack this turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_wraithling_swarm_name",
+      "eng": "Wraithling Swarm",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_wraithling_swarm_description",
+      "eng": "Summon three 1/1 Wraithlings nearby each other.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_consuming_rebirth_name",
+      "eng": "Consuming Rebirth",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_consuming_rebirth_description",
+      "eng": "Destroy a friendly minion. At the end of your turn, re-summon it on the same space and give it +1/+1.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_lurking_fear_name",
+      "eng": "Lurking Fear",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_lurking_fear_description",
+      "eng": "Lower the cost of all minions with Dying Wish in your action bar and deck by 1.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_inkhorn_gaze_name",
+      "eng": "Inkhorn Gaze",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_inkhorn_gaze_description",
+      "eng": "Deal 2 damage to a minion. If it dies this turn, put a random Battle Pet into your action bar.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_sphere_of_darkness_name",
+      "eng": "Sphere of Darkness",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_sphere_of_darkness_description",
+      "eng": "Turn an enemy minion's space into Shadow Creep. Draw a card.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_echoing_shriek_name",
+      "eng": "Echoing Shriek",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_echoing_shriek_description",
+      "eng": "Transform ALL minions that cost 2 or less into 1/1 Wraithlings.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_void_steal_name",
+      "eng": "Void Steal",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_void_steal_description",
+      "eng": "Give an enemy minion -3 Attack. Nearby friendly minions gain +3 Attack.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_obliterate_name",
+      "eng": "Obliterate",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_obliterate_description",
+      "eng": "Destroy all friendly Shadow Creep to deal that much damage to all enemies.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_aphotic_drain_name",
+      "eng": "Aphotic Drain",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_aphotic_drain_desc",
+      "eng": "Destroy a friendly minion to restore 5 Health to your General.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_punish_name",
+      "eng": "Punish",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_punish_desc",
+      "eng": "Destroy a damaged minion.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_necrotic_sphere_name",
+      "eng": "Necrotic Sphere",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_necrotic_sphere_desc",
+      "eng": "Destroy ALL minions nearby your General and summon Wraithlings in their place.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_blood_echoes_name",
+      "eng": "Blood Echoes",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_blood_echoes_desc",
+      "eng": "Destroy all friendly minions and resummon them on random spaces at end of turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_choking_tendrils_name",
+      "eng": "Choking Tendrils",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_choking_tendrils_desc",
+      "eng": "Destroy an enemy minion on friendly Shadow Creep.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_inkling_surge_name",
+      "eng": "Inkling Surge",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_inkling_surge_desc",
+      "eng": "Summon a 1/1 Wraithling. If you have another Wraithling, draw a card.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_shadowstalk_name",
+      "eng": "Shadowstalk",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_shadowstalk_desc",
+      "eng": "Summon a Wraithling behind each enemy.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_nethermeld_name",
+      "eng": "Nethermeld",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_nethermeld_desc",
+      "eng": "Teleport ANY minion to friendly Shadow Creep.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_corporeal_cadence_name",
+      "eng": "Corporeal Cadence",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_corporeal_cadence_desc",
+      "eng": "Destroy a friendly minion to deal its Attack to the enemy General.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_doom_name",
+      "eng": "Doom",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_doom_desc",
+      "eng": "The enemy General is DOOMED and will die after three turns.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_malice_name",
+      "eng": "Malice",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_malice_desc",
+      "eng": "Destroy a friendly minion to summon a 4/4 Husk nearby. Deal 2 damage to your General.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_horrific_visage_name",
+      "eng": "Horrific Visage",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_horrific_visage_desc",
+      "eng": "Give all enemy minions -4 Attack until your next turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_vellumscry_name",
+      "eng": "Vellumscry",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_vellumscry_desc",
+      "eng": "Destroy a friendly minion to draw three cards.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_deathmark_name",
+      "eng": "Deathmark",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_deathmark_desc",
+      "eng": "Deal 1 damage to an enemy minion. After it is attacked this turn, destroy it.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_betrayal_name",
+      "eng": "Betrayal",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_betrayal_desc",
+      "eng": "Enemy minions nearby their General attack their General.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_abhorrent_unbirth_name",
+      "eng": "Abhorrent Unbirth",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_abhorrent_unbirth_desc",
+      "eng": "Destroy all friendly minions to summon a 1/1 Abomination that gains their Attack, Health, and keywords.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_infest_name",
+      "eng": "Infest",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_infest_desc",
+      "eng": "Choose an enemy minion. When it dies, give this effect to all nearby enemy minions and deal 2 damage to the enemy General.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_artifact_soul_grimwar_name",
+      "eng": "Soul Grimwar",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_artifact_soul_grimwar_description",
+      "eng": "Your General gains, \"Deathwatch: Gains +2 Attack.\"",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_artifact_horn_of_the_forsaken_name",
+      "eng": "Horn of the Forsaken",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_artifact_horn_of_the_forsaken_description",
+      "eng": "Whenever your General deals damage, summon a 1/1 Wraithling nearby your General.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_artifact_spectral_blade_name",
+      "eng": "Spectral Blade",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_artifact_spectral_blade_description",
+      "eng": "Your General gains +2 Attack.\nWhenever your General destroys an enemy, restore 2 Health to your General.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_artifact_ghost_azalea_name",
+      "eng": "Ghost Azalea",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_artifact_ghost_azalea_description",
+      "eng": "Your General gains +1 Attack for each friendly Shadow Creep.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_artifact_the_releaser_name",
+      "eng": "The Releaser",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_artifact_the_releaser_description",
+      "eng": "When this artifact breaks, summon a random friendly non-token minion destroyed this game nearby.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_artifact_mindlathe_name",
+      "eng": "Mindlathe",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_artifact_mindlathe_desc",
+      "eng": "After your General damages a minion, reactivate and take control of it until the end of your turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_artifact_furor_chakram_name",
+      "eng": "Furor Chakram",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_artifact_furor_chakram_desc",
+      "eng": "Friendly minions gain +2 Attack and Frenzy.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_cassyva_name",
+      "eng": "Cassyva Soulreaper",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_cassyva_desc",
+      "eng": "Bloodbound Spell: Deal 1 damage to a minion. If it dies this turn, the space turns into Shadow Creep.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_lilithe_name",
+      "eng": "Lilithe Blightchaser",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_lilithe_desc",
+      "eng": "Bloodbound Spell: Summon 2 Wraithlings nearby your General.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_maehv_name",
+      "eng": "Maehv Skinsolder",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_maehv_desc",
+      "eng": "Bloodbound Spell: Destroy a friendly minion to summon a 4/4 Husk nearby. Deal 2 damage to your General.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_abyssal_crawler_name",
+      "eng": "Abyssal Crawler",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_abyssal_crawler_desc",
+      "eng": "At the end of your turn, turn a nearby space into Shadow Creep.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_blood_siren_name",
+      "eng": "Blood Siren",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    }
+  ]
+}

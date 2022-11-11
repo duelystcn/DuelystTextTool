@@ -1,0 +1,275 @@
+{
+  "versionCode": "20.1.0",
+  "nodeCode": "profile",
+  "path": "profile",
+  "orderStart": 0,
+  "orderEnd": 37,
+  "translateItemList": [
+    {
+      "code": "category_summary_label",
+      "eng": "Summary",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "category_faction_levels_label",
+      "eng": "Faction Levels",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "category_rank_history_label",
+      "eng": "Rank History",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "category_match_history_label",
+      "eng": "Match History",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "category_leaderboard_label",
+      "eng": "S Rank",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "category_rift_label",
+      "eng": "Rift",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "summary_current_rank",
+      "eng": "Current Rank",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "summary_current_win_streak",
+      "eng": "Current Win Streak",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "summary_current_ranked_wins",
+      "eng": "Ranked Wins",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "summary_top_rank",
+      "eng": "Top Rank",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "summary_top_win_streak",
+      "eng": "Top Win Streak",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "summary_total_ranked_wins",
+      "eng": "Total Ranked Wins",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "summary_gauntlet",
+      "eng": "Best Gauntlet Run",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "summary_gauntlet_total_wins",
+      "eng": "Total Gauntlet Wins",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "summary_battle_ribbons_label",
+      "eng": "Battle Ribbons",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "match_history_faction",
+      "eng": "faction",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "match_history_game_type",
+      "eng": "game type",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "match_history_win_loss",
+      "eng": "win/loss",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "match_history_duration",
+      "eng": "time",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "match_history_replay",
+      "eng": "replay",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "match_history_next_page",
+      "eng": "next",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "match_history_prev_page",
+      "eng": "previous",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "srank_summary_rank",
+      "eng": "rank",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "srank_summary_player",
+      "eng": "player",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "share_replay_title",
+      "eng": "Share Replay",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "share_replay_message",
+      "eng": "Send this link to anyone:",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "share_replay_button_label",
+      "eng": "COPY LINK",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "change_username_title",
+      "eng": "Change Username",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "change_username_free_message",
+      "eng": "You can change your username only <strong>once per month</strong>, and your FIRST username change is FREE. Changing your username afterwards will cost 100 GOLD.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "change_username_message",
+      "eng": "You can change your username only <strong>once per month</strong>, and will cost 100 GOLD.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "username_placeholder",
+      "eng": "New Username",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "change_username_max_per_month_error",
+      "eng": "You have already changed your username the maximum allowed times this month.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "change_username_success",
+      "eng": "Your username has been updated!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "change_avatar",
+      "eng": "Change Avatar",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "click_to_unlock",
+      "eng": "Click to unlock.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "percent_off",
+      "eng": "{{discount}}% Off!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "avatar_update_success_msg",
+      "eng": "Your avatar has been updated!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "season_played_label",
+      "eng": "Played for {{season_count}} seasons.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    }
+  ]
+}

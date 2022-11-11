@@ -31,7 +31,7 @@ namespace DuelystText
         public Main()
         {
             this.StartPosition = FormStartPosition.CenterScreen;
-            this.Size = GlobalVariable.formSizeBig;
+            //this.Size = GlobalVariable.formSizeBig;
             InitializeComponent();
         }
 
@@ -50,11 +50,15 @@ namespace DuelystText
             versionDataTable = new DataTable();
             versionDataTable.Columns.Add("versionCode", typeof(string));
             versionDataTable.Columns.Add("operate", typeof(string));
+            versionDataTable.Columns.Add("exportFile", typeof(string));
+            versionDataTable.Columns.Add("reference", typeof(string));
             foreach (VersionItem versionItem  in ToolDataManger.Instance.versionDic.Values)
             {
                 versionDataTable.Rows.Add(
                     versionItem.versionCode,
-                    "编辑"
+                    "编辑",
+                    "导出",
+                    "选择"
                 ); 
                
             }
@@ -62,7 +66,8 @@ namespace DuelystText
             VersionGrid.Columns[0].DefaultCellStyle.BackColor = Color.LightSteelBlue;
 
             VersionGrid.Columns[1].DataPropertyName = "operate";
-
+            VersionGrid.Columns[2].DataPropertyName = "exportFile";
+            VersionGrid.Columns[3].DataPropertyName = "reference";
             VersionGrid.DataSource = versionDataTable;
             //提交修改
             versionDataTable.AcceptChanges();
@@ -109,6 +114,11 @@ namespace DuelystText
             frm.Show();
          
 
+        }
+
+        private void WorkPeople_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://docs.qq.com/sheet/DZVJUWWNZS1RrU29T?tab=BB08J2");
         }
     }
 }

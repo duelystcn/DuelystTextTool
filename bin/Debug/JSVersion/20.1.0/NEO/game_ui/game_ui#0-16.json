@@ -1,0 +1,128 @@
+{
+  "versionCode": "20.1.0",
+  "nodeCode": "game_ui",
+  "path": "game_ui",
+  "orderStart": 0,
+  "orderEnd": 16,
+  "translateItemList": [
+    {
+      "code": "exhausted_message",
+      "eng": "[Exhausted] - cannot move or attack.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "battlepet_message",
+      "eng": "[Battle Pet] - has a mind of its own!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "stunned_message",
+      "eng": "[Stunned] - cannot move or attack.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "replace_bloodborn_message",
+      "eng": "[Bloodbound Spell] - cannot be replaced.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "out_of_mulligan_message",
+      "eng": "Can only replace {{count}} card.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "out_of_mulligan_message_plural",
+      "eng": "Can only replace {{count}} cards.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "hand_is_full_message",
+      "eng": "My hand is full!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "out_of_cards_message",
+      "eng": "I'm out of cards!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "my_bloodborn_refresh_message",
+      "eng": "Your [Bloodbound Spell] refreshes on your next turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "my_bloodborn_refresh_message_plural",
+      "eng": "Your [Bloodbound Spell] refreshes in {{count}} turns.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "opponent_bloodborn_refresh_message",
+      "eng": "Your opponent's [Bloodbound Spell] refreshes on their next turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "opponent_bloodborn_refresh_message_plural",
+      "eng": "Your opponent's [Bloodbound Spell] refreshes in {{count}} turns.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "connected_label",
+      "eng": "connected",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "disconnected_label",
+      "eng": "disconnected",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "label_your_turn",
+      "eng": "YOUR TURN",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "label_enemy_turn",
+      "eng": "ENEMY TURN",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "label_automatic_moves",
+      "eng": "AUTOMATIC MOVES",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    }
+  ]
+}

@@ -27,12 +27,22 @@ namespace DuelystText.CoreData.Version
             string path = Application.StartupPath + "/JSVersion/" + versionCode + "/index.json";
             string indexJson = FileReadUtil.GetTextFromFile(path);
             JToken objTree = JObject.Parse(indexJson);
-            this.nodeItem = new NodeItem("ENO");
+            this.nodeItem = new NodeItem(GlobalVariable.originNodeCode);
             this.nodeItem.Initialization(null, objTree);
-            return;
+            //检查是否生成了此版本的翻译文件
+            string pathTrans = Application.StartupPath + "/JSVersion/" + versionCode + "/" + GlobalVariable.originNodeCode;
+            if (!Directory.Exists(pathTrans))
+            {
+               Directory.CreateDirectory(pathTrans);
+               nodeItem.CreateTranslateFile(versionCode);
+            }
+            else 
+            {
+                nodeItem.LoadTranslateFile(versionCode);
+            }
         }
 
-
+    
         
     }
 }

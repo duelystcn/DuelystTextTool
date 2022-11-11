@@ -1,0 +1,72 @@
+{
+  "versionCode": "20.1.0",
+  "nodeCode": "races",
+  "path": "races",
+  "orderStart": 0,
+  "orderEnd": 8,
+  "translateItemList": [
+    {
+      "code": "golem",
+      "eng": "Golem",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "arcanyst",
+      "eng": "Arcanyst",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "dervish",
+      "eng": "Dervish",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "mech",
+      "eng": "Mech",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "vespyr",
+      "eng": "Vespyr",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "structure",
+      "eng": "Structure",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "battle_pet",
+      "eng": "Battle Pet",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "spirit",
+      "eng": "Spirit",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "chrysalis",
+      "eng": "Chrysalis",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    }
+  ]
+}

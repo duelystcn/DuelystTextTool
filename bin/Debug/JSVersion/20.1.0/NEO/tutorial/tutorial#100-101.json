@@ -1,0 +1,23 @@
+{
+  "versionCode": "20.1.0",
+  "nodeCode": "tutorial",
+  "path": "tutorial",
+  "orderStart": 100,
+  "orderEnd": 101,
+  "translateItemList": [
+    {
+      "code": "tutorial_card_freezing_orb_name",
+      "eng": "Freezing Orb",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "tutorial_card_freezing_orb_desc",
+      "eng": "Deal 25 damage to the enemy General.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    }
+  ]
+}

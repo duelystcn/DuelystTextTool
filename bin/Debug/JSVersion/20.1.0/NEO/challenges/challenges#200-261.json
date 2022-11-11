@@ -1,0 +1,443 @@
+{
+  "versionCode": "20.1.0",
+  "nodeCode": "challenges",
+  "path": "challenges",
+  "orderStart": 200,
+  "orderEnd": 261,
+  "translateItemList": [
+    {
+      "code": "beginner_vanar_2_fail",
+      "eng": "Hint: It often takes two attacks to take out a Shieldmaster!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vanar_2_taunt",
+      "eng": "Feel your life end as the snow melts!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vanar_3_title",
+      "eng": "Vanar: Final Whispers",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vanar_3_description",
+      "eng": "Defeat the Abyssian General in ONE turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vanar_3_start",
+      "eng": "Finish off Lilithe Blightchaser in ONE turn!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vanar_3_fail",
+      "eng": "Hint: Converge the crystals to break the blade before striking.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vanar_3_taunt",
+      "eng": "Feel your life end as the snow melts!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vanar_4_title",
+      "eng": "Vanar: Approaching Cold",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vanar_4_description",
+      "eng": "Use RUSH to defeat the Magmar General in ONE turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vanar_4_start",
+      "eng": "Finish off the Magmar General in ONE turn!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vanar_4_fail",
+      "eng": "Hint: Use Crystal Wisp and Bonechill Barrier to make a path through enemy forces.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vanar_4_taunt",
+      "eng": "Perish and melt like snow!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vanar_5_title",
+      "eng": "Vanar: Behind Enemy Lines",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vanar_5_description",
+      "eng": "Use POSITION SWAPPING and INFILTRATE to defeat the enemy General.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vanar_5_start",
+      "eng": "Finish off the Songhai General in ONE turn!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vanar_5_fail",
+      "eng": "I must advance forth and summon our forces so that the Hearth-sister can grant the Frosthorn passage and charge into our enemy.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vanar_5_taunt",
+      "eng": "Perish and melt like snow!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_vetruvian_1_title",
+      "eng": "Vetruvian: Patience",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_vetruvian_1_description",
+      "eng": "Defeat the Abyssian General in ONE turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_vetruvian_1_start",
+      "eng": "Finish off the Abyssian General in ONE turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_vetruvian_1_fail",
+      "eng": "Hint: Take control of the Mana Forger and consider your draws carefully.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_vetruvian_1_taunt",
+      "eng": "Burn in fire!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_vetruvian_2_title",
+      "eng": "Vetruvian: Wishful Thinking",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_vetruvian_2_description",
+      "eng": "Use DRAW to expand your options and crush the enemy General!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_vetruvian_2_start",
+      "eng": "Finish off the Abyssian General in ONE turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_vetruvian_2_fail",
+      "eng": "Hint: Fly your Starfire Scarab down to face off with the Pulverizer.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_vetruvian_2_taunt",
+      "eng": "Feel the grasp of death!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vetruvian_1_title",
+      "eng": "Vetruvian: Ready for a Blast",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vetruvian_1_description",
+      "eng": "Use BLAST to defeat the Abyssian General in ONE turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vetruvian_1_start",
+      "eng": "Finish off Lilithe Blightchaser in ONE turn!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vetruvian_1_fail",
+      "eng": "Hint: Take control of the Mana Forger and consider your draws carefully.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vetruvian_1_taunt",
+      "eng": "Burn in fire!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vetruvian_2_title",
+      "eng": "Vetruvian: Relics Reclaimed",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vetruvian_2_description",
+      "eng": "Defeat the Songhai General in ONE turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vetruvian_2_start",
+      "eng": "Finish off the Songhai General in ONE turn!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vetruvian_2_fail",
+      "eng": "Hint: The Windshrike must fall to claim its reward.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vetruvian_2_taunt",
+      "eng": "Burn in fire!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vetruvian_3_title",
+      "eng": "Vetruvian: Call to Action",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vetruvian_3_description",
+      "eng": "Use OPENING GAMBIT to defeat the Abyssian General in ONE turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vetruvian_3_start",
+      "eng": "Finish off the Abyssian General in ONE turn!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vetruvian_3_fail",
+      "eng": "Hint: Use your Opening Gambits to Dispel the shadows.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vetruvian_3_taunt",
+      "eng": "Consumed in darkfire!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vetruvian_4_title",
+      "eng": "Vetruvian: Bad to the Bone",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vetruvian_4_description",
+      "eng": "Break through PROVOKE to defeat the Magmar General in ONE turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vetruvian_4_start",
+      "eng": "Finish off the Magmar General in ONE turn!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vetruvian_4_fail",
+      "eng": "Hint: The Scorpions sting can break through the toughest barriers.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vetruvian_4_taunt",
+      "eng": "Your time is over!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vetruvian_5_title",
+      "eng": "Vetruvian: Ties that Bind",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vetruvian_5_description",
+      "eng": "Use OPENING GAMBIT and DISPEL to defeat the enemy General.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vetruvian_5_start",
+      "eng": "Finish off the Vanar General in ONE turn!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vetruvian_5_fail",
+      "eng": "Vanar has a strong connection to nature that must be Dispelled before the blades may fall and cut down that Warmaster.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vetruvian_5_taunt",
+      "eng": "Your time is over!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "medium_vetruvian_1_title",
+      "eng": "Vetruvian: Knowledge of the Scions",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "medium_vetruvian_1_description",
+      "eng": "Defeat the Abyssian General in ONE turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "medium_vetruvian_1_start",
+      "eng": "Finish off the Abyssian General in ONE turn!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "medium_vetruvian_1_fail",
+      "eng": "Hint: Make space for Dervishes.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "medium_vetruvian_1_taunt",
+      "eng": "Burn in fire!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "medium_vetruvian_2_title",
+      "eng": "Vetruvian: Winds of Change",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "medium_vetruvian_2_description",
+      "eng": "Bolster your DERVISHES and bring down the Songhai General in ONE turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "medium_vetruvian_2_start",
+      "eng": "Finish off Songhai General in ONE turn!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "medium_vetruvian_2_fail",
+      "eng": "Hint: Only the Fireblazer must fall to reach your goal.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "medium_vetruvian_2_taunt",
+      "eng": "Burn in fire!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    }
+  ]
+}

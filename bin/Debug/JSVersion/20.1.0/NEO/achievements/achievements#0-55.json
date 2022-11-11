@@ -1,0 +1,401 @@
+{
+  "versionCode": "20.1.0",
+  "nodeCode": "achievements",
+  "path": "achievements",
+  "orderStart": 0,
+  "orderEnd": 55,
+  "translateItemList": [
+    {
+      "code": "bronze_starter_bundle_title",
+      "eng": "Bronze Division Starter Bundle",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "bronze_starter_bundle_desc",
+      "eng": "3 Neutral Legendaries for your Collection",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "gold_starter_bundle_title",
+      "eng": "Gold Division Starter Bundle",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "gold_starter_bundle_desc",
+      "eng": "3 Faction Legendaries for your Collection",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "namaste_title",
+      "eng": "Namaste",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "namaste_desc",
+      "eng": "An exclusive Snowchaser EMOTE for purchasing from THE ARMORY!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "silver_starter_bundle_title",
+      "eng": "Silver Division Starter Bundle",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "silver_starter_bundle_desc",
+      "eng": "3 Neutral Epics for your Collection",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "welcome_to_crafting_title",
+      "eng": "Welcome to the Craft",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "welcome_to_crafting_desc",
+      "eng": "Bonus Spirit for disenchanting your first card! You can craft a Rare card for 100 Spirit.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "bloodborn_title",
+      "eng": "Bloodbound",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "bloodborn_desc",
+      "eng": "You've unlocked all the Basic cards for one Faction! Enjoy this one-time bonus Spirit Orb!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "world_explorer_title",
+      "eng": "World Explorer",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "world_explorer_desc",
+      "eng": "Congratulations on playing 1 game with each Faction! Enjoy this hard-to-get LEGENDARY rarity Faction card to bolster your Collection!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "best_of_friends_title",
+      "eng": "Best of Friends",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "best_of_friends_desc",
+      "eng": "DUELYST is more fun with friends!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "entering_gauntlet_title",
+      "eng": "Entering The Gauntlet",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "entering_gauntlet_desc",
+      "eng": "Congratulations on your first 20 ranked games! You've received a special free invitation to enter The Gauntlet!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "helping_hand_title",
+      "eng": "Helping Hand",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "helping_hand_desc",
+      "eng": "Congratulations on your first 10 games! A special gift just for you!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "art_of_war_title",
+      "eng": "The Art of War",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "art_of_war_desc",
+      "eng": "Congratulations on your first 50 games! A humble gift on your path to greatness!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "collector_supreme_title",
+      "eng": "Collector Supreme",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "collector_supreme_desc",
+      "eng": "Congratulations on collecting all Core set Common cards! A RARE and an EPIC card to help you collect the rest!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "earth_sister_title",
+      "eng": "Earth Sister",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "earth_sister_desc",
+      "eng": "By earning 3 copies of six Magmar Rare Cards, you've unlocked the Earth Sister!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "key_mythron_title",
+      "eng": "Key to Mythron",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "key_mythron_desc",
+      "eng": "You've received your first Mystery Crate full of cosmetics! Here's a free key to open it!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "storm_sister_title",
+      "eng": "Storm Sister",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "storm_sister_desc",
+      "eng": "By earning 3 copies of six Songhai Rare Cards, you've unlocked the Storm Sister!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "sand_sister_title",
+      "eng": "Sand Sister",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "sand_sister_desc",
+      "eng": "By earning 3 copies of six Vetruvian Rare Cards, you've unlocked the Sand Sister!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "shadow_sister_title",
+      "eng": "Shadow Sister",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "shadow_sister_desc",
+      "eng": "By earning 3 copies of six Abyssian Rare Cards, you've unlocked the Shadow Sister!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "sun_sister_title",
+      "eng": "Sun Sister",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "sun_sister_desc",
+      "eng": "By earning 3 copies of six Lyonar Rare Cards, you've unlocked the Sun Sister!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "sworn_sister_title",
+      "eng": "Sworn Sister",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "sworn_sister_desc",
+      "eng": "By earning 3 copies of six Neutral Rare Cards, you've unlocked the Sworn Sister!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "wind_sister_title",
+      "eng": "Wind Sister",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "wind_sister_desc",
+      "eng": "By earning 3 copies of six Vanar Rare Cards, you've unlocked the Wind Sister!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "epic_questor_title",
+      "eng": "Epic Questor",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "epic_questor_desc",
+      "eng": "Epic! Enjoy your awesome hard-to-get EPIC rarity card. You've earned it!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "indomitable_spirit_title",
+      "eng": "Indomitable Spirit",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "indomitable_spirit_desc",
+      "eng": "Exalted Questor! Bonus 100 Gold as we honor your dedication and indomitable spirit!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "journeyman_questor_title",
+      "eng": "Journeyman Questor",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "journeyman_questor_desc",
+      "eng": "Congratulations on completing your first Quest! Enjoy this amazing EPIC rarity card to boost your Collection!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "legendary_questor_title",
+      "eng": "Legendary Questor",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "legendary_questor_desc",
+      "eng": "Legendary! Enjoy your amazing hard-to-get LEGENDARY rarity card. You've earned it!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "silver_division_title",
+      "eng": "Welcome to Silver Division",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "silver_division_desc",
+      "eng": "Now comes the next challenge -- climbing the ladder to Gold Division! A bonus Spirit Orb to help you on your way!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "referral_title",
+      "eng": "Exclusive Referral Emote",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "referral_desc",
+      "eng": "One of your referred friends just made a purchase!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "wartech_general_achievement_title",
+      "eng": "{{faction_name}} Immortal Vanguard",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "wartech_general_achievement_desc",
+      "eng": "Congratulations on unlocking the {{faction_name}} Immortal Vanguard General!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "early_feb_2018_login_achievement_title",
+      "eng": "Celebrate Valentine's Day with Duelyst <3",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "early_feb_2018_login_achievement_desc",
+      "eng": "A special gift because we love you!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    }
+  ]
+}

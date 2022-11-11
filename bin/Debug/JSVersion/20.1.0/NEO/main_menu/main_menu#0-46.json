@@ -1,0 +1,338 @@
+{
+  "versionCode": "20.1.0",
+  "nodeCode": "main_menu",
+  "path": "main_menu",
+  "orderStart": 0,
+  "orderEnd": 46,
+  "translateItemList": [
+    {
+      "code": "menu_item_play",
+      "eng": "Play",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "menu_item_watch",
+      "eng": "Watch",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "menu_item_watch_tooltip",
+      "eng": "Watch top matches across each division.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "menu_item_collection",
+      "eng": "Collection",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "menu_item_collection_tooltip",
+      "eng": "View your cards or build a deck.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "menu_item_crates",
+      "eng": "Mystery Crates",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "menu_item_crates_tooltip",
+      "eng": "View and unlock your crates.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "menu_item_crates_can_open_badge",
+      "eng": "Open your {{crate_name}} Crate!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "menu_item_codex",
+      "eng": "Codex",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "menu_item_codex_tooltip",
+      "eng": "Explore the lore and world of Duelyst.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "menu_item_kickstarter",
+      "eng": "Back Us on Kickstarter!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "menu_item_quests",
+      "eng": "Quests",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "menu_item_shop",
+      "eng": "Shop",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "menu_item_profile",
+      "eng": "Profile",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "menu_item_buddy_list",
+      "eng": "Friends",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "menu_item_settings",
+      "eng": "Settings",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "gold_currency_indicator_tooptip",
+      "eng": "Buy Spirit Orbs with gold.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "premium_currency_indicator_tooltip",
+      "eng": "Buy anything in the Shop with Shards.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "new_shop_special_available_popover",
+      "eng": "New Special",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "play_mode_practice_name",
+      "eng": "Practice",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "play_mode_practice_description",
+      "eng": "Hone your skills against computer controlled opponents.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "play_mode_ranked_name",
+      "eng": "Season Ladder",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "play_mode_ranked_description",
+      "eng": "Rank up each month to earn prizes at the end of the season!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "play_mode_solo_challenges_name",
+      "eng": "Solo Challenges",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "play_mode_solo_challenges_description",
+      "eng": "Learn mechanics, and earn rewards!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "play_mode_gauntlet_name",
+      "eng": "The Gauntlet",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "play_mode_gauntlet_description",
+      "eng": "Compete in Draft Mode. The longer you last, the better the rewards!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "play_mode_rift_name",
+      "eng": "The Rift",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "play_mode_rift_description",
+      "eng": "Compete with cross-faction decks you can upgrade and evolve!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "play_mode_festive_name",
+      "eng": "Frostfire Mode",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "play_mode_festive_description",
+      "eng": "A special game mode for the Frostfire Festival!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "deck_select_tab_starters",
+      "eng": "Starter Decks",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "deck_select_tab_custom_decks",
+      "eng": "Custom Decks",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "deck_select_tab_legacy_decks",
+      "eng": "Legacy Decks",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "deck_select_tab_rift_decks",
+      "eng": "Rift Decks",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "deck_select_tab_gauntlet_decks",
+      "eng": "Gauntlet Decks",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "select_battle_map_button_label",
+      "eng": "Select Battle Map",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "deck_select_play_ranked_button_label",
+      "eng": "Play",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "deck_select_play_unranked_button_label",
+      "eng": "Play Unranked",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "deck_select_play_friendly_button_label",
+      "eng": "Play Friendly",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "deck_select_play_practice_button_label",
+      "eng": "Play Practice",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "deck_select_empty_message",
+      "eng": "No Custom Decks Found",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "deck_select_empty_instructions",
+      "eng": "To create a custom deck, head over to your \"Collection\" on the main menu.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "deck_select_faction_locked",
+      "eng": "LOCKED - defeat in practice!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "practice_mode_choose_opponent",
+      "eng": "Choose Your Opponent",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "practice_mode_recommended_opponent",
+      "eng": "",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "booster_opening_get_more_orbs_button_label",
+      "eng": "Get More Orbs",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    }
+  ]
+}

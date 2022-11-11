@@ -1,6 +1,7 @@
 ﻿using DuelystText.Common.Log;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using System.Text;
@@ -50,6 +51,35 @@ namespace DuelystText.Common.Util
                 while (count > 0);
                 return memory.ToArray();
             }
+        }
+
+        /// <summary>
+        /// 打开目录
+        /// </summary>
+        /// <param name="folderPath">目录路径（比如：C:\Users\Administrator\）</param>
+        public static void OpenFolder(string folderPath)
+        {
+            if (string.IsNullOrEmpty(folderPath)) return;
+
+            Process process = new Process();
+            ProcessStartInfo psi = new ProcessStartInfo("Explorer.exe");
+            psi.Arguments = folderPath;
+            process.StartInfo = psi;
+
+            try
+            {
+                process.Start();
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+            finally
+            {
+                process?.Close();
+
+            }
+
         }
     }
 }

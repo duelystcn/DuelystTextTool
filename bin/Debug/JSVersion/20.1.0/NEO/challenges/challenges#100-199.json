@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.0",
+  "nodeCode": "challenges",
+  "path": "challenges",
+  "orderStart": 100,
+  "orderEnd": 199,
+  "translateItemList": [
+    {
+      "code": "beginner_lyonar_2_fail",
+      "eng": "Hint: Divine Bond your minion with the highest Health.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_lyonar_2_taunt",
+      "eng": "Blaze and burn!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_lyonar_3_title",
+      "eng": "Lyonar: The Power of Wisdom",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_lyonar_3_description",
+      "eng": "Defeat the Magmar General in ONE turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_lyonar_3_start",
+      "eng": "Finish off Vaath the Immortal in ONE turn!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_lyonar_3_fail",
+      "eng": "Hint: The Shaman's sacrifice brings divine strength to the Sage.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_lyonar_3_taunt",
+      "eng": "Blaze and burn!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_lyonar_4_title",
+      "eng": "Lyonar: Honor the Fallen",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_lyonar_4_description",
+      "eng": "Use SELF DAMAGE and UNIT SACRIFICE to defeat the enemy General.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_lyonar_4_start",
+      "eng": "Finish off Vaath the Immortal in ONE turn!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_lyonar_4_fail",
+      "eng": "The noblest of warriors must sometimes sacrifice themselves so that their leader may carry on their legacy.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_lyonar_4_taunt",
+      "eng": "Blaze and burn!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_magmar_1_title",
+      "eng": "Magmar: Mind Game",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_magmar_1_description",
+      "eng": "Defeat the Songhai General in ONE turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_magmar_1_start",
+      "eng": "Finish off the Songhai General in ONE turn!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_magmar_1_fail",
+      "eng": "Hint: We already have the Magi on our side. We must now do what it takes to control the Storm Kage.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_magmar_1_taunt",
+      "eng": "Burn in Fire!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_magmar_1_title",
+      "eng": "Magmar: Beast of War",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_magmar_1_description",
+      "eng": "Use SPECIALIZED REMOVAL to defeat the Songhai General in ONE turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_magmar_1_start",
+      "eng": "Finish off Kaleos Xaan in ONE turn!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_magmar_1_fail",
+      "eng": "Hint: Makantor Warbeasts hate Golems.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_magmar_1_taunt",
+      "eng": "Burn in fire!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_magmar_2_title",
+      "eng": "Magmar: Breaking The Bad",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_magmar_2_description",
+      "eng": "Defeat the Vanar General in ONE turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_magmar_2_start",
+      "eng": "Finish off Faie Bloodwing in ONE turn!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_magmar_2_fail",
+      "eng": "Hint: Silhouette Tracer can give your general great mobility.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_magmar_2_taunt",
+      "eng": "You need to chill!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_magmar_3_title",
+      "eng": "Magmar: Crushing Reach",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_magmar_3_description",
+      "eng": "Use RANGED to defeat the Vanar General in ONE turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_magmar_3_start",
+      "eng": "Finish off Faie Bloodwing in ONE turn!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_magmar_3_fail",
+      "eng": "Hint: Use your Ranged minions to clear a path.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_magmar_3_taunt",
+      "eng": "Beware, frost is coming!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_magmar_4_title",
+      "eng": "Magmar: Shattered Memories",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_magmar_4_description",
+      "eng": "Use ARTIFACT DESTRUCTION to defeat the Abyssian General in ONE turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_magmar_4_start",
+      "eng": "Finish off the Abyssian General in ONE turn!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_magmar_4_fail",
+      "eng": "Hint: Disarm Lilithe so Vaath can land the finishing blow!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_magmar_4_taunt",
+      "eng": "Find peace in your demise!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "medium_magmar_1_title",
+      "eng": "Magmar: In a Frenzy",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "medium_magmar_1_description",
+      "eng": "Defeat the Vanar General in ONE turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "medium_magmar_1_start",
+      "eng": "Finish off Faie Bloodwing in ONE turn!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "medium_magmar_1_fail",
+      "eng": "Hint: Fractal Replication clones ALL traits on a unit.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "medium_magmar_1_taunt",
+      "eng": "You need to chill!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_songhai_1_title",
+      "eng": "Songhai: The Stronger Scythe",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_songhai_1_description",
+      "eng": "Defeat the Vetruvian General in ONE turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_songhai_1_start",
+      "eng": "Finish off the enemy general in ONE turn!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_songhai_1_fail",
+      "eng": "Hint: Syvrel must Focus to draw out the threats.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_songhai_1_taunt",
+      "eng": "Time to freeze!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_songhai_1_title",
+      "eng": "Songhai: Evolution into Ash",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_songhai_1_description",
+      "eng": "Defeat the Magmar General in ONE turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_songhai_1_start",
+      "eng": "Finish off Vaath the Immortal in ONE turn!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_songhai_1_fail",
+      "eng": "Hint: Kill the Phalanxar with your general without dying.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_songhai_1_taunt",
+      "eng": "Be crushed by the weight of our might!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_songhai_2_title",
+      "eng": "Songhai: Path of the Mistwalkers",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_songhai_2_description",
+      "eng": "Use SPELL CHAINING to defeat the Vanar General in ONE turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_songhai_2_start",
+      "eng": "Finish off the enemy general in ONE turn!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_songhai_2_fail",
+      "eng": "Hint: You must Focus before you use Seal.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_songhai_2_taunt",
+      "eng": "Time to freeze!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_songhai_3_title",
+      "eng": "Songhai: Chaos Control",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_songhai_3_description",
+      "eng": "Defeat the Abyssian General in ONE turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_songhai_3_start",
+      "eng": "Finish off the enemy general in ONE turn!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_songhai_3_fail",
+      "eng": "Hint: Eliminate enemy forces so that your monk can strike the lone General.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_songhai_3_taunt",
+      "eng": "Time to freeze!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_songhai_4_title",
+      "eng": "Songhai: Leaf on the Wind",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_songhai_4_description",
+      "eng": "Use AIRDROP to defeat the Lyonar General in ONE turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_songhai_4_start",
+      "eng": "Finish off the Lyonar General in ONE turn!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_songhai_4_fail",
+      "eng": "Hint: Sneak behind your enemy with Airdrop.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_songhai_4_taunt",
+      "eng": "Crushed by the weight of our might!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_songhai_5_title",
+      "eng": "Songhai: Eye of the Tiger",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_songhai_5_description",
+      "eng": "Use SELF BUFFING and RUSH to defeat the Lyonar General in ONE turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_songhai_5_start",
+      "eng": "Finish off the Lyonar General in ONE turn!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_songhai_5_fail",
+      "eng": "My pet hungers to bring down the enemy General. Allow me to match its ferocity against the Knight using the Seal.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_songhai_5_taunt",
+      "eng": "Crushed by the weight of our might!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "medium_songhai_1_title",
+      "eng": "Songhai: Songhai Shuffle",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "medium_songhai_1_description",
+      "eng": "Defeat the Lyonar General in ONE turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "medium_songhai_1_start",
+      "eng": "Finish off the enemy general in ONE turn!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "medium_songhai_1_fail",
+      "eng": "Hint: Weaken your opponents' armor before you unleash the lightning!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "medium_songhai_1_taunt",
+      "eng": "Burn in the light!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "medium_songhai_2_title",
+      "eng": "Songhai: Jack of Blades",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "medium_songhai_2_description",
+      "eng": "Use CELERITY and time your skills to bring down the Magmar General in ONE turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "medium_songhai_2_start",
+      "eng": "Finish off the enemy general in ONE turn!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "medium_songhai_2_fail",
+      "eng": "Hint: You must show restraint before unleashing the Seal to strike with every attack.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "medium_songhai_2_taunt",
+      "eng": "Burn in the light!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_vanar_1_title",
+      "eng": "Vanar: The Locked Library",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_vanar_1_description",
+      "eng": "Defeat the Songhai General in ONE turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_vanar_1_start",
+      "eng": "Finish off the Songhai General in ONE turn!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_vanar_1_fail",
+      "eng": "Hint: Acquiring the wisdom of the Sage is key",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_vanar_1_taunt",
+      "eng": "Say your prayers.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_vanar_2_title",
+      "eng": "Vanar: Ice Box",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_vanar_2_description",
+      "eng": "Strengthen your walls and turn them to bring down the Songhai General from Full Health.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_vanar_2_start",
+      "eng": "Finish off the Songhai General in ONE turn!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_vanar_2_fail",
+      "eng": "Hint: The might of the Primus is permanent, use it to polarize your defenses.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_vanar_2_taunt",
+      "eng": "Say your prayers.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vanar_1_title",
+      "eng": "Vanar: Freezing Sand",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vanar_1_description",
+      "eng": "Defeat the Vetruvian General in ONE turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vanar_1_start",
+      "eng": "Finish off Zirix Starstrider in ONE turn!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vanar_1_fail",
+      "eng": "Hint: Control where the Glacial Elemental's ability hits by clearing out the other enemy minions.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vanar_1_taunt",
+      "eng": "Burn in fire and sand!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vanar_2_title",
+      "eng": "Vanar: Frozen Shadows",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vanar_2_description",
+      "eng": "Defeat the Abyssian General in ONE turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vanar_2_start",
+      "eng": "Finish off Lilithe Blightchaser in ONE turn!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    }
+  ]
+}

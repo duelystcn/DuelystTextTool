@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.0",
+  "nodeCode": "cards",
+  "path": "cards",
+  "orderStart": 1000,
+  "orderEnd": 1099,
+  "translateItemList": [
+    {
+      "code": "faction_2_artifact_bloodrage_mask_name",
+      "eng": "Bloodrage Mask",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_artifact_bloodrage_mask_description",
+      "eng": "Whenever you cast a spell, deal 1 damage to the enemy General.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_artifact_crescent_spear_name",
+      "eng": "Crescent Spear",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_artifact_crescent_spear_description",
+      "eng": "Your General gains +1 Attack. Spells you cast that deal damage deal +1 damage.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_artifact_bangle_of_blinding_strike_name",
+      "eng": "Bangle of Blinding Strike",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_artifact_bangle_of_blinding_strike_description",
+      "eng": "Your General has Celerity.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_artifact_unbounded_energy_amulet_name",
+      "eng": "Unbounded Energy Amulet",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_artifact_unbounded_energy_amulet_desc",
+      "eng": "Your General gains +1 Attack.\nYour General may move an additional space.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_artifact_ornate_hiogi_name",
+      "eng": "Ornate Hiogi",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_artifact_ornate_hiogi_desc",
+      "eng": "Whenever you cast a spell, draw a card.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_kaelos_name",
+      "eng": "Kaleos Xaan",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_kaelos_desc",
+      "eng": "Bloodbound Spell: Teleport a friendly minion up to 2 spaces.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_reva_name",
+      "eng": "Reva Eventide",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_reva_desc",
+      "eng": "Bloodbound Spell: Summon a Heartseeker nearby your General.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_shidai_name",
+      "eng": "Shidai Stormblossom",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_shidai_desc",
+      "eng": "Bloodbound Spell: Put a Spellsword into your action bar that cannot be replaced.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_lantern_fox_name",
+      "eng": "Lantern Fox",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_lantern_fox_desc",
+      "eng": "Whenever this minion takes damage, put a Phoenix Fire into your action bar.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_jade_monk_name",
+      "eng": "Jade Monk",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_jade_monk_desc",
+      "eng": "Whenever this minion takes damage, deal 1 damage to a random enemy minion.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_chakri_avatar_name",
+      "eng": "Chakri Avatar",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_chakri_avatar_desc",
+      "eng": "Whenever you cast a spell, this minion gains +1/+1",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_four_winds_magi_name",
+      "eng": "Four Winds Magi",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_four_winds_magi_desc",
+      "eng": "Whenever you cast a spell, deal 1 damage to enemy General and restore 1 Health to your General",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_celestial_phantom_name",
+      "eng": "Celestial Phantom",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_celestial_phantom_desc",
+      "eng": "Destroy any minion damaged by this minion.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_storm_kage_name",
+      "eng": "Storm Kage",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_storm_kage_desc",
+      "eng": "Whenever one of your spells deals damage, put a Kage Lightning in your action bar.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_hamon_bladeseeker_name",
+      "eng": "Hamon Bladeseeker",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_hamon_bladeseeker_desc",
+      "eng": "At the start of your turn, deal 2 damage to your General.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_keshrai_fanblade_name",
+      "eng": "Keshrai Fanblade",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_keshrai_fanblade_desc",
+      "eng": "Opening Gambit: Next turn, opponent's spells cost 2 more to cast",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_kaido_assassin_name",
+      "eng": "Kaido Assassin",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_kaido_assassin_desc",
+      "eng": "Backstab: (1).",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_scarlet_viper_name",
+      "eng": "Scarlet Viper",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_scarlet_viper_desc",
+      "eng": "Flying\nBackstab: (4).",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_gorehorn_name",
+      "eng": "Gore Horn",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_gorehorn_desc",
+      "eng": "Backstab: (2)\nAfter this minion attacks, it gains +1/+1.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_panddo_name",
+      "eng": "Panddo",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_panddo_desc",
+      "eng": "Cannot be attacked.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_tuskboar_name",
+      "eng": "Tusk Boar",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_tuskboar_desc",
+      "eng": "Rush\nReturn this minion to your action bar at the beginning of your turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_heartseeker_name",
+      "eng": "Heartseeker",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_heartseeker_desc",
+      "eng": "Ranged",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_widowmaker_name",
+      "eng": "Widowmaker",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_widowmaker_desc",
+      "eng": "Ranged",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_katara_name",
+      "eng": "Katara",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_katara_desc",
+      "eng": "Backstab: (1).",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_ace_name",
+      "eng": "Ace",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_ace_desc",
+      "eng": "Ranged",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_ki_beholder_name",
+      "eng": "Ki Beholder",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_ki_beholder_desc",
+      "eng": "Ranged\nOpening Gambit: An enemy minion cannot move next turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_xho_name",
+      "eng": "Xho",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_xho_desc",
+      "eng": "Dying Wish: Put a random Songhai spell into your action bar. It costs 1 less.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_battle_panddo_name",
+      "eng": "Battle Panddo",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_battle_panddo_desc",
+      "eng": "Whenever this minion takes damage, deal 1 damage to all enemies.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_onyx_jaguar_name",
+      "eng": "Onyx Jaguar",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_onyx_jaguar_desc",
+      "eng": "Whenever a friendly unit is moved for any reason, it gains +1/+1.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_grandmaster_zendo_name",
+      "eng": "Grandmaster Zendo",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_grandmaster_zendo_desc",
+      "eng": "The enemy General moves and attacks automatically.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_lightning_sister_name",
+      "eng": "Storm Sister Alkyone",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_lightning_sister_desc",
+      "eng": "Spells you cast that deal damage deal +1 damage.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_whiplash_name",
+      "eng": "Whiplash",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_whiplash_desc",
+      "eng": "Blood Surge: Deal 2 damage to the enemy General.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_geomancer_name",
+      "eng": "Geomancer",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_geomancer_desc",
+      "eng": "Opening Gambit: Your Bloodbound Spell is Phoenix Fire.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_twilight_fox_name",
+      "eng": "Twilight Fox",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_twilight_fox_desc",
+      "eng": "Blood Surge: Teleport a random enemy to the space behind your General.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_sparrowhawk_name",
+      "eng": "Sparrowhawk",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_sparrowhawk_desc",
+      "eng": "Bond: Put a Mist Dragon Seal into your action bar.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_kindling_name",
+      "eng": "Kindling",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_kindling_desc",
+      "eng": "Whenever you cast a spell, your Arcanyst minions gain +1 Attack.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_calligrapher_name",
+      "eng": "Calligrapher",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_calligrapher_desc",
+      "eng": "Rush\nWhenever this minion attacks, put three Songhai spells into your action bar.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_flamewreath_name",
+      "eng": "Flamewreath",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_flamewreath_desc",
+      "eng": "Whenever this minion is moved for any reason, it deals 2 damage to all enemies around it.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_scroll_bandit_name",
+      "eng": "Scroll Bandit",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_scroll_bandit_desc",
+      "eng": "Backstab: (1).\nWhenever this backstabs, steal a spell from your opponent's deck.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_eternity_painter_name",
+      "eng": "Eternity Painter",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_eternity_painter_desc",
+      "eng": "At the end of your turn, transform all nearby enemy minions into 0/2 Panddos that cannot be attacked.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_watchful_sentinel_name",
+      "eng": "Watchful Sentinel",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_watchful_sentinel_desc",
+      "eng": "Sentinel: This transforms into a powerful minion if its hidden condition is met.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_hundred_hand_name",
+      "eng": "Hundred-Handed Rakushi",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_hundred_hand_desc",
+      "eng": "Sentinel: Minion summoned.\nDeal 2 damage to the minion that transformed this.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_mizuchi_name",
+      "eng": "Mizuchi",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_mizuchi_desc",
+      "eng": "Sentinel: General attacks.\nFlying\nBackstab: (2).",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_mind_cage_oni_name",
+      "eng": "Mind-Cage Oni",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_mind_cage_oni_desc",
+      "eng": "Sentinel: Spell cast.\nWhenever your opponent casts a spell, put a copy of that spell into your action bar.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_suzumebachi_name",
+      "eng": "Suzumebachi",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_suzumebachi_desc",
+      "eng": "Whenever you cast a spell, this minion gains +1 Attack until your next turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_manakite_drifter_name",
+      "eng": "Manakite Drifter",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_manakite_drifter_desc",
+      "eng": "Build: (2).\nWhen this minion is built, gain +2 mana this turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_dusk_rigger_name",
+      "eng": "Dusk Rigger",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_dusk_rigger_desc",
+      "eng": "Backstab: (2).\nWhenever this backstabs, put a MECHAZ0R Progression into your action bar.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_wildfire_tenketsu_name",
+      "eng": "Wildfire Tenketsu",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_wildfire_tenketsu_desc",
+      "eng": "Blood Surge: Put an Eight Gates into your action bar.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_penumbraxx_name",
+      "eng": "Penumbraxx",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_penumbraxx_desc",
+      "eng": "Build: (2).\nBackstab: (2).\nWhenever this backstabs, transform it into a building with Build (1).",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_second_sword_sarugi_name",
+      "eng": "Second-sword Sarugi",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_unit_second_sword_sarugi_desc",
+      "eng": "Your spells cost 2 less.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    }
+  ]
+}

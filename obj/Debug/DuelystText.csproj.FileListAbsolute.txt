@@ -28,3 +28,4 @@ D:\work\winDuelystText\DuelystText\bin\Debug\Newtonsoft.Json.xml
 D:\work\winDuelystText\DuelystText\obj\Debug\DuelystText.csproj.CopyComplete
 D:\work\winDuelystText\DuelystText\obj\Debug\DuelystText.NodeForm.resources
 D:\work\winDuelystText\DuelystText\obj\Debug\DuelystText.TranslateForm.resources
+D:\work\winDuelystText\DuelystText\bin\Debug\使用教程.docx

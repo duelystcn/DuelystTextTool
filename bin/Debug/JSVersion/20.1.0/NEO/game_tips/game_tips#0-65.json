@@ -1,0 +1,471 @@
+{
+  "versionCode": "20.1.0",
+  "nodeCode": "game_tips",
+  "path": "game_tips",
+  "orderStart": 0,
+  "orderEnd": 65,
+  "translateItemList": [
+    {
+      "code": "novice_tip_0",
+      "eng": "Occupying a Mana Spring gives you +1 bonus Mana for that turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "novice_tip_1",
+      "eng": "Up to 3 Artifacts can be equipped at one time.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "novice_tip_2",
+      "eng": "Minions will always counterattack, even if they get destroyed.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "novice_tip_3",
+      "eng": "Use Practice Mode to hone your skills with a new Faction.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "novice_tip_4",
+      "eng": "Earn rewards for completing Solo Challenges.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "novice_tip_5",
+      "eng": "You can gain Faction XP up to level 10 in practice mode.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "novice_tip_6",
+      "eng": "Reach Rank 20 and you'll be rewarded with a Loot Crate containing prizes at the end of the season!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "novice_tip_7",
+      "eng": "Reach Rank 10 and you'll be rewarded with a new LEGENDARY card at the end of the season.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "novice_tip_8",
+      "eng": "Every month, rank up in Ranked Ladder to earn better monthly rewards.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "novice_tip_9",
+      "eng": "Allies can move through each other, but not through enemies.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "novice_tip_10",
+      "eng": "Bonus chevrons are awarded for each rank achieved at the end of the previous season.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "novice_tip_11",
+      "eng": "Look at ALL cards in the entire set by enabling Crafting Mode.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "novice_tip_12",
+      "eng": "You earn +20 Gold for your first Win of the Day.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "novice_tip_13",
+      "eng": "Card Rarity: COMMON, RARE, EPIC and LEGENDARY.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "novice_tip_14",
+      "eng": "5 Divisions: BRONZE, SILVER, GOLD, DIAMOND AND S-RANK.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "novice_tip_15",
+      "eng": "Win Streaks start in SILVER and end in DIAMOND.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "novice_tip_16",
+      "eng": "Artifacts have 3 durability - damage the wearer 3 times to break them.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "novice_tip_17",
+      "eng": "Once you enter a new Division, you cannot drop to the previous division for that season.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "novice_tip_18",
+      "eng": "Playing online matches earn you Faction XP.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "novice_tip_19",
+      "eng": "Generals cannot surpass 25 health.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "novice_tip_20",
+      "eng": "Tipping opponents at the end of a match is a great way to show that you enjoyed playing against them.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "novice_tip_21",
+      "eng": "You can replace each quest once per day.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "novice_tip_22",
+      "eng": "Your units can move up to 2 spaces.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "novice_tip_23",
+      "eng": "You can replace one card per turn, every turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "novice_tip_24",
+      "eng": "Replacing a card never returns the same copy of that card.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "novice_tip_25",
+      "eng": "You can change your username once per month.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "novice_tip_26",
+      "eng": "The standard movement range for units is 2 spaces.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "novice_tip_27",
+      "eng": "You do not draw cards at the end of your turn if your action bar is full.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "novice_tip_28",
+      "eng": "Join a tournament to get exclusive rewards: prestige emotes, ribbons, titles.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "novice_tip_29",
+      "eng": "The effects of Artifacts cannot be dispelled.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "novice_tip_30",
+      "eng": "Player 1’s units always face to the right, while Player 2’s units always face to the left.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "novice_tip_31",
+      "eng": "You gain 1 Mana at the start of your turn, up to max of 9.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "novice_tip_32",
+      "eng": "You can mute an opponent by clicking on their portrait.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "novice_tip_33",
+      "eng": "You start with an extra mana crystal as Player 2.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "novice_tip_34",
+      "eng": "Unlock over a dozen Hidden Achievements as you play more matches.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "novice_tip_35",
+      "eng": "You earn a Faction Ribbon for every 100 wins with that faction.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "novice_tip_36",
+      "eng": "Watch your own replays in your Profile Match History.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "novice_tip_37",
+      "eng": "The Battle Log shows you all previous card plays during your match.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "novice_tip_38",
+      "eng": "Actions consist of movements followed by attacks, you cannot attack and then move.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "medium_tip_0",
+      "eng": "Consider replacing at the START of your turn to expand your strategic options.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "medium_tip_1",
+      "eng": "Minions with AIRDROP can be summoned anywhere on the battlefield.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "medium_tip_2",
+      "eng": "Minions with BLAST deal damage to all enemies in a straight line.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "medium_tip_3",
+      "eng": "Minions with CELERITY can be activated TWICE per turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "medium_tip_4",
+      "eng": "Minions with DEATHWATCH trigger whenever ANY minion dies.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "medium_tip_5",
+      "eng": "Minions with DYING WISH trigger AFTER they're destroyed.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "medium_tip_6",
+      "eng": "Minions with FLYING can move anywhere on the battlefield.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "medium_tip_7",
+      "eng": "Minions with FRENZY can hit all nearby enemies simultaneously.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "medium_tip_8",
+      "eng": "Minions with PROVOKE force nearby enemies to attack them first.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "medium_tip_9",
+      "eng": "Minions with REBIRTH leave behind an egg that hatches before your next turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "medium_tip_10",
+      "eng": "Minions with RUSH are activated right upon entering play.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "medium_tip_11",
+      "eng": "Minions with GROW will gain stats at the beginning of your turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "medium_tip_12",
+      "eng": "Reach Rank 10 and you'll be rewarded with a new LEGENDARY card at the end of the season.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "medium_tip_13",
+      "eng": "Consider replacing at the START of your turn to expand your strategic options.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "medium_tip_14",
+      "eng": "ZEAL minions need to be near your General to maximize their potential.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "medium_tip_15",
+      "eng": "Minions with OPENING GAMBIT trigger right BEFORE they enter play.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "medium_tip_16",
+      "eng": "Wall Minions disappear when dispelled.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "medium_tip_17",
+      "eng": "BLAST minions will receive counterattacks from RANGED minions.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "medium_tip_18",
+      "eng": "Dervishes summoned by your Obelysks disappear at the end of your turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "medium_tip_19",
+      "eng": "Effects that only target minions will not apply to Generals.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "medium_tip_20",
+      "eng": "Minions with FRENZY are only counterattacked by their attack target.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "medium_tip_21",
+      "eng": "Minions with INFILTRATE gain a bonus while on your opponent's side of the battlefield.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "medium_tip_22",
+      "eng": "Star's Fury won't summon Dervishes on spaces that are already occupied.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "medium_tip_23",
+      "eng": "Dispelling a STUNNED minion will remove STUN, allowing it to move and attack.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "medium_tip_24",
+      "eng": "Transforming units does not activate REBIRTH or DYING WISH.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "medium_tip_25",
+      "eng": "Use your allies to block movement of your enemies.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "medium_tip_26",
+      "eng": "Your minions lose the ZEAL buff when they're not adjacent to your General.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    }
+  ]
+}

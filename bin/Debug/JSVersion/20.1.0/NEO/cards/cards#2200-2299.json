@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.0",
+  "nodeCode": "cards",
+  "path": "cards",
+  "orderStart": 2200,
+  "orderEnd": 2299,
+  "translateItemList": [
+    {
+      "code": "neutral_hydrax_desc",
+      "eng": "Whenever a friendly Battle Pet dies, draw a card.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_inquisitor_kron_name",
+      "eng": "Inquisitor Kron",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_inquisitor_kron_desc",
+      "eng": "Provoke\nWhenever you replace a card, summon a 2/2 Prisoner with a random ability nearby.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_rawr_name",
+      "eng": "Rawr",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_rawr_desc",
+      "eng": "Whenever this minion takes damage, summon a random Battle Pet nearby.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_fog_name",
+      "eng": "Fog",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_fog_desc",
+      "eng": "Dying Wish: Draw a random battle pet.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_rok_name",
+      "eng": "Rok",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_rok_desc",
+      "eng": "Can't move.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_dex_name",
+      "eng": "Dex",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_dex_desc",
+      "eng": "Celerity",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_sai_name",
+      "eng": "Sai",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_ubo_name",
+      "eng": "Ubo",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_ubo_desc",
+      "eng": "Flying",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_oni_name",
+      "eng": "Oni",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_oni_desc",
+      "eng": "Forcefield.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_dispirited_prisoner_name",
+      "eng": "Dispirited Prisoner",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_dispirited_prisoner_desc",
+      "eng": "Frenzy",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_broken_captive_name",
+      "eng": "Broken Captive",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_broken_captive_desc",
+      "eng": "Rush",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_ruined_slave_name",
+      "eng": "Ruined Slave",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_ruined_slave_desc",
+      "eng": "Provoke",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_dejected_thrall_name",
+      "eng": "Dejected Thrall",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_dejected_thrall_desc",
+      "eng": "Forcefield",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_drudging_servant_name",
+      "eng": "Drudging Servant",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_drudging_servant_desc",
+      "eng": "Flying",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_toiling_vassal_name",
+      "eng": "Toiling Vassal",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_toiling_vassal_desc",
+      "eng": "Ranged",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_sworn_sister_name",
+      "eng": "Sworn Sister L'Kian",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_sworn_sister_desc",
+      "eng": "Opening Gambit: Add 2 random cards from your Faction to your action bar.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_riddle_name",
+      "eng": "Riddle",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_riddle_desc",
+      "eng": "While you have the Riddle, you cannot replace. Cast to give your opponent a Riddle.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_cryptographer_name",
+      "eng": "Cryptographer",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_cryptographer_desc",
+      "eng": "Opening Gambit: Refresh your Bloodbound Spell.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_sanguinar_name",
+      "eng": "Sanguinar",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_sanguinar_desc",
+      "eng": "Your Bloodbound Spell costs 0.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_meltdown_name",
+      "eng": "Meltdown",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_meltdown_desc",
+      "eng": "Blood Surge: Deal 6 damage to a random enemy.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_ghoulie_name",
+      "eng": "Ghoulie",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_ghoulie_desc",
+      "eng": "This minion is from every tribe.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_grimes_name",
+      "eng": "Grimes",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_grimes_desc",
+      "eng": "Opening Gambit and Dying Wish: Summon a random minion from any tribe nearby.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_loreweaver_name",
+      "eng": "Loreweaver",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_loreweaver_desc",
+      "eng": "Whenever you draw a spell, put a copy of it into your action bar.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_celebrant_name",
+      "eng": "Celebrant",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_celebrant_desc",
+      "eng": "Opening Gambit: Create a mana spring tile nearby.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_blue_conjurer_name",
+      "eng": "Blue Conjurer",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_blue_conjurer_desc",
+      "eng": "Whenever you cast a spell, put a random Arcanyst into your action bar.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_emp_name",
+      "eng": "EMP",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_emp_desc",
+      "eng": "Opening Gambit: Dispel ALL minions and Generals, and destroy ALL artifacts.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_boulder_breacher_name",
+      "eng": "Boulder Breacher",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_boulder_breacher_desc",
+      "eng": "Bond: Enemies can't counterattack this turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_feralu_name",
+      "eng": "Feralu",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_feralu_desc",
+      "eng": "Friendly minions from any tribe have +1/+1.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_trinity_wing_name",
+      "eng": "Trinity Wing",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_trinity_wing_desc",
+      "eng": "Flying\nBond: Put the three Teachings of the Dragon into your action bar.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_lesson_of_power_name",
+      "eng": "Lesson of Power",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_lesson_of_power_desc",
+      "eng": "Deal 2 damage to anything.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_lesson_of_wisdom_name",
+      "eng": "Lesson of Wisdom",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_lesson_of_wisdom_desc",
+      "eng": "Restore 3 Health to anything.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_lesson_of_courage_name",
+      "eng": "Lesson of Courage",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_lesson_of_courage_desc",
+      "eng": "Give your General +1 Attack.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_carcynus_name",
+      "eng": "Carcynus",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_wild_tahr_name",
+      "eng": "Wild Tahr",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_wild_tahr_desc",
+      "eng": "Frenzy\nWhenever an enemy attacks, this minion gains +3 Attack until the end of your turn.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_razorcrag_golem_name",
+      "eng": "Razorcrag Golem",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_komodo_hunter_name",
+      "eng": "Komodo Hunter",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_komodo_hunter_desc",
+      "eng": "Opening Gambit: Your opponent summons two Komodo Chargers nearby their General.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_rokadoptera_name",
+      "eng": "Rokadoptera",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_rokadoptera_desc",
+      "eng": "Opening Gambit: Put a Boulder Hurl into your action bar.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_boulder_hurl_name",
+      "eng": "Boulder Hurl",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_boulder_hurl_desc",
+      "eng": "Deal 1 damage to an enemy.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_emberwyrm_name",
+      "eng": "Emberwyrm",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_emberwyrm_desc",
+      "eng": "Flying",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_sinister_silhouette_name",
+      "eng": "Sinister Silhouette",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_sinister_silhouette_desc",
+      "eng": "Cannot be attacked.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_quahog_name",
+      "eng": "Quahog",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_quahog_desc",
+      "eng": "Enemy minions destroyed by this are returned to their action bar.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_matter_shaper_name",
+      "eng": "Matter Shaper",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_matter_shaper_desc",
+      "eng": "Opening Gambit: Destroy an enemy artifact to put a random artifact from your faction into your action bar.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_thunderhorn_name",
+      "eng": "Thunderhorn",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_thunderhorn_desc",
+      "eng": "Whenever this minion damages an enemy, it also damages all joined enemies.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_spriggin_name",
+      "eng": "Spriggin",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_spriggin_desc",
+      "eng": "Provoke\nOpening Gambit: Each player summons three Spriggin Kin nearby their General.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_bloodsworn_gambler_name",
+      "eng": "Bloodsworn Gambler",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_bloodsworn_gambler_desc",
+      "eng": "Ranged\nEach time this minion attacks, it has a 50% chance to attack again, attacking a random enemy.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_theobule_name",
+      "eng": "Theobule",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_theobule_desc",
+      "eng": "Opening Gambit: Replace each card in your action bar.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_letigress_name",
+      "eng": "Letigress",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_letigress_desc",
+      "eng": "Ranged\nWhenever your General attacks, a cub joins the pack.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_magesworn_name",
+      "eng": "Magesworn",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_magesworn_desc",
+      "eng": "BOTH players cannot cast spells that cost 2 or less.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_dagona_name",
+      "eng": "Dagona",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_dagona_desc",
+      "eng": "Opening Gambit: Devour ANY minion, anywhere.\nDying Wish: Spit out the devoured minion on this space.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_glub_name",
+      "eng": "Glub",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_glub_desc",
+      "eng": "Whenever a Spriggin is destroyed, this minion gains +3/+3.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_binky_name",
+      "eng": "Binky",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_binky_desc",
+      "eng": "Flying\nWhenever this damages a minion, restore 2 Health to your General.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_zetta_name",
+      "eng": "Zetta",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_zetta_desc",
+      "eng": "Frenzy",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    }
+  ]
+}

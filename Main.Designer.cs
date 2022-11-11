@@ -32,19 +32,26 @@ namespace DuelystText
             this.VersionGrid = new System.Windows.Forms.DataGridView();
             this.VersionCode = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Edit = new System.Windows.Forms.DataGridViewButtonColumn();
+            this.ExportFile = new System.Windows.Forms.DataGridViewButtonColumn();
+            this.reference = new System.Windows.Forms.DataGridViewButtonColumn();
+            this.richTextBox1 = new System.Windows.Forms.RichTextBox();
+            this.WorkPeople = new System.Windows.Forms.LinkLabel();
             ((System.ComponentModel.ISupportInitialize)(this.VersionGrid)).BeginInit();
             this.SuspendLayout();
             // 
             // VersionGrid
             // 
+            this.VersionGrid.AllowUserToAddRows = false;
             this.VersionGrid.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.VersionGrid.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.VersionCode,
-            this.Edit});
+            this.Edit,
+            this.ExportFile,
+            this.reference});
             this.VersionGrid.Location = new System.Drawing.Point(12, 12);
             this.VersionGrid.Name = "VersionGrid";
             this.VersionGrid.RowTemplate.Height = 23;
-            this.VersionGrid.Size = new System.Drawing.Size(1024, 641);
+            this.VersionGrid.Size = new System.Drawing.Size(511, 641);
             this.VersionGrid.TabIndex = 0;
             this.VersionGrid.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.VersionGrid_CellContentClick);
             // 
@@ -56,20 +63,55 @@ namespace DuelystText
             // 
             // Edit
             // 
-            this.Edit.HeaderText = "Edit";
+            this.Edit.HeaderText = "编辑";
             this.Edit.Name = "Edit";
+            // 
+            // ExportFile
+            // 
+            this.ExportFile.HeaderText = "导出汉化";
+            this.ExportFile.Name = "ExportFile";
+            // 
+            // reference
+            // 
+            this.reference.HeaderText = "参照";
+            this.reference.Name = "reference";
+            // 
+            // richTextBox1
+            // 
+            this.richTextBox1.Location = new System.Drawing.Point(559, 12);
+            this.richTextBox1.Name = "richTextBox1";
+            this.richTextBox1.ReadOnly = true;
+            this.richTextBox1.Size = new System.Drawing.Size(339, 140);
+            this.richTextBox1.TabIndex = 1;
+            this.richTextBox1.Text = "1，请参考程序文件夹的教程。\n2，编辑前请前往腾讯文档【D2汉化文档分工认领】进行认领，避免重复工作。\n3，修改完成后私聊我，有什么建议也可以找我（晨临雾逝：14" +
+    "56604566），把改好的文件发我。\n4，有不能确定的编辑项请使用标记中状态";
+            // 
+            // WorkPeople
+            // 
+            this.WorkPeople.AutoSize = true;
+            this.WorkPeople.Location = new System.Drawing.Point(557, 173);
+            this.WorkPeople.Name = "WorkPeople";
+            this.WorkPeople.Size = new System.Drawing.Size(161, 12);
+            this.WorkPeople.TabIndex = 2;
+            this.WorkPeople.TabStop = true;
+            this.WorkPeople.Text = "打开【D2汉化文档分工认领】";
+            this.WorkPeople.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.WorkPeople_LinkClicked);
             // 
             // Main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1556, 864);
+            this.ClientSize = new System.Drawing.Size(1090, 864);
+            this.Controls.Add(this.WorkPeople);
+            this.Controls.Add(this.richTextBox1);
             this.Controls.Add(this.VersionGrid);
             this.Name = "Main";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.WindowsDefaultBounds;
             this.Text = "Main";
             this.Load += new System.EventHandler(this.Main_Load);
             ((System.ComponentModel.ISupportInitialize)(this.VersionGrid)).EndInit();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -78,6 +120,10 @@ namespace DuelystText
         private System.Windows.Forms.DataGridView VersionGrid;
         private System.Windows.Forms.DataGridViewTextBoxColumn VersionCode;
         private System.Windows.Forms.DataGridViewButtonColumn Edit;
+        private System.Windows.Forms.DataGridViewButtonColumn ExportFile;
+        private System.Windows.Forms.DataGridViewButtonColumn reference;
+        private System.Windows.Forms.RichTextBox richTextBox1;
+        private System.Windows.Forms.LinkLabel WorkPeople;
     }
 }
 

@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.0",
+  "nodeCode": "shop",
+  "path": "shop",
+  "orderStart": 0,
+  "orderEnd": 99,
+  "translateItemList": [
+    {
+      "code": "confirm_purchase_dialog_purchase_button_label",
+      "eng": "PURCHASE",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "confirm_purchase_dialog_cancel_button_label",
+      "eng": "CANCEL",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "confirm_purchase_dialog_refill_button_label",
+      "eng": "REFILL SHARDS",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "payment_option_steam",
+      "eng": "Steam",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "payment_option_credit_card",
+      "eng": "Credit Card",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "payment_option_paypal",
+      "eng": "Paypal",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "paypal_instructions",
+      "eng": "Paypal purchases may take up to 5 minutes to process. After the purchase is processed your inventory will update automatically. There is no need to reload.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "payment_disabled_for_network_test",
+      "eng": "Payment options disabled for the Network Test. Have fun!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "steam_instructions",
+      "eng": "Purchase using your Steam Wallet and your inventory will auto-update.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "payment_option_disabled_message",
+      "eng": "This payment option is temporarily disabled for maintenance. Sorry for the inconvenience.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "change_payment_info_button_label",
+      "eng": "Change",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "delete_payment_info_button_label",
+      "eng": "Delete",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "confirm_purchase_dialog_quantity_label",
+      "eng": "Quantity",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "confirm_purchase_dialog_orb_gold_cost",
+      "eng": "<strong>{{gold_cost}}</strong> GOLD",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "confirm_purchase_dialog_premium_price",
+      "eng": "<strong> {{price}} </strong> SHARDS",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "all_subcategories_title",
+      "eng": "All",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "balance_label",
+      "eng": "Balance",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "cost_label",
+      "eng": "Cost",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "remaining_label",
+      "eng": "Remaining",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "bonus_label",
+      "eng": "(+{{amount}} BONUS)",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "category_specials_name",
+      "eng": "Specials",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "category_sales_name",
+      "eng": "Sales",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "category_spirit_orbs_name",
+      "eng": "Spirit Orbs",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "category_emotes_name",
+      "eng": "Emotes",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "category_profile_icons_name",
+      "eng": "Profile Icons",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "category_card_backs_name",
+      "eng": "Card Backs",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "category_general_skins_name",
+      "eng": "Card Skins",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "category_battle_maps_name",
+      "eng": "Battle Maps",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "category_bundles_name",
+      "eng": "Bundles",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "category_gauntlet_name",
+      "eng": "Gauntlet",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "category_loot_chest_keys_name",
+      "eng": "Mystery Crate Keys",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "gift_code_button_label",
+      "eng": "Use Gift Codes",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "help_button_label",
+      "eng": "Help and Support",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "specials_category_instructions",
+      "eng": "Specials can only be purchased ONCE",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "orb_contents_instructions",
+      "eng": "Each Orb contains <strong>5 cards</strong>. At least 1 card will be RARE or better.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "eyos_orb_contents_instructions",
+      "eng": "Each {{card_set_name}} Orb contains 3 copies of <strong>3 unowned cards</strong>.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "eyos_orb_set_complete_message",
+      "eng": "You own the full {{card_set_name}} card set!.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "eyos_orb_refund_message",
+      "eng": "Refunds 300 gold for each {{card_set_name}} Orb already purchased.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "core_set_booster_name",
+      "eng": "{{count}} Spirit Orb",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "core_set_booster_name_plural",
+      "eng": "{{count}} Spirit Orbs",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "core_set_booster_description",
+      "eng": "Each Spirit Orb contains 5 cards from the Core set. At least 1 card will be RARE or better.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "shimzar_booster_name",
+      "eng": "{{count}} Shim'Zar Orb",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "shimzar_booster_name_plural",
+      "eng": "{{count}} Shim'Zar Orbs",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "shimzar_booster_description",
+      "eng": "Each Shim'Zar Orb contains 5 cards from the Shim'Zar set. At least 1 card will be RARE or better.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "bloodborn_booster_name",
+      "eng": "{{count}} Bloodbound Orb",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "bloodborn_booster_name_plural",
+      "eng": "{{count}} Bloodbound Orbs",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "bloodborn_booster_complete_name",
+      "eng": "Complete Bloodbound Set",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "bloodborn_booster_complete_description",
+      "eng": "&#8226; The full Rise of the Bloodbound set.<br>&#8226; When you purchase the full set, you will receive 300 gold for each Rise of the Bloodbound Orb you have already opened.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "bloodborn_booster_description",
+      "eng": "&#8226; Each Bloodbound Orb contains 3 copies of 3 random cards from the Bloodbound set (1 Common, 1 Rare, and 1 Epic or Legendary).<br>&#8226; Bloodbound Orbs will not contain cards you already own.<br>&#8226; You cannot craft or disenchant cards in Bloodbound Orbs.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "ancient_booster_name",
+      "eng": "{{count}} Ancient Orb",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "ancient_booster_name_plural",
+      "eng": "{{count}} Ancient Orbs",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "ancient_booster_complete_name",
+      "eng": "Complete Ancient Set",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "ancient_booster_complete_description",
+      "eng": "&#8226; The full Ancient Bonds set.<br>&#8226; When you purchase the full set, you will receive 300 gold for each Ancient Bonds Orb you have already opened.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "ancient_booster_description",
+      "eng": "&#8226; Each Ancient Orb contains 3 copies of 3 random cards from the Ancient Bonds set (1 Common, 1 Rare, and 1 Epic or Legendary).",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "firstwatch_booster_name",
+      "eng": "{{count}} Unearthed Orb",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "firstwatch_booster_name_plural",
+      "eng": "{{count}} Unearthed Orbs",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "firstwatch_booster_description",
+      "eng": "Each Unearthed Orb contains 5 cards from the Unearthed Prophecy set. At least 1 card will be RARE or better.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "wartech_preorder_name_plural",
+      "eng": "Pre-order {{count}} Orbs",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "wartech_preorder_description",
+      "eng": "Pre-order 35 Immortal Vanguard Orbs! The Orbs will become openable when the expansion launches!",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "wartech_booster_name",
+      "eng": "{{count}} Immortal Orb",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "wartech_booster_name_plural",
+      "eng": "{{count}} Immortal Orbs",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "wartech_booster_description",
+      "eng": "Each Immortal Orb contains 5 cards from the Immortal Vanguard set. At least 1 card will be RARE or better.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "combined_booster_name",
+      "eng": "{{count}} Ancient Orb",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "combined_booster_name_plural",
+      "eng": "{{count}} Ancient Orbs",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "combined_booster_description",
+      "eng": "Each Ancient Orb contains 5 cards from the Bloodbound Ancients set. At least 1 card will be RARE or better.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "fate_booster_name",
+      "eng": "{{count}} Mythron Orb",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "fate_booster_name_plural",
+      "eng": "{{count}} Mythron Orbs",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "fate_booster_description",
+      "eng": "Each Mythron Orb contains 5 cards from the Trials of Mythron set. At least 1 card will be RARE or better.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "BRONZE_DIVISION_STARTER_SPECIAL_name",
+      "eng": "Bronze Division Starter",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "BRONZE_DIVISION_STARTER_SPECIAL_description",
+      "eng": "5 Spirit Orbs + 3x Random Neutral Legendary",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "SILVER_DIVISION_STARTER_SPECIAL_name",
+      "eng": "Silver Division Starter",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "SILVER_DIVISION_STARTER_SPECIAL_description",
+      "eng": "10 Spirit Orbs + 3x Random Neutral Epic",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "GOLD_DIVISION_STARTER_SPECIAL_name",
+      "eng": "Gold Division Starter",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "GOLD_DIVISION_STARTER_SPECIAL_description",
+      "eng": "15 Spirit Orbs + 3x Random Faction Legendary",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "F1_F5_STARTER_SPECIAL_name",
+      "eng": "Lyonar and Magmar Starter",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "F1_F5_STARTER_SPECIAL_description",
+      "eng": "4 Epic, 8 Rare cards, and 2 emotes for Lyonar and Magmar. Plus a card back.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "F2_F4_STARTER_SPECIAL_name",
+      "eng": "Songhai and Abyssian Starter",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "F2_F4_STARTER_SPECIAL_description",
+      "eng": "4 Epic, 8 Rare cards, and 2 emotes for Songhai and Abyssian. Plus a card back.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "F3_F6_STARTER_SPECIAL_name",
+      "eng": "Vetruvian and Vanar Starter",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "F3_F6_STARTER_SPECIAL_description",
+      "eng": "4 Epic, 8 Rare cards, and 2 emotes for Vetruvian and Vanar. Plus a card back.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "ALL_FACTIONS_STARTER_SPECIAL_name",
+      "eng": "All Factions Mega Bundle",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "ALL_FACTIONS_STARTER_SPECIAL_description",
+      "eng": "12 Epic, 24 Rare cards, and 6 emotes for all factions! Plus a card back.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "new_product_available_title",
+      "eng": "You've unlocked a new Shop Product",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "Common_Chest_Key_name",
+      "eng": "Common Mystery Crate Key",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "Common_Chest_Key_name_plural",
+      "eng": "{{count}} Common Mystery Crate Keys",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "Common_Chest_Key_description",
+      "eng": "Use this key to unlock a Common Mystery Crate.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "Rare_Chest_Key_name",
+      "eng": "Rare Mystery Crate Key",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "Rare_Chest_Key_name_plural",
+      "eng": "{{count}} Rare Mystery Crate Keys",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "Rare_Chest_Key_description",
+      "eng": "Use this key to unlock a Rare Mystery Crate.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "Epic_Chest_Key_name",
+      "eng": "Epic Mystery Crate Key",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "Epic_Chest_Key_name_plural",
+      "eng": "{{count}} Epic Mystery Crate Keys",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "Epic_Chest_Key_description",
+      "eng": "Use this key to unlock a Epic Mystery Crate.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "Boss_Chest_Key_name",
+      "eng": "Boss Crate Key",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "Boss_Chest_Key_name_plural",
+      "eng": "{{count}} Boss Crate Keys",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "Boss_Chest_Key_description",
+      "eng": "Use this key to unlock a Boss Mystery Crate.",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "frostfire_2017_name",
+      "eng": "Frostfire Crate",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "frostfire_2017_name_plural",
+      "eng": "{{count}} Frostfire Crates",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "frostfire_2017_description",
+      "eng": "Contains one exclusive festive cosmetic, a bundle of Spirit, and one Core Set Spirit Orb. (Duplicate cosmetics will be turned into extra Spirit)",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "frostfire_premium_2017_name",
+      "eng": "Premium Frostfire Crate",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    },
+    {
+      "code": "frostfire_premium_2017_name_plural",
+      "eng": "{{count}} Frostfire Crates",
+      "chi": "",
+      "originVersionCode": "20.1.0",
+      "translateState": 0
+    }
+  ]
+}
