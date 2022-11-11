@@ -36,9 +36,9 @@
     {
       "code": "d2_faction_1_spell_tempest_description",
       "eng": "Deal 2 damage to all units.",
-      "chi": "",
+      "chi": "对所有单位造成2点伤害。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 2
     },
     {
       "code": "d2_faction_1_spell_decimate_name",
@@ -78,9 +78,9 @@
     {
       "code": "d2_faction_1_spell_lasting_judgement_description",
       "eng": "Give a minion +3/-3.",
-      "chi": "",
+      "chi": "使目标随从获得+3/-3。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 2
     },
     {
       "code": "d2_faction_1_spell_martyrdom_name",
@@ -106,9 +106,9 @@
     {
       "code": "d2_faction_1_spell_war_surge_description",
       "eng": "Give allied minions +1/+1.",
-      "chi": "",
+      "chi": "使所有友方随从获得+1/+1。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 2
     },
     {
       "code": "d2_faction_1_spell_lionheart_blessing_name",

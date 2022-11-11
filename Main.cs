@@ -120,5 +120,10 @@ namespace DuelystText
         {
             System.Diagnostics.Process.Start("https://docs.qq.com/sheet/DZVJUWWNZS1RrU29T?tab=BB08J2");
         }
+
+        private void CommonWord_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://docs.qq.com/sheet/DZU5neHVOSVRodlpj?tab=BB08J2");
+        }
     }
 }

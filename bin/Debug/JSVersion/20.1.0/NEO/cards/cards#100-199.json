@@ -484,9 +484,9 @@
     {
       "code": "d2_faction_3_spell_time_maelstrom_description",
       "eng": "Take another turn after this one.",
-      "chi": "",
+      "chi": "在这个回合之后执行一个额外的回合。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 2
     },
     {
       "code": "d2_faction_3_spell_sand_trap_name",

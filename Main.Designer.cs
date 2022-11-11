@@ -36,6 +36,7 @@ namespace DuelystText
             this.reference = new System.Windows.Forms.DataGridViewButtonColumn();
             this.richTextBox1 = new System.Windows.Forms.RichTextBox();
             this.WorkPeople = new System.Windows.Forms.LinkLabel();
+            this.CommonWord = new System.Windows.Forms.LinkLabel();
             ((System.ComponentModel.ISupportInitialize)(this.VersionGrid)).BeginInit();
             this.SuspendLayout();
             // 
@@ -81,15 +82,15 @@ namespace DuelystText
             this.richTextBox1.Location = new System.Drawing.Point(559, 12);
             this.richTextBox1.Name = "richTextBox1";
             this.richTextBox1.ReadOnly = true;
-            this.richTextBox1.Size = new System.Drawing.Size(339, 140);
+            this.richTextBox1.Size = new System.Drawing.Size(339, 185);
             this.richTextBox1.TabIndex = 1;
-            this.richTextBox1.Text = "1，请参考程序文件夹的教程。\n2，编辑前请前往腾讯文档【D2汉化文档分工认领】进行认领，避免重复工作。\n3，修改完成后私聊我，有什么建议也可以找我（晨临雾逝：14" +
-    "56604566），把改好的文件发我。\n4，有不能确定的编辑项请使用标记中状态";
+            this.richTextBox1.Text = "1，请参考程序文件夹的教程。\n2，编辑前请前往腾讯文档【D2汉化文档分工认领】进行认领，避免重复工作。\n3，编辑前请前往腾讯文档【常用语对照表】查看参考，统一风格" +
+    "\n4，修改完成后私聊我，有什么建议也可以找我（晨临雾逝：1456604566），把改好的文件发我。\n5，有不能确定的编辑项请使用标记中状态";
             // 
             // WorkPeople
             // 
             this.WorkPeople.AutoSize = true;
-            this.WorkPeople.Location = new System.Drawing.Point(557, 173);
+            this.WorkPeople.Location = new System.Drawing.Point(557, 219);
             this.WorkPeople.Name = "WorkPeople";
             this.WorkPeople.Size = new System.Drawing.Size(161, 12);
             this.WorkPeople.TabIndex = 2;
@@ -97,11 +98,23 @@ namespace DuelystText
             this.WorkPeople.Text = "打开【D2汉化文档分工认领】";
             this.WorkPeople.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.WorkPeople_LinkClicked);
             // 
+            // CommonWord
+            // 
+            this.CommonWord.AutoSize = true;
+            this.CommonWord.Location = new System.Drawing.Point(557, 248);
+            this.CommonWord.Name = "CommonWord";
+            this.CommonWord.Size = new System.Drawing.Size(125, 12);
+            this.CommonWord.TabIndex = 3;
+            this.CommonWord.TabStop = true;
+            this.CommonWord.Text = "打开【常用语对照表】";
+            this.CommonWord.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.CommonWord_LinkClicked);
+            // 
             // Main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1090, 864);
+            this.Controls.Add(this.CommonWord);
             this.Controls.Add(this.WorkPeople);
             this.Controls.Add(this.richTextBox1);
             this.Controls.Add(this.VersionGrid);
@@ -124,6 +137,7 @@ namespace DuelystText
         private System.Windows.Forms.DataGridViewButtonColumn reference;
         private System.Windows.Forms.RichTextBox richTextBox1;
         private System.Windows.Forms.LinkLabel WorkPeople;
+        private System.Windows.Forms.LinkLabel CommonWord;
     }
 }
 

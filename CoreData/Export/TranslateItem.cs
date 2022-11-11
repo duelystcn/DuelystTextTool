@@ -9,15 +9,15 @@ namespace DuelystText.CoreData.Export
     public enum TranslateState 
     {
         //未处理
-        UnStart,
+        UnStart = 0,
         //存在差异
-        Difference,
+        Difference  = 1,
         //处理完成
-        Processed,
+        Processed = 2,
         //标记
-        Mark,
+        Mark = 3,
         //确认完成
-        Confirm
+        Confirm = 4
     }
 
     public class TranslateItem
