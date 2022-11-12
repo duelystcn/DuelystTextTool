@@ -15,6 +15,6 @@ namespace DuelystText
 
         public static int cutSpac = 100;
 
-        public static bool isAdmin = false;
+        public static bool isAdmin = true;
     }
 }

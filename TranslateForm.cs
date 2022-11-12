@@ -182,6 +182,8 @@ namespace DuelystText
                         if (CheckCanConfirmTranslate())
                         {
                             translateItem.translateState = TranslateState.Confirm;
+                            ToolDataManger.Instance.currentNodeItem.WriteTargetTranslateSaveItem(this.currentEditTSItem, ToolDataManger.Instance.GetTargetNodePath(ToolDataManger.Instance.currentNodeItem));
+                            RefreshOneTranslateItemInfo(translateItem);
                         }
                     }
                 }

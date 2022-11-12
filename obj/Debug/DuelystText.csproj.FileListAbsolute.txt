@@ -33,3 +33,4 @@ D:\work\DuelystTextTool\bin\Debug\使用教程.docx
 D:\work\DuelystTextTool\obj\Debug\DuelystText.NodeForm.resources
 D:\work\DuelystTextTool\obj\Debug\DuelystText.TranslateForm.resources
 D:\work\DuelystTextTool\bin\Debug\version.txt
+D:\work\winDuelystText\DuelystText\bin\Debug\version.txt
