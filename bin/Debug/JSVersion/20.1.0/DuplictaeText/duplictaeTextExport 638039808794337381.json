@@ -1,0 +1,1142 @@
+[
+  {
+    "codeList": [
+      "esc_menu_more_settings_label",
+      "esc_menu_more_settings_label",
+      "menu_item_settings"
+    ],
+    "eng": "Settings",
+    "chi": ""
+  },
+  {
+    "codeList": [
+      "boss_6_part1_desc",
+      "faction_6_unit_whyte_drake_desc",
+      "neutral_dragonlark_desc",
+      "neutral_putrid_dreadflayer_desc",
+      "neutral_storm_aratha_desc",
+      "neutral_pandora_flying_desc",
+      "neutral_ubo_desc",
+      "neutral_drudging_servant_desc",
+      "neutral_emberwyrm_desc",
+      "d2_faction_6_unit_whyte_drake_desc",
+      "d2_neutral_dragonlark_desc",
+      "d2_neutral_young_flamewing_desc",
+      "d2_neutral_pandora_flying_desc",
+      "flying_name"
+    ],
+    "eng": "Flying",
+    "chi": "飞行"
+  },
+  {
+    "codeList": [
+      "boss_6_part2_desc",
+      "neutral_sapphire_seer_desc",
+      "neutral_sunsteel_defender_desc",
+      "neutral_dejected_thrall_desc",
+      "forcefield_name"
+    ],
+    "eng": "Forcefield",
+    "chi": "力场"
+  },
+  {
+    "codeList": [
+      "boss_6_part4_desc",
+      "d2_faction_1_unit_azurite_lion_desc",
+      "neutral_dagger_kiri_desc",
+      "neutral_pandora_celerity_desc",
+      "neutral_dex_desc",
+      "d2_neutral_dagger_kiri_desc",
+      "d2_neutral_pandora_celerity_desc",
+      "faction_1_unit_lysian_brawler_desc",
+      "faction_1_unit_azurite_lion_desc",
+      "celerity_name"
+    ],
+    "eng": "Celerity",
+    "chi": "迅捷"
+  },
+  {
+    "codeList": [
+      "d2_building_name",
+      "building_name",
+      "building_counter_applied_name"
+    ],
+    "eng": "Building",
+    "chi": "建造中"
+  },
+  {
+    "codeList": [
+      "d2_faction_1_unit_argeon_name",
+      "faction_1_unit_argeon_name",
+      "icon_argeon_name"
+    ],
+    "eng": "Argeon Highmayne",
+    "chi": "阿吉恩·金鬃"
+  },
+  {
+    "codeList": [
+      "d2_faction_1_unit_argeon_desc",
+      "d2_faction_1_unit_ziran_desc",
+      "d2_faction_1_unit_brome_desc",
+      "d2_faction_2_unit_kaelos_desc",
+      "d2_faction_2_unit_reva_desc",
+      "d2_faction_2_unit_shidai_desc",
+      "d2_faction_3_unit_zirix_desc",
+      "d2_faction_3_unit_sajj_desc",
+      "d2_faction_3_unit_ciphyron_desc",
+      "d2_faction_4_unit_cassyva_desc",
+      "d2_faction_4_unit_lilithe_desc",
+      "d2_faction_4_unit_maehv_desc",
+      "d2_faction_5_unit_vaath_desc",
+      "d2_faction_5_unit_starhorn_desc",
+      "d2_faction_5_unit_ragnora_desc",
+      "d2_faction_6_unit_faie_desc",
+      "d2_faction_6_unit_kara_desc",
+      "d2_faction_6_unit_ilena_desc",
+      "cardback_humble_bundle_desc",
+      "cardback_dawn_of_duelysts_desc",
+      "practice_mode_recommended_opponent",
+      "lesson_3_title",
+      "lesson_3_description",
+      "lesson_3_difficulty",
+      "lesson_3_start_message",
+      "lesson_3_failure_message"
+    ],
+    "eng": "",
+    "chi": ""
+  },
+  {
+    "codeList": [
+      "d2_faction_1_unit_brome_name",
+      "faction_1_unit_brome_name",
+      "icon_brome_name"
+    ],
+    "eng": "Brome Warcrest",
+    "chi": "布罗姆·战首"
+  },
+  {
+    "codeList": [
+      "d2_faction_1_unit_windblade_adept_name",
+      "faction_1_unit_windblade_adept_name",
+      "icon_windblade_adept_name"
+    ],
+    "eng": "Windblade Adept",
+    "chi": "风刃精兵"
+  },
+  {
+    "codeList": [
+      "d2_faction_1_unit_lightchaser_name",
+      "faction_1_unit_lightchaser_name",
+      "icon_lightchaser_name"
+    ],
+    "eng": "Lightchaser",
+    "chi": "逐日者"
+  },
+  {
+    "codeList": [
+      "d2_faction_1_unit_silverguard_knight_name",
+      "faction_1_unit_silverguard_knight_name",
+      "icon_silverguard_knight_name"
+    ],
+    "eng": "Silverguard Knight",
+    "chi": "银卫骑士"
+  },
+  {
+    "codeList": [
+      "d2_faction_1_unit_suntide_maiden_name",
+      "faction_1_unit_suntide_maiden_name",
+      "icon_suntide_maiden_name"
+    ],
+    "eng": "Suntide Maiden",
+    "chi": "日潮侍女"
+  },
+  {
+    "codeList": [
+      "d2_faction_1_unit_arclyte_sentinel_name",
+      "faction_1_unit_arclyte_sentinel_name",
+      "icon_arclyte_sentinel_name"
+    ],
+    "eng": "Arclyte Sentinel",
+    "chi": "阿克莱哨兵"
+  },
+  {
+    "codeList": [
+      "d2_faction_2_unit_kaelos_name",
+      "faction_2_unit_kaelos_name",
+      "icon_kaleos_name"
+    ],
+    "eng": "Kaleos Xaan",
+    "chi": "卡莱奥斯"
+  },
+  {
+    "codeList": [
+      "d2_faction_2_unit_reva_name",
+      "faction_2_unit_reva_name",
+      "icon_reva_name"
+    ],
+    "eng": "Reva Eventide",
+    "chi": "暮色 雷伊"
+  },
+  {
+    "codeList": [
+      "d2_faction_2_unit_shidai_name",
+      "faction_2_unit_shidai_name",
+      "icon_shidai_name"
+    ],
+    "eng": "Shidai Stormblossom",
+    "chi": "剑芒 石黛"
+  },
+  {
+    "codeList": [
+      "d2_faction_2_unit_kaido_assassin_name",
+      "faction_2_unit_kaido_assassin_name",
+      "icon_kaido_assassin_name"
+    ],
+    "eng": "Kaido Assassin",
+    "chi": "凯多刺客"
+  },
+  {
+    "codeList": [
+      "d2_faction_2_unit_scarlet_viper_name",
+      "faction_2_unit_scarlet_viper_name",
+      "icon_scarlet_viper_name"
+    ],
+    "eng": "Scarlet Viper",
+    "chi": "猩红毒蛇"
+  },
+  {
+    "codeList": [
+      "d2_faction_2_unit_tuskboar_name",
+      "faction_2_unit_tuskboar_name",
+      "icon_tusk_boar_name"
+    ],
+    "eng": "Tusk Boar",
+    "chi": "利牙野猪"
+  },
+  {
+    "codeList": [
+      "d2_faction_2_unit_heartseeker_name",
+      "faction_2_unit_heartseeker_name",
+      "icon_heartseeker_name"
+    ],
+    "eng": "Heartseeker",
+    "chi": "猎心者"
+  },
+  {
+    "codeList": [
+      "d2_faction_2_unit_heartseeker_desc",
+      "faction_2_unit_heartseeker_desc",
+      "faction_2_unit_widowmaker_desc",
+      "faction_2_unit_ace_desc",
+      "neutral_vale_hunter_desc",
+      "neutral_fire_spitter_desc",
+      "neutral_rogue_warden_desc",
+      "neutral_minijax_desc",
+      "neutral_pandora_ranged_desc",
+      "neutral_toiling_vassal_desc",
+      "d2_neutral_vale_hunter_desc",
+      "d2_neutral_minijax_desc",
+      "d2_neutral_pandora_ranged_desc",
+      "ranged_name",
+      "banded_ranged_def"
+    ],
+    "eng": "Ranged",
+    "chi": "远程"
+  },
+  {
+    "codeList": [
+      "d2_faction_2_unit_widowmaker_name",
+      "faction_2_unit_widowmaker_name",
+      "icon_widowmaker_name"
+    ],
+    "eng": "Widowmaker",
+    "chi": "寡妇制造者"
+  },
+  {
+    "codeList": [
+      "d2_faction_3_spell_rashas_curse_name",
+      "d2_faction_3_spell_rashas_curse_followup_name",
+      "faction_3_spell_rashas_curse_name",
+      "faction_3_spell_rashas_curse_followup_name"
+    ],
+    "eng": "Rasha's Curse",
+    "chi": "拉夏的诅咒"
+  },
+  {
+    "codeList": [
+      "d2_faction_3_unit_zirix_name",
+      "faction_3_unit_zirix_name",
+      "icon_zirix_name"
+    ],
+    "eng": "Zirix Starstrider",
+    "chi": "踏星者 泽利克斯"
+  },
+  {
+    "codeList": [
+      "d2_faction_3_unit_sajj_name",
+      "faction_3_unit_sajj_name",
+      "icon_sajj_name"
+    ],
+    "eng": "Scioness Sajj",
+    "chi": "赛尼斯·萨姬"
+  },
+  {
+    "codeList": [
+      "d2_faction_3_unit_ciphyron_name",
+      "faction_3_unit_ciphyron_name",
+      "icon_ciphyron_name"
+    ],
+    "eng": "Ciphyron Ascendant",
+    "chi": "升星者 西弗荣"
+  },
+  {
+    "codeList": [
+      "faction_2_unit_watchful_sentinel_name",
+      "faction_4_unit_watchful_sentinel_name",
+      "faction_6_unit_watchful_sentinel_name"
+    ],
+    "eng": "Watchful Sentinel",
+    "chi": "守望哨兵"
+  },
+  {
+    "codeList": [
+      "faction_2_unit_watchful_sentinel_desc",
+      "faction_4_unit_watchful_sentinel_desc",
+      "faction_6_unit_watchful_sentinel_desc"
+    ],
+    "eng": "Sentinel: This transforms into a powerful minion if its hidden condition is met.",
+    "chi": "守望：当此随从的隐秘条件被满足时，将会变成一个强大的随从。"
+  },
+  {
+    "codeList": [
+      "faction_3_unit_pyromancer_name",
+      "d2_faction_3_unit_pyromancer_name",
+      "icon_pyromancer_name"
+    ],
+    "eng": "Pyromancer",
+    "chi": "火占师"
+  },
+  {
+    "codeList": [
+      "faction_3_unit_pyromancer_desc",
+      "faction_3_unit_starfire_scarab_desc",
+      "d2_faction_3_unit_pyromancer_desc",
+      "d2_faction_3_unit_starfire_scarab_desc",
+      "blast_name"
+    ],
+    "eng": "Blast",
+    "chi": "轰炮"
+  },
+  {
+    "codeList": [
+      "faction_3_unit_mirage_master_name",
+      "d2_faction_3_unit_mirage_master_name",
+      "icon_mirage_master_name"
+    ],
+    "eng": "Mirage Master",
+    "chi": "幻变奇兽"
+  },
+  {
+    "codeList": [
+      "faction_3_unit_starfire_scarab_name",
+      "d2_faction_3_unit_starfire_scarab_name",
+      "icon_starfire_scarab_name"
+    ],
+    "eng": "Starfire Scarab",
+    "chi": "星火圣甲虫"
+  },
+  {
+    "codeList": [
+      "faction_4_unit_cassyva_name",
+      "d2_faction_4_unit_cassyva_name",
+      "icon_cassyva_name"
+    ],
+    "eng": "Cassyva Soulreaper",
+    "chi": "割魂使 卡西瓦"
+  },
+  {
+    "codeList": [
+      "faction_4_unit_lilithe_name",
+      "d2_faction_4_unit_lilithe_name",
+      "icon_lilithe_name"
+    ],
+    "eng": "Lilithe Blightchaser",
+    "chi": "枯萎牧者 莉莉丝"
+  },
+  {
+    "codeList": [
+      "faction_4_unit_maehv_name",
+      "d2_faction_4_unit_maehv_name",
+      "icon_maehv_name"
+    ],
+    "eng": "Maehv Skinsolder",
+    "chi": "处刑人 玛赫"
+  },
+  {
+    "codeList": [
+      "faction_4_unit_abyssal_crawler_name",
+      "d2_faction_4_unit_abyssal_crawler_name",
+      "icon_abyssal_crawler_name"
+    ],
+    "eng": "Abyssal Crawler",
+    "chi": "深渊爪牙"
+  },
+  {
+    "codeList": [
+      "faction_4_unit_gloomchaser_name",
+      "d2_faction_4_unit_gloomchaser_name",
+      "icon_gloomchaser_name"
+    ],
+    "eng": "Gloomchaser",
+    "chi": "逐暗幽蛇"
+  },
+  {
+    "codeList": [
+      "faction_4_unit_vorpal_reaver_name",
+      "d2_faction_4_unit_vorpal_reaver_name",
+      "icon_vorpal_reaver_name"
+    ],
+    "eng": "Vorpal Reaver",
+    "chi": "猎颅者"
+  },
+  {
+    "codeList": [
+      "faction_5_unit_vaath_name",
+      "d2_faction_5_unit_vaath_name",
+      "icon_vaath_name"
+    ],
+    "eng": "Vaath the Immortal",
+    "chi": "不朽的瓦斯"
+  },
+  {
+    "codeList": [
+      "faction_5_unit_starhorn_name",
+      "d2_faction_5_unit_starhorn_name",
+      "icon_starhorn_1_name",
+      "icon_starhorn_2_name"
+    ],
+    "eng": "Starhorn the Seeker",
+    "chi": "求知的星角"
+  },
+  {
+    "codeList": [
+      "faction_5_unit_ragnora_name",
+      "d2_faction_5_unit_ragnora_name",
+      "icon_ragnora_name"
+    ],
+    "eng": "Ragnora the Relentless",
+    "chi": "无情的拉格诺拉"
+  },
+  {
+    "codeList": [
+      "faction_5_unit_phalanxar_name",
+      "d2_faction_5_unit_phalanxar_name",
+      "icon_phalanxar_name",
+      "emote_phalanxar_name"
+    ],
+    "eng": "Phalanxar",
+    "chi": "好战者"
+  },
+  {
+    "codeList": [
+      "faction_5_unit_young_silithar_name",
+      "d2_faction_5_unit_young_silithar_name",
+      "icon_young_silithar_name"
+    ],
+    "eng": "Young Silithar",
+    "chi": "幼年期西里萨"
+  },
+  {
+    "codeList": [
+      "faction_5_unit_young_silithar_desc",
+      "faction_5_unit_veteran_silithar_desc",
+      "faction_5_unit_rex_desc",
+      "d2_faction_5_unit_young_silithar_desc",
+      "d2_faction_5_unit_veteran_silithar_desc",
+      "rebirth_name",
+      "d2_rebirth_name"
+    ],
+    "eng": "Rebirth",
+    "chi": "重生"
+  },
+  {
+    "codeList": [
+      "faction_5_unit_elucidator_name",
+      "d2_faction_5_unit_elucidator_name",
+      "icon_elucidator_name"
+    ],
+    "eng": "Elucidator",
+    "chi": "阐释者"
+  },
+  {
+    "codeList": [
+      "faction_5_unit_veteran_silithar_name",
+      "d2_faction_5_unit_veteran_silithar_name",
+      "icon_veteran_silithar_name"
+    ],
+    "eng": "Veteran Silithar",
+    "chi": "成熟期西利萨"
+  },
+  {
+    "codeList": [
+      "faction_5_unit_makantor_warbeast_name",
+      "d2_faction_5_unit_makantor_warbeast_name",
+      "icon_makantor_name"
+    ],
+    "eng": "Makantor Warbeast",
+    "chi": "纷争制造者"
+  },
+  {
+    "codeList": [
+      "faction_5_unit_silithar_elder_name",
+      "d2_faction_5_unit_silithar_elder_name",
+      "icon_silithar_elder_name"
+    ],
+    "eng": "Silithar Elder",
+    "chi": "完全体西里萨"
+  },
+  {
+    "codeList": [
+      "faction_6_spell_gravity_well_name",
+      "faction_6_unit_gravity_well_name",
+      "d2_faction_6_spell_gravity_well_name"
+    ],
+    "eng": "Gravity Well",
+    "chi": "重力井"
+  },
+  {
+    "codeList": [
+      "faction_6_spell_bonechill_barrier_name",
+      "faction_6_unit_bonechill_barrier_name",
+      "d2_faction_6_spell_bonechill_barrier_name"
+    ],
+    "eng": "Bonechill Barrier",
+    "chi": "刺骨栏栅"
+  },
+  {
+    "codeList": [
+      "faction_6_spell_blazing_spines_name",
+      "faction_6_unit_blazing_spines_name",
+      "d2_faction_6_spell_blazing_spines_name"
+    ],
+    "eng": "Blazing Spines",
+    "chi": "闪光冰锥"
+  },
+  {
+    "codeList": [
+      "faction_6_spell_frostfire_name",
+      "d2_faction_6_spell_frostfire_name",
+      "frostfire_adjective"
+    ],
+    "eng": "Frostfire",
+    "chi": "霜火"
+  },
+  {
+    "codeList": [
+      "faction_6_unit_faie_name",
+      "d2_faction_6_unit_faie_name",
+      "icon_faie_name"
+    ],
+    "eng": "Faie Bloodwing",
+    "chi": "血翼 费伊"
+  },
+  {
+    "codeList": [
+      "faction_6_unit_kara_name",
+      "d2_faction_6_unit_kara_name",
+      "icon_kara_name"
+    ],
+    "eng": "Kara Winterblade",
+    "chi": "冻刃 卡拉"
+  },
+  {
+    "codeList": [
+      "faction_6_unit_ilena_name",
+      "d2_faction_6_unit_ilena_name",
+      "icon_ilena_name"
+    ],
+    "eng": "Ilena Cryobyte",
+    "chi": "冰晶 伊莲娜"
+  },
+  {
+    "codeList": [
+      "faction_6_unit_hearth_sister_name",
+      "d2_faction_6_unit_hearth_sister_name",
+      "icon_hearth_sister_name"
+    ],
+    "eng": "Hearth-Sister",
+    "chi": "炉石姐妹"
+  },
+  {
+    "codeList": [
+      "faction_6_unit_glacial_elemental_name",
+      "d2_faction_6_unit_glacial_elemental_name",
+      "icon_glacial_elemental_name"
+    ],
+    "eng": "Glacial Elemental",
+    "chi": "冰川元素"
+  },
+  {
+    "codeList": [
+      "faction_6_unit_wolfraven_name",
+      "d2_faction_6_unit_wolfraven_name",
+      "icon_wolfraven_name"
+    ],
+    "eng": "Wolfraven",
+    "chi": "狼鸦"
+  },
+  {
+    "codeList": [
+      "faction_6_unit_razorback_name",
+      "d2_faction_6_unit_razorback_name",
+      "icon_razorback_name"
+    ],
+    "eng": "Razorback",
+    "chi": "刀背兽"
+  },
+  {
+    "codeList": [
+      "faction_6_unit_arctic_displacer_name",
+      "d2_faction_6_unit_arctic_displacer_name",
+      "icon_arctic_displacer_name"
+    ],
+    "eng": "Arctic Displacer",
+    "chi": "极地幻兽"
+  },
+  {
+    "codeList": [
+      "faction_6_unit_arctic_displacer_desc",
+      "neutral_planar_scout_desc",
+      "d2_faction_6_unit_arctic_displacer_desc",
+      "d2_neutral_planar_scout_desc",
+      "airdrop_name"
+    ],
+    "eng": "Airdrop",
+    "chi": "空降"
+  },
+  {
+    "codeList": [
+      "faction_6_unit_draugar_lord_name",
+      "d2_faction_6_unit_draugar_lord_name",
+      "icon_draugar_lord_name"
+    ],
+    "eng": "Draugar Lord",
+    "chi": "冰龙领主"
+  },
+  {
+    "codeList": [
+      "faction_6_unit_blazing_spines_desc",
+      "d2_faction_6_unit_blazing_spines_desc",
+      "wall_name"
+    ],
+    "eng": "Wall",
+    "chi": "墙"
+  },
+  {
+    "codeList": [
+      "faction_6_unit_treant_desc",
+      "neutral_swamp_entangler_desc",
+      "neutral_rock_pulverizer_desc",
+      "neutral_primus_shieldmaster_desc",
+      "neutral_fireblazer_desc",
+      "neutral_whistling_blade_desc",
+      "neutral_dioltas_tombstone_desc",
+      "neutral_pandora_provoke_desc",
+      "neutral_ruined_slave_desc",
+      "d2_faction_6_unit_treant_desc",
+      "d2_neutral_swamp_entangler_desc",
+      "d2_neutral_rock_pulverizer_desc",
+      "d2_neutral_dioltas_tombstone_desc",
+      "d2_neutral_pandora_provoke_desc",
+      "faction_1_unit_slo_desc",
+      "provoke_name"
+    ],
+    "eng": "Provoke",
+    "chi": "嘲讽"
+  },
+  {
+    "codeList": [
+      "neutral_piercing_mantis_desc",
+      "neutral_serpenti_desc",
+      "neutral_pandora_frenzy_desc",
+      "neutral_dispirited_prisoner_desc",
+      "neutral_zetta_desc",
+      "d2_neutral_piercing_mantis_desc",
+      "d2_neutral_serpenti_desc",
+      "d2_neutral_pandora_frenzy_desc",
+      "frenzy_name"
+    ],
+    "eng": "Frenzy",
+    "chi": "狂暴"
+  },
+  {
+    "codeList": [
+      "neutral_primus_fist_name",
+      "d2_neutral_primus_fist_name",
+      "emote_primus_fist_name"
+    ],
+    "eng": "Primus Fist",
+    "chi": "铁拳教官"
+  },
+  {
+    "codeList": [
+      "neutral_lady_locke_name",
+      "d2_neutral_lady_locke_name",
+      "icon_lady_locke_name",
+      "emote_lady_locke_name"
+    ],
+    "eng": "Lady Locke",
+    "chi": "链锁女士"
+  },
+  {
+    "codeList": [
+      "neutral_saberspine_tiger_desc",
+      "neutral_spellspark_desc",
+      "neutral_broken_captive_desc",
+      "neutral_saberspine_cub_desc",
+      "d2_neutral_saberspine_tiger_desc",
+      "d2_neutral_spellspark_desc",
+      "rush_name"
+    ],
+    "eng": "Rush",
+    "chi": "冲锋"
+  },
+  {
+    "codeList": [
+      "neutral_lightbender_name",
+      "d2_neutral_lightbender_name",
+      "emote_lightbender_name"
+    ],
+    "eng": "Lightbender",
+    "chi": "扰光法师"
+  },
+  {
+    "codeList": [
+      "neutral_hollow_grovekeeper_name",
+      "d2_neutral_hollow_grovekeeper_name",
+      "emote_hollow_grovekeeper_name"
+    ],
+    "eng": "Hollow Grovekeeper",
+    "chi": "幽谷护林兽"
+  },
+  {
+    "codeList": [
+      "neutral_rook_name",
+      "d2_neutral_rook_name",
+      "icon_rook_name"
+    ],
+    "eng": "Rook",
+    "chi": "瑞克"
+  },
+  {
+    "codeList": [
+      "neutral_zukong_name",
+      "d2_neutral_zukong_name",
+      "icon_zukong_name"
+    ],
+    "eng": "Zukong",
+    "chi": "悟空"
+  },
+  {
+    "codeList": [
+      "frostfire_tiger_name",
+      "d2_frostfire_tiger_name",
+      "skin_frostfire_tiger_name",
+      "skin_frostfire_tiger_desc"
+    ],
+    "eng": "Frostfire Tiger",
+    "chi": "霜火虎"
+  },
+  {
+    "codeList": [
+      "beginner_ranged_challenge_description",
+      "beginner_magmar_2_description",
+      "medium_magmar_1_description"
+    ],
+    "eng": "Defeat the Vanar General in ONE turn.",
+    "chi": "在一个回合内击败Vanar将领。"
+  },
+  {
+    "codeList": [
+      "advanced_abyss_1_description",
+      "medium_abyss_1_description",
+      "advanced_lyonar_1_description",
+      "medium_songhai_1_description"
+    ],
+    "eng": "Defeat the Lyonar General in ONE turn.",
+    "chi": "在一个回合内击败Lyonar将领。"
+  },
+  {
+    "codeList": [
+      "advanced_abyss_1_start",
+      "beginner_abyss_1_start",
+      "medium_abyss_1_start"
+    ],
+    "eng": "Finish off Argeon Highmayne in ONE turn!",
+    "chi": "一个回合内终结阿吉恩·金鬃！"
+  },
+  {
+    "codeList": [
+      "advanced_abyss_1_taunt",
+      "beginner_abyss_2_taunt",
+      "beginner_abyss_3_taunt",
+      "medium_abyss_1_taunt"
+    ],
+    "eng": "Feel the heat of life!",
+    "chi": "感受这生命的炙热！"
+  },
+  {
+    "codeList": [
+      "beginner_abyss_1_taunt",
+      "beginner_lyonar_1_taunt",
+      "beginner_vanar_1_taunt"
+    ],
+    "eng": "Burn in fire and sand!",
+    "chi": "在火和沙中燃烧！"
+  },
+  {
+    "codeList": [
+      "beginner_abyss_2_description",
+      "beginner_abyss_3_description",
+      "advanced_magmar_1_description",
+      "advanced_vanar_1_description",
+      "beginner_vetruvian_2_description"
+    ],
+    "eng": "Defeat the Songhai General in ONE turn.",
+    "chi": "在一个回合内击败Songhai将领。"
+  },
+  {
+    "codeList": [
+      "beginner_abyss_3_start",
+      "beginner_abyss_5_start",
+      "advanced_magmar_1_start",
+      "advanced_vanar_1_start",
+      "advanced_vanar_2_start",
+      "beginner_vanar_5_start",
+      "beginner_vetruvian_2_start"
+    ],
+    "eng": "Finish off the Songhai General in ONE turn!",
+    "chi": "一个回合内终结Songhai将领！"
+  },
+  {
+    "codeList": [
+      "beginner_abyss_4_taunt",
+      "beginner_abyss_5_taunt",
+      "beginner_abyss_6_taunt"
+    ],
+    "eng": "Perish in blood and sand!",
+    "chi": "在血与尘中消亡吧！"
+  },
+  {
+    "codeList": [
+      "advanced_lyonar_1_start",
+      "beginner_songhai_4_start",
+      "beginner_songhai_5_start"
+    ],
+    "eng": "Finish off the Lyonar General in ONE turn!",
+    "chi": "一个回合内终结Lyonar将领！"
+  },
+  {
+    "codeList": [
+      "advanced_lyonar_1_taunt",
+      "advanced_lyonar_2_taunt",
+      "beginner_lyonar_2_taunt",
+      "beginner_lyonar_3_taunt",
+      "beginner_lyonar_4_taunt"
+    ],
+    "eng": "Blaze and burn!",
+    "chi": "全部点燃！"
+  },
+  {
+    "codeList": [
+      "beginner_lyonar_2_start",
+      "beginner_lyonar_3_start",
+      "beginner_lyonar_4_start",
+      "beginner_songhai_1_start"
+    ],
+    "eng": "Finish off Vaath the Immortal in ONE turn!",
+    "chi": "一个回合内终结不朽的瓦斯！"
+  },
+  {
+    "codeList": [
+      "beginner_magmar_1_taunt",
+      "advanced_vetruvian_1_taunt",
+      "beginner_vetruvian_1_taunt",
+      "beginner_vetruvian_2_taunt",
+      "medium_vetruvian_1_taunt",
+      "medium_vetruvian_2_taunt"
+    ],
+    "eng": "Burn in fire!",
+    "chi": "烧成灰烬！"
+  },
+  {
+    "codeList": [
+      "beginner_magmar_2_start",
+      "beginner_magmar_3_start",
+      "medium_magmar_1_start"
+    ],
+    "eng": "Finish off Faie Bloodwing in ONE turn!",
+    "chi": "一个回合内终结血翼费伊！"
+  },
+  {
+    "codeList": [
+      "beginner_magmar_4_start",
+      "beginner_vetruvian_3_start",
+      "medium_vetruvian_1_start"
+    ],
+    "eng": "Finish off the Abyssian General in ONE turn!",
+    "chi": "一个回合内终结Abyssian将领！"
+  },
+  {
+    "codeList": [
+      "advanced_songhai_1_start",
+      "beginner_songhai_2_start",
+      "beginner_songhai_3_start",
+      "medium_songhai_1_start",
+      "medium_songhai_2_start"
+    ],
+    "eng": "Finish off the enemy general in ONE turn!",
+    "chi": "一个回合内终结敌方将领！"
+  },
+  {
+    "codeList": [
+      "advanced_songhai_1_taunt",
+      "beginner_songhai_2_taunt",
+      "beginner_songhai_3_taunt"
+    ],
+    "eng": "Time to freeze!",
+    "chi": "是时候冻结了！"
+  },
+  {
+    "codeList": [
+      "beginner_songhai_3_description",
+      "beginner_vanar_2_description",
+      "beginner_vanar_3_description",
+      "advanced_vetruvian_1_description",
+      "medium_vetruvian_1_description"
+    ],
+    "eng": "Defeat the Abyssian General in ONE turn.",
+    "chi": "在一个回合内击败Abyssian将领。"
+  },
+  {
+    "codeList": [
+      "beginner_vanar_2_start",
+      "beginner_vanar_3_start",
+      "beginner_vetruvian_1_start"
+    ],
+    "eng": "Finish off Lilithe Blightchaser in ONE turn!",
+    "chi": "一个回合内终结枯萎牧者莉莉丝！"
+  },
+  {
+    "codeList": [
+      "scene_magaari_desc",
+      "scene_obsidian_woods_desc",
+      "scene_frostfire_festival_desc",
+      "scene_city_of_kaero_desc",
+      "scene_unearthed_prophecy_desc"
+    ],
+    "eng": "A location in the world of Duelyst.",
+    "chi": "Duelyst世界中的一个地点。"
+  },
+  {
+    "codeList": [
+      "emote_snowchaser_bow_desc",
+      "emote_ziran_bow_desc",
+      "emote_starhorn_bow_desc"
+    ],
+    "eng": "Namaste.",
+    "chi": "合十礼"
+  },
+  {
+    "codeList": [
+      "emote_hollow_grovekeeper_desc",
+      "emote_lightbender_desc",
+      "emote_primus_fist_desc",
+      "emote_zenrui_desc"
+    ],
+    "eng": "Grandmaster Tournament Winner!",
+    "chi": "大师赛冠军！"
+  },
+  {
+    "codeList": [
+      "emote_argeon_love_desc",
+      "emote_vaath_love_desc",
+      "emote_faie_kiss_desc"
+    ],
+    "eng": "Sharing the love!",
+    "chi": "分享爱！"
+  },
+  {
+    "codeList": [
+      "emote_faie_love_desc",
+      "emote_ziran_wink_desc",
+      "emote_sajj_wink_desc",
+      "emote_starhorn_wink_desc",
+      "emote_kara_wink_desc"
+    ],
+    "eng": "Wink wink!",
+    "chi": "Wink wink!"
+  },
+  {
+    "codeList": [
+      "emote_brome_wink_desc",
+      "emote_shidai_wink_desc",
+      "emote_ciphyron_wink_desc",
+      "emote_maehv_wink_desc",
+      "emote_ragnora_wink_desc",
+      "emote_ilena_wink_desc"
+    ],
+    "eng": "Wink",
+    "chi": "Wink"
+  },
+  {
+    "codeList": [
+      "emote_brome_angry_desc",
+      "emote_shidai_angry_desc",
+      "emote_ciphyron_angry_desc",
+      "emote_maehv_angry_desc",
+      "emote_ragnora_angry_desc",
+      "emote_ilena_angry_desc",
+      "emote_angry_name"
+    ],
+    "eng": "Angry",
+    "chi": "生气"
+  },
+  {
+    "codeList": [
+      "emote_brome_confused_desc",
+      "emote_shidai_confused_desc",
+      "emote_maehv_confused_desc",
+      "emote_ragnora_confused_desc",
+      "emote_ilena_confused_desc",
+      "emote_confused_name"
+    ],
+    "eng": "Confused",
+    "chi": "困惑"
+  },
+  {
+    "codeList": [
+      "emote_brome_frustrated_desc",
+      "emote_shidai_frustrated_desc",
+      "emote_ciphyron_frustrated_desc",
+      "emote_maehv_frustrated_desc",
+      "emote_ragnora_frustrated_desc",
+      "emote_ilena_frustrated_desc",
+      "emote_frustrated_name"
+    ],
+    "eng": "Frustrated",
+    "chi": "沮丧"
+  },
+  {
+    "codeList": [
+      "emote_brome_surprised_desc",
+      "emote_shidai_surprised_desc",
+      "emote_ciphyron_surprised_desc",
+      "emote_maehv_surprised_desc",
+      "emote_ragnora_surprised_desc",
+      "emote_ilena_surprised_desc",
+      "emote_surprised_name"
+    ],
+    "eng": "Surprised",
+    "chi": "惊讶"
+  },
+  {
+    "codeList": [
+      "emote_brome_bow_desc",
+      "emote_shidai_bow_desc",
+      "emote_ciphyron_bow_desc",
+      "emote_maehv_bow_desc",
+      "emote_ragnora_bow_desc"
+    ],
+    "eng": "Bow",
+    "chi": "鞠躬"
+  },
+  {
+    "codeList": [
+      "emote_brome_sleep_desc",
+      "emote_shidai_sleep_desc",
+      "emote_ciphyron_sleep_desc",
+      "emote_ragnora_sleep_desc",
+      "emote_ilena_sleep_desc"
+    ],
+    "eng": "Sleep",
+    "chi": "困乏"
+  },
+  {
+    "codeList": [
+      "emote_brome_sunglasses_desc",
+      "emote_shidai_sunglasses_desc",
+      "emote_ciphyron_sunglasses_desc",
+      "emote_maehv_sunglasses_desc",
+      "emote_ragnora_sunglasses_desc",
+      "emote_ilena_sunglasses_desc"
+    ],
+    "eng": "Sunglasses",
+    "chi": "太阳镜"
+  },
+  {
+    "codeList": [
+      "emote_brome_happy_desc",
+      "emote_shidai_happy_desc",
+      "emote_ciphyron_happy_desc",
+      "emote_maehv_happy_desc",
+      "emote_ragnora_happy_desc",
+      "emote_happy_name"
+    ],
+    "eng": "Happy",
+    "chi": "开心"
+  },
+  {
+    "codeList": [
+      "emote_brome_love_desc",
+      "emote_shidai_love_desc",
+      "emote_ciphyron_love_desc",
+      "emote_maehv_love_desc",
+      "emote_ragnora_love_desc",
+      "emote_ilena_love_desc"
+    ],
+    "eng": "Kiss",
+    "chi": "吻"
+  },
+  {
+    "codeList": [
+      "emote_shidai_sad_desc",
+      "emote_ciphyron_sad_desc",
+      "emote_maehv_sad_desc",
+      "emote_ragnora_sad_desc",
+      "emote_sad_name"
+    ],
+    "eng": "Sad",
+    "chi": "悲伤"
+  },
+  {
+    "codeList": [
+      "battlemap_magmar_desc",
+      "battlemap_abyssian_desc",
+      "battlemap_redrock_desc",
+      "battlemap_vanar_desc",
+      "boss_25_taunt"
+    ],
+    "eng": "...",
+    "chi": "..."
+  },
+  {
+    "codeList": [
+      "faction_3_response_neutral",
+      "faction_3_response_f1",
+      "faction_3_response_f3",
+      "faction_3_response_f6"
+    ],
+    "eng": "Sands of time, obey my command!",
+    "chi": "时之沙，听我令！"
+  },
+  {
+    "codeList": [
+      "lesson_1_taunt_3",
+      "lesson_2_taunt_1",
+      "lesson_4_taunt_3"
+    ],
+    "eng": "You're on borrowed time!",
+    "chi": "你在使用额外时间！"
+  }
+]

@@ -37,6 +37,7 @@ namespace DuelystText
             this.richTextBox1 = new System.Windows.Forms.RichTextBox();
             this.WorkPeople = new System.Windows.Forms.LinkLabel();
             this.CommonWord = new System.Windows.Forms.LinkLabel();
+            this.duplicateText = new System.Windows.Forms.DataGridViewButtonColumn();
             ((System.ComponentModel.ISupportInitialize)(this.VersionGrid)).BeginInit();
             this.SuspendLayout();
             // 
@@ -48,11 +49,12 @@ namespace DuelystText
             this.VersionCode,
             this.Edit,
             this.ExportFile,
-            this.reference});
+            this.reference,
+            this.duplicateText});
             this.VersionGrid.Location = new System.Drawing.Point(12, 12);
             this.VersionGrid.Name = "VersionGrid";
             this.VersionGrid.RowTemplate.Height = 23;
-            this.VersionGrid.Size = new System.Drawing.Size(511, 641);
+            this.VersionGrid.Size = new System.Drawing.Size(661, 641);
             this.VersionGrid.TabIndex = 0;
             this.VersionGrid.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.VersionGrid_CellContentClick);
             // 
@@ -79,7 +81,7 @@ namespace DuelystText
             // 
             // richTextBox1
             // 
-            this.richTextBox1.Location = new System.Drawing.Point(559, 12);
+            this.richTextBox1.Location = new System.Drawing.Point(704, 12);
             this.richTextBox1.Name = "richTextBox1";
             this.richTextBox1.ReadOnly = true;
             this.richTextBox1.Size = new System.Drawing.Size(339, 185);
@@ -90,7 +92,7 @@ namespace DuelystText
             // WorkPeople
             // 
             this.WorkPeople.AutoSize = true;
-            this.WorkPeople.Location = new System.Drawing.Point(557, 219);
+            this.WorkPeople.Location = new System.Drawing.Point(702, 219);
             this.WorkPeople.Name = "WorkPeople";
             this.WorkPeople.Size = new System.Drawing.Size(161, 12);
             this.WorkPeople.TabIndex = 2;
@@ -101,7 +103,7 @@ namespace DuelystText
             // CommonWord
             // 
             this.CommonWord.AutoSize = true;
-            this.CommonWord.Location = new System.Drawing.Point(557, 248);
+            this.CommonWord.Location = new System.Drawing.Point(702, 248);
             this.CommonWord.Name = "CommonWord";
             this.CommonWord.Size = new System.Drawing.Size(125, 12);
             this.CommonWord.TabIndex = 3;
@@ -109,11 +111,16 @@ namespace DuelystText
             this.CommonWord.Text = "打开【常用语对照表】";
             this.CommonWord.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.CommonWord_LinkClicked);
             // 
+            // duplicateText
+            // 
+            this.duplicateText.HeaderText = "重复文本提取";
+            this.duplicateText.Name = "duplicateText";
+            // 
             // Main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1090, 864);
+            this.ClientSize = new System.Drawing.Size(1133, 864);
             this.Controls.Add(this.CommonWord);
             this.Controls.Add(this.WorkPeople);
             this.Controls.Add(this.richTextBox1);
@@ -138,6 +145,7 @@ namespace DuelystText
         private System.Windows.Forms.RichTextBox richTextBox1;
         private System.Windows.Forms.LinkLabel WorkPeople;
         private System.Windows.Forms.LinkLabel CommonWord;
+        private System.Windows.Forms.DataGridViewButtonColumn duplicateText;
     }
 }
 

@@ -52,13 +52,15 @@ namespace DuelystText
             versionDataTable.Columns.Add("operate", typeof(string));
             versionDataTable.Columns.Add("exportFile", typeof(string));
             versionDataTable.Columns.Add("reference", typeof(string));
+            versionDataTable.Columns.Add("duplicateText", typeof(string));
             foreach (VersionItem versionItem  in ToolDataManger.Instance.versionDic.Values)
             {
                 versionDataTable.Rows.Add(
                     versionItem.versionCode,
                     "编辑",
                     "导出",
-                    "选择"
+                    "选择",
+                    "整理"
                 ); 
                
             }
@@ -68,6 +70,7 @@ namespace DuelystText
             VersionGrid.Columns[1].DataPropertyName = "operate";
             VersionGrid.Columns[2].DataPropertyName = "exportFile";
             VersionGrid.Columns[3].DataPropertyName = "reference";
+            VersionGrid.Columns[4].DataPropertyName = "duplicateText";
             VersionGrid.DataSource = versionDataTable;
             //提交修改
             versionDataTable.AcceptChanges();
@@ -85,10 +88,15 @@ namespace DuelystText
                     {
                         ShowNodeItemButtonClickNoParent(versionItem);
                     }
-                   
+                    if (btnCell.ColumnIndex == 4)
+                    {
+                        versionItem.CreateDuplicateTextFileAndExport();
+                    }
                 }
             }
         }
+
+
 
         private void ShowNodeItemButtonClick(VersionItem versionItem)
         {

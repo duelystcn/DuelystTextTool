@@ -51,14 +51,15 @@ namespace DuelystText
             this.ConfrimButton = new System.Windows.Forms.Button();
             this.MarkButton = new System.Windows.Forms.Button();
             this.StateCheckBoxGroup = new System.Windows.Forms.GroupBox();
-            this.UnStartCheckBox = new System.Windows.Forms.CheckBox();
-            this.DifferenceCheckBox = new System.Windows.Forms.CheckBox();
-            this.ProcessedCheckBox = new System.Windows.Forms.CheckBox();
-            this.MarkCheckBox = new System.Windows.Forms.CheckBox();
             this.ConfirmCheckBox = new System.Windows.Forms.CheckBox();
+            this.MarkCheckBox = new System.Windows.Forms.CheckBox();
+            this.ProcessedCheckBox = new System.Windows.Forms.CheckBox();
+            this.DifferenceCheckBox = new System.Windows.Forms.CheckBox();
+            this.UnStartCheckBox = new System.Windows.Forms.CheckBox();
             this.label1 = new System.Windows.Forms.Label();
             this.SearchCodeBox = new System.Windows.Forms.TextBox();
             this.SearchButton = new System.Windows.Forms.Button();
+            this.DuplicateTextButton = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.TransFileGridView)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.TranslateGridView)).BeginInit();
             this.StateCheckBoxGroup.SuspendLayout();
@@ -267,42 +268,16 @@ namespace DuelystText
             this.StateCheckBoxGroup.TabStop = false;
             this.StateCheckBoxGroup.Text = "状态选择";
             // 
-            // UnStartCheckBox
+            // ConfirmCheckBox
             // 
-            this.UnStartCheckBox.AutoSize = true;
-            this.UnStartCheckBox.Checked = true;
-            this.UnStartCheckBox.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.UnStartCheckBox.Location = new System.Drawing.Point(6, 20);
-            this.UnStartCheckBox.Name = "UnStartCheckBox";
-            this.UnStartCheckBox.Size = new System.Drawing.Size(60, 16);
-            this.UnStartCheckBox.TabIndex = 0;
-            this.UnStartCheckBox.Text = "未开始";
-            this.UnStartCheckBox.UseVisualStyleBackColor = true;
-            this.UnStartCheckBox.CheckedChanged += new System.EventHandler(this.UnStartCheckBox_CheckedChanged);
-            // 
-            // DifferenceCheckBox
-            // 
-            this.DifferenceCheckBox.AutoSize = true;
-            this.DifferenceCheckBox.Checked = true;
-            this.DifferenceCheckBox.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.DifferenceCheckBox.Location = new System.Drawing.Point(91, 20);
-            this.DifferenceCheckBox.Name = "DifferenceCheckBox";
-            this.DifferenceCheckBox.Size = new System.Drawing.Size(60, 16);
-            this.DifferenceCheckBox.TabIndex = 1;
-            this.DifferenceCheckBox.Text = "有差异";
-            this.DifferenceCheckBox.UseVisualStyleBackColor = true;
-            this.DifferenceCheckBox.CheckedChanged += new System.EventHandler(this.DifferenceCheckBox_CheckedChanged);
-            // 
-            // ProcessedCheckBox
-            // 
-            this.ProcessedCheckBox.AutoSize = true;
-            this.ProcessedCheckBox.Location = new System.Drawing.Point(176, 20);
-            this.ProcessedCheckBox.Name = "ProcessedCheckBox";
-            this.ProcessedCheckBox.Size = new System.Drawing.Size(60, 16);
-            this.ProcessedCheckBox.TabIndex = 2;
-            this.ProcessedCheckBox.Text = "已处理";
-            this.ProcessedCheckBox.UseVisualStyleBackColor = true;
-            this.ProcessedCheckBox.CheckedChanged += new System.EventHandler(this.ProcessedCheckBox_CheckedChanged);
+            this.ConfirmCheckBox.AutoSize = true;
+            this.ConfirmCheckBox.Location = new System.Drawing.Point(345, 20);
+            this.ConfirmCheckBox.Name = "ConfirmCheckBox";
+            this.ConfirmCheckBox.Size = new System.Drawing.Size(60, 16);
+            this.ConfirmCheckBox.TabIndex = 4;
+            this.ConfirmCheckBox.Text = "已确认";
+            this.ConfirmCheckBox.UseVisualStyleBackColor = true;
+            this.ConfirmCheckBox.CheckedChanged += new System.EventHandler(this.ConfirmCheckBox_CheckedChanged);
             // 
             // MarkCheckBox
             // 
@@ -317,16 +292,42 @@ namespace DuelystText
             this.MarkCheckBox.UseVisualStyleBackColor = true;
             this.MarkCheckBox.CheckedChanged += new System.EventHandler(this.MarkCheckBox_CheckedChanged);
             // 
-            // ConfirmCheckBox
+            // ProcessedCheckBox
             // 
-            this.ConfirmCheckBox.AutoSize = true;
-            this.ConfirmCheckBox.Location = new System.Drawing.Point(345, 20);
-            this.ConfirmCheckBox.Name = "ConfirmCheckBox";
-            this.ConfirmCheckBox.Size = new System.Drawing.Size(60, 16);
-            this.ConfirmCheckBox.TabIndex = 4;
-            this.ConfirmCheckBox.Text = "已确认";
-            this.ConfirmCheckBox.UseVisualStyleBackColor = true;
-            this.ConfirmCheckBox.CheckedChanged += new System.EventHandler(this.ConfirmCheckBox_CheckedChanged);
+            this.ProcessedCheckBox.AutoSize = true;
+            this.ProcessedCheckBox.Location = new System.Drawing.Point(176, 20);
+            this.ProcessedCheckBox.Name = "ProcessedCheckBox";
+            this.ProcessedCheckBox.Size = new System.Drawing.Size(60, 16);
+            this.ProcessedCheckBox.TabIndex = 2;
+            this.ProcessedCheckBox.Text = "已处理";
+            this.ProcessedCheckBox.UseVisualStyleBackColor = true;
+            this.ProcessedCheckBox.CheckedChanged += new System.EventHandler(this.ProcessedCheckBox_CheckedChanged);
+            // 
+            // DifferenceCheckBox
+            // 
+            this.DifferenceCheckBox.AutoSize = true;
+            this.DifferenceCheckBox.Checked = true;
+            this.DifferenceCheckBox.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.DifferenceCheckBox.Location = new System.Drawing.Point(91, 20);
+            this.DifferenceCheckBox.Name = "DifferenceCheckBox";
+            this.DifferenceCheckBox.Size = new System.Drawing.Size(60, 16);
+            this.DifferenceCheckBox.TabIndex = 1;
+            this.DifferenceCheckBox.Text = "有差异";
+            this.DifferenceCheckBox.UseVisualStyleBackColor = true;
+            this.DifferenceCheckBox.CheckedChanged += new System.EventHandler(this.DifferenceCheckBox_CheckedChanged);
+            // 
+            // UnStartCheckBox
+            // 
+            this.UnStartCheckBox.AutoSize = true;
+            this.UnStartCheckBox.Checked = true;
+            this.UnStartCheckBox.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.UnStartCheckBox.Location = new System.Drawing.Point(6, 20);
+            this.UnStartCheckBox.Name = "UnStartCheckBox";
+            this.UnStartCheckBox.Size = new System.Drawing.Size(60, 16);
+            this.UnStartCheckBox.TabIndex = 0;
+            this.UnStartCheckBox.Text = "未开始";
+            this.UnStartCheckBox.UseVisualStyleBackColor = true;
+            this.UnStartCheckBox.CheckedChanged += new System.EventHandler(this.UnStartCheckBox_CheckedChanged);
             // 
             // label1
             // 
@@ -354,11 +355,21 @@ namespace DuelystText
             this.SearchButton.UseVisualStyleBackColor = true;
             this.SearchButton.Click += new System.EventHandler(this.SearchButton_Click);
             // 
+            // DuplicateTextButton
+            // 
+            this.DuplicateTextButton.Location = new System.Drawing.Point(12, 16);
+            this.DuplicateTextButton.Name = "DuplicateTextButton";
+            this.DuplicateTextButton.Size = new System.Drawing.Size(75, 23);
+            this.DuplicateTextButton.TabIndex = 15;
+            this.DuplicateTextButton.Text = "填充已有";
+            this.DuplicateTextButton.UseVisualStyleBackColor = true;
+            // 
             // TranslateForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1587, 940);
+            this.Controls.Add(this.DuplicateTextButton);
             this.Controls.Add(this.SearchButton);
             this.Controls.Add(this.SearchCodeBox);
             this.Controls.Add(this.label1);
@@ -417,5 +428,6 @@ namespace DuelystText
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox SearchCodeBox;
         private System.Windows.Forms.Button SearchButton;
+        private System.Windows.Forms.Button DuplicateTextButton;
     }
 }

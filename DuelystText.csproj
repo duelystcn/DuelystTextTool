@@ -68,6 +68,7 @@
     <Compile Include="Common\Log\LogMgr.cs" />
     <Compile Include="Common\Util\FileReadUtil.cs" />
     <Compile Include="Common\Util\TimeUtil.cs" />
+    <Compile Include="CoreData\Export\DuplicateTextItem.cs" />
     <Compile Include="CoreData\Export\TranslateSaveItem.cs" />
     <Compile Include="CoreData\Node\NodeItem.cs" />
     <Compile Include="CoreData\Export\TranslateItem.cs" />

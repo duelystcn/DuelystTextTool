@@ -189,5 +189,18 @@ namespace DuelystText.CoreData.Node
                 childNode.LoadTranslateFile(versionCode);
             }
         }
+
+        public void GetAllTranslateItem(List<TranslateItem> translateItemReturnList) 
+        {
+            foreach (TranslateSaveItem item in this.translateSaveItemList)
+            {
+                translateItemReturnList.AddRange(item.translateItemList);
+            }
+            foreach (var childNode in this.childNodeList)
+            {
+                childNode.GetAllTranslateItem(translateItemReturnList);
+            }
+        
+        }
     }
 }
