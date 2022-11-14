@@ -15,9 +15,9 @@
     {
       "code": "neutral_bonereaper_name",
       "eng": "Bonereaper",
-      "chi": "",
+      "chi": "集骨家",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_bonereaper_desc",
@@ -29,9 +29,9 @@
     {
       "code": "neutral_deathblighter_name",
       "eng": "Deathblighter",
-      "chi": "",
+      "chi": "枯萎化身",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_deathblighter_desc",
@@ -64,9 +64,9 @@
     {
       "code": "neutral_eclipse_name",
       "eng": "Eclipse",
-      "chi": "",
+      "chi": "食月天狗",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_eclipse_desc",
@@ -78,9 +78,9 @@
     {
       "code": "neutral_first_sword_of_akrane_name",
       "eng": "First Sword of Akrane",
-      "chi": "",
+      "chi": "阿克兰的首席剑士",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_first_sword_of_akrane_desc",
@@ -106,9 +106,9 @@
     {
       "code": "neutral_jax_truesight_name",
       "eng": "Jax Truesight",
-      "chi": "",
+      "chi": "灵视杰斯",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_jax_truesight_desc",
@@ -148,9 +148,9 @@
     {
       "code": "neutral_serpenti_name",
       "eng": "Serpenti",
-      "chi": "",
+      "chi": "长颈龙",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_serpenti_desc",
@@ -162,9 +162,9 @@
     {
       "code": "neutral_storm_aratha_name",
       "eng": "Storm Aratha",
-      "chi": "",
+      "chi": "风暴阿格莎",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_storm_aratha_desc",
@@ -176,9 +176,9 @@
     {
       "code": "neutral_stormmetal_golem_name",
       "eng": "Stormmetal Golem",
-      "chi": "",
+      "chi": "铁飓风傀儡",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_the_scientist_name",
@@ -197,23 +197,23 @@
     {
       "code": "neutral_zenrui_name",
       "eng": "Zen'Rui, the Blightspawned",
-      "chi": "",
+      "chi": "曾·锐 枯萎之源",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_zenrui_desc",
       "eng": "Opening Gambit: Take control of a nearby enemy minion with 2 or less Attack.",
-      "chi": "",
+      "chi": "登场：获得一个相邻的攻击小于等于2的敌方随从的控制权。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_astral_crusader_name",
       "eng": "Astral Crusader",
-      "chi": "",
+      "chi": "星界十字军",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_astral_crusader_desc",
@@ -225,9 +225,9 @@
     {
       "code": "neutral_dark_nemesis_name",
       "eng": "Dark Nemesis",
-      "chi": "",
+      "chi": "黑暗宿敌",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_dark_nemesis_desc",
@@ -260,9 +260,9 @@
     {
       "code": "neutral_grailmaster_name",
       "eng": "Grailmaster",
-      "chi": "",
+      "chi": "幻梦学者",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_grailmaster_desc",
@@ -274,9 +274,9 @@
     {
       "code": "neutral_paddo_name",
       "eng": "Paddo",
-      "chi": "",
+      "chi": "帕多",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_paddo_desc",
@@ -288,9 +288,9 @@
     {
       "code": "neutral_pandora_name",
       "eng": "Pandora",
-      "chi": "",
+      "chi": "潘多拉",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_pandora_desc",
@@ -302,9 +302,9 @@
     {
       "code": "neutral_red_synja_name",
       "eng": "Red Synja",
-      "chi": "",
+      "chi": "红女王",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_red_synja_desc",
@@ -316,7 +316,7 @@
     {
       "code": "neutral_rook_name",
       "eng": "Rook",
-      "chi": "瑞克",
+      "chi": "战车",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -330,9 +330,9 @@
     {
       "code": "neutral_war_talon_name",
       "eng": "War Talon",
-      "chi": "",
+      "chi": "好斗魔爪",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_war_talon_desc",
@@ -358,9 +358,9 @@
     {
       "code": "neutral_whistling_blade_name",
       "eng": "Whistling Blade",
-      "chi": "",
+      "chi": "啸刃",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_whistling_blade_desc",
@@ -372,9 +372,9 @@
     {
       "code": "neutral_zurael_the_lifegiver_name",
       "eng": "Zurael, the Lifegiver",
-      "chi": "",
+      "chi": "复归灵鸟 祖瑞尔",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_zurael_the_lifegiver_desc",
@@ -386,9 +386,9 @@
     {
       "code": "neutral_khymera_name",
       "eng": "Khymera",
-      "chi": "",
+      "chi": "凯莫拉",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_khymera_desc",
@@ -414,9 +414,9 @@
     {
       "code": "neutral_dioltas_tombstone_name",
       "eng": "Tombstone",
-      "chi": "",
+      "chi": "墓碑",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_dioltas_tombstone_desc",

@@ -36,16 +36,16 @@
     {
       "code": "neutral_ghost_lynx_desc",
       "eng": "Opening Gambit: Teleport a nearby minion to a random space.",
-      "chi": "",
+      "chi": "登场：将一个相邻随从传送到随机位置。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_golem_metallurgist_name",
       "eng": "Golem Metallurgist",
-      "chi": "",
+      "chi": "冶金魔像",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_golem_metallurgist_desc",
@@ -57,9 +57,9 @@
     {
       "code": "neutral_healing_mystic_name",
       "eng": "Healing Mystic",
-      "chi": "",
+      "chi": "愈伤秘法师",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_healing_mystic_desc",
@@ -71,9 +71,9 @@
     {
       "code": "neutral_jaxi_name",
       "eng": "Jaxi",
-      "chi": "",
+      "chi": "杰西",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_jaxi_desc",
@@ -85,9 +85,9 @@
     {
       "code": "neutral_manaforger_name",
       "eng": "Manaforger",
-      "chi": "",
+      "chi": "魔能伪造师",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_manaforger_desc",
@@ -99,9 +99,9 @@
     {
       "code": "neutral_maw_name",
       "eng": "Maw",
-      "chi": "",
+      "chi": "尖齿鳄",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_maw_desc",
@@ -113,9 +113,9 @@
     {
       "code": "neutral_piercing_mantis_name",
       "eng": "Piercing Mantis",
-      "chi": "",
+      "chi": "穿刺螳螂",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_piercing_mantis_desc",
@@ -141,9 +141,9 @@
     {
       "code": "neutral_rock_pulverizer_name",
       "eng": "Rock Pulverizer",
-      "chi": "",
+      "chi": "穿山甲",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_rock_pulverizer_desc",
@@ -155,9 +155,9 @@
     {
       "code": "neutral_rust_crawler_name",
       "eng": "Rust Crawler",
-      "chi": "",
+      "chi": "酸浆蠕虫",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_rust_crawler_desc",
@@ -183,16 +183,16 @@
     {
       "code": "neutral_skyrock_golem_name",
       "eng": "Skyrock Golem",
-      "chi": "",
+      "chi": "天空石魔像",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_vale_hunter_name",
       "eng": "Vale Hunter",
-      "chi": "",
+      "chi": "溪谷猎手",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_vale_hunter_desc",
@@ -204,9 +204,9 @@
     {
       "code": "neutral_wings_of_mechaz0r_name",
       "eng": "Wings of MECHAZ0R",
-      "chi": "",
+      "chi": "零号机的推进器",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_wings_of_mechaz0r_desc",
@@ -246,9 +246,9 @@
     {
       "code": "neutral_alucin_loremaster_name",
       "eng": "Alcuin Loremaster",
-      "chi": "",
+      "chi": "博学者 阿尔古因",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_alcuin_loremaster_desc",
@@ -274,9 +274,9 @@
     {
       "code": "neutral_blaze_hound_name",
       "eng": "Blaze Hound",
-      "chi": "",
+      "chi": "喷焰猎犬",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_blaze_hound_desc",
@@ -302,16 +302,16 @@
     {
       "code": "neutral_bloodshard_golem_name",
       "eng": "Bloodshard Golem",
-      "chi": "",
+      "chi": "血晶石魔像",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_cannon_of_mechaz0r_name",
       "eng": "Cannon of MECHAZ0R",
-      "chi": "",
+      "chi": "零号机的粒子炮",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_cannon_of_mechaz0r_desc",
@@ -323,9 +323,9 @@
     {
       "code": "neutral_chaos_elemental_name",
       "eng": "Chaos Elemental",
-      "chi": "",
+      "chi": "混沌元素",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_chaos_elemental_desc",
@@ -337,9 +337,9 @@
     {
       "code": "neutral_crimson_oculus_name",
       "eng": "Crimson Oculus",
-      "chi": "",
+      "chi": "猩红魔瞳",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_crimson_oculus_desc",
@@ -351,9 +351,9 @@
     {
       "code": "neutral_crossbones_name",
       "eng": "Crossbones",
-      "chi": "",
+      "chi": "愤怒的骷髅",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_crossbones_desc",
@@ -421,9 +421,9 @@
     {
       "code": "neutral_mirkblood_devourer_name",
       "eng": "Mirkblood Devourer",
-      "chi": "",
+      "chi": "混血吞噬兽",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_mirkblood_devourer_desc",
@@ -435,9 +435,9 @@
     {
       "code": "neutral_mogwai_name",
       "eng": "Mogwai",
-      "chi": "",
+      "chi": "魔怪",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_mogwai_desc",
@@ -449,9 +449,9 @@
     {
       "code": "neutral_prismatic_illusionist_name",
       "eng": "Prismatic Illusionist",
-      "chi": "",
+      "chi": "棱镜魔术师",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_prismatic_illusionist_desc",
@@ -463,16 +463,16 @@
     {
       "code": "neutral_illusion_name",
       "eng": "Illusion",
-      "chi": "",
+      "chi": "幻象",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_putrid_dreadflayer_name",
       "eng": "Putrid Dreadflayer",
-      "chi": "",
+      "chi": "腐败水母",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_putrid_dreadflayer_desc",
@@ -484,9 +484,9 @@
     {
       "code": "neutral_repulsor_beast_name",
       "eng": "Repulsor Beast",
-      "chi": "",
+      "chi": "炉犬",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_repulsor_beast_desc",
@@ -498,9 +498,9 @@
     {
       "code": "neutral_saberspine_tiger_name",
       "eng": "Saberspine Tiger",
-      "chi": "",
+      "chi": "剑脊虎",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_saberspine_tiger_desc",
@@ -512,9 +512,9 @@
     {
       "code": "neutral_sand_burrower_name",
       "eng": "Sand Burrower",
-      "chi": "",
+      "chi": "掘沙虫",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_sand_burrower_desc",
@@ -540,9 +540,9 @@
     {
       "code": "neutral_sarlac_the_eternal_name",
       "eng": "Sarlac the Eternal",
-      "chi": "",
+      "chi": "永恒的沙拉克",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_sarlac_the_eternal_desc",
@@ -554,9 +554,9 @@
     {
       "code": "neutral_silvertongue_corsair_name",
       "eng": "Silvertongue Corsair",
-      "chi": "",
+      "chi": "巧辩海盗",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_silvertongue_corsair_desc",
@@ -582,9 +582,9 @@
     {
       "code": "neutral_sojourner_name",
       "eng": "Sojourner",
-      "chi": "",
+      "chi": "漂泊客",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_sojourner_desc",
@@ -596,9 +596,9 @@
     {
       "code": "neutral_songweaver_name",
       "eng": "Songweaver",
-      "chi": "",
+      "chi": "谱曲家",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_songweaver_desc",
@@ -610,9 +610,9 @@
     {
       "code": "neutral_spelljammer_name",
       "eng": "Spelljammer",
-      "chi": "",
+      "chi": "扰咒师",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_spelljammer_desc",
@@ -624,9 +624,9 @@
     {
       "code": "neutral_sun_seer_name",
       "eng": "Sun Seer",
-      "chi": "",
+      "chi": "太阳先知",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_sun_seer_desc",
@@ -638,9 +638,9 @@
     {
       "code": "neutral_sword_of_mechaz0r_name",
       "eng": "Sword of MECHAZ0R",
-      "chi": "",
+      "chi": "零号机的光剑",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_sword_of_mechaz0r_desc",
@@ -652,9 +652,9 @@
     {
       "code": "neutral_sworn_avenger_name",
       "eng": "Sworn Avenger",
-      "chi": "",
+      "chi": "誓言复仇者",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_sworn_avenger_desc",
@@ -666,9 +666,9 @@
     {
       "code": "neutral_syvrel_the_exile_name",
       "eng": "Syvrel the Exile",
-      "chi": "",
+      "chi": "流放者 西弗尔",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_syvrel_the_exile_desc",
@@ -680,9 +680,9 @@
     {
       "code": "neutral_venom_toth_name",
       "eng": "Venom Toth",
-      "chi": "",
+      "chi": "毒牙",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_venom_toth_desc",
@@ -694,9 +694,9 @@
     {
       "code": "neutral_void_hunter_name",
       "eng": "Void Hunter",
-      "chi": "",
+      "chi": "虚空猎手",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_void_hunter_desc",

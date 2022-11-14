@@ -8,9 +8,9 @@
     {
       "code": "neutral_wind_runner_name",
       "eng": "Wind Runner",
-      "chi": "",
+      "chi": "追风者",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_wind_runner_desc",
@@ -36,9 +36,9 @@
     {
       "code": "neutral_wings_of_paradise_name",
       "eng": "Wings of Paradise",
-      "chi": "",
+      "chi": "天堂鸟",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_wings_of_paradise_desc",
@@ -64,9 +64,9 @@
     {
       "code": "neutral_artifact_hunter_name",
       "eng": "Artifact Hunter",
-      "chi": "",
+      "chi": "神器猎手",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_artifact_hunter_desc",
@@ -78,9 +78,9 @@
     {
       "code": "neutral_black_locust_name",
       "eng": "Black Locust",
-      "chi": "",
+      "chi": "黑蝗",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_black_locust_desc",
@@ -92,9 +92,9 @@
     {
       "code": "neutral_captain_hank_hart_name",
       "eng": "Captain Hank Hart",
-      "chi": "",
+      "chi": "汉克·哈特 上尉",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_captain_hank_hart_desc",
@@ -106,9 +106,9 @@
     {
       "code": "neutral_chassis_of_mechaz0r_name",
       "eng": "Chassis of MECHAZ0R",
-      "chi": "",
+      "chi": "零号机的骨架",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_chassis_of_mechaz0r_desc",
@@ -120,23 +120,23 @@
     {
       "code": "neutral_decimus_name",
       "eng": "Decimus",
-      "chi": "",
+      "chi": "德西谟斯",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_decimus_desc",
       "eng": "Whenever your opponent draws a card, deal 2 damage to the enemy General.",
-      "chi": "",
+      "chi": "每当你的对手抽一张牌时，对敌方将领造成2点伤害。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_dioltas_name",
       "eng": "Dioltas",
-      "chi": "",
+      "chi": "迪奥塔斯",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_dioltas_desc",
@@ -148,9 +148,9 @@
     {
       "code": "neutral_emerald_rejuvinator_name",
       "eng": "Emerald Rejuvenator",
-      "chi": "",
+      "chi": "翠盾医师",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_emerald_rejuvinator_desc",
@@ -162,9 +162,9 @@
     {
       "code": "neutral_fire_spitter_name",
       "eng": "Fire Spitter",
-      "chi": "",
+      "chi": "火球射手",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_fire_spitter_desc",
@@ -176,9 +176,9 @@
     {
       "code": "neutral_frostbone_naga_name",
       "eng": "Frostbone Naga",
-      "chi": "",
+      "chi": "寒水娜迦",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_frostbone_naga_desc",
@@ -190,9 +190,9 @@
     {
       "code": "neutral_hailstone_golem_name",
       "eng": "Hailstone Golem",
-      "chi": "",
+      "chi": "冰雹石魔像",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_lightbender_name",
@@ -211,9 +211,9 @@
     {
       "code": "neutral_mindwarper_name",
       "eng": "Mindwarper",
-      "chi": "",
+      "chi": "扰智法师",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_mindwarper_desc",
@@ -225,9 +225,9 @@
     {
       "code": "neutral_moebius_name",
       "eng": "Moebius",
-      "chi": "",
+      "chi": "莫比乌斯",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_moebius_desc",
@@ -253,9 +253,9 @@
     {
       "code": "neutral_owlbeast_sage_name",
       "eng": "Owlbeast Sage",
-      "chi": "",
+      "chi": "枭头智者",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_owlbeast_sage_desc",
@@ -267,9 +267,9 @@
     {
       "code": "neutral_primus_shieldmaster_name",
       "eng": "Primus Shieldmaster",
-      "chi": "",
+      "chi": "至高盾卫",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_primus_shieldmaster_desc",
@@ -281,9 +281,9 @@
     {
       "code": "neutral_purgatos_name",
       "eng": "Purgatos, The Realmkeeper",
-      "chi": "",
+      "chi": "皇家守卫 涤罪",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_purgatos_desc",
@@ -295,9 +295,9 @@
     {
       "code": "neutral_silhouette_tracer_name",
       "eng": "Silhouette Tracer",
-      "chi": "",
+      "chi": "仿影师",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_silhouette_tracer_desc",
@@ -323,9 +323,9 @@
     {
       "code": "neutral_sun_elemental_name",
       "eng": "Sun Elemental",
-      "chi": "",
+      "chi": "炙阳元素",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_sun_elemental_desc",
@@ -351,9 +351,9 @@
     {
       "code": "neutral_tethermancer_name",
       "eng": "Tethermancer",
-      "chi": "",
+      "chi": "控绳巫师",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_tethermancer_desc",
@@ -365,9 +365,9 @@
     {
       "code": "neutral_thorn_needler_name",
       "eng": "Thorn Needler",
-      "chi": "",
+      "chi": "针背兽",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_unseven_name",
@@ -386,9 +386,9 @@
     {
       "code": "neutral_white_widow_name",
       "eng": "White Widow",
-      "chi": "",
+      "chi": "白寡妇",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_white_widow_desc",
@@ -400,9 +400,9 @@
     {
       "code": "neutral_young_flamewing_name",
       "eng": "Young Flamewing",
-      "chi": "",
+      "chi": "幼年期火翼",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_young_flamewing_desc",
@@ -428,9 +428,9 @@
     {
       "code": "neutral_ash_mephytt_name",
       "eng": "Ash Mephyt",
-      "chi": "",
+      "chi": "灰烬魔",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_ash_mephytt_desc",
@@ -442,9 +442,9 @@
     {
       "code": "neutral_brightmoss_golem_name",
       "eng": "Brightmoss Golem",
-      "chi": "",
+      "chi": "苔石魔像",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_chakkram_name",
@@ -463,9 +463,9 @@
     {
       "code": "neutral_dagger_kiri_name",
       "eng": "Dagger Kiri",
-      "chi": "",
+      "chi": "短剑 凯瑞",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_dagger_kiri_desc",
@@ -477,9 +477,9 @@
     {
       "code": "neutral_dancing_blades_name",
       "eng": "Dancing Blades",
-      "chi": "",
+      "chi": "舞剑灵",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_dancing_blades_desc",
@@ -533,9 +533,9 @@
     {
       "code": "neutral_spellspark_name",
       "eng": "Spellspark",
-      "chi": "",
+      "chi": "火苗",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_spellspark_desc",
@@ -589,9 +589,9 @@
     {
       "code": "neutral_keeper_of_the_vale_name",
       "eng": "Keeper of the Vale",
-      "chi": "",
+      "chi": "溪谷守护灵",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_keeper_of_the_vale_desc",
@@ -603,9 +603,9 @@
     {
       "code": "neutral_lux_ignis_name",
       "eng": "Lux Ignis",
-      "chi": "",
+      "chi": "闪烁的勒克斯",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_lux_ignis_desc",
@@ -631,9 +631,9 @@
     {
       "code": "neutral_rogue_warden_name",
       "eng": "Rogue Warden",
-      "chi": "",
+      "chi": "流浪护卫",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_rogue_warden_desc",
@@ -659,9 +659,9 @@
     {
       "code": "neutral_sworn_defender_name",
       "eng": "Sworn Defender",
-      "chi": "",
+      "chi": "誓言捍卫者",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_sworn_defender_desc",
@@ -673,9 +673,9 @@
     {
       "code": "neutral_the_high_hand_name",
       "eng": "The High Hand",
-      "chi": "",
+      "chi": "掌权者",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_the_high_hand_desc",
@@ -687,9 +687,9 @@
     {
       "code": "neutral_twilight_sorcerer_name",
       "eng": "Twilight Sorcerer",
-      "chi": "",
+      "chi": "暮年奥术师",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_twilight_sorcerer_desc",
@@ -701,9 +701,9 @@
     {
       "code": "neutral_archon_spellbinder_name",
       "eng": "Archon Spellbinder",
-      "chi": "",
+      "chi": "缚法执政官",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     }
   ]
 }

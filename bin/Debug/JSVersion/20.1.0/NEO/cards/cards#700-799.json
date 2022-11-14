@@ -15,9 +15,9 @@
     {
       "code": "d2_neutral_minijax_name",
       "eng": "Mini-Jax",
-      "chi": "",
+      "chi": "小杰斯",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_minijax_desc",
@@ -29,9 +29,9 @@
     {
       "code": "d2_neutral_pandora_frenzy_name",
       "eng": "Rage",
-      "chi": "",
+      "chi": "狂心幻兽",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_pandora_frenzy_desc",
@@ -43,9 +43,9 @@
     {
       "code": "d2_neutral_pandora_ranged_name",
       "eng": "Envy",
-      "chi": "",
+      "chi": "妒心幻兽",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_pandora_ranged_desc",
@@ -57,9 +57,9 @@
     {
       "code": "d2_neutral_pandora_flying_name",
       "eng": "Serenity",
-      "chi": "",
+      "chi": "宁心幻兽",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_pandora_flying_desc",
@@ -71,9 +71,9 @@
     {
       "code": "d2_neutral_pandora_celerity_name",
       "eng": "Wrath",
-      "chi": "",
+      "chi": "怒心幻兽",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_pandora_celerity_desc",
@@ -85,9 +85,9 @@
     {
       "code": "d2_neutral_pandora_provoke_name",
       "eng": "Fear",
-      "chi": "",
+      "chi": "惧心幻兽",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_pandora_provoke_desc",
@@ -99,16 +99,16 @@
     {
       "code": "d2_neutral_mechaz0r_name",
       "eng": "MECHAZ0R!!",
-      "chi": "",
+      "chi": "零号机！！",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_mechaz0r_desc",
       "eng": "Airdrop, Frenzy, Ranged, Veil",
-      "chi": "",
+      "chi": "空降，狂暴，远程，帷幕",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_frostfire_imp_name",
