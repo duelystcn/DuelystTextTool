@@ -28,6 +28,8 @@ namespace DuelystText
 
         private string searchCode = "";
 
+        private string searchEng = "";
+
         public TranslateForm()
         {
             this.StartPosition = FormStartPosition.CenterScreen;
@@ -148,6 +150,13 @@ namespace DuelystText
                     if (searchCode != "")
                     {
                         if(translateItem.code.IndexOf(searchCode) == -1) 
+                        {
+                            continue;
+                        }
+                    }
+                    if (searchEng != "")
+                    {
+                        if (translateItem.eng.IndexOf(searchEng) == -1)
                         {
                             continue;
                         }
@@ -296,10 +305,8 @@ namespace DuelystText
         private void SearchButton_Click(object sender, EventArgs e)
         {
             searchCode = SearchCodeBox.Text;
-            if(searchCode != "") 
-            {
-                ShowTranslateSaveInfo(currentEditTSItem);
-            }
+            searchEng = SearchEngBox.Text;
+            ShowTranslateSaveInfo(currentEditTSItem);
         }
 
         private void MarkButton_Click(object sender, EventArgs e)

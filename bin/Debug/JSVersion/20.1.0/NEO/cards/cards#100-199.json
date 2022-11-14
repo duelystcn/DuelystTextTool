@@ -92,7 +92,7 @@
     {
       "code": "d2_faction_2_artifact_mask_of_shadows_description",
       "eng": "Your General has Backstab: 5.",
-      "chi": "你的将领拥有背刺5。",
+      "chi": "你的将领具有背刺5。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -106,7 +106,7 @@
     {
       "code": "d2_faction_2_artifact_cyclone_mask_description",
       "eng": "Your General has Ranged.",
-      "chi": "你的将领拥有远程。",
+      "chi": "你的将领具有远程。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -638,7 +638,7 @@
     {
       "code": "d2_faction_3_artifact_staff_of_ykir_description",
       "eng": "Your General has +2/+0.\nWhen this is destroyed, shuffle a copy of it into your deck.",
-      "chi": "你的将领拥有+2/+0。\n被摧毁时，复制一张此牌洗入你的牌库。",
+      "chi": "你的将领具有+2/+0。\n当此神器被摧毁时，复制一张此神器并洗入你的牌库。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -652,7 +652,7 @@
     {
       "code": "d2_faction_3_artifact_wildfire_ankh_description",
       "eng": "Your General has Blast.",
-      "chi": "你的将领拥有轰炮。",
+      "chi": "你的将领具有轰炮。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -666,7 +666,7 @@
     {
       "code": "d2_faction_3_artifact_hexblade_description",
       "eng": "Your General has +3/+0.\nWhen your General damages a minion, set that minion's Attack to 1.",
-      "chi": "你的将领获得+3/+0。\n你的将领对随从造成伤害时，将该随从的攻击置为1。",
+      "chi": "你的将领具有+3/+0。\n你的将领对随从造成伤害时，将该随从的攻击置为1。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },

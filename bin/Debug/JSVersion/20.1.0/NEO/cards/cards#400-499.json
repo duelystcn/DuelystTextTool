@@ -127,7 +127,7 @@
     {
       "code": "d2_faction_6_artifact_snowpiercer_description",
       "eng": "Your General has +3/+0.\nWhen your General attacks a minion, deal 1 damage to the enemy General.",
-      "chi": "你的将领获得 +3/+0。\n每当你的将领攻击一个随从，对敌方将领造成1点伤害。",
+      "chi": "你的将领具有 +3/+0。\n每当你的将领攻击一个随从，对敌方将领造成1点伤害。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -155,7 +155,7 @@
     {
       "code": "d2_faction_6_artifact_winterblade_description",
       "eng": "Your General has +1/+0.\nWhen this is destroyed, give your General \"This takes no damage\" until your next turn.",
-      "chi": "你的将领获得 +1/+0。\n当此神器被摧毁时，你的将领直到你的下个回合开始不会受到伤害。",
+      "chi": "你的将领具有 +1/+0。\n当此神器被摧毁时，你的将领直到你的下个回合开始不会受到伤害。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -211,7 +211,7 @@
     {
       "code": "d2_faction_6_unit_snow_chaser_desc",
       "eng": "Infiltrate: Dying Wish: Put a copy of this into your action bar.",
-      "chi": "入侵：死愿：复制此随从并置入你的准备栏。",
+      "chi": "渗透：死愿：复制此随从并置入你的准备栏。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -225,7 +225,7 @@
     {
       "code": "d2_faction_6_unit_borean_bear_desc",
       "eng": "This has +1/+0 for each allied Wall.",
-      "chi": "每存在一个友方墙，此随从获得 +1/+0。",
+      "chi": "每存在一个友方墙，此随从具有 +1/+0。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -239,7 +239,7 @@
     {
       "code": "d2_faction_6_unit_crystal_cloaker_desc",
       "eng": "Infiltrate: +2/+0.",
-      "chi": "入侵：获得+2/+0。",
+      "chi": "渗透：获得+2/+0。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -309,7 +309,7 @@
     {
       "code": "d2_faction_6_unit_wolfraven_desc",
       "eng": "Flying\nInfiltrate: This takes no damage from units with 3 or more Attack.",
-      "chi": "飞行\n入侵：此随从不会受到大于等于3点的战斗伤害。",
+      "chi": "飞行\n渗透：此随从不会受到大于等于3点的战斗伤害。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -365,7 +365,7 @@
     {
       "code": "d2_faction_6_unit_frosthorn_rhyno_desc",
       "eng": "Infiltrate: +1/+0 and Celerity.",
-      "chi": "入侵：获得 +1/+0 和迅捷。",
+      "chi": "渗透：获得 +1/+0 和迅捷。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },

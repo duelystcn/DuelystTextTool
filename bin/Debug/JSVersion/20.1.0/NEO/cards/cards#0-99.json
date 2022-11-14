@@ -267,7 +267,7 @@
     {
       "code": "d2_faction_1_artifact_skywind_glaives_description",
       "eng": "Your General has +1/+0.\nAllied minions nearby your General have +2/+0.",
-      "chi": "你的将领获得 +1/+0。\n与你的将领相邻的友方随从获得 +2/+0.",
+      "chi": "你的将领具有 +1/+0。\n与你的将领相邻的友方随从具有 +2/+0.",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -281,7 +281,7 @@
     {
       "code": "d2_faction_1_artifact_sunstone_bracers_description",
       "eng": "Your General has +1/+0.",
-      "chi": "你的将领获得 +1/+0。",
+      "chi": "你的将领具有 +1/+0。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -295,7 +295,7 @@
     {
       "code": "d2_faction_1_artifact_arclyte_regalia_description",
       "eng": "Your General has +2/+0.\nThe first time your General takes damage with this equipped each turn, reduce that damage by 2.",
-      "chi": "使你的将领获得+2攻击。\n你的将领每回合第一次受到伤害时，减免到2点。",
+      "chi": "使你的将领具有 +2/+0。\n你的将领每回合第一次受到伤害时，减免到2点。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },

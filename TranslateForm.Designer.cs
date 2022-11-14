@@ -60,6 +60,8 @@ namespace DuelystText
             this.SearchCodeBox = new System.Windows.Forms.TextBox();
             this.SearchButton = new System.Windows.Forms.Button();
             this.DuplicateTextButton = new System.Windows.Forms.Button();
+            this.SearchEngBox = new System.Windows.Forms.TextBox();
+            this.label4 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.TransFileGridView)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.TranslateGridView)).BeginInit();
             this.StateCheckBoxGroup.SuspendLayout();
@@ -342,12 +344,12 @@ namespace DuelystText
             // 
             this.SearchCodeBox.Location = new System.Drawing.Point(955, 21);
             this.SearchCodeBox.Name = "SearchCodeBox";
-            this.SearchCodeBox.Size = new System.Drawing.Size(255, 21);
+            this.SearchCodeBox.Size = new System.Drawing.Size(144, 21);
             this.SearchCodeBox.TabIndex = 13;
             // 
             // SearchButton
             // 
-            this.SearchButton.Location = new System.Drawing.Point(1216, 19);
+            this.SearchButton.Location = new System.Drawing.Point(1314, 20);
             this.SearchButton.Name = "SearchButton";
             this.SearchButton.Size = new System.Drawing.Size(75, 23);
             this.SearchButton.TabIndex = 14;
@@ -365,11 +367,29 @@ namespace DuelystText
             this.DuplicateTextButton.UseVisualStyleBackColor = true;
             this.DuplicateTextButton.Click += new System.EventHandler(this.DuplicateTextButton_Click);
             // 
+            // SearchEngBox
+            // 
+            this.SearchEngBox.Location = new System.Drawing.Point(1149, 21);
+            this.SearchEngBox.Name = "SearchEngBox";
+            this.SearchEngBox.Size = new System.Drawing.Size(144, 21);
+            this.SearchEngBox.TabIndex = 17;
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(1114, 24);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(23, 12);
+            this.label4.TabIndex = 16;
+            this.label4.Text = "eng";
+            // 
             // TranslateForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1587, 940);
+            this.Controls.Add(this.SearchEngBox);
+            this.Controls.Add(this.label4);
             this.Controls.Add(this.DuplicateTextButton);
             this.Controls.Add(this.SearchButton);
             this.Controls.Add(this.SearchCodeBox);
@@ -430,5 +450,7 @@ namespace DuelystText
         private System.Windows.Forms.TextBox SearchCodeBox;
         private System.Windows.Forms.Button SearchButton;
         private System.Windows.Forms.Button DuplicateTextButton;
+        private System.Windows.Forms.TextBox SearchEngBox;
+        private System.Windows.Forms.Label label4;
     }
 }

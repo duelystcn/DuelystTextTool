@@ -225,58 +225,58 @@
     {
       "code": "d2_neutral_chaos_elemental_name",
       "eng": "Chaos Elemental",
-      "chi": "",
+      "chi": "混沌元素",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_chaos_elemental_desc",
       "eng": "When this survives damage, it teleports to a random space.",
-      "chi": "",
+      "chi": "每当此随从受到伤害，将其传送到随机位置。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_crimson_oculus_name",
       "eng": "Crimson Oculus",
-      "chi": "",
+      "chi": "猩红魔瞳",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_crimson_oculus_desc",
       "eng": "When your opponent summons a minion, this gains +1/+1.",
-      "chi": "",
+      "chi": "每当你的对手召唤一个随从时，使此随从获得 +1/+1。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_crossbones_name",
       "eng": "Crossbones",
-      "chi": "",
+      "chi": "愤怒的骷髅",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_crossbones_desc",
       "eng": "Dying Wish: The next card your opponent plays costs 1 more.",
-      "chi": "",
+      "chi": "死愿：你对手使用的下一张牌费用增加一点。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_golem_vanquisher_name",
       "eng": "Golem Vanguard",
-      "chi": "",
+      "chi": "先驱魔像",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_golem_vanquisher_desc",
       "eng": "Provoke\nOther allied Golems have Provoke.",
-      "chi": "",
+      "chi": "嘲讽\n登场：所有友方魔像具有嘲讽。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_lady_locke_name",
@@ -288,100 +288,100 @@
     {
       "code": "d2_neutral_lady_locke_desc",
       "eng": "Provoke\nOpening Gambit: Give other minions you summon this turn +1/+1 and Provoke.",
-      "chi": "",
+      "chi": "嘲讽\n登场：在这之后，本回合你召唤的其他随从获得 +1/+1 和嘲讽。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_mirkblood_devourer_name",
       "eng": "Mirkblood Devourer",
-      "chi": "",
+      "chi": "混血吞噬兽",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_mirkblood_devourer_desc",
       "eng": "Give allied minions summoned nearby this +1/+1.",
-      "chi": "",
+      "chi": "召唤在此随从相邻位置的友方随从获得 +1/+1。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_mogwai_name",
       "eng": "Mogwai",
-      "chi": "",
+      "chi": "魔怪",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_mogwai_desc",
       "eng": "Opening Gambit: This gains Attack equal to the highest Attack among allies.",
-      "chi": "",
+      "chi": "登场：时此随从获得 +X/+0，X为友方单位中最高的攻击力。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_mogwai_modifier_name",
       "eng": "React Andy",
-      "chi": "",
+      "chi": "安迪反应",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_prismatic_illusionist_name",
       "eng": "Prismatic Illusionist",
-      "chi": "",
+      "chi": "棱镜魔术师",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_prismatic_illusionist_desc",
       "eng": "When you play a spell, summon an Illusion on a random nearby space.",
-      "chi": "",
+      "chi": "每当你使用法术时，在此随从随机相邻位置召唤一个幻象(2/1)。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_illusion_name",
       "eng": "Illusion",
-      "chi": "",
+      "chi": "幻象",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_putrid_dreadflayer_name",
       "eng": "Putrid Dreadflayer",
-      "chi": "",
+      "chi": "腐败水母",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_putrid_dreadflayer_desc",
       "eng": "Flying\nDying Wish: Deal 1 damage to nearby enemies.",
-      "chi": "",
+      "chi": "飞行\n死愿：对相邻的敌人造成1点伤害。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_repulsor_beast_name",
       "eng": "Repulsor Beast",
-      "chi": "",
+      "chi": "炉犬",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_repulsor_beast_desc",
       "eng": "Opening Gambit: Teleport a nearby enemy minion to any space.",
-      "chi": "",
+      "chi": "登场：将一个相邻的敌方随从传送至任意位置。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_saberspine_tiger_name",
       "eng": "Saberspine Tiger",
-      "chi": "",
+      "chi": "剑脊虎",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_saberspine_tiger_desc",
@@ -393,16 +393,16 @@
     {
       "code": "d2_neutral_sand_burrower_name",
       "eng": "Sand Burrower",
-      "chi": "",
+      "chi": "掘沙虫",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_sand_burrower_desc",
       "eng": "This cannot be attacked while at full Health.",
-      "chi": "",
+      "chi": "此随从满血时不能被攻击。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_sarlac_the_eternal_name",

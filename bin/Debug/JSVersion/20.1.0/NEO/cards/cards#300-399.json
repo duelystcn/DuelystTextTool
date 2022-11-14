@@ -302,7 +302,7 @@
     {
       "code": "d2_faction_5_artifact_adamantite_claws_description",
       "eng": "Your General has +3/+0.\nThis cannot lose durability during your turn.",
-      "chi": "你的将领获得+3/+0。\n在你的回合内此神器不会失去耐久。",
+      "chi": "你的将领具有+3/+0。\n在你的回合内此神器不会失去耐久。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -316,7 +316,7 @@
     {
       "code": "d2_faction_5_artifact_twin_fang_description",
       "eng": "Your General has an additional +2/+0 for each time an ally takes damage.",
-      "chi": "每当一个友方单位受到伤害时，你的将领获得 +2/+0。",
+      "chi": "每当一个友方单位受到伤害时，你的将领具有 +2/+0。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -330,7 +330,7 @@
     {
       "code": "d2_faction_5_artifact_iridium_scale_description",
       "eng": "Your General has Frenzy.",
-      "chi": "你的将领获得狂暴。",
+      "chi": "你的将领具有狂暴。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
