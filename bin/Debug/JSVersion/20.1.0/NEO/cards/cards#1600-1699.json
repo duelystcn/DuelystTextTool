@@ -15,9 +15,9 @@
     {
       "code": "faction_5_unit_kolossus_name",
       "eng": "Kolossus",
-      "chi": "",
+      "chi": "巍峨巨像",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_5_unit_kolossus_desc",
@@ -29,9 +29,9 @@
     {
       "code": "faction_5_unit_spirit_harvester_name",
       "eng": "Spirit Harvester",
-      "chi": "",
+      "chi": "收割者",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_5_unit_spirit_harvester_desc",
@@ -71,9 +71,9 @@
     {
       "code": "faction_5_unit_unstable_leviathan_name",
       "eng": "Unstable Leviathan",
-      "chi": "",
+      "chi": "不稳定的利维坦",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_5_unit_unstable_leviathan_desc",
@@ -92,9 +92,9 @@
     {
       "code": "faction_5_unit_magma_name",
       "eng": "Magma",
-      "chi": "",
+      "chi": "小石块",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_5_unit_wild_inceptor_name",
@@ -554,9 +554,9 @@
     {
       "code": "faction_6_spell_chromatic_cold_name",
       "eng": "Chromatic Cold",
-      "chi": "",
+      "chi": "折射寒光",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_6_spell_chromatic_cold_description",
@@ -568,16 +568,16 @@
     {
       "code": "faction_6_spell_flash_freeze_name",
       "eng": "Flash Freeze",
-      "chi": "",
+      "chi": "速冻术",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_6_spell_flash_freeze_description",
       "eng": "Deal 1 damage to a minion and Stun it.",
-      "chi": "",
+      "chi": "对一个随从造成1点伤害并眩晕它。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_6_spell_frostfire_name",
@@ -596,9 +596,9 @@
     {
       "code": "faction_6_spell_avalanche_name",
       "eng": "Avalanche",
-      "chi": "",
+      "chi": "雪崩术",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_6_spell_avalanche_description",
@@ -610,9 +610,9 @@
     {
       "code": "faction_6_spell_boundless_courage_name",
       "eng": "Boundless Courage",
-      "chi": "",
+      "chi": "无尽勇气",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_6_spell_boundless_courage_description",
@@ -624,9 +624,9 @@
     {
       "code": "faction_6_spell_mesmerize_name",
       "eng": "Mesmerize",
-      "chi": "",
+      "chi": "催眠术",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_6_spell_mesmerize_description",
@@ -638,9 +638,9 @@
     {
       "code": "faction_6_spell_mark_of_solitude_name",
       "eng": "Mark of Solitude",
-      "chi": "",
+      "chi": "孤独印记",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_6_spell_mark_of_solitude_description",
@@ -666,9 +666,9 @@
     {
       "code": "faction_6_spell_aspect_of_the_drake_name",
       "eng": "Aspect of the Wyrm",
-      "chi": "",
+      "chi": "龙之形",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_6_spell_aspect_of_the_drake_description",
@@ -680,9 +680,9 @@
     {
       "code": "faction_6_spell_aspect_of_the_mountains_name",
       "eng": "Aspect of the Mountains",
-      "chi": "",
+      "chi": "山之形",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_6_spell_aspect_of_the_mountains_description",
@@ -694,9 +694,9 @@
     {
       "code": "faction_6_spell_polarity_name",
       "eng": "Polarity",
-      "chi": "",
+      "chi": "两极反转",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_6_spell_polarity_description",

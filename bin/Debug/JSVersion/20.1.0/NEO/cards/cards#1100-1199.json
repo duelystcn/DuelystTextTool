@@ -36,23 +36,23 @@
     {
       "code": "faction_3_spell_dominate_will_name",
       "eng": "Dominate Will",
-      "chi": "",
+      "chi": "支配意志",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_3_spell_dominate_will_description",
       "eng": "Take control of an enemy minion nearby your General.",
-      "chi": "",
+      "chi": "获得一个与你的将领相邻的敌方随从的控制权。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_3_spell_siphon_energy_name",
       "eng": "Siphon Energy",
-      "chi": "",
+      "chi": "虹吸能量",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_3_spell_siphon_energy_description",
@@ -64,9 +64,9 @@
     {
       "code": "faction_3_spell_cosmic_flesh_name",
       "eng": "Cosmic Flesh",
-      "chi": "",
+      "chi": "星辰塑体",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_3_spell_cosmic_flesh_description",
@@ -78,9 +78,9 @@
     {
       "code": "faction_3_spell_blindscorch_name",
       "eng": "Blindscorch",
-      "chi": "",
+      "chi": "炫目灼烧",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_3_spell_blindscorch_description",
@@ -92,9 +92,9 @@
     {
       "code": "faction_3_spell_astral_phasing_name",
       "eng": "Astral Phasing",
-      "chi": "",
+      "chi": "星体相位",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_3_spell_astral_phasing_description",
@@ -120,9 +120,9 @@
     {
       "code": "faction_3_spell_entropic_decay_name",
       "eng": "Entropic Decay",
-      "chi": "",
+      "chi": "熵衰减",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_3_spell_entropic_decay_description",
@@ -134,9 +134,9 @@
     {
       "code": "faction_3_spell_time_maelstrom_name",
       "eng": "Time Maelstrom",
-      "chi": "",
+      "chi": "时间漩涡",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_3_spell_time_maelstrom_description",
@@ -148,9 +148,9 @@
     {
       "code": "faction_3_spell_sand_trap_name",
       "eng": "Sand Trap",
-      "chi": "",
+      "chi": "流沙陷阱",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_3_spell_sand_trap_description",
@@ -162,9 +162,9 @@
     {
       "code": "faction_3_spell_scions_first_wish_name",
       "eng": "Scion's First Wish",
-      "chi": "",
+      "chi": "子嗣的初愿",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_3_spell_scions_first_wish_description",
@@ -176,9 +176,9 @@
     {
       "code": "faction_3_spell_scions_second_wish_name",
       "eng": "Scion's Second Wish",
-      "chi": "",
+      "chi": "子嗣的次愿",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_3_spell_scions_second_wish_description",
@@ -190,9 +190,9 @@
     {
       "code": "faction_3_spell_scions_third_wish_name",
       "eng": "Scion's Third Wish",
-      "chi": "",
+      "chi": "子嗣的终愿",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_3_spell_scions_third_wish_description",
@@ -232,9 +232,9 @@
     {
       "code": "faction_3_spell_stars_fury_name",
       "eng": "Star's Fury",
-      "chi": "",
+      "chi": "星怒",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_3_spell_stars_fury_description",
@@ -246,9 +246,9 @@
     {
       "code": "faction_3_spell_bone_swarm_name",
       "eng": "Bone Swarm",
-      "chi": "",
+      "chi": "碎骨雨",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_3_spell_bone_swarm_description",
@@ -260,9 +260,9 @@
     {
       "code": "faction_3_spell_fountain_of_youth_name",
       "eng": "Fountain of Youth",
-      "chi": "",
+      "chi": "不老泉",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_3_spell_fountain_of_youth_description",
@@ -274,9 +274,9 @@
     {
       "code": "faction_3_spell_inner_oasis_name",
       "eng": "Inner Oasis",
-      "chi": "",
+      "chi": "内心绿洲",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_3_spell_inner_oasis_description",
@@ -365,9 +365,9 @@
     {
       "code": "faction_3_spell_divine_spark_desc",
       "eng": "Draw two cards.",
-      "chi": "",
+      "chi": "抽两张牌。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_3_spell_stone_to_spears_name",
@@ -610,9 +610,9 @@
     {
       "code": "faction_3_artifact_wildfire_ankh_name",
       "eng": "Wildfire Ankh",
-      "chi": "",
+      "chi": "野火十字章",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_3_artifact_wildfire_ankh_description",
@@ -624,9 +624,9 @@
     {
       "code": "faction_3_artifact_hexblade_name",
       "eng": "Hexblade",
-      "chi": "",
+      "chi": "咒刃",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_3_artifact_hexblade_description",

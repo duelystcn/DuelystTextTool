@@ -169,9 +169,9 @@
     {
       "code": "faction_1_spell_sundrop_elixir_name",
       "eng": "Sundrop Elixir",
-      "chi": "",
+      "chi": "落日灵药",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_1_spell_sundrop_elixir_description",
@@ -183,9 +183,9 @@
     {
       "code": "faction_1_spell_tempest_name",
       "eng": "Tempest",
-      "chi": "",
+      "chi": "风暴",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_1_spell_tempest_description",
@@ -197,9 +197,9 @@
     {
       "code": "faction_1_spell_decimate_name",
       "eng": "Decimate",
-      "chi": "",
+      "chi": "灭杀",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_1_spell_decimate_description",
@@ -211,9 +211,9 @@
     {
       "code": "faction_1_spell_auryn_nexus_name",
       "eng": "Auryn Nexus",
-      "chi": "",
+      "chi": "护符联结",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_1_spell_auryn_nexus_description",
@@ -225,9 +225,9 @@
     {
       "code": "faction_1_spell_lasting_judgement_name",
       "eng": "Lasting Judgement",
-      "chi": "",
+      "chi": "永恒审判",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_1_spell_lasting_judgement_description",
@@ -239,9 +239,9 @@
     {
       "code": "faction_1_spell_martyrdom_name",
       "eng": "Martyrdom",
-      "chi": "",
+      "chi": "牺牲",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_1_spell_martyrdom_description",
@@ -253,9 +253,9 @@
     {
       "code": "faction_1_spell_war_surge_name",
       "eng": "War Surge",
-      "chi": "",
+      "chi": "战意涌动",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_1_spell_war_surge_description",
@@ -267,9 +267,9 @@
     {
       "code": "faction_1_spell_lionheart_blessing_name",
       "eng": "Lionheart Blessing",
-      "chi": "",
+      "chi": "狮心祝福",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_1_spell_lionheart_blessing_description",
@@ -281,9 +281,9 @@
     {
       "code": "faction_1_spell_sun_bloom_name",
       "eng": "Sun Bloom",
-      "chi": "",
+      "chi": "烈日怒放",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_1_spell_sun_bloom_description",
@@ -295,23 +295,23 @@
     {
       "code": "faction_1_spell_true_strike_name",
       "eng": "True Strike",
-      "chi": "",
+      "chi": "至真一击",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_1_spell_true_strike_description",
       "eng": "Deal 2 damage to a minion.",
-      "chi": "",
+      "chi": "对目标随从造成2点伤害。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_1_spell_circle_of_life_name",
       "eng": "Circle of Life",
-      "chi": "",
+      "chi": "生命循环",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_1_spell_circle_of_life_description",
@@ -323,9 +323,9 @@
     {
       "code": "faction_1_spell_beam_shock_name",
       "eng": "Beam Shock",
-      "chi": "",
+      "chi": "震荡波",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_1_spell_beam_shock_description",
@@ -337,9 +337,9 @@
     {
       "code": "faction_1_spell_holy_immolation_name",
       "eng": "Holy Immolation",
-      "chi": "",
+      "chi": "圣祭",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_1_spell_holy_immolation_description",
@@ -351,9 +351,9 @@
     {
       "code": "faction_1_spell_divine_bond_name",
       "eng": "Divine Bond",
-      "chi": "",
+      "chi": "神圣纽带",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_1_spell_divine_bond_description",
@@ -365,9 +365,9 @@
     {
       "code": "faction_1_spell_aegis_barrier_name",
       "eng": "Aegis Barrier",
-      "chi": "",
+      "chi": "宙斯盾屏障",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_1_spell_aegis_barrier_description",
@@ -379,9 +379,9 @@
     {
       "code": "faction_1_spell_aerial_rift_name",
       "eng": "Aerial Rift",
-      "chi": "",
+      "chi": "时空裂隙",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_1_spell_aerial_rift_description",
@@ -393,9 +393,9 @@
     {
       "code": "faction_1_spell_magnetize_name",
       "eng": "Magnetize",
-      "chi": "",
+      "chi": "吸引",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_1_spell_magnetize_description",

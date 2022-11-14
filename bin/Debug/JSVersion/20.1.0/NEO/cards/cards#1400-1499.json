@@ -141,9 +141,9 @@
     {
       "code": "faction_4_unit_shadowdancer_name",
       "eng": "Shadowdancer",
-      "chi": "",
+      "chi": "暗影舞者",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_4_unit_shadowdancer_desc",
@@ -162,16 +162,16 @@
     {
       "code": "faction_4_unit_vorpal_reaver_desc",
       "eng": "Celerity\nDying Wish: Summon six Wraithlings on random spaces.",
-      "chi": "",
+      "chi": "迅捷\n死愿：召唤6个幽冥小鬼在随机位置。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_4_unit_spectral_revenant_name",
       "eng": "Spectral Revenant",
-      "chi": "",
+      "chi": "幽冥亡魂",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_4_unit_spectral_revenant_desc",
@@ -183,9 +183,9 @@
     {
       "code": "faction_4_unit_wraithling_name",
       "eng": "Wraithling",
-      "chi": "",
+      "chi": "幽冥小鬼",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_4_unit_night_fiend_name",
@@ -610,9 +610,9 @@
     {
       "code": "faction_5_spell_fractal_replication_name",
       "eng": "Fractal Replication",
-      "chi": "",
+      "chi": "分型复制",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_5_spell_fractal_replication_description",
@@ -624,9 +624,9 @@
     {
       "code": "faction_5_spell_dampening_wave_name",
       "eng": "Dampening Wave",
-      "chi": "",
+      "chi": "抑制波",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_5_spell_dampening_wave_description",
@@ -638,9 +638,9 @@
     {
       "code": "faction_5_spell_flash_reincarnation_name",
       "eng": "Flash Reincarnation",
-      "chi": "",
+      "chi": "快速转生",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_5_spell_flash_reincarnation_description",
@@ -652,9 +652,9 @@
     {
       "code": "faction_5_spell_diretide_frenzy_name",
       "eng": "Diretide Frenzy",
-      "chi": "",
+      "chi": "暗潮汹涌",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_5_spell_diretide_frenzy_description",
@@ -666,9 +666,9 @@
     {
       "code": "faction_5_spell_tremor_name",
       "eng": "Tremor",
-      "chi": "",
+      "chi": "震颤",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_5_spell_tremor_description",
@@ -694,9 +694,9 @@
     {
       "code": "faction_5_spell_greater_fortitude_name",
       "eng": "Greater Fortitude",
-      "chi": "",
+      "chi": "坚韧进化",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_5_spell_greater_fortitude_description",

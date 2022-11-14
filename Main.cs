@@ -53,6 +53,7 @@ namespace DuelystText
             versionDataTable.Columns.Add("exportFile", typeof(string));
             versionDataTable.Columns.Add("reference", typeof(string));
             versionDataTable.Columns.Add("duplicateText", typeof(string));
+            versionDataTable.Columns.Add("batchReplace", typeof(string));
             foreach (VersionItem versionItem  in ToolDataManger.Instance.versionDic.Values)
             {
                 versionDataTable.Rows.Add(
@@ -60,7 +61,8 @@ namespace DuelystText
                     "编辑",
                     "导出",
                     "选择",
-                    "整理"
+                    "整理",
+                    "替换"
                 ); 
                
             }
@@ -71,6 +73,7 @@ namespace DuelystText
             VersionGrid.Columns[2].DataPropertyName = "exportFile";
             VersionGrid.Columns[3].DataPropertyName = "reference";
             VersionGrid.Columns[4].DataPropertyName = "duplicateText";
+            VersionGrid.Columns[5].DataPropertyName = "batchReplace";
             VersionGrid.DataSource = versionDataTable;
             //提交修改
             versionDataTable.AcceptChanges();
@@ -91,6 +94,15 @@ namespace DuelystText
                     if (btnCell.ColumnIndex == 4)
                     {
                         versionItem.CreateDuplicateTextFileAndExport();
+                    }
+                    if (btnCell.ColumnIndex == 5)
+                    {
+                        ToolDataManger.Instance.currentVersionItem = versionItem;
+                        ToolDataManger.Instance.currentNodeItem = versionItem.nodeItem;
+                        //设置父窗体的IsMdiContainer属性为true
+                        ChineseCorrection frm = new ChineseCorrection();
+                        frm.Show();
+
                     }
                 }
             }

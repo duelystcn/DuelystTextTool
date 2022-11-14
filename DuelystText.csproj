@@ -64,6 +64,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ChineseCorrection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChineseCorrection.Designer.cs">
+      <DependentUpon>ChineseCorrection.cs</DependentUpon>
+    </Compile>
     <Compile Include="Common\Util\FileWriteUtil.cs" />
     <Compile Include="Common\Log\LogMgr.cs" />
     <Compile Include="Common\Util\FileReadUtil.cs" />
@@ -95,6 +101,9 @@
     <Compile Include="TranslateForm.Designer.cs">
       <DependentUpon>TranslateForm.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="ChineseCorrection.resx">
+      <DependentUpon>ChineseCorrection.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Main.resx">
       <DependentUpon>Main.cs</DependentUpon>
     </EmbeddedResource>

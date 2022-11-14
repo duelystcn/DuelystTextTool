@@ -8,9 +8,9 @@
     {
       "code": "faction_6_unit_winter_maerid_name",
       "eng": "Winter Maerid",
-      "chi": "",
+      "chi": "冬妖",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_6_unit_whyte_drake_name",
@@ -29,30 +29,30 @@
     {
       "code": "faction_6_unit_seismic_elemental_name",
       "eng": "Seismic Elemental",
-      "chi": "",
+      "chi": "地动元素",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_6_unit_fox_ravager_name",
       "eng": "Fox Ravager",
-      "chi": "",
+      "chi": "掠形狐",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_6_unit_ghost_wolf_name",
       "eng": "Ghost Wolf",
-      "chi": "",
+      "chi": "妖狼",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_6_unit_ice_drake_name",
       "eng": "Ice Drake",
-      "chi": "",
+      "chi": "冰龙",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_6_unit_bonechill_barrier_name",
@@ -99,9 +99,9 @@
     {
       "code": "faction_6_unit_treant_name",
       "eng": "Treant",
-      "chi": "",
+      "chi": "树人",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_6_unit_treant_desc",
@@ -512,9 +512,9 @@
     {
       "code": "neutral_bloodtear_alchemist_name",
       "eng": "Bloodtear Alchemist",
-      "chi": "",
+      "chi": "血泪炼金术士",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_bloodtear_alchemist_desc",
@@ -526,9 +526,9 @@
     {
       "code": "neutral_dragonlark_name",
       "eng": "Dragonlark",
-      "chi": "",
+      "chi": "龙雀",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_dragonlark_desc",
@@ -540,9 +540,9 @@
     {
       "code": "neutral_dreamgazer_name",
       "eng": "Dreamgazer",
-      "chi": "",
+      "chi": "窥梦灵",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_dreamgazer_desc",
@@ -554,9 +554,9 @@
     {
       "code": "neutral_helm_of_mechaz0r_name",
       "eng": "Helm of MECHAZ0R",
-      "chi": "",
+      "chi": "零号机的中枢",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_helm_of_mechaz0r_desc",
@@ -575,9 +575,9 @@
     {
       "code": "neutral_planar_scout_name",
       "eng": "Planar Scout",
-      "chi": "",
+      "chi": "相位斥候",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_planar_scout_desc",
@@ -589,9 +589,9 @@
     {
       "code": "neutral_prophet_of_the_white_palm_name",
       "eng": "Prophet of the White Palm",
-      "chi": "",
+      "chi": "白掌先知",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_prophet_of_the_white_palm_desc",
@@ -603,9 +603,9 @@
     {
       "code": "neutral_swamp_entangler_name",
       "eng": "Swamp Entangler",
-      "chi": "",
+      "chi": "沼泽缠须兽",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_swamp_entangler_desc",
@@ -631,9 +631,9 @@
     {
       "code": "neutral_aethermaster_name",
       "eng": "Aethermaster",
-      "chi": "",
+      "chi": "以太法师",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_aethermaster_desc",
@@ -645,9 +645,9 @@
     {
       "code": "neutral_araki_headhunter_name",
       "eng": "Araki Headhunter",
-      "chi": "",
+      "chi": "荒谷猎头者",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_araki_headhunter_desc",
@@ -673,9 +673,9 @@
     {
       "code": "neutral_azure_horn_shaman_name",
       "eng": "Azure Horn Shaman",
-      "chi": "",
+      "chi": "蔚蓝尖角萨满",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_azure_horn_shaman_desc",
@@ -687,9 +687,9 @@
     {
       "code": "neutral_bluetip_scorpion_name",
       "eng": "Bluetip Scorpion",
-      "chi": "",
+      "chi": "蓝勾蝎",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_bluetip_scorpion_desc",
@@ -701,9 +701,9 @@
     {
       "code": "neutral_ephemeral_shroud_name",
       "eng": "Ephemeral Shroud",
-      "chi": "",
+      "chi": "诡秘蜉蝣",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     }
   ]
 }

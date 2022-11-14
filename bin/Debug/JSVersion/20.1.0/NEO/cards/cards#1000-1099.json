@@ -8,9 +8,9 @@
     {
       "code": "faction_2_artifact_bloodrage_mask_name",
       "eng": "Bloodrage Mask",
-      "chi": "",
+      "chi": "血怒面具",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_2_artifact_bloodrage_mask_description",
@@ -120,9 +120,9 @@
     {
       "code": "faction_2_unit_lantern_fox_name",
       "eng": "Lantern Fox",
-      "chi": "",
+      "chi": "灯狐",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_2_unit_lantern_fox_desc",
@@ -134,9 +134,9 @@
     {
       "code": "faction_2_unit_jade_monk_name",
       "eng": "Jade Monk",
-      "chi": "",
+      "chi": "玉和尚",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_2_unit_jade_monk_desc",
@@ -148,9 +148,9 @@
     {
       "code": "faction_2_unit_chakri_avatar_name",
       "eng": "Chakri Avatar",
-      "chi": "",
+      "chi": "却克里化身",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_2_unit_chakri_avatar_desc",
@@ -176,9 +176,9 @@
     {
       "code": "faction_2_unit_celestial_phantom_name",
       "eng": "Celestial Phantom",
-      "chi": "",
+      "chi": "虚空幻影",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_2_unit_celestial_phantom_desc",
@@ -190,9 +190,9 @@
     {
       "code": "faction_2_unit_storm_kage_name",
       "eng": "Storm Kage",
-      "chi": "",
+      "chi": "风暴赤影",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_2_unit_storm_kage_desc",
@@ -204,23 +204,23 @@
     {
       "code": "faction_2_unit_hamon_bladeseeker_name",
       "eng": "Hamon Bladeseeker",
-      "chi": "",
+      "chi": "寻剑客",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_2_unit_hamon_bladeseeker_desc",
       "eng": "At the start of your turn, deal 2 damage to your General.",
-      "chi": "",
+      "chi": "你的回合开始时，对你的将领造成2点伤害。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_2_unit_keshrai_fanblade_name",
       "eng": "Keshrai Fanblade",
-      "chi": "",
+      "chi": "叶刃舞者",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_2_unit_keshrai_fanblade_desc",
@@ -260,9 +260,9 @@
     {
       "code": "faction_2_unit_gorehorn_name",
       "eng": "Gore Horn",
-      "chi": "",
+      "chi": "屠戮之角",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_2_unit_gorehorn_desc",
@@ -274,9 +274,9 @@
     {
       "code": "faction_2_unit_panddo_name",
       "eng": "Panddo",
-      "chi": "",
+      "chi": "胖多",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_2_unit_panddo_desc",

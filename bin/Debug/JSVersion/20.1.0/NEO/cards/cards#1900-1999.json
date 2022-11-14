@@ -15,9 +15,9 @@
     {
       "code": "neutral_flameblood_warlock_name",
       "eng": "Flameblood Warlock",
-      "chi": "",
+      "chi": "燃血邪术师",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_flameblood_warlock_desc",
@@ -29,9 +29,9 @@
     {
       "code": "neutral_ghost_lynx_name",
       "eng": "Ghost Lynx",
-      "chi": "",
+      "chi": "幽灵山猫",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_ghost_lynx_desc",

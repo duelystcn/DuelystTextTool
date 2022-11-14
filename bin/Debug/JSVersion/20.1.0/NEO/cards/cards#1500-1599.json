@@ -8,9 +8,9 @@
     {
       "code": "faction_5_spell_earth_sphere_name",
       "eng": "Earth Sphere",
-      "chi": "",
+      "chi": "大地领域",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_5_spell_earth_sphere_description",
@@ -22,23 +22,23 @@
     {
       "code": "faction_5_spell_bounded_lifeforce_name",
       "eng": "Bounded Lifeforce",
-      "chi": "",
+      "chi": "进化终端",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_5_spell_bounded_lifeforce_description",
       "eng": "Your General becomes 10/10.",
-      "chi": "",
+      "chi": "你的将领变成10/10。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_5_spell_amplification_name",
       "eng": "Amplification",
-      "chi": "",
+      "chi": "受激进化",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_5_spell_amplification_description",
@@ -50,9 +50,9 @@
     {
       "code": "faction_5_spell_metamorphosis_name",
       "eng": "Metamorphosis",
-      "chi": "",
+      "chi": "蜕变",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_5_spell_metamorphosis_description",
@@ -64,9 +64,9 @@
     {
       "code": "faction_5_spell_plasma_storm_name",
       "eng": "Plasma Storm",
-      "chi": "",
+      "chi": "离子风暴",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_5_spell_plasma_storm_description",
@@ -78,9 +78,9 @@
     {
       "code": "faction_5_spell_chrysalis_burst_name",
       "eng": "Chrysalis Burst",
-      "chi": "",
+      "chi": "蛹动",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_5_spell_chrysalis_burst_description",
@@ -92,9 +92,9 @@
     {
       "code": "faction_5_spell_natural_selection_name",
       "eng": "Natural Selection",
-      "chi": "",
+      "chi": "物竞天择",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_5_spell_natural_selection_description",
@@ -106,9 +106,9 @@
     {
       "code": "faction_5_spell_mind_steal_name",
       "eng": "Mind Steal",
-      "chi": "",
+      "chi": "思维窃取",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_5_spell_mind_steal_description",
@@ -120,9 +120,9 @@
     {
       "code": "faction_5_spell_egg_morph_name",
       "eng": "Egg Morph",
-      "chi": "",
+      "chi": "化蛹",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_5_spell_egg_morph_description",
@@ -134,9 +134,9 @@
     {
       "code": "faction_5_spell_kinetic_equilibrium_name",
       "eng": "Kinetic Equilibrium",
-      "chi": "",
+      "chi": "优胜劣汰",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_5_spell_kinetic_equilibrium_description",
@@ -456,9 +456,9 @@
     {
       "code": "faction_5_artifact_adamantite_claws_name",
       "eng": "Adamantite Claws",
-      "chi": "",
+      "chi": "刚玉爪",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_5_artifact_adamantite_claws_description",
@@ -470,9 +470,9 @@
     {
       "code": "faction_5_artifact_twin_fang_name",
       "eng": "Twin Fang",
-      "chi": "",
+      "chi": "双牙",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_5_artifact_twin_fang_description",
@@ -484,9 +484,9 @@
     {
       "code": "faction_5_artifact_iridium_scale_name",
       "eng": "Iridium Scale",
-      "chi": "",
+      "chi": "铱金鳞",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_5_artifact_iridium_scale_description",
@@ -596,9 +596,9 @@
     {
       "code": "faction_5_unit_kujata_name",
       "eng": "Kujata",
-      "chi": "",
+      "chi": "库亚塔",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_5_unit_kujata_desc",
@@ -631,9 +631,9 @@
     {
       "code": "faction_5_unit_earth_walker_name",
       "eng": "Earth Walker",
-      "chi": "",
+      "chi": "滚石",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_5_unit_earth_walker_desc",
@@ -645,9 +645,9 @@
     {
       "code": "faction_5_unit_primordial_gazer_name",
       "eng": "Primordial Gazer",
-      "chi": "",
+      "chi": "照管者",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_5_unit_primordial_gazer_desc",
@@ -659,9 +659,9 @@
     {
       "code": "faction_5_unit_vindicator_name",
       "eng": "Vindicator",
-      "chi": "",
+      "chi": "维护者",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_5_unit_vindicator_desc",
@@ -680,16 +680,16 @@
     {
       "code": "faction_5_unit_elucidator_desc",
       "eng": "Rush\nOpening Gambit: Deal 4 damage to your General.",
-      "chi": "",
+      "chi": "冲锋\n登场：对你的将领造成4点伤害。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_5_unit_grimrock_name",
       "eng": "Grimrock",
-      "chi": "",
+      "chi": "不动魔岩",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_5_unit_grimrock_desc",

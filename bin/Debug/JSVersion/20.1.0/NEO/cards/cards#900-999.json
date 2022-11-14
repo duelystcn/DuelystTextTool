@@ -50,9 +50,9 @@
     {
       "code": "faction_2_spell_saberspine_seal_name",
       "eng": "Saberspine Seal",
-      "chi": "",
+      "chi": "剑虎印",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_2_spell_saberspine_seal_description",
@@ -64,9 +64,9 @@
     {
       "code": "faction_2_spell_mist_dragon_seal_name",
       "eng": "Mist Dragon Seal",
-      "chi": "",
+      "chi": "雾龙印",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_2_spell_mist_dragon_seal_description",
@@ -78,9 +78,9 @@
     {
       "code": "faction_2_spell_phoenix_fire_name",
       "eng": "Phoenix Fire",
-      "chi": "",
+      "chi": "凤凰火",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_2_spell_phoenix_fire_description",
@@ -92,9 +92,9 @@
     {
       "code": "faction_2_spell_kage_lightning_name",
       "eng": "Kage Lightning",
-      "chi": "",
+      "chi": "赤影闪电",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_2_spell_kage_lightning_description",
@@ -106,9 +106,9 @@
     {
       "code": "faction_2_spell_twin_strike_name",
       "eng": "Twin Strike",
-      "chi": "",
+      "chi": "双龙击",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_2_spell_twin_strike_description",
@@ -120,9 +120,9 @@
     {
       "code": "faction_2_spell_eight_gates_name",
       "eng": "Eight Gates",
-      "chi": "",
+      "chi": "八门",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_2_spell_eight_gates_description",
@@ -134,9 +134,9 @@
     {
       "code": "faction_2_spell_spiral_technique_name",
       "eng": "Spiral Technique",
-      "chi": "",
+      "chi": "极意螺旋",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_2_spell_spiral_technique_description",
@@ -148,9 +148,9 @@
     {
       "code": "faction_2_spell_mana_vortex_name",
       "eng": "Mana Vortex",
-      "chi": "",
+      "chi": "蓄气",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_2_spell_mana_vortex_description",
@@ -162,9 +162,9 @@
     {
       "code": "faction_2_spell_inner_focus_name",
       "eng": "Inner Focus",
-      "chi": "",
+      "chi": "凝神静气",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_2_spell_inner_focus_description",
@@ -176,9 +176,9 @@
     {
       "code": "faction_2_spell_onyx_bear_seal_name",
       "eng": "Onyx Bear Seal",
-      "chi": "",
+      "chi": "墨熊印",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_2_spell_onyx_bear_seal_description",
@@ -190,9 +190,9 @@
     {
       "code": "faction_2_spell_ghost_lightning_name",
       "eng": "Ghost Lightning",
-      "chi": "",
+      "chi": "闪灵一击",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_2_spell_ghost_lightning_description",
@@ -204,9 +204,9 @@
     {
       "code": "faction_2_spell_deathstrike_seal_name",
       "eng": "Deathstrike Seal",
-      "chi": "",
+      "chi": "触蛇印",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_2_spell_deathstrike_seal_description",
@@ -218,9 +218,9 @@
     {
       "code": "faction_2_spell_ancestral_divination_name",
       "eng": "Ancestral Divination",
-      "chi": "",
+      "chi": "卜算",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_2_spell_ancestral_divination_description",
@@ -232,9 +232,9 @@
     {
       "code": "faction_2_spell_juxtaposition_name",
       "eng": "Juxtaposition",
-      "chi": "",
+      "chi": "移形换影",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_2_spell_juxtaposition_description",
@@ -246,9 +246,9 @@
     {
       "code": "faction_2_spell_artifact_defiler_name",
       "eng": "Artifact Defiler",
-      "chi": "",
+      "chi": "折戟",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_2_spell_artifact_defiler_description",
@@ -260,9 +260,9 @@
     {
       "code": "faction_2_spell_heavens_eclipse_name",
       "eng": "Heaven's Eclipse",
-      "chi": "",
+      "chi": "天之蚀",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_2_spell_heavens_eclipse_description",
@@ -274,23 +274,23 @@
     {
       "code": "faction_2_spell_mist_walking_name",
       "eng": "Mist Walking",
-      "chi": "",
+      "chi": "雾影步",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_2_spell_mist_walking_description",
       "eng": "Teleport your General up to 2 spaces.",
-      "chi": "",
+      "chi": "将你的将领传送至多两格。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_2_spell_killing_edge_name",
       "eng": "Killing Edge",
-      "chi": "",
+      "chi": "屠戮之刃",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_2_spell_killing_edge_description",
@@ -680,9 +680,9 @@
     {
       "code": "faction_2_artifact_mask_of_shadows_name",
       "eng": "Mask of Shadows",
-      "chi": "",
+      "chi": "阴影面具",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_2_artifact_mask_of_shadows_description",
@@ -694,9 +694,9 @@
     {
       "code": "faction_2_artifact_cyclone_mask_name",
       "eng": "Cyclone Mask",
-      "chi": "",
+      "chi": "旋风面具",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_2_artifact_cyclone_mask_description",

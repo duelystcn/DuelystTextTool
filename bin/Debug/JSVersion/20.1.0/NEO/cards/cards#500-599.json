@@ -8,86 +8,86 @@
     {
       "code": "d2_neutral_ghost_lynx_desc",
       "eng": "Opening Gambit: Teleport a nearby minion to a random space.",
-      "chi": "",
+      "chi": "登场：将一个相邻随从传送到随机位置。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_golem_metallurgist_name",
       "eng": "Golem Metallurgist",
-      "chi": "",
+      "chi": "冶金魔像",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_golem_metallurgist_desc",
       "eng": "Your Golems cost 1 less to play.",
-      "chi": "",
+      "chi": "你的魔像减少1点费用来使用。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_healing_mystic_name",
       "eng": "Healing Mystic",
-      "chi": "",
+      "chi": "愈伤秘法师",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_healing_mystic_desc",
       "eng": "Opening Gambit: Heal another unit for 2.",
-      "chi": "",
+      "chi": "登场：治疗目标其他单位2点生命。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_jaxi_name",
       "eng": "Jaxi",
-      "chi": "",
+      "chi": "杰西",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_jaxi_desc",
       "eng": "Dying Wish: Summon a Mini-Jax on this space.",
-      "chi": "",
+      "chi": "死愿：所在位置召唤一个小杰斯(1/1 远程);",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_manaforger_name",
       "eng": "Manaforger",
-      "chi": "",
+      "chi": "魔能伪造师",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_manaforger_desc",
       "eng": "Your spells cost 1 less to play.",
-      "chi": "",
+      "chi": "你的法术减少一点费用来使用。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_maw_name",
       "eng": "Maw",
-      "chi": "",
+      "chi": "尖齿鳄",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_maw_desc",
       "eng": "Opening Gambit: Deal 2 damage to a nearby ally. This gains +2/+0.",
-      "chi": "",
+      "chi": "登场：对相邻的友方单位造成2点伤害，此随从获得 +2/+0。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_piercing_mantis_name",
       "eng": "Piercing Mantis",
-      "chi": "",
+      "chi": "穿刺螳螂",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_piercing_mantis_desc",
@@ -106,16 +106,16 @@
     {
       "code": "d2_neutral_primus_fist_desc",
       "eng": "Opening Gambit: Give nearby allied minions +1/+0.",
-      "chi": "",
+      "chi": "登场：使所有的相邻己方随从获得+1/+0。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_rock_pulverizer_name",
       "eng": "Rock Pulverizer",
-      "chi": "",
+      "chi": "穿山甲",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_rock_pulverizer_desc",
@@ -127,30 +127,30 @@
     {
       "code": "d2_neutral_rust_crawler_name",
       "eng": "Rust Crawler",
-      "chi": "",
+      "chi": "酸浆蠕虫",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_rust_crawler_desc",
       "eng": "Opening Gambit: Destroy a random artifact equipped to the enemy General.",
-      "chi": "",
+      "chi": "登场：随机摧毁敌方将领装备的一个神器。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_skyrock_golem_name",
       "eng": "Skyrock Golem",
-      "chi": "",
+      "chi": "天空石魔像",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_vale_hunter_name",
       "eng": "Vale Hunter",
-      "chi": "",
+      "chi": "溪谷猎手",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_vale_hunter_desc",
@@ -162,65 +162,65 @@
     {
       "code": "d2_neutral_wings_of_mechaz0r_name",
       "eng": "Wings of MECHAZ0R",
-      "chi": "",
+      "chi": "零号机的推进器",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_wings_of_mechaz0r_desc",
       "eng": "Airdrop\nDying Wish: Progress your Mechaz0r build by 20%.",
-      "chi": "",
+      "chi": "空降\n死愿：使你的零号机组装进度提高20%。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_alucin_loremaster_name",
       "eng": "Alcuin Loremaster",
-      "chi": "",
+      "chi": "博学者 阿尔古因",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_alcuin_loremaster_desc",
       "eng": "Opening Gambit: Put a copy of the most recently played spell into your action bar.",
-      "chi": "",
+      "chi": "登场：复制上一张被使用的法术并置入你的准备栏。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_blaze_hound_name",
       "eng": "Blaze Hound",
-      "chi": "",
+      "chi": "喷焰猎犬",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_blaze_hound_desc",
       "eng": "This card costs 1 less to play if the enemy General took damage this turn.",
-      "chi": "",
+      "chi": "如果这回合敌方将领受到过伤害，此随从使用时减少一点费用。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_bloodshard_golem_name",
       "eng": "Bloodshard Golem",
-      "chi": "",
+      "chi": "血晶石魔像",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_cannon_of_mechaz0r_name",
       "eng": "Cannon of MECHAZ0R",
-      "chi": "",
+      "chi": "零号机的粒子炮",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_cannon_of_mechaz0r_desc",
       "eng": "Ranged\nDying Wish: Progress your Mechaz0r build by 20%.",
-      "chi": "",
+      "chi": "远程\n死愿：使你的零号机组装进度提高20%。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_chaos_elemental_name",

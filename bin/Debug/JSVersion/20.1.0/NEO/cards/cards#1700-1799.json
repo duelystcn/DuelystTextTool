@@ -8,9 +8,9 @@
     {
       "code": "faction_6_spell_hailstone_prison_name",
       "eng": "Hailstone Prison",
-      "chi": "",
+      "chi": "冰砖监牢",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_6_spell_hailstone_prison_description",
@@ -22,9 +22,9 @@
     {
       "code": "faction_6_spell_spirit_of_the_wild_name",
       "eng": "Spirit of the Wild",
-      "chi": "",
+      "chi": "野性之魂",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_6_spell_spirit_of_the_wild_description",
@@ -36,9 +36,9 @@
     {
       "code": "faction_6_spell_cryogenesis_name",
       "eng": "Cryogenesis",
-      "chi": "",
+      "chi": "制冷术",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_6_spell_cryogenesis_description",
@@ -372,9 +372,9 @@
     {
       "code": "faction_6_artifact_snowpiercer_name",
       "eng": "Snowpiercer",
-      "chi": "",
+      "chi": "贯雪箭",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_6_artifact_snowpiercer_description",
@@ -386,9 +386,9 @@
     {
       "code": "faction_6_artifact_coldbiter_name",
       "eng": "Coldbiter",
-      "chi": "",
+      "chi": "冰咬",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_6_artifact_coldbiter_description",
@@ -400,9 +400,9 @@
     {
       "code": "faction_6_artifact_winterblade_name",
       "eng": "Winterblade",
-      "chi": "",
+      "chi": "冻刃剑",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_6_artifact_winterblade_description",
@@ -512,9 +512,9 @@
     {
       "code": "faction_6_unit_snow_chaser_name",
       "eng": "Snow Chaser",
-      "chi": "",
+      "chi": "寻雪精灵",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_6_unit_snow_chaser_desc",
@@ -526,9 +526,9 @@
     {
       "code": "faction_6_unit_borean_bear_name",
       "eng": "Borean Bear",
-      "chi": "",
+      "chi": "寒风熊",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_6_unit_borean_bear_desc",
@@ -540,9 +540,9 @@
     {
       "code": "faction_6_unit_crystal_cloaker_name",
       "eng": "Crystal Cloaker",
-      "chi": "",
+      "chi": "冰晶拟态虫",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_6_unit_crystal_cloaker_desc",
@@ -554,9 +554,9 @@
     {
       "code": "faction_6_unit_crystal_wisp_name",
       "eng": "Crystal Wisp",
-      "chi": "",
+      "chi": "冰晶灵",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_6_unit_crystal_wisp_desc",
@@ -582,9 +582,9 @@
     {
       "code": "faction_6_unit_fenrir_warmaster_name",
       "eng": "Fenrir Warmaster",
-      "chi": "",
+      "chi": "善战驯狼人",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_6_unit_fenrir_warmaster_desc",
@@ -638,9 +638,9 @@
     {
       "code": "faction_6_unit_voice_of_the_wind_name",
       "eng": "Voice of the Wind",
-      "chi": "",
+      "chi": "风之声",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_6_unit_voice_of_the_wind_desc",
@@ -666,9 +666,9 @@
     {
       "code": "faction_6_unit_frosthorn_rhyno_name",
       "eng": "Frosthorn Rhyno",
-      "chi": "",
+      "chi": "霜角犀",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_6_unit_frosthorn_rhyno_desc",
@@ -694,9 +694,9 @@
     {
       "code": "faction_6_unit_ancient_grove_name",
       "eng": "Ancient Grove",
-      "chi": "",
+      "chi": "远古树精",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_6_unit_ancient_grove_desc",

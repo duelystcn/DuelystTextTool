@@ -202,7 +202,38 @@ namespace DuelystText.CoreData.Node
             }
         
         }
+        //批量替换文本
+        public void StrBatchCorrection(string versionCode, string oldStr, string newStr) 
+        {
+            foreach (TranslateSaveItem saveItem in this.translateSaveItemList)
+            {
+                bool hasChange = false;
+                foreach (var item in saveItem.translateItemList)
+                {
+                    if (item.chi.IndexOf(oldStr) != -1) 
+                    {
+                        Console.WriteLine(" item.chi old:" + item.chi);
+                        item.chi = item.chi.Replace(oldStr, newStr);
+                        Console.WriteLine(" item.chi new:" + item.chi);
+                        hasChange = true;
+                    }
+                }
+                if (hasChange)
+                {
+                    string direThisPath = this.path.Replace(".", "/");
+                    string intactPath = Application.StartupPath + "/JSVersion/" + versionCode + "/" + GlobalVariable.originNodeCode + "/" + direThisPath;
+                    WriteTargetTranslateSaveItem(saveItem, intactPath, this.nodeCode);
+                }
+            }
+            foreach (var item in this.childNodeList)
+            {
+                item.StrBatchCorrection(versionCode, oldStr, newStr);
+            }
 
+        }
+
+
+        //仅仅在这个node把已确认的重复文本全部赋值
         public void DuplicateTextOnlyThisNode(string versionCode) 
         {
             Dictionary<string, string> confirmTransItemDic = new Dictionary<string, string>();
@@ -244,7 +275,7 @@ namespace DuelystText.CoreData.Node
             }
         }
 
-
+        
         public void LoadDuplicateTextFile(string versionCode)
         {
             string pathDuplictae = Application.StartupPath + "/JSVersion/" + versionCode + "/DuplictaeText/" + "duplictaeTextExport 638039808794337381.json";

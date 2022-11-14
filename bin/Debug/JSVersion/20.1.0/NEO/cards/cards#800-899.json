@@ -29,9 +29,9 @@
     {
       "code": "faction_1_artifact_skywind_glaives_name",
       "eng": "Skywind Glaives",
-      "chi": "",
+      "chi": "天风环刃",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_1_artifact_skywind_glaives_description",
@@ -43,9 +43,9 @@
     {
       "code": "faction_1_artifact_sunstone_bracers_name",
       "eng": "Sunstone Bracers",
-      "chi": "",
+      "chi": "阳石护腕",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_1_artifact_sunstone_bracers_description",
@@ -57,9 +57,9 @@
     {
       "code": "faction_1_artifact_arclyte_regalia_name",
       "eng": "Arclyte Regalia",
-      "chi": "",
+      "chi": "阿克莱盛装",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_1_artifact_arclyte_regalia_description",
@@ -141,9 +141,9 @@
     {
       "code": "faction_1_unit_ziran_name",
       "eng": "Zir'An Sunforge",
-      "chi": "",
+      "chi": "泽尔安·铸阳",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_1_unit_ziran_desc",
@@ -169,9 +169,9 @@
     {
       "code": "faction_1_unit_silverguard_squire_name",
       "eng": "Silverguard Squire",
-      "chi": "",
+      "chi": "银卫侍从",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_1_unit_windblade_adept_name",
@@ -190,9 +190,9 @@
     {
       "code": "faction_1_unit_second_sun_name",
       "eng": "Second Sun",
-      "chi": "",
+      "chi": "烈阳化身",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_1_unit_second_sun_desc",
@@ -232,9 +232,9 @@
     {
       "code": "faction_1_unit_ironcliffe_guardian_name",
       "eng": "Ironcliffe Guardian",
-      "chi": "",
+      "chi": "铁壁守护者",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_1_unit_ironcliffe_guardian_desc",
@@ -246,9 +246,9 @@
     {
       "code": "faction_1_unit_elyx_name",
       "eng": "Elyx Stormblade",
-      "chi": "",
+      "chi": "风暴之刃 爱丽克斯",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_1_unit_elyx_desc",
@@ -260,9 +260,9 @@
     {
       "code": "faction_1_unit_sunriser_name",
       "eng": "Sunriser",
-      "chi": "",
+      "chi": "唤日者",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_1_unit_sunriser_desc",
@@ -302,9 +302,9 @@
     {
       "code": "faction_1_unit_lysian_brawler_name",
       "eng": "Lysian Brawler",
-      "chi": "",
+      "chi": "吕西安格斗家",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_1_unit_lysian_brawler_desc",
@@ -316,9 +316,9 @@
     {
       "code": "faction_1_unit_sunstone_templar_name",
       "eng": "Sunstone Templar",
-      "chi": "",
+      "chi": "阳石圣殿武士",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_1_unit_sunstone_templar_desc",
@@ -330,9 +330,9 @@
     {
       "code": "faction_1_unit_azurite_lion_name",
       "eng": "Azurite Lion",
-      "chi": "",
+      "chi": "石青狮",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_1_unit_azurite_lion_desc",
@@ -344,9 +344,9 @@
     {
       "code": "faction_1_unit_grandmaster_zir_name",
       "eng": "Grandmaster Z'ir",
-      "chi": "",
+      "chi": "宗师泽尔",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_1_unit_grandmaster_zir_desc",
