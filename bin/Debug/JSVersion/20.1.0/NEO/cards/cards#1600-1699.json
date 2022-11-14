@@ -8,9 +8,9 @@
     {
       "code": "faction_5_unit_veteran_silithar_desc",
       "eng": "Rebirth",
-      "chi": "",
+      "chi": "重生",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_5_unit_kolossus_name",
@@ -43,9 +43,9 @@
     {
       "code": "faction_5_unit_makantor_warbeast_name",
       "eng": "Makantor Warbeast",
-      "chi": "",
+      "chi": "纷争制造者",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_5_unit_makantor_warbeast_desc",
@@ -57,9 +57,9 @@
     {
       "code": "faction_5_unit_silithar_elder_name",
       "eng": "Silithar Elder",
-      "chi": "",
+      "chi": "完全体西里萨",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_5_unit_silithar_elder_desc",
@@ -120,9 +120,9 @@
     {
       "code": "faction_5_unit_rex_desc",
       "eng": "Rebirth",
-      "chi": "",
+      "chi": "重生",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_5_unit_gro_name",
@@ -512,9 +512,9 @@
     {
       "code": "faction_6_spell_gravity_well_name",
       "eng": "Gravity Well",
-      "chi": "",
+      "chi": "重力井",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_6_spell_gravity_well_description",
@@ -526,9 +526,9 @@
     {
       "code": "faction_6_spell_bonechill_barrier_name",
       "eng": "Bonechill Barrier",
-      "chi": "",
+      "chi": "刺骨栏栅",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_6_spell_bonechill_barrier_description",
@@ -540,9 +540,9 @@
     {
       "code": "faction_6_spell_blazing_spines_name",
       "eng": "Blazing Spines",
-      "chi": "",
+      "chi": "闪光冰锥",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_6_spell_blazing_spines_description",
@@ -582,9 +582,9 @@
     {
       "code": "faction_6_spell_frostfire_name",
       "eng": "Frostfire",
-      "chi": "",
+      "chi": "霜火",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_6_spell_frostfire_description",

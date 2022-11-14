@@ -126,5 +126,10 @@ namespace DuelystText
             TranslateForm translateForm = new TranslateForm();
             translateForm.Show();
         }
+
+        private void ReadFile_Click(object sender, EventArgs e)
+        {
+            //ToolDataManger.Instance.currentNodeItem.LoadDuplicateTextFile(ToolDataManger.Instance.currentVersionItem.versionCode);
+        }
     }
 }

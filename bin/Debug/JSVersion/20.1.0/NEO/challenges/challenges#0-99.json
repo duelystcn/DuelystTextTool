@@ -274,9 +274,9 @@
     {
       "code": "beginner_ranged_challenge_description",
       "eng": "Defeat the Vanar General in ONE turn.",
-      "chi": "",
+      "chi": "在一个回合内击败Vanar将领。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_ranged_challenge_start",
@@ -309,16 +309,16 @@
     {
       "code": "advanced_abyss_1_description",
       "eng": "Defeat the Lyonar General in ONE turn.",
-      "chi": "",
+      "chi": "在一个回合内击败Lyonar将领。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "advanced_abyss_1_start",
       "eng": "Finish off Argeon Highmayne in ONE turn!",
-      "chi": "",
+      "chi": "一个回合内终结阿吉恩·金鬃！",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "advanced_abyss_1_fail",
@@ -330,9 +330,9 @@
     {
       "code": "advanced_abyss_1_taunt",
       "eng": "Feel the heat of life!",
-      "chi": "",
+      "chi": "感受这生命的炙热！",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_abyss_1_title",
@@ -351,9 +351,9 @@
     {
       "code": "beginner_abyss_1_start",
       "eng": "Finish off Argeon Highmayne in ONE turn!",
-      "chi": "",
+      "chi": "一个回合内终结阿吉恩·金鬃！",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_abyss_1_fail",
@@ -365,9 +365,9 @@
     {
       "code": "beginner_abyss_1_taunt",
       "eng": "Burn in fire and sand!",
-      "chi": "",
+      "chi": "在火和沙中燃烧！",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_abyss_2_title",
@@ -379,9 +379,9 @@
     {
       "code": "beginner_abyss_2_description",
       "eng": "Defeat the Songhai General in ONE turn.",
-      "chi": "",
+      "chi": "在一个回合内击败Songhai将领。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_abyss_2_start",
@@ -400,9 +400,9 @@
     {
       "code": "beginner_abyss_2_taunt",
       "eng": "Feel the heat of life!",
-      "chi": "",
+      "chi": "感受这生命的炙热！",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_abyss_3_title",
@@ -414,16 +414,16 @@
     {
       "code": "beginner_abyss_3_description",
       "eng": "Defeat the Songhai General in ONE turn.",
-      "chi": "",
+      "chi": "在一个回合内击败Songhai将领。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_abyss_3_start",
       "eng": "Finish off the Songhai General in ONE turn!",
-      "chi": "",
+      "chi": "一个回合内终结Songhai将领！",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_abyss_3_fail",
@@ -435,9 +435,9 @@
     {
       "code": "beginner_abyss_3_taunt",
       "eng": "Feel the heat of life!",
-      "chi": "",
+      "chi": "感受这生命的炙热！",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_abyss_4_title",
@@ -470,9 +470,9 @@
     {
       "code": "beginner_abyss_4_taunt",
       "eng": "Perish in blood and sand!",
-      "chi": "",
+      "chi": "在血与尘中消亡吧！",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_abyss_5_title",
@@ -491,9 +491,9 @@
     {
       "code": "beginner_abyss_5_start",
       "eng": "Finish off the Songhai General in ONE turn!",
-      "chi": "",
+      "chi": "一个回合内终结Songhai将领！",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_abyss_5_fail",
@@ -505,9 +505,9 @@
     {
       "code": "beginner_abyss_5_taunt",
       "eng": "Perish in blood and sand!",
-      "chi": "",
+      "chi": "在血与尘中消亡吧！",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_abyss_6_title",
@@ -540,9 +540,9 @@
     {
       "code": "beginner_abyss_6_taunt",
       "eng": "Perish in blood and sand!",
-      "chi": "",
+      "chi": "在血与尘中消亡吧！",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "medium_abyss_1_title",
@@ -554,16 +554,16 @@
     {
       "code": "medium_abyss_1_description",
       "eng": "Defeat the Lyonar General in ONE turn.",
-      "chi": "",
+      "chi": "在一个回合内击败Lyonar将领。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "medium_abyss_1_start",
       "eng": "Finish off Argeon Highmayne in ONE turn!",
-      "chi": "",
+      "chi": "一个回合内终结阿吉恩·金鬃！",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "medium_abyss_1_fail",
@@ -575,9 +575,9 @@
     {
       "code": "medium_abyss_1_taunt",
       "eng": "Feel the heat of life!",
-      "chi": "",
+      "chi": "感受这生命的炙热！",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "advanced_lyonar_1_title",
@@ -589,16 +589,16 @@
     {
       "code": "advanced_lyonar_1_description",
       "eng": "Defeat the Lyonar General in ONE turn.",
-      "chi": "",
+      "chi": "在一个回合内击败Lyonar将领。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "advanced_lyonar_1_start",
       "eng": "Finish off the Lyonar General in ONE turn!",
-      "chi": "",
+      "chi": "一个回合内终结Lyonar将领！",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "advanced_lyonar_1_fail",
@@ -610,9 +610,9 @@
     {
       "code": "advanced_lyonar_1_taunt",
       "eng": "Blaze and burn!",
-      "chi": "",
+      "chi": "全部点燃！",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "advanced_lyonar_2_title",
@@ -645,9 +645,9 @@
     {
       "code": "advanced_lyonar_2_taunt",
       "eng": "Blaze and burn!",
-      "chi": "",
+      "chi": "全部点燃！",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_lyonar_1_title",
@@ -680,9 +680,9 @@
     {
       "code": "beginner_lyonar_1_taunt",
       "eng": "Burn in fire and sand!",
-      "chi": "",
+      "chi": "在火和沙中燃烧！",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_lyonar_2_title",
@@ -701,9 +701,9 @@
     {
       "code": "beginner_lyonar_2_start",
       "eng": "Finish off Vaath the Immortal in ONE turn!",
-      "chi": "",
+      "chi": "一个回合内终结不朽的瓦斯！",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     }
   ]
 }

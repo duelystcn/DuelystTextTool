@@ -171,7 +171,7 @@
       "eng": "",
       "chi": "",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_6_unit_kara_name",
@@ -185,7 +185,7 @@
       "eng": "",
       "chi": "",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_6_unit_ilena_name",
@@ -199,7 +199,7 @@
       "eng": "",
       "chi": "",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_6_unit_snow_chaser_name",
@@ -533,177 +533,177 @@
     {
       "code": "d2_neutral_dreamgazer_name",
       "eng": "Dreamgazer",
-      "chi": "",
+      "chi": "窥梦灵",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_dreamgazer_desc",
       "eng": "When you replace this card, summon it on the space behind your General and deal 2 damage to your General.",
-      "chi": "",
+      "chi": "当你替换此牌时，将其召唤在你的将领相邻的随机位置，并对你的将领造成2点伤害。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_helm_of_mechaz0r_name",
       "eng": "Helm of MECHAZ0R",
-      "chi": "",
+      "chi": "零号机的中枢",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_helm_of_mechaz0r_desc",
       "eng": "Dying Wish: Progress your Mechaz0r build by 20%.",
-      "chi": "",
+      "chi": "死愿：使你的零号机组装进度提高20%。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_komodo_charger_name",
       "eng": "Komodo Scavenger",
-      "chi": "",
+      "chi": "食腐科莫多",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_komodo_charger_desc",
       "eng": "This gains Health equal to the cost of the next artifact you equip.",
-      "chi": "",
+      "chi": "当你装备下一张神器时，此随从获得等同于该神器费用的生命。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_planar_scout_name",
       "eng": "Planar Scout",
-      "chi": "",
+      "chi": "相位斥候",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_planar_scout_desc",
       "eng": "Airdrop",
-      "chi": "",
+      "chi": "空降",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_prophet_of_the_white_palm_name",
       "eng": "Prophet of the White Palm",
-      "chi": "",
+      "chi": "白掌先知",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_prophet_of_the_white_palm_desc",
       "eng": "Opening Gambit: Prevent damage dealt by spells until your next turn.",
-      "chi": "",
+      "chi": "登场：防止所有法术造成的伤害直到你的下个回合开始。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_swamp_entangler_name",
       "eng": "Swamp Entangler",
-      "chi": "",
+      "chi": "沼泽缠须兽",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_swamp_entangler_desc",
       "eng": "Provoke",
-      "chi": "",
+      "chi": "嘲讽",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_aethermaster_name",
       "eng": "Aethermaster",
-      "chi": "",
+      "chi": "以太法师",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_aethermaster_desc",
       "eng": "You can replace an additional card each turn.",
-      "chi": "",
+      "chi": "你每回合可以额外替换一张牌。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_araki_headhunter_name",
       "eng": "Araki Headhunter",
-      "chi": "",
+      "chi": "荒谷猎头者",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_araki_headhunter_desc",
       "eng": "When you play a minion with Opening Gambit, this gains +2/+0.",
-      "chi": "",
+      "chi": "每当你使用一张具有登场异能的随从时，此随从获得+2/+0。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_azure_horn_shaman_name",
       "eng": "Azure Horn Shaman",
-      "chi": "",
+      "chi": "蔚蓝尖角萨满",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_azure_horn_shaman_desc",
       "eng": "Dying Wish: Give nearby allied minions +0/+4.",
-      "chi": "",
+      "chi": "死愿：使相邻的友方随从获得 +0/+4。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_bluetip_scorpion_name",
       "eng": "Bluetip Scorpion",
-      "chi": "",
+      "chi": "蓝勾蝎",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_bluetip_scorpion_desc",
       "eng": "This deals double damage to minions.",
-      "chi": "",
+      "chi": "此随从对其他随从造成的伤害翻倍。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_ephemeral_shroud_name",
       "eng": "Ephemeral Shroud",
-      "chi": "",
+      "chi": "诡秘蜉蝣",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_ephemeral_shroud_desc",
       "eng": "Opening Gambit: Dispel a nearby space.",
-      "chi": "",
+      "chi": "登场：驱散一个相邻的格子。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_flameblood_warlock_name",
       "eng": "Flameblood Warlock",
-      "chi": "",
+      "chi": "燃血邪术师",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_flameblood_warlock_desc",
       "eng": "Opening Gambit: Deal 3 damage to both Generals.",
-      "chi": "",
+      "chi": "登场：对双方将领造成3点伤害。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_ghost_lynx_name",
       "eng": "Ghost Lynx",
-      "chi": "",
+      "chi": "幽灵山猫",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     }
   ]
 }

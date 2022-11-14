@@ -363,6 +363,7 @@ namespace DuelystText
             this.DuplicateTextButton.TabIndex = 15;
             this.DuplicateTextButton.Text = "填充已有";
             this.DuplicateTextButton.UseVisualStyleBackColor = true;
+            this.DuplicateTextButton.Click += new System.EventHandler(this.DuplicateTextButton_Click);
             // 
             // TranslateForm
             // 

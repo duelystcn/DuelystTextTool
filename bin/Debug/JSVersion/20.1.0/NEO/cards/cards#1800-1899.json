@@ -22,9 +22,9 @@
     {
       "code": "faction_6_unit_whyte_drake_desc",
       "eng": "Flying",
-      "chi": "",
+      "chi": "飞行",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_6_unit_seismic_elemental_name",
@@ -57,9 +57,9 @@
     {
       "code": "faction_6_unit_bonechill_barrier_name",
       "eng": "Bonechill Barrier",
-      "chi": "",
+      "chi": "刺骨栏栅",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_6_unit_bonechill_barrier_desc",
@@ -71,23 +71,23 @@
     {
       "code": "faction_6_unit_blazing_spines_name",
       "eng": "Blazing Spines",
-      "chi": "",
+      "chi": "闪光冰锥",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_6_unit_blazing_spines_desc",
       "eng": "Wall",
-      "chi": "",
+      "chi": "墙",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_6_unit_gravity_well_name",
       "eng": "Gravity Well",
-      "chi": "",
+      "chi": "重力井",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_6_unit_gravity_well_desc",
@@ -106,9 +106,9 @@
     {
       "code": "faction_6_unit_treant_desc",
       "eng": "Provoke",
-      "chi": "",
+      "chi": "嘲讽",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_6_unit_snow_rippler_name",
@@ -386,16 +386,16 @@
     {
       "code": "faction_6_unit_watchful_sentinel_name",
       "eng": "Watchful Sentinel",
-      "chi": "",
+      "chi": "守望哨兵",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_6_unit_watchful_sentinel_desc",
       "eng": "Sentinel: This transforms into a powerful minion if its hidden condition is met.",
-      "chi": "",
+      "chi": "守望：当此随从的隐秘条件被满足时，将会变成一个强大的随从。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_6_unit_luminous_charge_name",
@@ -533,9 +533,9 @@
     {
       "code": "neutral_dragonlark_desc",
       "eng": "Flying",
-      "chi": "",
+      "chi": "飞行",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_dreamgazer_name",
@@ -582,9 +582,9 @@
     {
       "code": "neutral_planar_scout_desc",
       "eng": "Airdrop",
-      "chi": "",
+      "chi": "空降",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_prophet_of_the_white_palm_name",
@@ -610,9 +610,9 @@
     {
       "code": "neutral_swamp_entangler_desc",
       "eng": "Provoke",
-      "chi": "",
+      "chi": "嘲讽",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_zyx_name",

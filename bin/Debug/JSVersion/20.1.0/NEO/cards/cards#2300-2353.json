@@ -29,9 +29,9 @@
     {
       "code": "neutral_saberspine_cub_desc",
       "eng": "Rush",
-      "chi": "",
+      "chi": "冲锋",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_replicant_name",
@@ -379,9 +379,9 @@
     {
       "code": "frostfire_tiger_name",
       "eng": "Frostfire Tiger",
-      "chi": "",
+      "chi": "霜火虎",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     }
   ]
 }

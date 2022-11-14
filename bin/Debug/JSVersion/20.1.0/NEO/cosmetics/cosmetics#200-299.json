@@ -141,9 +141,9 @@
     {
       "code": "icon_lady_locke_name",
       "eng": "Lady Locke",
-      "chi": "",
+      "chi": "链锁女士",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "icon_lady_locke_desc",
@@ -225,9 +225,9 @@
     {
       "code": "icon_rook_name",
       "eng": "Rook",
-      "chi": "",
+      "chi": "瑞克",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "icon_rook_desc",
@@ -309,9 +309,9 @@
     {
       "code": "icon_zukong_name",
       "eng": "Zukong",
-      "chi": "",
+      "chi": "悟空",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "icon_zukong_desc",
@@ -379,9 +379,9 @@
     {
       "code": "icon_heartseeker_name",
       "eng": "Heartseeker",
-      "chi": "",
+      "chi": "猎心者",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "icon_heartseeker_desc",
@@ -393,9 +393,9 @@
     {
       "code": "icon_kaido_assassin_name",
       "eng": "Kaido Assassin",
-      "chi": "",
+      "chi": "凯多刺客",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "icon_kaido_assassin_desc",
@@ -407,9 +407,9 @@
     {
       "code": "icon_kaleos_name",
       "eng": "Kaleos Xaan",
-      "chi": "",
+      "chi": "卡莱奥斯",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "icon_kaleos_desc",
@@ -421,9 +421,9 @@
     {
       "code": "icon_reva_name",
       "eng": "Reva Eventide",
-      "chi": "",
+      "chi": "暮色 雷伊",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "icon_reva_desc",
@@ -449,9 +449,9 @@
     {
       "code": "icon_scarlet_viper_name",
       "eng": "Scarlet Viper",
-      "chi": "",
+      "chi": "猩红毒蛇",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "icon_scarlet_viper_desc",
@@ -463,9 +463,9 @@
     {
       "code": "icon_tusk_boar_name",
       "eng": "Tusk Boar",
-      "chi": "",
+      "chi": "利牙野猪",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "icon_tusk_boar_desc",
@@ -477,9 +477,9 @@
     {
       "code": "icon_widowmaker_name",
       "eng": "Widowmaker",
-      "chi": "",
+      "chi": "寡妇制造者",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "icon_widowmaker_desc",
@@ -491,9 +491,9 @@
     {
       "code": "icon_arctic_displacer_name",
       "eng": "Arctic Displacer",
-      "chi": "",
+      "chi": "极地幻兽",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "icon_arctic_displacer_desc",
@@ -519,9 +519,9 @@
     {
       "code": "icon_draugar_lord_name",
       "eng": "Draugar Lord",
-      "chi": "",
+      "chi": "冰龙领主",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "icon_draugar_lord_desc",
@@ -547,9 +547,9 @@
     {
       "code": "icon_faie_name",
       "eng": "Faie Bloodwing",
-      "chi": "",
+      "chi": "血翼 费伊",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "icon_faie_desc",
@@ -575,9 +575,9 @@
     {
       "code": "icon_glacial_elemental_name",
       "eng": "Glacial Elemental",
-      "chi": "",
+      "chi": "冰川元素",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "icon_glacial_elemental_desc",
@@ -589,9 +589,9 @@
     {
       "code": "icon_hearth_sister_name",
       "eng": "Hearth-Sister",
-      "chi": "",
+      "chi": "炉石姐妹",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "icon_hearth_sister_desc",
@@ -617,9 +617,9 @@
     {
       "code": "icon_kara_name",
       "eng": "Kara Winterblade",
-      "chi": "",
+      "chi": "冻刃 卡拉",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "icon_kara_desc",
@@ -659,9 +659,9 @@
     {
       "code": "icon_razorback_name",
       "eng": "Razorback",
-      "chi": "",
+      "chi": "刀背兽",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "icon_razorback_desc",
@@ -687,9 +687,9 @@
     {
       "code": "icon_wolfraven_name",
       "eng": "Wolfraven",
-      "chi": "",
+      "chi": "狼鸦",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "icon_wolfraven_desc",

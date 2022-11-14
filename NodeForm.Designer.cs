@@ -31,7 +31,6 @@ namespace DuelystText
         {
             this.ReturnToParent = new System.Windows.Forms.Button();
             this.NodeGridView = new System.Windows.Forms.DataGridView();
-            this.ReadFile = new System.Windows.Forms.Button();
             this.nodeName = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.textNum = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.needTransNum = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -40,6 +39,7 @@ namespace DuelystText
             this.mark = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.opreate = new System.Windows.Forms.DataGridViewButtonColumn();
             this.Directory = new System.Windows.Forms.DataGridViewButtonColumn();
+            this.ReadFile = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.NodeGridView)).BeginInit();
             this.SuspendLayout();
             // 
@@ -72,15 +72,6 @@ namespace DuelystText
             this.NodeGridView.Size = new System.Drawing.Size(1013, 771);
             this.NodeGridView.TabIndex = 1;
             this.NodeGridView.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.NodeGridView_CellContentClick);
-            // 
-            // ReadFile
-            // 
-            this.ReadFile.Location = new System.Drawing.Point(103, 12);
-            this.ReadFile.Name = "ReadFile";
-            this.ReadFile.Size = new System.Drawing.Size(75, 23);
-            this.ReadFile.TabIndex = 2;
-            this.ReadFile.Text = "读取文件";
-            this.ReadFile.UseVisualStyleBackColor = true;
             // 
             // nodeName
             // 
@@ -133,6 +124,16 @@ namespace DuelystText
             // 
             this.Directory.HeaderText = "文件夹";
             this.Directory.Name = "Directory";
+            // 
+            // ReadFile
+            // 
+            this.ReadFile.Location = new System.Drawing.Point(103, 12);
+            this.ReadFile.Name = "ReadFile";
+            this.ReadFile.Size = new System.Drawing.Size(75, 23);
+            this.ReadFile.TabIndex = 2;
+            this.ReadFile.Text = "读取文件";
+            this.ReadFile.UseVisualStyleBackColor = true;
+            this.ReadFile.Click += new System.EventHandler(this.ReadFile_Click);
             // 
             // NodeForm
             // 

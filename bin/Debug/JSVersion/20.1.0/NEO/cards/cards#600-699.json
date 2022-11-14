@@ -36,9 +36,9 @@
     {
       "code": "d2_neutral_lightbender_name",
       "eng": "Lightbender",
-      "chi": "",
+      "chi": "扰光法师",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_lightbender_desc",
@@ -197,9 +197,9 @@
     {
       "code": "d2_neutral_young_flamewing_desc",
       "eng": "Flying",
-      "chi": "",
+      "chi": "飞行",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_ash_mephytt_name",
@@ -232,9 +232,9 @@
     {
       "code": "d2_neutral_dagger_kiri_desc",
       "eng": "Celerity",
-      "chi": "",
+      "chi": "迅捷",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_dancing_blades_name",
@@ -288,16 +288,16 @@
     {
       "code": "d2_neutral_spellspark_desc",
       "eng": "Rush",
-      "chi": "",
+      "chi": "冲锋",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_hollow_grovekeeper_name",
       "eng": "Hollow Grovekeeper",
-      "chi": "",
+      "chi": "幽谷护林兽",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_hollow_grovekeeper_desc",
@@ -484,9 +484,9 @@
     {
       "code": "d2_neutral_serpenti_desc",
       "eng": "Frenzy",
-      "chi": "",
+      "chi": "狂暴",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_storm_aratha_name",
@@ -617,9 +617,9 @@
     {
       "code": "d2_neutral_rook_name",
       "eng": "Rook",
-      "chi": "",
+      "chi": "瑞克",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_rook_desc",
@@ -687,9 +687,9 @@
     {
       "code": "d2_neutral_zukong_name",
       "eng": "Zukong",
-      "chi": "",
+      "chi": "悟空",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_zukong_desc",

@@ -151,16 +151,16 @@ namespace DuelystText.CoreData.Node
                         translateItemList[orderNum].translateState = TranslateState.UnStart;
                         translateSaveItem.translateItemList.Add(translateItemList[orderNum]);
                     }
-                    WriteTargetTranslateSaveItem(translateSaveItem, intactPath);
+                    WriteTargetTranslateSaveItem(translateSaveItem, intactPath, this.nodeCode);
                     this.translateSaveItemList.Add(translateSaveItem);
                 }
             }
         }
 
-        public void WriteTargetTranslateSaveItem(TranslateSaveItem translateSaveItem, string intactPath) 
+        public void WriteTargetTranslateSaveItem(TranslateSaveItem translateSaveItem, string intactPath, string nodeCodeSave) 
         {
             string translateSaveStr = JsonConvert.SerializeObject(translateSaveItem, Formatting.Indented);
-            string fileName = this.nodeCode + "#" + translateSaveItem.orderStart + "-" + translateSaveItem.orderEnd + ".json";
+            string fileName = nodeCodeSave + "#" + translateSaveItem.orderStart + "-" + translateSaveItem.orderEnd + ".json";
             FileWriteUtil.FileWrite(fileName, translateSaveStr, intactPath);
         }
 
@@ -202,5 +202,85 @@ namespace DuelystText.CoreData.Node
             }
         
         }
+
+        public void DuplicateTextOnlyThisNode(string versionCode) 
+        {
+            Dictionary<string, string> confirmTransItemDic = new Dictionary<string, string>();
+            foreach (TranslateSaveItem saveItem in this.translateSaveItemList)
+            {
+                foreach (var item in saveItem.translateItemList)
+                {
+                    if (item.translateState == TranslateState.Confirm)
+                    {
+                        if (!confirmTransItemDic.ContainsKey(item.eng)) 
+                        {
+                            confirmTransItemDic.Add(item.eng,item.chi);
+                        }
+                    }
+                }
+            }
+            foreach (TranslateSaveItem saveItem in this.translateSaveItemList)
+            {
+                bool hasChange = false;
+                foreach (var item in saveItem.translateItemList)
+                {
+                    if (item.translateState == TranslateState.UnStart)
+                    {
+                        if (confirmTransItemDic.ContainsKey(item.eng))
+                        {
+                            item.chi = confirmTransItemDic[item.eng];
+                            item.translateState = TranslateState.Confirm;
+                            hasChange = true;
+                        }
+                    }
+                }
+                if (hasChange)
+                {
+                    string direThisPath = this.path.Replace(".", "/");
+                    string intactPath = Application.StartupPath + "/JSVersion/" + versionCode + "/" + GlobalVariable.originNodeCode + "/" + direThisPath;
+                    Console.WriteLine("intactPath:" + intactPath);
+                    WriteTargetTranslateSaveItem(saveItem, intactPath, this.nodeCode);
+                }
+            }
+        }
+
+
+        public void LoadDuplicateTextFile(string versionCode)
+        {
+            string pathDuplictae = Application.StartupPath + "/JSVersion/" + versionCode + "/DuplictaeText/" + "duplictaeTextExport 638039808794337381.json";
+            string indexJson = FileReadUtil.GetTextFromFile(pathDuplictae);
+            List<DuplicateTextItem> duplicateTextItems = JsonConvert.DeserializeObject<List<DuplicateTextItem>>(indexJson);
+            foreach (var childNode in this.childNodeList)
+            {
+                foreach (TranslateSaveItem saveItem in childNode.translateSaveItemList)
+                {
+                    bool hasChange = false;
+                    foreach (var item in saveItem.translateItemList)
+                    {
+                        if(item.translateState == TranslateState.UnStart) 
+                        {
+                            foreach (DuplicateTextItem duplicateTextItem in duplicateTextItems)
+                            {
+                                if(duplicateTextItem.eng == item.eng) 
+                                {
+                                    item.chi = duplicateTextItem.chi;
+                                    item.translateState = TranslateState.Confirm;
+                                    hasChange = true;
+                                }
+                            }
+                        }
+                    }
+                    if (hasChange) 
+                    {
+                        string direThisPath = childNode.path.Replace(".", "/");
+                        string intactPath = Application.StartupPath + "/JSVersion/" + versionCode + "/" + GlobalVariable.originNodeCode + "/" + direThisPath;
+                        Console.WriteLine("intactPath:" + intactPath);
+                        WriteTargetTranslateSaveItem(saveItem, intactPath, childNode.nodeCode);
+                    }
+                }
+            }
+
+        }
+
     }
 }

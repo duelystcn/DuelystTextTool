@@ -64,9 +64,9 @@
     {
       "code": "building_counter_applied_name",
       "eng": "Building",
-      "chi": "",
+      "chi": "建造中",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "building_counter_applied_desc",

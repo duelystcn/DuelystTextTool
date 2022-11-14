@@ -15,9 +15,9 @@
     {
       "code": "icon_mirage_master_name",
       "eng": "Mirage Master",
-      "chi": "",
+      "chi": "幻变奇兽",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "icon_mirage_master_desc",
@@ -43,9 +43,9 @@
     {
       "code": "icon_pyromancer_name",
       "eng": "Pyromancer",
-      "chi": "",
+      "chi": "火占师",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "icon_pyromancer_desc",
@@ -85,9 +85,9 @@
     {
       "code": "icon_sajj_name",
       "eng": "Scioness Sajj",
-      "chi": "",
+      "chi": "赛尼斯·萨姬",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "icon_sajj_desc",
@@ -99,9 +99,9 @@
     {
       "code": "icon_starfire_scarab_name",
       "eng": "Starfire Scarab",
-      "chi": "",
+      "chi": "星火圣甲虫",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "icon_starfire_scarab_desc",
@@ -127,9 +127,9 @@
     {
       "code": "icon_zirix_name",
       "eng": "Zirix Starstrider",
-      "chi": "",
+      "chi": "踏星者 泽利克斯",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "icon_zirix_desc",
@@ -281,9 +281,9 @@
     {
       "code": "icon_brome_name",
       "eng": "Brome Warcrest",
-      "chi": "",
+      "chi": "布罗姆·战首",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "icon_brome_desc",
@@ -295,9 +295,9 @@
     {
       "code": "icon_ragnora_name",
       "eng": "Ragnora the Relentless",
-      "chi": "",
+      "chi": "无情的拉格诺拉",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "icon_ragnora_desc",
@@ -309,9 +309,9 @@
     {
       "code": "icon_shidai_name",
       "eng": "Shidai Stormblossom",
-      "chi": "",
+      "chi": "剑芒 石黛",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "icon_shidai_desc",
@@ -323,9 +323,9 @@
     {
       "code": "icon_maehv_name",
       "eng": "Maehv Skinsolder",
-      "chi": "",
+      "chi": "处刑人 玛赫",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "icon_maehv_desc",
@@ -337,9 +337,9 @@
     {
       "code": "icon_ilena_name",
       "eng": "Ilena Cryobyte",
-      "chi": "",
+      "chi": "冰晶 伊莲娜",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "icon_ilena_desc",
@@ -351,9 +351,9 @@
     {
       "code": "icon_ciphyron_name",
       "eng": "Ciphyron Ascendant",
-      "chi": "",
+      "chi": "升星者 西弗荣",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "icon_ciphyron_desc",
@@ -561,9 +561,9 @@
     {
       "code": "emote_lady_locke_name",
       "eng": "Lady Locke",
-      "chi": "",
+      "chi": "链锁女士",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "emote_lady_locke_desc",
@@ -575,9 +575,9 @@
     {
       "code": "emote_phalanxar_name",
       "eng": "Phalanxar",
-      "chi": "",
+      "chi": "好战者",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "emote_phalanxar_desc",
@@ -596,51 +596,51 @@
     {
       "code": "emote_snowchaser_bow_desc",
       "eng": "Namaste.",
-      "chi": "",
+      "chi": "合十礼",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "emote_hollow_grovekeeper_name",
       "eng": "Hollow Grovekeeper",
-      "chi": "",
+      "chi": "幽谷护林兽",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "emote_hollow_grovekeeper_desc",
       "eng": "Grandmaster Tournament Winner!",
-      "chi": "",
+      "chi": "大师赛冠军！",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "emote_lightbender_name",
       "eng": "Lightbender",
-      "chi": "",
+      "chi": "扰光法师",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "emote_lightbender_desc",
       "eng": "Grandmaster Tournament Winner!",
-      "chi": "",
+      "chi": "大师赛冠军！",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "emote_primus_fist_name",
       "eng": "Primus Fist",
-      "chi": "",
+      "chi": "铁拳教官",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "emote_primus_fist_desc",
       "eng": "Grandmaster Tournament Winner!",
-      "chi": "",
+      "chi": "大师赛冠军！",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "emote_zenrui_name",
@@ -652,9 +652,9 @@
     {
       "code": "emote_zenrui_desc",
       "eng": "Grandmaster Tournament Winner!",
-      "chi": "",
+      "chi": "大师赛冠军！",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "emote_fog_bow_name",

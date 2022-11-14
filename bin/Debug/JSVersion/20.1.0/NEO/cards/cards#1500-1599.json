@@ -554,9 +554,9 @@
     {
       "code": "faction_5_unit_vaath_name",
       "eng": "Vaath the Immortal",
-      "chi": "",
+      "chi": "不朽的瓦斯",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_5_unit_vaath_desc",
@@ -568,9 +568,9 @@
     {
       "code": "faction_5_unit_starhorn_name",
       "eng": "Starhorn the Seeker",
-      "chi": "",
+      "chi": "求知的星角",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_5_unit_starhorn_desc",
@@ -582,9 +582,9 @@
     {
       "code": "faction_5_unit_ragnora_name",
       "eng": "Ragnora the Relentless",
-      "chi": "",
+      "chi": "无情的拉格诺拉",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_5_unit_ragnora_desc",
@@ -610,23 +610,23 @@
     {
       "code": "faction_5_unit_phalanxar_name",
       "eng": "Phalanxar",
-      "chi": "",
+      "chi": "好战者",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_5_unit_young_silithar_name",
       "eng": "Young Silithar",
-      "chi": "",
+      "chi": "幼年期西里萨",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_5_unit_young_silithar_desc",
       "eng": "Rebirth",
-      "chi": "",
+      "chi": "重生",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_5_unit_earth_walker_name",
@@ -673,9 +673,9 @@
     {
       "code": "faction_5_unit_elucidator_name",
       "eng": "Elucidator",
-      "chi": "",
+      "chi": "阐释者",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_5_unit_elucidator_desc",
@@ -701,9 +701,9 @@
     {
       "code": "faction_5_unit_veteran_silithar_name",
       "eng": "Veteran Silithar",
-      "chi": "",
+      "chi": "成熟期西利萨",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     }
   ]
 }

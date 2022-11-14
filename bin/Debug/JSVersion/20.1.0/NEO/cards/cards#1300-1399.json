@@ -645,9 +645,9 @@
     {
       "code": "faction_4_unit_cassyva_name",
       "eng": "Cassyva Soulreaper",
-      "chi": "",
+      "chi": "割魂使 卡西瓦",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_4_unit_cassyva_desc",
@@ -659,9 +659,9 @@
     {
       "code": "faction_4_unit_lilithe_name",
       "eng": "Lilithe Blightchaser",
-      "chi": "",
+      "chi": "枯萎牧者 莉莉丝",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_4_unit_lilithe_desc",
@@ -673,9 +673,9 @@
     {
       "code": "faction_4_unit_maehv_name",
       "eng": "Maehv Skinsolder",
-      "chi": "",
+      "chi": "处刑人 玛赫",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_4_unit_maehv_desc",
@@ -687,9 +687,9 @@
     {
       "code": "faction_4_unit_abyssal_crawler_name",
       "eng": "Abyssal Crawler",
-      "chi": "",
+      "chi": "深渊爪牙",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_4_unit_abyssal_crawler_desc",

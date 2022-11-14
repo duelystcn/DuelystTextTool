@@ -8,9 +8,9 @@
     {
       "code": "faction_3_unit_sajj_name",
       "eng": "Scioness Sajj",
-      "chi": "",
+      "chi": "赛尼斯·萨姬",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_3_unit_sajj_desc",
@@ -22,9 +22,9 @@
     {
       "code": "faction_3_unit_ciphyron_name",
       "eng": "Ciphyron Ascendant",
-      "chi": "",
+      "chi": "升星者 西弗荣",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_3_unit_ciphyron_desc",
@@ -64,16 +64,16 @@
     {
       "code": "faction_3_unit_pyromancer_name",
       "eng": "Pyromancer",
-      "chi": "",
+      "chi": "火占师",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_3_unit_pyromancer_desc",
       "eng": "Blast",
-      "chi": "",
+      "chi": "轰炮",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_3_unit_fireblaze_obelysk_name",
@@ -162,9 +162,9 @@
     {
       "code": "faction_3_unit_mirage_master_name",
       "eng": "Mirage Master",
-      "chi": "",
+      "chi": "幻变奇兽",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_3_unit_mirage_master_desc",
@@ -190,16 +190,16 @@
     {
       "code": "faction_3_unit_starfire_scarab_name",
       "eng": "Starfire Scarab",
-      "chi": "",
+      "chi": "星火圣甲虫",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_3_unit_starfire_scarab_desc",
       "eng": "Blast",
-      "chi": "",
+      "chi": "轰炮",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_3_unit_aymara_healer_name",

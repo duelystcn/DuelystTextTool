@@ -78,9 +78,9 @@
     {
       "code": "neutral_dex_desc",
       "eng": "Celerity",
-      "chi": "",
+      "chi": "迅捷",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_sai_name",
@@ -99,9 +99,9 @@
     {
       "code": "neutral_ubo_desc",
       "eng": "Flying",
-      "chi": "",
+      "chi": "飞行",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_oni_name",
@@ -127,9 +127,9 @@
     {
       "code": "neutral_dispirited_prisoner_desc",
       "eng": "Frenzy",
-      "chi": "",
+      "chi": "狂暴",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_broken_captive_name",
@@ -141,9 +141,9 @@
     {
       "code": "neutral_broken_captive_desc",
       "eng": "Rush",
-      "chi": "",
+      "chi": "冲锋",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_ruined_slave_name",
@@ -155,9 +155,9 @@
     {
       "code": "neutral_ruined_slave_desc",
       "eng": "Provoke",
-      "chi": "",
+      "chi": "嘲讽",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_dejected_thrall_name",
@@ -169,9 +169,9 @@
     {
       "code": "neutral_dejected_thrall_desc",
       "eng": "Forcefield",
-      "chi": "",
+      "chi": "力场",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_drudging_servant_name",
@@ -183,9 +183,9 @@
     {
       "code": "neutral_drudging_servant_desc",
       "eng": "Flying",
-      "chi": "",
+      "chi": "飞行",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_toiling_vassal_name",
@@ -197,9 +197,9 @@
     {
       "code": "neutral_toiling_vassal_desc",
       "eng": "Ranged",
-      "chi": "",
+      "chi": "远程",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_sworn_sister_name",
@@ -519,9 +519,9 @@
     {
       "code": "neutral_emberwyrm_desc",
       "eng": "Flying",
-      "chi": "",
+      "chi": "飞行",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_sinister_silhouette_name",
@@ -701,9 +701,9 @@
     {
       "code": "neutral_zetta_desc",
       "eng": "Frenzy",
-      "chi": "",
+      "chi": "狂暴",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     }
   ]
 }

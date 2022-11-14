@@ -10,7 +10,7 @@
       "eng": "",
       "chi": "",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_3_unit_dunecaster_name",
@@ -43,16 +43,16 @@
     {
       "code": "d2_faction_3_unit_pyromancer_name",
       "eng": "Pyromancer",
-      "chi": "",
+      "chi": "火占师",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_3_unit_pyromancer_desc",
       "eng": "Blast",
-      "chi": "",
+      "chi": "轰炮",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_3_unit_fireblaze_obelysk_name",
@@ -141,9 +141,9 @@
     {
       "code": "d2_faction_3_unit_mirage_master_name",
       "eng": "Mirage Master",
-      "chi": "",
+      "chi": "幻变奇兽",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_3_unit_mirage_master_desc",
@@ -169,16 +169,16 @@
     {
       "code": "d2_faction_3_unit_starfire_scarab_name",
       "eng": "Starfire Scarab",
-      "chi": "",
+      "chi": "星火圣甲虫",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_3_unit_starfire_scarab_desc",
       "eng": "Blast",
-      "chi": "",
+      "chi": "轰炮",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_3_unit_aymara_healer_name",
@@ -512,51 +512,51 @@
     {
       "code": "d2_faction_4_unit_cassyva_name",
       "eng": "Cassyva Soulreaper",
-      "chi": "",
+      "chi": "割魂使 卡西瓦",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_4_unit_cassyva_desc",
       "eng": "",
       "chi": "",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_4_unit_lilithe_name",
       "eng": "Lilithe Blightchaser",
-      "chi": "",
+      "chi": "枯萎牧者 莉莉丝",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_4_unit_lilithe_desc",
       "eng": "",
       "chi": "",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_4_unit_maehv_name",
       "eng": "Maehv Skinsolder",
-      "chi": "",
+      "chi": "处刑人 玛赫",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_4_unit_maehv_desc",
       "eng": "",
       "chi": "",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_4_unit_abyssal_crawler_name",
       "eng": "Abyssal Crawler",
-      "chi": "",
+      "chi": "深渊爪牙",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_4_unit_abyssal_crawler_desc",
@@ -596,9 +596,9 @@
     {
       "code": "d2_faction_4_unit_gloomchaser_name",
       "eng": "Gloomchaser",
-      "chi": "",
+      "chi": "逐暗幽蛇",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_4_unit_gloomchaser_desc",

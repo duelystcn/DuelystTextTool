@@ -8,9 +8,9 @@
     {
       "code": "d2_neutral_dioltas_tombstone_desc",
       "eng": "Provoke",
-      "chi": "",
+      "chi": "嘲讽",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_minijax_name",
@@ -22,9 +22,9 @@
     {
       "code": "d2_neutral_minijax_desc",
       "eng": "Ranged",
-      "chi": "",
+      "chi": "远程",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_pandora_frenzy_name",
@@ -36,9 +36,9 @@
     {
       "code": "d2_neutral_pandora_frenzy_desc",
       "eng": "Frenzy",
-      "chi": "",
+      "chi": "狂暴",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_pandora_ranged_name",
@@ -50,9 +50,9 @@
     {
       "code": "d2_neutral_pandora_ranged_desc",
       "eng": "Ranged",
-      "chi": "",
+      "chi": "远程",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_pandora_flying_name",
@@ -64,9 +64,9 @@
     {
       "code": "d2_neutral_pandora_flying_desc",
       "eng": "Flying",
-      "chi": "",
+      "chi": "飞行",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_pandora_celerity_name",
@@ -78,9 +78,9 @@
     {
       "code": "d2_neutral_pandora_celerity_desc",
       "eng": "Celerity",
-      "chi": "",
+      "chi": "迅捷",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_pandora_provoke_name",
@@ -92,9 +92,9 @@
     {
       "code": "d2_neutral_pandora_provoke_desc",
       "eng": "Provoke",
-      "chi": "",
+      "chi": "嘲讽",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_mechaz0r_name",
@@ -127,16 +127,16 @@
     {
       "code": "d2_frostfire_tiger_name",
       "eng": "Frostfire Tiger",
-      "chi": "",
+      "chi": "霜火虎",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "building_name",
       "eng": "Building",
-      "chi": "",
+      "chi": "建造中",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_1_spell_roar_name",

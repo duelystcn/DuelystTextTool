@@ -470,9 +470,9 @@
     {
       "code": "faction_6_unit_faie_name",
       "eng": "Faie Bloodwing",
-      "chi": "",
+      "chi": "血翼 费伊",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_6_unit_faie_desc",
@@ -484,9 +484,9 @@
     {
       "code": "faction_6_unit_kara_name",
       "eng": "Kara Winterblade",
-      "chi": "",
+      "chi": "冻刃 卡拉",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_6_unit_kara_desc",
@@ -498,9 +498,9 @@
     {
       "code": "faction_6_unit_ilena_name",
       "eng": "Ilena Cryobyte",
-      "chi": "",
+      "chi": "冰晶 伊莲娜",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_6_unit_ilena_desc",
@@ -568,9 +568,9 @@
     {
       "code": "faction_6_unit_hearth_sister_name",
       "eng": "Hearth-Sister",
-      "chi": "",
+      "chi": "炉石姐妹",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_6_unit_hearth_sister_desc",
@@ -596,9 +596,9 @@
     {
       "code": "faction_6_unit_glacial_elemental_name",
       "eng": "Glacial Elemental",
-      "chi": "",
+      "chi": "冰川元素",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_6_unit_glacial_elemental_desc",
@@ -610,9 +610,9 @@
     {
       "code": "faction_6_unit_wolfraven_name",
       "eng": "Wolfraven",
-      "chi": "",
+      "chi": "狼鸦",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_6_unit_wolfraven_desc",
@@ -624,9 +624,9 @@
     {
       "code": "faction_6_unit_razorback_name",
       "eng": "Razorback",
-      "chi": "",
+      "chi": "刀背兽",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_6_unit_razorback_desc",
@@ -652,16 +652,16 @@
     {
       "code": "faction_6_unit_arctic_displacer_name",
       "eng": "Arctic Displacer",
-      "chi": "",
+      "chi": "极地幻兽",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_6_unit_arctic_displacer_desc",
       "eng": "Airdrop",
-      "chi": "",
+      "chi": "空降",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_6_unit_frosthorn_rhyno_name",
@@ -680,9 +680,9 @@
     {
       "code": "faction_6_unit_draugar_lord_name",
       "eng": "Draugar Lord",
-      "chi": "",
+      "chi": "冰龙领主",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_6_unit_draugar_lord_desc",

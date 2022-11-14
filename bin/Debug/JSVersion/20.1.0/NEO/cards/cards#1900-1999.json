@@ -120,16 +120,16 @@
     {
       "code": "neutral_piercing_mantis_desc",
       "eng": "Frenzy",
-      "chi": "",
+      "chi": "狂暴",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_primus_fist_name",
       "eng": "Primus Fist",
-      "chi": "",
+      "chi": "铁拳教官",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_primus_fist_desc",
@@ -148,9 +148,9 @@
     {
       "code": "neutral_rock_pulverizer_desc",
       "eng": "Provoke",
-      "chi": "",
+      "chi": "嘲讽",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_rust_crawler_name",
@@ -197,9 +197,9 @@
     {
       "code": "neutral_vale_hunter_desc",
       "eng": "Ranged",
-      "chi": "",
+      "chi": "远程",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_wings_of_mechaz0r_name",
@@ -407,9 +407,9 @@
     {
       "code": "neutral_lady_locke_name",
       "eng": "Lady Locke",
-      "chi": "",
+      "chi": "链锁女士",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_lady_locke_desc",
@@ -477,9 +477,9 @@
     {
       "code": "neutral_putrid_dreadflayer_desc",
       "eng": "Flying",
-      "chi": "",
+      "chi": "飞行",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_repulsor_beast_name",
@@ -505,9 +505,9 @@
     {
       "code": "neutral_saberspine_tiger_desc",
       "eng": "Rush",
-      "chi": "",
+      "chi": "冲锋",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_sand_burrower_name",
@@ -533,9 +533,9 @@
     {
       "code": "neutral_sapphire_seer_desc",
       "eng": "Forcefield",
-      "chi": "",
+      "chi": "力场",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_sarlac_the_eternal_name",

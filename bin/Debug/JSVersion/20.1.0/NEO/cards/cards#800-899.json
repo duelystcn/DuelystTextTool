@@ -127,9 +127,9 @@
     {
       "code": "faction_1_unit_argeon_name",
       "eng": "Argeon Highmayne",
-      "chi": "",
+      "chi": "阿吉恩·金鬃",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_1_unit_argeon_desc",
@@ -155,9 +155,9 @@
     {
       "code": "faction_1_unit_brome_name",
       "eng": "Brome Warcrest",
-      "chi": "",
+      "chi": "布罗姆·战首",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_1_unit_brome_desc",
@@ -176,9 +176,9 @@
     {
       "code": "faction_1_unit_windblade_adept_name",
       "eng": "Windblade Adept",
-      "chi": "",
+      "chi": "风刃精兵",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_1_unit_windblade_adept_desc",
@@ -204,9 +204,9 @@
     {
       "code": "faction_1_unit_lightchaser_name",
       "eng": "Lightchaser",
-      "chi": "",
+      "chi": "逐日者",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_1_unit_lightchaser_desc",
@@ -218,9 +218,9 @@
     {
       "code": "faction_1_unit_silverguard_knight_name",
       "eng": "Silverguard Knight",
-      "chi": "",
+      "chi": "银卫骑士",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_1_unit_silverguard_knight_desc",
@@ -274,9 +274,9 @@
     {
       "code": "faction_1_unit_suntide_maiden_name",
       "eng": "Suntide Maiden",
-      "chi": "",
+      "chi": "日潮侍女",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_1_unit_suntide_maiden_desc",
@@ -288,9 +288,9 @@
     {
       "code": "faction_1_unit_arclyte_sentinel_name",
       "eng": "Arclyte Sentinel",
-      "chi": "",
+      "chi": "阿克莱哨兵",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_1_unit_arclyte_sentinel_desc",
@@ -309,9 +309,9 @@
     {
       "code": "faction_1_unit_lysian_brawler_desc",
       "eng": "Celerity",
-      "chi": "",
+      "chi": "迅捷",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_1_unit_sunstone_templar_name",
@@ -337,9 +337,9 @@
     {
       "code": "faction_1_unit_azurite_lion_desc",
       "eng": "Celerity",
-      "chi": "",
+      "chi": "迅捷",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_1_unit_grandmaster_zir_name",
@@ -365,9 +365,9 @@
     {
       "code": "faction_1_unit_slo_desc",
       "eng": "Provoke",
-      "chi": "",
+      "chi": "嘲讽",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_1_unit_sun_wisp_name",

@@ -162,9 +162,9 @@
     {
       "code": "banded_ranged_def",
       "eng": "Ranged",
-      "chi": "",
+      "chi": "远程",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "banding_change_card_draw_name",

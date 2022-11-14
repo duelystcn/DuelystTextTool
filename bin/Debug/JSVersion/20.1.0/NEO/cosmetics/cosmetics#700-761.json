@@ -106,37 +106,37 @@
     {
       "code": "emote_frustrated_name",
       "eng": "Frustrated",
-      "chi": "",
+      "chi": "沮丧",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "emote_confused_name",
       "eng": "Confused",
-      "chi": "",
+      "chi": "困惑",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "emote_sad_name",
       "eng": "Sad",
-      "chi": "",
+      "chi": "悲伤",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "emote_surprised_name",
       "eng": "Surprised",
-      "chi": "",
+      "chi": "惊讶",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "emote_happy_name",
       "eng": "Happy",
-      "chi": "",
+      "chi": "开心",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "emote_loving_name",
@@ -148,9 +148,9 @@
     {
       "code": "emote_angry_name",
       "eng": "Angry",
-      "chi": "",
+      "chi": "生气",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "emote_anger",
@@ -379,9 +379,9 @@
     {
       "code": "battlemap_magmar_desc",
       "eng": "...",
-      "chi": "",
+      "chi": "...",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "battlemap_abyssian_name",
@@ -393,9 +393,9 @@
     {
       "code": "battlemap_abyssian_desc",
       "eng": "...",
-      "chi": "",
+      "chi": "...",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "battlemap_redrock_name",
@@ -407,9 +407,9 @@
     {
       "code": "battlemap_redrock_desc",
       "eng": "...",
-      "chi": "",
+      "chi": "...",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "battlemap_vanar_name",
@@ -421,9 +421,9 @@
     {
       "code": "battlemap_vanar_desc",
       "eng": "...",
-      "chi": "",
+      "chi": "...",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "cosmetic_crafting_error_msg",

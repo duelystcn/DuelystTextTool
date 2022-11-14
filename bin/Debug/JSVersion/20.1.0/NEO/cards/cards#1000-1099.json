@@ -78,9 +78,9 @@
     {
       "code": "faction_2_unit_kaelos_name",
       "eng": "Kaleos Xaan",
-      "chi": "",
+      "chi": "卡莱奥斯",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_2_unit_kaelos_desc",
@@ -92,9 +92,9 @@
     {
       "code": "faction_2_unit_reva_name",
       "eng": "Reva Eventide",
-      "chi": "",
+      "chi": "暮色 雷伊",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_2_unit_reva_desc",
@@ -106,9 +106,9 @@
     {
       "code": "faction_2_unit_shidai_name",
       "eng": "Shidai Stormblossom",
-      "chi": "",
+      "chi": "剑芒 石黛",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_2_unit_shidai_desc",
@@ -232,9 +232,9 @@
     {
       "code": "faction_2_unit_kaido_assassin_name",
       "eng": "Kaido Assassin",
-      "chi": "",
+      "chi": "凯多刺客",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_2_unit_kaido_assassin_desc",
@@ -246,9 +246,9 @@
     {
       "code": "faction_2_unit_scarlet_viper_name",
       "eng": "Scarlet Viper",
-      "chi": "",
+      "chi": "猩红毒蛇",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_2_unit_scarlet_viper_desc",
@@ -288,9 +288,9 @@
     {
       "code": "faction_2_unit_tuskboar_name",
       "eng": "Tusk Boar",
-      "chi": "",
+      "chi": "利牙野猪",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_2_unit_tuskboar_desc",
@@ -302,30 +302,30 @@
     {
       "code": "faction_2_unit_heartseeker_name",
       "eng": "Heartseeker",
-      "chi": "",
+      "chi": "猎心者",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_2_unit_heartseeker_desc",
       "eng": "Ranged",
-      "chi": "",
+      "chi": "远程",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_2_unit_widowmaker_name",
       "eng": "Widowmaker",
-      "chi": "",
+      "chi": "寡妇制造者",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_2_unit_widowmaker_desc",
       "eng": "Ranged",
-      "chi": "",
+      "chi": "远程",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_2_unit_katara_name",
@@ -351,9 +351,9 @@
     {
       "code": "faction_2_unit_ace_desc",
       "eng": "Ranged",
-      "chi": "",
+      "chi": "远程",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_2_unit_ki_beholder_name",
@@ -568,16 +568,16 @@
     {
       "code": "faction_2_unit_watchful_sentinel_name",
       "eng": "Watchful Sentinel",
-      "chi": "",
+      "chi": "守望哨兵",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_2_unit_watchful_sentinel_desc",
       "eng": "Sentinel: This transforms into a powerful minion if its hidden condition is met.",
-      "chi": "",
+      "chi": "守望：当此随从的隐秘条件被满足时，将会变成一个强大的随从。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_2_unit_hundred_hand_name",

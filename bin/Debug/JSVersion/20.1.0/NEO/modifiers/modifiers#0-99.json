@@ -99,9 +99,9 @@
     {
       "code": "flying_name",
       "eng": "Flying",
-      "chi": "",
+      "chi": "飞行",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "flying_def",
@@ -113,9 +113,9 @@
     {
       "code": "blast_name",
       "eng": "Blast",
-      "chi": "",
+      "chi": "轰炮",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "blast_def",
@@ -155,9 +155,9 @@
     {
       "code": "celerity_name",
       "eng": "Celerity",
-      "chi": "",
+      "chi": "迅捷",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "celerity_def",
@@ -239,9 +239,9 @@
     {
       "code": "forcefield_name",
       "eng": "Forcefield",
-      "chi": "",
+      "chi": "力场",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "forcefield_def",
@@ -253,9 +253,9 @@
     {
       "code": "frenzy_name",
       "eng": "Frenzy",
-      "chi": "",
+      "chi": "狂暴",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "frenzy_def",
@@ -372,9 +372,9 @@
     {
       "code": "ranged_name",
       "eng": "Ranged",
-      "chi": "",
+      "chi": "远程",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "ranged_def",
@@ -386,9 +386,9 @@
     {
       "code": "rebirth_name",
       "eng": "Rebirth",
-      "chi": "",
+      "chi": "重生",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "rebirth_def",
@@ -400,9 +400,9 @@
     {
       "code": "d2_rebirth_name",
       "eng": "Rebirth",
-      "chi": "",
+      "chi": "重生",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_rebirth_def",
@@ -533,9 +533,9 @@
     {
       "code": "wall_name",
       "eng": "Wall",
-      "chi": "",
+      "chi": "墙",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "wall_def",
@@ -603,9 +603,9 @@
     {
       "code": "rush_name",
       "eng": "Rush",
-      "chi": "",
+      "chi": "冲锋",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "rush_def",
@@ -617,9 +617,9 @@
     {
       "code": "airdrop_name",
       "eng": "Airdrop",
-      "chi": "",
+      "chi": "空降",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "airdrop_def",
@@ -631,9 +631,9 @@
     {
       "code": "provoke_name",
       "eng": "Provoke",
-      "chi": "",
+      "chi": "嘲讽",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "provoke_def",

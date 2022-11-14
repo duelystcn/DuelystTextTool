@@ -92,16 +92,16 @@
     {
       "code": "d2_neutral_piercing_mantis_desc",
       "eng": "Frenzy",
-      "chi": "",
+      "chi": "狂暴",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_primus_fist_name",
       "eng": "Primus Fist",
-      "chi": "",
+      "chi": "铁拳教官",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_primus_fist_desc",
@@ -120,9 +120,9 @@
     {
       "code": "d2_neutral_rock_pulverizer_desc",
       "eng": "Provoke",
-      "chi": "",
+      "chi": "嘲讽",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_rust_crawler_name",
@@ -155,9 +155,9 @@
     {
       "code": "d2_neutral_vale_hunter_desc",
       "eng": "Ranged",
-      "chi": "",
+      "chi": "远程",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_wings_of_mechaz0r_name",
@@ -281,9 +281,9 @@
     {
       "code": "d2_neutral_lady_locke_name",
       "eng": "Lady Locke",
-      "chi": "",
+      "chi": "链锁女士",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_lady_locke_desc",
@@ -386,9 +386,9 @@
     {
       "code": "d2_neutral_saberspine_tiger_desc",
       "eng": "Rush",
-      "chi": "",
+      "chi": "冲锋",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_sand_burrower_name",

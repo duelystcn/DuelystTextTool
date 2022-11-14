@@ -182,7 +182,7 @@ namespace DuelystText
                         if (CheckCanConfirmTranslate())
                         {
                             translateItem.translateState = TranslateState.Confirm;
-                            ToolDataManger.Instance.currentNodeItem.WriteTargetTranslateSaveItem(this.currentEditTSItem, ToolDataManger.Instance.GetTargetNodePath(ToolDataManger.Instance.currentNodeItem));
+                            ToolDataManger.Instance.currentNodeItem.WriteTargetTranslateSaveItem(this.currentEditTSItem, ToolDataManger.Instance.GetTargetNodePath(ToolDataManger.Instance.currentNodeItem), ToolDataManger.Instance.currentNodeItem.nodeCode);
                             RefreshOneTranslateItemInfo(translateItem);
                         }
                     }
@@ -317,9 +317,14 @@ namespace DuelystText
             {
                 this.currentTransItem.chi = ChiRichTextBox.Text;
                 this.currentTransItem.translateState = translateState;
-                ToolDataManger.Instance.currentNodeItem.WriteTargetTranslateSaveItem(this.currentEditTSItem, ToolDataManger.Instance.GetTargetNodePath(ToolDataManger.Instance.currentNodeItem));
+                ToolDataManger.Instance.currentNodeItem.WriteTargetTranslateSaveItem(this.currentEditTSItem, ToolDataManger.Instance.GetTargetNodePath(ToolDataManger.Instance.currentNodeItem), ToolDataManger.Instance.currentNodeItem.nodeCode);
                 RefreshOneTranslateItemInfo(this.currentTransItem);
             }
+        }
+
+        private void DuplicateTextButton_Click(object sender, EventArgs e)
+        {
+            ToolDataManger.Instance.currentNodeItem.DuplicateTextOnlyThisNode(ToolDataManger.Instance.currentVersionItem.versionCode);
         }
     }
 }

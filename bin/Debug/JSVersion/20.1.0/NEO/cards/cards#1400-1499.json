@@ -29,9 +29,9 @@
     {
       "code": "faction_4_unit_gloomchaser_name",
       "eng": "Gloomchaser",
-      "chi": "",
+      "chi": "逐暗幽蛇",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_4_unit_gloomchaser_desc",
@@ -155,9 +155,9 @@
     {
       "code": "faction_4_unit_vorpal_reaver_name",
       "eng": "Vorpal Reaver",
-      "chi": "",
+      "chi": "猎颅者",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_4_unit_vorpal_reaver_desc",
@@ -470,16 +470,16 @@
     {
       "code": "faction_4_unit_watchful_sentinel_name",
       "eng": "Watchful Sentinel",
-      "chi": "",
+      "chi": "守望哨兵",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_4_unit_watchful_sentinel_desc",
       "eng": "Sentinel: This transforms into a powerful minion if its hidden condition is met.",
-      "chi": "",
+      "chi": "守望：当此随从的隐秘条件被满足时，将会变成一个强大的随从。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_4_unit_husk_name",

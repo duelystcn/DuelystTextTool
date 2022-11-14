@@ -199,7 +199,7 @@
       "eng": "",
       "chi": "",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "cardback_dawn_of_duelysts_name",
@@ -213,7 +213,7 @@
       "eng": "",
       "chi": "",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "cardback_snowchaser_cup_name",
@@ -239,9 +239,9 @@
     {
       "code": "icon_abyssal_crawler_name",
       "eng": "Abyssal Crawler",
-      "chi": "",
+      "chi": "深渊爪牙",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "icon_abyssal_crawler_desc",
@@ -253,9 +253,9 @@
     {
       "code": "icon_cassyva_name",
       "eng": "Cassyva Soulreaper",
-      "chi": "",
+      "chi": "割魂使 卡西瓦",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "icon_cassyva_desc",
@@ -281,9 +281,9 @@
     {
       "code": "icon_gloomchaser_name",
       "eng": "Gloomchaser",
-      "chi": "",
+      "chi": "逐暗幽蛇",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "icon_gloomchaser_desc",
@@ -309,9 +309,9 @@
     {
       "code": "icon_lilithe_name",
       "eng": "Lilithe Blightchaser",
-      "chi": "",
+      "chi": "枯萎牧者 莉莉丝",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "icon_lilithe_desc",
@@ -337,9 +337,9 @@
     {
       "code": "icon_vorpal_reaver_name",
       "eng": "Vorpal Reaver",
-      "chi": "",
+      "chi": "猎颅者",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "icon_vorpal_reaver_desc",
@@ -379,9 +379,9 @@
     {
       "code": "icon_arclyte_sentinel_name",
       "eng": "Arclyte Sentinel",
-      "chi": "",
+      "chi": "阿克莱哨兵",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "icon_arclyte_sentinel_desc",
@@ -393,9 +393,9 @@
     {
       "code": "icon_argeon_name",
       "eng": "Argeon Highmayne",
-      "chi": "",
+      "chi": "阿吉恩·金鬃",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "icon_argeon_desc",
@@ -435,9 +435,9 @@
     {
       "code": "icon_lightchaser_name",
       "eng": "Lightchaser",
-      "chi": "",
+      "chi": "逐日者",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "icon_lightchaser_desc",
@@ -449,9 +449,9 @@
     {
       "code": "icon_silverguard_knight_name",
       "eng": "Silverguard Knight",
-      "chi": "",
+      "chi": "银卫骑士",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "icon_silverguard_knight_desc",
@@ -477,9 +477,9 @@
     {
       "code": "icon_suntide_maiden_name",
       "eng": "Suntide Maiden",
-      "chi": "",
+      "chi": "日潮侍女",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "icon_suntide_maiden_desc",
@@ -491,9 +491,9 @@
     {
       "code": "icon_windblade_adept_name",
       "eng": "Windblade Adept",
-      "chi": "",
+      "chi": "风刃精兵",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "icon_windblade_adept_desc",
@@ -547,9 +547,9 @@
     {
       "code": "icon_elucidator_name",
       "eng": "Elucidator",
-      "chi": "",
+      "chi": "阐释者",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "icon_elucidator_desc",
@@ -561,9 +561,9 @@
     {
       "code": "icon_makantor_name",
       "eng": "Makantor Warbeast",
-      "chi": "",
+      "chi": "纷争制造者",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "icon_makantor_desc",
@@ -575,9 +575,9 @@
     {
       "code": "icon_phalanxar_name",
       "eng": "Phalanxar",
-      "chi": "",
+      "chi": "好战者",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "icon_phalanxar_desc",
@@ -589,9 +589,9 @@
     {
       "code": "icon_silithar_elder_name",
       "eng": "Silithar Elder",
-      "chi": "",
+      "chi": "完全体西里萨",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "icon_silithar_elder_desc",
@@ -603,9 +603,9 @@
     {
       "code": "icon_starhorn_1_name",
       "eng": "Starhorn the Seeker",
-      "chi": "",
+      "chi": "求知的星角",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "icon_starhorn_1_desc",
@@ -617,9 +617,9 @@
     {
       "code": "icon_starhorn_2_name",
       "eng": "Starhorn the Seeker",
-      "chi": "",
+      "chi": "求知的星角",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "icon_starhorn_2_desc",
@@ -645,9 +645,9 @@
     {
       "code": "icon_vaath_name",
       "eng": "Vaath the Immortal",
-      "chi": "",
+      "chi": "不朽的瓦斯",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "icon_vaath_desc",
@@ -673,9 +673,9 @@
     {
       "code": "icon_veteran_silithar_name",
       "eng": "Veteran Silithar",
-      "chi": "",
+      "chi": "成熟期西利萨",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "icon_veteran_silithar_desc",
@@ -687,9 +687,9 @@
     {
       "code": "icon_young_silithar_name",
       "eng": "Young Silithar",
-      "chi": "",
+      "chi": "幼年期西里萨",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "icon_young_silithar_desc",

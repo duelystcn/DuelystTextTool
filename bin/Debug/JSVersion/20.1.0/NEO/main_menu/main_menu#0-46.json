@@ -115,7 +115,7 @@
       "eng": "Settings",
       "chi": "",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "gold_currency_indicator_tooptip",
@@ -325,7 +325,7 @@
       "eng": "",
       "chi": "",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "booster_opening_get_more_orbs_button_label",

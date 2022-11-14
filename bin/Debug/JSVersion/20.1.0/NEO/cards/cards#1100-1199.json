@@ -204,9 +204,9 @@
     {
       "code": "faction_3_spell_rashas_curse_name",
       "eng": "Rasha's Curse",
-      "chi": "",
+      "chi": "拉夏的诅咒",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_3_spell_rashas_curse_description",
@@ -218,9 +218,9 @@
     {
       "code": "faction_3_spell_rashas_curse_followup_name",
       "eng": "Rasha's Curse",
-      "chi": "",
+      "chi": "拉夏的诅咒",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_3_spell_rashas_curse_followup_description",
@@ -694,9 +694,9 @@
     {
       "code": "faction_3_unit_zirix_name",
       "eng": "Zirix Starstrider",
-      "chi": "",
+      "chi": "踏星者 泽利克斯",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_3_unit_zirix_desc",
