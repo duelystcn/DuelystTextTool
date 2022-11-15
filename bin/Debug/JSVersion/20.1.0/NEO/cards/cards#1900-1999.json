@@ -64,9 +64,9 @@
     {
       "code": "neutral_healing_mystic_desc",
       "eng": "Opening Gambit: Restore 2 Health to anything.",
-      "chi": "",
+      "chi": "登场：治疗任意单位2点生命。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_jaxi_name",
@@ -204,7 +204,7 @@
     {
       "code": "neutral_wings_of_mechaz0r_name",
       "eng": "Wings of MECHAZ0R",
-      "chi": "零号机的推进器",
+      "chi": "原型机的推进器",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -309,7 +309,7 @@
     {
       "code": "neutral_cannon_of_mechaz0r_name",
       "eng": "Cannon of MECHAZ0R",
-      "chi": "零号机的粒子炮",
+      "chi": "原型机的粒子炮",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -638,7 +638,7 @@
     {
       "code": "neutral_sword_of_mechaz0r_name",
       "eng": "Sword of MECHAZ0R",
-      "chi": "零号机的光剑",
+      "chi": "原型机的光剑",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },

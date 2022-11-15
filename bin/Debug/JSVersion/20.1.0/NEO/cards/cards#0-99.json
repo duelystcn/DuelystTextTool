@@ -8,7 +8,7 @@
     {
       "code": "d2_building_name",
       "eng": "Building",
-      "chi": "建造中",
+      "chi": "生产中",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -50,7 +50,7 @@
     {
       "code": "d2_faction_1_spell_decimate_description",
       "eng": "Destroy minions that are not nearby a General.",
-      "chi": "摧毁所有不在将领附近的随从。",
+      "chi": "摧毁所有不与将领相邻的随从。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -295,7 +295,7 @@
     {
       "code": "d2_faction_1_artifact_arclyte_regalia_description",
       "eng": "Your General has +2/+0.\nThe first time your General takes damage with this equipped each turn, reduce that damage by 2.",
-      "chi": "使你的将领具有 +2/+0。\n你的将领每回合第一次受到伤害时，减免到2点。",
+      "chi": "你的将领具有 +2/+0。\n你的将领每回合第一次受到伤害时减免2点。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -365,7 +365,7 @@
     {
       "code": "d2_faction_1_unit_second_sun_name",
       "eng": "Second Sun",
-      "chi": "烈阳化身",
+      "chi": "伴日卫士",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -379,7 +379,7 @@
     {
       "code": "d2_faction_1_unit_lightchaser_name",
       "eng": "Lightchaser",
-      "chi": "逐日者",
+      "chi": "逐日鼓手",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -400,7 +400,7 @@
     {
       "code": "d2_faction_1_unit_silverguard_knight_desc",
       "eng": "Provoke\nZeal: +2/+0.",
-      "chi": "嘲讽\n热诚：获得+8/+0。",
+      "chi": "嘲讽\n热诚：获得+2/+0。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },

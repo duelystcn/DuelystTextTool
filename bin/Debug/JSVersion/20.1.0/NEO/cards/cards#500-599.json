@@ -162,14 +162,14 @@
     {
       "code": "d2_neutral_wings_of_mechaz0r_name",
       "eng": "Wings of MECHAZ0R",
-      "chi": "零号机的推进器",
+      "chi": "原型机的推进器",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
     {
       "code": "d2_neutral_wings_of_mechaz0r_desc",
       "eng": "Airdrop\nDying Wish: Progress your Mechaz0r build by 20%.",
-      "chi": "空降\n死愿：使你的零号机组装进度提高20%。",
+      "chi": "空降\n死愿：使你的决战兵器组装进度提高20%。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -211,14 +211,14 @@
     {
       "code": "d2_neutral_cannon_of_mechaz0r_name",
       "eng": "Cannon of MECHAZ0R",
-      "chi": "零号机的粒子炮",
+      "chi": "原型机的粒子炮",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
     {
       "code": "d2_neutral_cannon_of_mechaz0r_desc",
       "eng": "Ranged\nDying Wish: Progress your Mechaz0r build by 20%.",
-      "chi": "远程\n死愿：使你的零号机组装进度提高20%。",
+      "chi": "远程\n死愿：使你的决战兵器组装进度提高20%。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -491,14 +491,14 @@
     {
       "code": "d2_neutral_sword_of_mechaz0r_name",
       "eng": "Sword of MECHAZ0R",
-      "chi": "零号机的光剑",
+      "chi": "原型机的光剑",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
     {
       "code": "d2_neutral_sword_of_mechaz0r_desc",
       "eng": "Frenzy\nDying Wish: Progress your Mechaz0r build by 20%.",
-      "chi": "狂暴\n死愿：使你的零号机组装进度提高20%。",
+      "chi": "狂暴\n死愿：使你的决战兵器组装进度提高20%。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -645,14 +645,14 @@
     {
       "code": "d2_neutral_chassis_of_mechaz0r_name",
       "eng": "Chassis of MECHAZ0R",
-      "chi": "零号机的骨架",
+      "chi": "原型机的骨架",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
     {
       "code": "d2_neutral_chassis_of_mechaz0r_desc",
       "eng": "Veil\nDying Wish: Progress your Mechaz0r build by 20%.",
-      "chi": "帷幕\n死愿：使你的零号机组装进度提高20%。",
+      "chi": "帷幕\n死愿：使你的决战兵器组装进度提高20%。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },

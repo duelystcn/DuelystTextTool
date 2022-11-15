@@ -365,16 +365,16 @@
     {
       "code": "frostfire_imp_name",
       "eng": "Frostfire Imp",
-      "chi": "",
+      "chi": "霜火精灵",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "frostfire_snowchser_name",
       "eng": "Frostfire Snowchaser",
-      "chi": "",
+      "chi": "霜火寻雪精灵",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "frostfire_tiger_name",

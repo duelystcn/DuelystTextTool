@@ -547,14 +547,14 @@
     {
       "code": "d2_neutral_helm_of_mechaz0r_name",
       "eng": "Helm of MECHAZ0R",
-      "chi": "零号机的中枢",
+      "chi": "原型机的中枢",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
     {
       "code": "d2_neutral_helm_of_mechaz0r_desc",
       "eng": "Dying Wish: Progress your Mechaz0r build by 20%.",
-      "chi": "死愿：使你的零号机组装进度提高20%。",
+      "chi": "死愿：使你的决战兵器组装进度提高20%。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
