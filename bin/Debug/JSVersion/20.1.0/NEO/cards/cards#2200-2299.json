@@ -533,9 +533,9 @@
     {
       "code": "neutral_sinister_silhouette_desc",
       "eng": "Cannot be attacked.",
-      "chi": "",
+      "chi": "不能被攻击。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "neutral_quahog_name",

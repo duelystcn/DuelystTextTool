@@ -666,7 +666,7 @@
     {
       "code": "d2_faction_2_spell_onyx_bear_seal_description",
       "eng": "Transform a minion into a Panddo.",
-      "chi": "将一个随从变形为胖多。",
+      "chi": "将一个随从变形为胖多(0/2 不能被攻击)。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },

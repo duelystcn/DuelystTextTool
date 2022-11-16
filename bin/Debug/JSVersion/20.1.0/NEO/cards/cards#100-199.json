@@ -71,7 +71,7 @@
     {
       "code": "d2_faction_2_spell_killing_edge_name",
       "eng": "Killing Edge",
-      "chi": "屠戮之刃",
+      "chi": "致命利刃",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -120,14 +120,14 @@
     {
       "code": "d2_faction_2_artifact_bloodrage_mask_description",
       "eng": "When you play a spell, your General deals 1 damage to the enemy General.",
-      "chi": "你使用一张法术时，将领对敌方将领造成1点伤害。",
+      "chi": "你使用一张法术时，对敌方将领造成1点伤害。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
     {
       "code": "d2_faction_2_unit_kaelos_name",
       "eng": "Kaleos Xaan",
-      "chi": "卡莱奥斯",
+      "chi": "卡莱·肖",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -309,7 +309,7 @@
     {
       "code": "d2_faction_2_unit_gorehorn_name",
       "eng": "Gore Horn",
-      "chi": "屠戮之角",
+      "chi": "屠戮巨角",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -687,7 +687,7 @@
     {
       "code": "d2_faction_3_unit_sajj_name",
       "eng": "Scioness Sajj",
-      "chi": "赛尼斯·萨姬",
+      "chi": "圣裔 萨姬",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
