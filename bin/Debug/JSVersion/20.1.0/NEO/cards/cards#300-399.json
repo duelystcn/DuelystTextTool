@@ -64,7 +64,7 @@
     {
       "code": "d2_faction_5_spell_fractal_replication_description",
       "eng": "Summon two exact copies of an allied minion nearby that minion.",
-      "chi": "选择一个友方随从，在其附近召唤2个该随从的复制。",
+      "chi": "选择一个友方随从，在其附近召唤2个该随从的精准复制。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },

@@ -666,7 +666,7 @@
     {
       "code": "d2_neutral_zurael_the_lifegiver_desc",
       "eng": "Airdrop, Flying\nOpening Gambit: Summon other allied minions that were destroyed since your last turn on random spaces.",
-      "chi": "空降，飞行\n登场：在随机位置召唤所有上回合被摧毁的友方随从。",
+      "chi": "空降，飞行\n登场：在随机位置召唤所有从你的上个回合到现在被摧毁的友方随从。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },

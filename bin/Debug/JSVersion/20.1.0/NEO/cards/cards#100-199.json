@@ -449,7 +449,7 @@
     {
       "code": "d2_faction_3_spell_auroras_tears_name",
       "eng": "Aurora's Tears",
-      "chi": "奥罗拉的眼泪",
+      "chi": "极光之泪",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -554,7 +554,7 @@
     {
       "code": "d2_faction_3_spell_rashas_curse_description",
       "eng": "Destroy a random artifact equipped to the enemy General. Summon a Wind Dervish nearby them.",
-      "chi": "随机摧毁敌方将领装备的一个神器。在其附近召唤一个风行僧。",
+      "chi": "随机摧毁敌方将领装备的一个神器。在其附近召唤一个风行僧(2/2 冲锋 骤现)。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -568,7 +568,7 @@
     {
       "code": "d2_faction_3_spell_rashas_curse_followup_description",
       "eng": "Destroy a random artifact equipped to the enemy General. Summon a Wind Dervish nearby them.",
-      "chi": "随机摧毁敌方将领装备的一个神器。在其附近召唤一个风行僧。",
+      "chi": "随机摧毁敌方将领装备的一个神器。在其附近召唤一个风行僧(2/2 冲锋 骤现)。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -582,7 +582,7 @@
     {
       "code": "d2_faction_3_spell_stars_fury_description",
       "eng": "Summon a Wind Dervish on the space in front of each enemy.",
-      "chi": "在每个敌人面前召唤一个风行僧。",
+      "chi": "在每个敌方单位正前方召唤一个风行僧(2/2 冲锋 骤现)。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
