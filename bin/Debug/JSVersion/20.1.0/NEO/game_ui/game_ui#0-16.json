@@ -50,9 +50,9 @@
     {
       "code": "hand_is_full_message",
       "eng": "My hand is full!",
-      "chi": "",
+      "chi": "我的准备栏已满！",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "out_of_cards_message",
@@ -92,30 +92,30 @@
     {
       "code": "connected_label",
       "eng": "connected",
-      "chi": "",
+      "chi": "已连接",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "disconnected_label",
       "eng": "disconnected",
-      "chi": "",
+      "chi": "连接断开",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "label_your_turn",
       "eng": "YOUR TURN",
-      "chi": "",
+      "chi": "你的回合",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "label_enemy_turn",
       "eng": "ENEMY TURN",
-      "chi": "",
+      "chi": "对手的回合",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "label_automatic_moves",

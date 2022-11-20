@@ -442,9 +442,9 @@
     {
       "code": "d2_faction_4_spell_wraithling_swarm_name",
       "eng": "Wraithling Swarm",
-      "chi": "",
+      "chi": "一群小鬼",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_4_spell_wraithling_swarm_description",
@@ -456,9 +456,9 @@
     {
       "code": "d2_faction_4_spell_consuming_rebirth_name",
       "eng": "Consuming Rebirth",
-      "chi": "",
+      "chi": "竭命重生",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_4_spell_consuming_rebirth_description",
@@ -484,9 +484,9 @@
     {
       "code": "d2_faction_4_artifact_horn_of_the_forsaken_name",
       "eng": "Horn of the Forsaken",
-      "chi": "",
+      "chi": "被遗忘者的号角",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_4_artifact_horn_of_the_forsaken_description",
@@ -498,9 +498,9 @@
     {
       "code": "d2_faction_4_artifact_spectral_blade_name",
       "eng": "Spectral Blade",
-      "chi": "",
+      "chi": "幽能光刃",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_4_artifact_spectral_blade_description",
@@ -568,9 +568,9 @@
     {
       "code": "d2_faction_4_unit_blood_siren_name",
       "eng": "Blood Siren",
-      "chi": "",
+      "chi": "泣血海妖",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_4_unit_blood_siren_desc",
@@ -582,9 +582,9 @@
     {
       "code": "d2_faction_4_unit_darkspine_elemental_name",
       "eng": "Darkspine Elemental",
-      "chi": "",
+      "chi": "暗脊元素",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_4_unit_darkspine_elemental_desc",
@@ -610,9 +610,9 @@
     {
       "code": "d2_faction_4_unit_nightsorrow_assassin_name",
       "eng": "Nightsorrow Assassin",
-      "chi": "",
+      "chi": "悲夜刺客",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_4_unit_nightsorrow_assassin_desc",
@@ -624,9 +624,9 @@
     {
       "code": "d2_faction_4_unit_shadow_watcher_name",
       "eng": "Shadow Watcher",
-      "chi": "",
+      "chi": "暗影守卫",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_4_unit_shadow_watcher_desc",
@@ -638,9 +638,9 @@
     {
       "code": "d2_faction_4_unit_abyssal_juggernaut_name",
       "eng": "Abyssal Juggernaut",
-      "chi": "",
+      "chi": "深渊巨兽",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_4_unit_abyssal_juggernaut_desc",
@@ -680,9 +680,9 @@
     {
       "code": "d2_faction_4_unit_black_solus_name",
       "eng": "Black Solus",
-      "chi": "",
+      "chi": "黑魂",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_4_unit_black_solus_desc",
@@ -694,9 +694,9 @@
     {
       "code": "d2_faction_4_unit_reaper_of_the_nine_moons_name",
       "eng": "Reaper of the Nine Moons",
-      "chi": "",
+      "chi": "玖月死神",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_4_unit_reaper_of_the_nine_moons_desc",

@@ -8,23 +8,23 @@
     {
       "code": "faction_4_unit_blood_siren_desc",
       "eng": "Opening Gambit: Give a nearby enemy -2 attack this turn.",
-      "chi": "",
+      "chi": "登场：使一个敌方单位获得 +2/+0 直到回合结束。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_4_unit_darkspine_elemental_name",
       "eng": "Darkspine Elemental",
-      "chi": "",
+      "chi": "暗脊元素",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_4_unit_darkspine_elemental_desc",
       "eng": "Double the damage dealt by friendly Shadow Creep.",
-      "chi": "",
+      "chi": "友方地刺造成双倍伤害。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_4_unit_gloomchaser_name",
@@ -36,16 +36,16 @@
     {
       "code": "faction_4_unit_gloomchaser_desc",
       "eng": "Opening Gambit: Summon a 1/1 Wraithling in a random nearby space.",
-      "chi": "",
+      "chi": "登场：在相邻随机位置召唤一个幽冥小鬼。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_4_unit_nightsorrow_assassin_name",
       "eng": "Nightsorrow Assassin",
-      "chi": "",
+      "chi": "悲夜刺客",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_4_unit_nightsorrow_assassin_desc",
@@ -57,9 +57,9 @@
     {
       "code": "faction_4_unit_shadow_watcher_name",
       "eng": "Shadow Watcher",
-      "chi": "",
+      "chi": "暗影守卫",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_4_unit_shadow_watcher_desc",
@@ -71,9 +71,9 @@
     {
       "code": "faction_4_unit_abyssal_juggernaut_name",
       "eng": "Abyssal Juggernaut",
-      "chi": "",
+      "chi": "深渊巨兽",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_4_unit_abyssal_juggernaut_desc",
@@ -85,9 +85,9 @@
     {
       "code": "faction_4_unit_bloodmoon_priestess_name",
       "eng": "Bloodtide Priestess",
-      "chi": "",
+      "chi": "血潮女祭司",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_4_unit_bloodmoon_priestess_desc",
@@ -99,9 +99,9 @@
     {
       "code": "faction_4_unit_deepfire_devourer_name",
       "eng": "Deepfire Devourer",
-      "chi": "",
+      "chi": "渊火吞噬兽",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_4_unit_deepfire_devourer_desc",
@@ -113,9 +113,9 @@
     {
       "code": "faction_4_unit_black_solus_name",
       "eng": "Black Solus",
-      "chi": "",
+      "chi": "黑魂",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_4_unit_black_solus_desc",
@@ -127,9 +127,9 @@
     {
       "code": "faction_4_unit_reaper_of_the_nine_moons_name",
       "eng": "Reaper of the Nine Moons",
-      "chi": "",
+      "chi": "玖月死神",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "faction_4_unit_reaper_of_the_nine_moons_desc",

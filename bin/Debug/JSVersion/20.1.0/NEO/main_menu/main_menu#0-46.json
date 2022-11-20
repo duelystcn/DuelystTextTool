@@ -29,9 +29,9 @@
     {
       "code": "menu_item_collection",
       "eng": "Collection",
-      "chi": "",
+      "chi": "收藏",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "menu_item_collection_tooltip",
@@ -85,9 +85,9 @@
     {
       "code": "menu_item_quests",
       "eng": "Quests",
-      "chi": "",
+      "chi": "任务",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "menu_item_shop",
@@ -106,9 +106,9 @@
     {
       "code": "menu_item_buddy_list",
       "eng": "Friends",
-      "chi": "",
+      "chi": "好友",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "menu_item_settings",
@@ -274,23 +274,23 @@
     {
       "code": "deck_select_play_unranked_button_label",
       "eng": "Play Unranked",
-      "chi": "",
+      "chi": "娱乐模式",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "deck_select_play_friendly_button_label",
       "eng": "Play Friendly",
-      "chi": "",
+      "chi": "友情切磋",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "deck_select_play_practice_button_label",
       "eng": "Play Practice",
-      "chi": "",
+      "chi": "练习模式",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "deck_select_empty_message",
