@@ -1,0 +1,366 @@
+{
+  "versionCode": "20.1.01",
+  "nodeCode": "settings",
+  "path": "settings",
+  "orderStart": 0,
+  "orderEnd": 50,
+  "translateItemList": [
+    {
+      "code": "category_visual_label",
+      "eng": "Visual",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "category_game_label",
+      "eng": "Game",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "category_audio_label",
+      "eng": "Audio",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "category_account_label",
+      "eng": "Account",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "audio_volume_master_label",
+      "eng": "Master",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "audio_volume_music_label",
+      "eng": "Music",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "audio_volume_voice_label",
+      "eng": "Voice",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "audio_volume_effects_label",
+      "eng": "Effects",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "account_change_password_button_label",
+      "eng": "Change Password",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "viewport_not_supported",
+      "eng": "(not supported at your screen size)",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "best_fit",
+      "eng": "Best Fit (recommended)",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "tightest_fit",
+      "eng": "Tightest Fit",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "pixel_perfect",
+      "eng": "Pixel Perfect",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "settings_button_low",
+      "eng": "LOW",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "settings_button_medium",
+      "eng": "MED",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "settings_button_high",
+      "eng": "HIGH",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "hiDPI_tooltip",
+      "eng": "HiDPI mode for monitors with high pixel density. Warning - enabling this may cause Duelyst to run slowly!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "hiDPI_name",
+      "eng": "HiDPI Mode",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "lighting_quality",
+      "eng": "Lighting Quality",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "shadow_quality",
+      "eng": "Shadow Quality",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "board_quality",
+      "eng": "Board Quality",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "bloom_tooltip",
+      "eng": "Adjust the intensity and brightness of the bloom visual effect.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "bloom_label",
+      "eng": "Bloom",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "master_volume_label",
+      "eng": "Master Volume",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "music_volume_label",
+      "eng": "Music Volume",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "voice_volume_label",
+      "eng": "Voice Volume",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "effects_volume_label",
+      "eng": "Effects Volume",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "always_show_stats",
+      "eng": "Always Show Stats",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "show_tips_during_gameplay",
+      "eng": "Show Tips During Game",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "battle_log",
+      "eng": "Battle Log Starts Open",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "play_original_music",
+      "eng": "Play Duelyst Legacy Soundtrack",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "play_original_music_tooltip",
+      "eng": "Swaps to the legacy or new soundtrack after changing screens",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "player_details_tooltip",
+      "eng": "Show additional information like remaining cards in deck at all times.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "player_details",
+      "eng": "Player Details",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "sticky_targeting_tooltip",
+      "eng": "Units stay selected after moving - click to move then attack without reselecting the unit.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "sticky_targeting",
+      "eng": "Sticky Targeting",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "razer_chroma",
+      "eng": "Razer Chroma Integration",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "do_not_disturb_tooltip",
+      "eng": "Automatically ignore new friend requests from other players. You can still challenge and chat with your friends.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "do_not_disturb",
+      "eng": "Do Not Disturb",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "profanity_filter_tooltip",
+      "eng": "Hide all bad words",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "profanity_filter",
+      "eng": "Profanity Filter",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "marketing_emails_tooltip",
+      "eng": "Receive emails about game events and promotions.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "marketing_emails",
+      "eng": "Receive Email Updates",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "block_spectators_tooltip",
+      "eng": "Do not allow friends to spectate your games.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "block_spectators",
+      "eng": "Block Spectators",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "create_account",
+      "eng": "Create a DUELYST II Account",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "change_username",
+      "eng": "Change Username",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "redeem_code",
+      "eng": "Redeem Referral / Gift Code",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "logout",
+      "eng": "LOGOUT",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "quit",
+      "eng": "QUIT",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "manage_data",
+      "eng": "Manage Data",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    }
+  ]
+}

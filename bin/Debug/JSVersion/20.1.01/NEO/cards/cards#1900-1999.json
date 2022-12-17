@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.01",
+  "nodeCode": "cards",
+  "path": "cards",
+  "orderStart": 1900,
+  "orderEnd": 1999,
+  "translateItemList": [
+    {
+      "code": "neutral_ephemeral_shroud_desc",
+      "eng": "Opening Gambit: Dispel 1 nearby space.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_flameblood_warlock_name",
+      "eng": "Flameblood Warlock",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_flameblood_warlock_desc",
+      "eng": "Opening Gambit: Deal 3 damage to BOTH Generals.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_ghost_lynx_name",
+      "eng": "Ghost Lynx",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_ghost_lynx_desc",
+      "eng": "Opening Gambit: Teleport a nearby minion to a random space.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_golem_metallurgist_name",
+      "eng": "Golem Metallurgist",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_golem_metallurgist_desc",
+      "eng": "The first Golem you summon each turn costs 1 less.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_healing_mystic_name",
+      "eng": "Healing Mystic",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_healing_mystic_desc",
+      "eng": "Opening Gambit: Restore 2 Health to anything.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_jaxi_name",
+      "eng": "Jaxi",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_jaxi_desc",
+      "eng": "Dying Wish: Summon a 1/1 Ranged Mini-Jax in a random corner.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_manaforger_name",
+      "eng": "Manaforger",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_manaforger_desc",
+      "eng": "The first non-Bloodbound spell you cast each turn costs 1 less.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_maw_name",
+      "eng": "Maw",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_maw_desc",
+      "eng": "Opening Gambit: Deal 2 damage to a nearby enemy minion.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_piercing_mantis_name",
+      "eng": "Piercing Mantis",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_piercing_mantis_desc",
+      "eng": "Frenzy",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_primus_fist_name",
+      "eng": "Primus Fist",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_primus_fist_desc",
+      "eng": "Opening Gambit: Give a nearby friendly minion +2 Attack this turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_rock_pulverizer_name",
+      "eng": "Rock Pulverizer",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_rock_pulverizer_desc",
+      "eng": "Provoke",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_rust_crawler_name",
+      "eng": "Rust Crawler",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_rust_crawler_desc",
+      "eng": "Opening Gambit: Destroy a random artifact on the enemy General.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_shiro_puppydragon_name",
+      "eng": "Shiro Puppydragon",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_shiro_puppydragon_desc",
+      "eng": "At the end of your turn, give each nearby friendly minion +1 Attack.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_skyrock_golem_name",
+      "eng": "Skyrock Golem",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_vale_hunter_name",
+      "eng": "Vale Hunter",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_vale_hunter_desc",
+      "eng": "Ranged",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_wings_of_mechaz0r_name",
+      "eng": "Wings of MECHAZ0R",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_wings_of_mechaz0r_desc",
+      "eng": "Airdrop\nOpening Gambit: Progresses MECHAZ0R build by +20%.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_woodwen_name",
+      "eng": "Wood-Wen",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_woodwen_desc",
+      "eng": "Provoke\nOpening Gambit: Give a nearby friendly minion Provoke.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_abjudicator_name",
+      "eng": "Abjudicator",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_abjudicator_desc",
+      "eng": "Opening Gambit: Lower the cost of all spells in your action bar by 1.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_alucin_loremaster_name",
+      "eng": "Alcuin Loremaster",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_alcuin_loremaster_desc",
+      "eng": "Opening Gambit: Put a copy of the most recently cast spell into your action bar.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_bastion_name",
+      "eng": "Bastion",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_bastion_desc",
+      "eng": "At the end of your turn, give all friendly minions +1 health.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_blaze_hound_name",
+      "eng": "Blaze Hound",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_blaze_hound_desc",
+      "eng": "Opening Gambit: Both players draw a card.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_blistering_skorn_name",
+      "eng": "Blistering Skorn",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_blistering_skorn_desc",
+      "eng": "Opening Gambit: Deal 1 damage to everything (including itself).",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_bloodshard_golem_name",
+      "eng": "Bloodshard Golem",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_cannon_of_mechaz0r_name",
+      "eng": "Cannon of MECHAZ0R",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_cannon_of_mechaz0r_desc",
+      "eng": "Ranged\nOpening Gambit: Progresses MECHAZ0R build by +20%.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_chaos_elemental_name",
+      "eng": "Chaos Elemental",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_chaos_elemental_desc",
+      "eng": "Whenever this minion takes damage, it randomly teleports.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_crimson_oculus_name",
+      "eng": "Crimson Oculus",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_crimson_oculus_desc",
+      "eng": "Whenever opponent summons a minion, this minion gains +1/+1",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_crossbones_name",
+      "eng": "Crossbones",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_crossbones_desc",
+      "eng": "Opening Gambit: Destroy an enemy minion with Ranged.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_day_watcher_name",
+      "eng": "Day Watcher",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_day_watcher_desc",
+      "eng": "Whenever a friendly minion attacks, restore 1 Health to your General.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_elkowl_name",
+      "eng": "Elkowl",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_elkowl_desc",
+      "eng": "Opening Gambit: Gain two random keywords.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_golem_vanquisher_name",
+      "eng": "Golem Vanquisher",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_golem_vanquisher_desc",
+      "eng": "Provoke\nYour other Golem minions have Provoke.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_lady_locke_name",
+      "eng": "Lady Locke",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_lady_locke_desc",
+      "eng": "Provoke\nOpening Gambit: Other minions you summon this turn gain +1/+1 and gain Provoke.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_mirkblood_devourer_name",
+      "eng": "Mirkblood Devourer",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_mirkblood_devourer_desc",
+      "eng": "Friendly minions summoned nearby this minion gain +1/+1.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_mogwai_name",
+      "eng": "Mogwai",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_mogwai_desc",
+      "eng": "After this moves, draw a card.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_prismatic_illusionist_name",
+      "eng": "Prismatic Illusionist",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_prismatic_illusionist_desc",
+      "eng": "Whenever you cast a spell, summon a 2/1 Illusion on a random nearby space.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_illusion_name",
+      "eng": "Illusion",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_putrid_dreadflayer_name",
+      "eng": "Putrid Dreadflayer",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_putrid_dreadflayer_desc",
+      "eng": "Flying",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_repulsor_beast_name",
+      "eng": "Repulsor Beast",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_repulsor_beast_desc",
+      "eng": "Opening Gambit: Push a nearby enemy minion to any space.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_saberspine_tiger_name",
+      "eng": "Saberspine Tiger",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_saberspine_tiger_desc",
+      "eng": "Rush",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_sand_burrower_name",
+      "eng": "Sand Burrower",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_sand_burrower_desc",
+      "eng": "When this minion survives damage, it returns to your action bar.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_sapphire_seer_name",
+      "eng": "Sapphire Seer",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_sapphire_seer_desc",
+      "eng": "Forcefield",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_sarlac_the_eternal_name",
+      "eng": "Sarlac the Eternal",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_sarlac_the_eternal_desc",
+      "eng": "Dying Wish: Re-summon this minion on a random space.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_silvertongue_corsair_name",
+      "eng": "Silvertongue Corsair",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_silvertongue_corsair_desc",
+      "eng": "Takes no damage from Generals.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_skywing_name",
+      "eng": "Skywing",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_skywing_desc",
+      "eng": "Flying\nYour other minions with Flying cost 1 less.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_sojourner_name",
+      "eng": "Sojourner",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_sojourner_desc",
+      "eng": "Whenever this minion deals damage, draw a card.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_songweaver_name",
+      "eng": "Songweaver",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_songweaver_desc",
+      "eng": "Opening Gambit: Give a nearby friendly minion +1/+1.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_spelljammer_name",
+      "eng": "Spelljammer",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_spelljammer_desc",
+      "eng": "Each player draws an additional card at the end of their turns.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_sun_seer_name",
+      "eng": "Sun Seer",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_sun_seer_desc",
+      "eng": "Whenever this minion deals damage, restore 2 Health to your General.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_sword_of_mechaz0r_name",
+      "eng": "Sword of MECHAZ0R",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_sword_of_mechaz0r_desc",
+      "eng": "Frenzy\nOpening Gambit: Progresses MECHAZ0R build by +20%.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_sworn_avenger_name",
+      "eng": "Sworn Avenger",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_sworn_avenger_desc",
+      "eng": "Ranged\nWhenever your General takes damage, this minion gains +1 Attack.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_syvrel_the_exile_name",
+      "eng": "Syvrel the Exile",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_syvrel_the_exile_desc",
+      "eng": "Ranged\nMinions damaged by Syvrel are pulled in front of him.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_venom_toth_name",
+      "eng": "Venom Toth",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_venom_toth_desc",
+      "eng": "Whenever your opponent summons a minion, deal 1 damage to the enemy General.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_void_hunter_name",
+      "eng": "Void Hunter",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_void_hunter_desc",
+      "eng": "Dying Wish: Draw a card.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    }
+  ]
+}

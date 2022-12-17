@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.01",
+  "nodeCode": "cards",
+  "path": "cards",
+  "orderStart": 200,
+  "orderEnd": 299,
+  "translateItemList": [
+    {
+      "code": "d2_faction_3_unit_ciphyron_desc",
+      "eng": "",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_3_unit_dunecaster_name",
+      "eng": "Dunecaster",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_3_unit_dunecaster_desc",
+      "eng": "Opening Gambit: Give another Dervish +2/+2 and \"This does not disappear at the end of your turn\".",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_3_unit_ethereal_obelysk_name",
+      "eng": "Ethereal Obelysk",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_3_unit_ethereal_obelysk_desc",
+      "eng": "Gateway",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_3_unit_pyromancer_name",
+      "eng": "Pyromancer",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_3_unit_pyromancer_desc",
+      "eng": "Blast",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_3_unit_fireblaze_obelysk_name",
+      "eng": "Fireblaze Obelysk",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_3_unit_fireblaze_obelysk_desc",
+      "eng": "Gateway\nAllied Dervishes have +1/+0.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_3_unit_imperial_mechanyst_name",
+      "eng": "Imperial Mechanyst",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_3_unit_imperial_mechanyst_desc",
+      "eng": "Opening Gambit: Restore your artifacts to full durability.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_3_unit_orb_weaver_name",
+      "eng": "Orb Weaver",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_3_unit_orb_weaver_desc",
+      "eng": "Opening Gambit: Summon an exact copy of this nearby.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_3_unit_portal_guardian_name",
+      "eng": "Portal Guardian",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_3_unit_portal_guardian_desc",
+      "eng": "Frenzy\nWhen you summon a minion, this gains +1/+0.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_3_unit_sand_howler_name",
+      "eng": "Sand Howler",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_3_unit_sand_howler_desc",
+      "eng": "Nearby enemies have -1/-0.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_3_unit_windstorm_obelysk_name",
+      "eng": "Windstorm Obelysk",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_3_unit_windstorm_obelysk_desc",
+      "eng": "Gateway\nAllied Dervishes can move an additional space.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_3_unit_mirage_master_name",
+      "eng": "Mirage Master",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_3_unit_mirage_master_desc",
+      "eng": "Opening Gambit: This transforms into an exact copy of another minion.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_3_unit_wind_shrike_name",
+      "eng": "Wind Shrike",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_3_unit_wind_shrike_desc",
+      "eng": "Flying\nDying Wish: Equip a Staff Of Y'Kir to your General.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_3_unit_starfire_scarab_name",
+      "eng": "Starfire Scarab",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_3_unit_starfire_scarab_desc",
+      "eng": "Blast",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_3_unit_aymara_healer_name",
+      "eng": "Aymara Healer",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_3_unit_aymara_healer_desc",
+      "eng": "Provoke\nDying Wish: Deal 5 damage to the enemy General and heal your General for 5.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_3_unit_oserix_name",
+      "eng": "Oserix",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_3_unit_oserix_desc",
+      "eng": "Blast\nYour General deals double damage.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_3_unit_dervish_name",
+      "eng": "Wind Dervish",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_3_unit_dervish_desc",
+      "eng": "Rush\nAt the end of your turn, this disappears.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_3_unit_iron_dervish_name",
+      "eng": "Iron Dervish",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_spell_wraithling_fury_name",
+      "eng": "Wraithling Fury",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_spell_wraithling_fury_description",
+      "eng": "Give a Wraithling +4/+4 and Flying.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_spell_daemonic_lure_name",
+      "eng": "Daemonic Lure",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_spell_daemonic_lure_description",
+      "eng": "Deal 1 damage to an enemy minion and teleport it to any space.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_spell_nether_summoning_name",
+      "eng": "Nether Summoning",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_spell_nether_summoning_description",
+      "eng": "Summon non-token minions that were destroyed this turn on random spaces nearby your General.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_spell_shadow_nova_name",
+      "eng": "Shadow Nova",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_spell_shadow_nova_description",
+      "eng": "Create Shadow Creep tiles on a 2x2 area.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_spell_void_pulse_name",
+      "eng": "Void Pulse",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_spell_void_pulse_description",
+      "eng": "Deal 2 damage to enemy General and heal your General for 3.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_spell_deathfire_crescendo_name",
+      "eng": "Deathfire Crescendo",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_spell_deathfire_crescendo_description",
+      "eng": "Give a minion \"Deathwatch: This gains +2/+2\".",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_spell_breath_of_the_unborn_name",
+      "eng": "Breath Of The Unborn",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_spell_breath_of_the_unborn_description",
+      "eng": "Deal 2 damage to enemy minions and fully heal allied minions.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_spell_rite_of_the_undervault_name",
+      "eng": "Rite Of The Undervault",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_spell_rite_of_the_undervault_description",
+      "eng": "Draw until you have 6 cards in your action bar.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_spell_darkfire_sacrifice_name",
+      "eng": "Darkfire Sacrifice",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_spell_darkfire_sacrifice_description",
+      "eng": "Destroy an allied minion. The next minion you play costs 2 less.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_spell_ritual_banishing_name",
+      "eng": "Ritual Banishing",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_spell_ritual_banishing_description",
+      "eng": "Destroy an allied minion. Destroy an enemy minion.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_spell_dark_transformation_name",
+      "eng": "Dark Terminus",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_spell_dark_transformation_description",
+      "eng": "Destroy a minion and summon a Wraithling on that space.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_spell_dark_seed_name",
+      "eng": "Dark Seed",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_spell_dark_seed_description",
+      "eng": "Deal damage to the enemy General equal to the number of cards in the opponent's action bar.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_spell_grasp_of_agony_name",
+      "eng": "Grasp of Agony",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_spell_grasp_of_agony_description",
+      "eng": "Give a minion \"Dying Wish: Deal 3 damage to nearby allies\".",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_spell_shadow_reflection_name",
+      "eng": "Shadow Reflection",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_spell_shadow_reflection_description",
+      "eng": "Give a minion +5/+0.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_spell_soulshatter_pact_name",
+      "eng": "Soulshatter Pact",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_spell_soulshatter_pact_description",
+      "eng": "Give allied minions +2/+0 until your next turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_spell_wraithling_swarm_name",
+      "eng": "Wraithling Swarm",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_spell_wraithling_swarm_description",
+      "eng": "Summon three joined Wraithlings.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_spell_consuming_rebirth_name",
+      "eng": "Consuming Rebirth",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_spell_consuming_rebirth_description",
+      "eng": "Destroy an allied minion. At the end of your turn, summon a copy of it on that space and give it +1/+1.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_artifact_soul_grimwar_name",
+      "eng": "Soul Grimoire",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_artifact_soul_grimwar_description",
+      "eng": "Your General has an additional +2/+0 for each unit that is destroyed.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_artifact_horn_of_the_forsaken_name",
+      "eng": "Horn of the Forsaken",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_artifact_horn_of_the_forsaken_description",
+      "eng": "When your General deals damage, summon a Wraithling on a random space nearby them.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_artifact_spectral_blade_name",
+      "eng": "Spectral Blade",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_artifact_spectral_blade_description",
+      "eng": "Your General has +2/+0.\nWhen your General destroys a minion, heal your General for 2.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_unit_cassyva_name",
+      "eng": "Cassyva Soulreaper",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_unit_cassyva_desc",
+      "eng": "",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_unit_lilithe_name",
+      "eng": "Lilithe Blightchaser",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_unit_lilithe_desc",
+      "eng": "",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_unit_maehv_name",
+      "eng": "Maehv Skinsolder",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_unit_maehv_desc",
+      "eng": "",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_unit_abyssal_crawler_name",
+      "eng": "Abyssal Crawler",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_unit_abyssal_crawler_desc",
+      "eng": "Dying Wish: Create a Shadow Creep tile on this space.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_unit_blood_siren_name",
+      "eng": "Blood Siren",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_unit_blood_siren_desc",
+      "eng": "Opening Gambit: Set the enemy General's Attack to 0 this turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_unit_darkspine_elemental_name",
+      "eng": "Darkspine Elemental",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_unit_darkspine_elemental_desc",
+      "eng": "This has +2/+2 for each of your Shadow Creep tiles.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_unit_gloomchaser_name",
+      "eng": "Gloomchaser",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_unit_gloomchaser_desc",
+      "eng": "Opening Gambit: Summon a Wraithling on a random nearby space.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_unit_nightsorrow_assassin_name",
+      "eng": "Nightsorrow Assassin",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_unit_nightsorrow_assassin_desc",
+      "eng": "Opening Gambit: Destroy a nearby minion with 3 or less Attack.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_unit_shadow_watcher_name",
+      "eng": "Shadow Watcher",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_unit_shadow_watcher_desc",
+      "eng": "Deathwatch: This gains +1/+1.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_unit_abyssal_juggernaut_name",
+      "eng": "Abyssal Juggernaut",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_unit_abyssal_juggernaut_desc",
+      "eng": "When this damages an enemy minion, create a Shadow Creep tile on that space.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_unit_bloodmoon_priestess_name",
+      "eng": "Bloodmoon Priestess",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_unit_bloodmoon_priestess_desc",
+      "eng": "Deathwatch: Summon a Wraithling on a random nearby space.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_unit_deepfire_devourer_name",
+      "eng": "Aphotic Devourer",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_unit_deepfire_devourer_desc",
+      "eng": "Opening Gambit: Destroy nearby allied minions and summon Wraithlings on those spaces. This gains +2/+2 for each destroyed.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_unit_black_solus_name",
+      "eng": "Black Solus",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_unit_black_solus_desc",
+      "eng": "After you summon a Wraithling, this gains +2/+2.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_unit_reaper_of_the_nine_moons_name",
+      "eng": "Reaper of the Nine Moons",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_4_unit_reaper_of_the_nine_moons_desc",
+      "eng": "Flying\nDying Wish: Teleport the enemy General to this space.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    }
+  ]
+}

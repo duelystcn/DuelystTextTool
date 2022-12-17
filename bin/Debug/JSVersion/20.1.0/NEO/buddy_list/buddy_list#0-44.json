@@ -43,9 +43,9 @@
     {
       "code": "click_to_copy",
       "eng": "click to copy.",
-      "chi": "",
+      "chi": "点击来复制",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "your_friends_referral_instructions",
@@ -57,9 +57,9 @@
     {
       "code": "referral_learn_more",
       "eng": "learn more",
-      "chi": "",
+      "chi": "学习更多",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "referrals",
@@ -113,9 +113,9 @@
     {
       "code": "rewards_claim_all",
       "eng": "CLAIM ALL",
-      "chi": "",
+      "chi": "清除所有",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "rewards_claimed_success",
@@ -141,9 +141,9 @@
     {
       "code": "referral_player",
       "eng": "player",
-      "chi": "",
+      "chi": "玩家",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "referral_level_reached",
@@ -211,9 +211,9 @@
     {
       "code": "action_send_message",
       "eng": "Send",
-      "chi": "",
+      "chi": "发送",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "action_share_replay",
@@ -260,23 +260,23 @@
     {
       "code": "decline_invite_button_label",
       "eng": "Decline",
-      "chi": "",
+      "chi": "离线",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "status_loading",
       "eng": "loading",
-      "chi": "",
+      "chi": "读取中",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "status_online",
       "eng": "online",
-      "chi": "",
+      "chi": "在线",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "status_away",

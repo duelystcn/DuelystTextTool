@@ -1,0 +1,324 @@
+{
+  "versionCode": "20.1.01",
+  "nodeCode": "buddy_list",
+  "path": "buddy_list",
+  "orderStart": 0,
+  "orderEnd": 44,
+  "translateItemList": [
+    {
+      "code": "referral_program_callout_title",
+      "eng": "Earn Rewards for Inviting your Friends",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "referral_program_callout_message",
+      "eng": "Your friends start with bonus gold and you earn rewards as they battle.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "referral_program_button_label",
+      "eng": "Referral Program",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "referral_program_redeem_button_label",
+      "eng": "claim a friend's referral code",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "your_referral_code_msg",
+      "eng": "Your referral CODE is",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "click_to_copy",
+      "eng": "click to copy.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "your_friends_referral_instructions",
+      "eng": "Your friends have to use your code before playing a ranked game.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "referral_learn_more",
+      "eng": "learn more",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "referrals",
+      "eng": "REFERRALS",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "referral_beginner_instructions",
+      "eng": "Every friend that uses your CODE starts with +100 GOLD",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "silver",
+      "eng": "SILVER",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "referral_silver_instructions",
+      "eng": "For every friend that reaches SILVER DIVISION you gain +1 SPIRIT ORB",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "gold",
+      "eng": "GOLD",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "referral_gold_instructions",
+      "eng": "For every friend that reaches GOLD DIVISION you gain +200 GOLD",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "rewards_label",
+      "eng": "Available Rewards:",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "rewards_claim_all",
+      "eng": "CLAIM ALL",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "rewards_claimed_success",
+      "eng": "rewards claimed",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "claim_rewards_instructions",
+      "eng": "Claim your rewards here as they become available.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "details",
+      "eng": "details",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "referral_player",
+      "eng": "player",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "referral_level_reached",
+      "eng": "level reached",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "referral_time_ago",
+      "eng": "time ago",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "action_add_buddy",
+      "eng": "Add Buddy",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "action_do_not_disturb",
+      "eng": "Do Not Disturb",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "last_opponent",
+      "eng": "Last Opponent",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "add_buddy_instructions",
+      "eng": "Enter friend's username",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "action_spectate",
+      "eng": "Spectate",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "action_challenge",
+      "eng": "Challenge",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "message_input_instructions",
+      "eng": "Type your message",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "action_send_message",
+      "eng": "Send",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "action_share_replay",
+      "eng": "Share Last Replay",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "challenge_received_title",
+      "eng": "You've been challenged to a game by:",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "challenge_sent_title",
+      "eng": "Waiting for challenge to be accepted by:",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "message_rejected_game_invite",
+      "eng": "Your opponent rejected the invite.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "message_cancelled_game_invite",
+      "eng": "Your opponent cancelled the invite.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "accept_invite_button_label",
+      "eng": "Accept",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "decline_invite_button_label",
+      "eng": "Decline",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "status_loading",
+      "eng": "loading",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "status_online",
+      "eng": "online",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "status_away",
+      "eng": "away",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "status_queue",
+      "eng": "queue",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "status_game",
+      "eng": "game",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "status_watching",
+      "eng": "watching",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "status_challenge",
+      "eng": "challenge",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "status_offline",
+      "eng": "offline",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    }
+  ]
+}

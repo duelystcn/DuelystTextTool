@@ -1,0 +1,646 @@
+{
+  "versionCode": "20.1.01",
+  "nodeCode": "tutorial",
+  "path": "tutorial",
+  "orderStart": 100,
+  "orderEnd": 190,
+  "translateItemList": [
+    {
+      "code": "tutorial_card_freezing_orb_name",
+      "eng": "Freezing Orb",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "tutorial_card_freezing_orb_desc",
+      "eng": "Deal 25 damage to the enemy General.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_lesson1_title",
+      "eng": "Tutorial",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_lesson1_description",
+      "eng": "Let's learn Duelyst II!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_lesson1_difficulty",
+      "eng": "2 Minutes",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_lesson1_start_message",
+      "eng": "Learn the basics of Duelyst II",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_lesson1_failure_message",
+      "eng": "Don't worry, try again!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_lesson1_turn_0_p_1_failure_message",
+      "eng": "Destroy the enemy [General] to claim victory!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_lesson1_turn_0_p_1_instruction_1",
+      "eng": "This is your [General]!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_lesson1_turn_0_p_1_instruction_2",
+      "eng": "This is an allied [Minion].",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_lesson1_turn_0_p_1_instruction_3",
+      "eng": "Spaces with [Enemies] are highlighted red.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_lesson1_turn_0_p_1_instruction_4",
+      "eng": "Destroy the enemy [General] to claim victory!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_lesson1_turn_0_p_1_instruction_5",
+      "eng": "Click to select a unit.\nClick again on a highlighted space to move there.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_lesson2_title",
+      "eng": "Tutorial",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_lesson2_description",
+      "eng": "Let's learn Duelyst II!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_lesson2_difficulty",
+      "eng": "2 Minutes",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_lesson2_start_message",
+      "eng": "Learn the basics of Duelyst II",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_lesson2_failure_message",
+      "eng": "Don't worry, try again!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_lesson2_turn_0_p_1_failure_message",
+      "eng": "Destroy the enemy [General] to claim victory!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_lesson2_turn_0_p_1_instruction_1",
+      "eng": "Use your [spell] to clear a path to victory!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_lesson2_turn_0_p_1_instruction_2",
+      "eng": "Click to select your [spell].\nClick again choose a target.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_lesson3_title",
+      "eng": "Tutorial",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_lesson3_description",
+      "eng": "Let's learn Duelyst II!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_lesson3_difficulty",
+      "eng": "2 Minutes",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_lesson3_start_message",
+      "eng": "Learn the basics of Duelyst II",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_lesson3_failure_message",
+      "eng": "Don't worry, try again!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_lesson3_turn_0_p_1_failure_message",
+      "eng": "Equip an [Artifact] to power up your [General]!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_lesson3_turn_0_p_1_instruction_1",
+      "eng": "Equip an [Artifact] to power up your [General]!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_lesson3_turn_0_p_2_instruction_1",
+      "eng": "You may have up to 3 [Artifacts] equipped at once.\n[Artifacts] break after being damaged 3 times.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_lesson3_turn_0_p_2_instruction_2",
+      "eng": "Clear the way and attack!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_title",
+      "eng": "Tutorial",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_description",
+      "eng": "Let's learn Duelyst II!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_difficulty",
+      "eng": "2 Minutes",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_start_message",
+      "eng": "Learn the basics of Duelyst II",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_failure_message",
+      "eng": "Don't worry, try again!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_end_your_turn",
+      "eng": "Click here to end your turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_0_p_1_instruction_1",
+      "eng": "This is your [General]!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_0_p_1_instruction_5",
+      "eng": "And this is their [Health].\nIf it reaches 0, you [Lose.]",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_0_p_1_instruction_3",
+      "eng": "This is the enemy [General]!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_0_p_1_instruction_6",
+      "eng": "When their [Health] reaches 0, you [Win!]",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_0_p_1_instruction_7",
+      "eng": "[Units] on the board can move.\nClick on your [General] to select them...",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_0_p_1_instruction_8",
+      "eng": "Click here to move your [General].",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_0_p_2_instruction_1",
+      "eng": "This is your [mana].\nYou use [mana] to play [cards].",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_0_p_2_instruction_3",
+      "eng": "This is your [action bar].\nIt can hold up to 6 [cards].",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_0_p_2_instruction_4",
+      "eng": "This [card] is a [minion].\nIt can be played onto the [battlefield].",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_0_p_2_instruction_6",
+      "eng": "Click on the [minion] to select it...",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_0_p_2_instruction_7",
+      "eng": "Click here to summon the [minion] on this space.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_0_p_3_instruction_1",
+      "eng": "Playing that [minion] cost 2 [mana].",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_0_p_3_instruction_2",
+      "eng": "[Minions] are [Exhausted] after being summoned.\nIt can't move or attack until your next turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_0_p_3_instruction_4",
+      "eng": "You're all done for now.\nClick here to [end your turn].",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_1_p_1_instruction_1",
+      "eng": "You draw [2] [cards] at the end of your turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_1_p_1_instruction_2",
+      "eng": "HERE I COME",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_1_p_1_instruction_3",
+      "eng": "Stand behind me little one. You're too cute for battle.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_2_p_1_instruction_1",
+      "eng": "At the start of your turn, you gain [+1] maximum mana.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_2_p_1_instruction_2",
+      "eng": "Your [minion] can now move!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_2_p_1_instruction_3",
+      "eng": "Move it next to this enemy [minion].",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_2_p_2_instruction_1",
+      "eng": "[Units] ([Generals] and [minions]) can also attack enemies on [nearby] spaces!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_2_p_2_instruction_2",
+      "eng": "Click on your [minion] to select it...",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_2_p_2_instruction_3",
+      "eng": "Click on the enemy [minion] to attack!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_2_p_3_instruction_1",
+      "eng": "Your [minion] dealt [4] damage to the enemy [minion].",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_2_p_3_instruction_2",
+      "eng": "After a [unit] is [attacked], it will [counterattack] to deal damage equal to its attack in return",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_2_p_3_instruction_4",
+      "eng": "You may move and attack with all units that are able each turn.\nMove your [General] here.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_2_p_4_instruction_1",
+      "eng": "You can play the stronger [minion] now.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_2_p_4_instruction_2",
+      "eng": "Play the [minion] here.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_3_p_1_instruction_1",
+      "eng": "NOW YOU ASKED FOR IT!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_3_p_1_instruction_2",
+      "eng": "[Generals] have [2 Attack]. They can [attack] and [counterattack] just like any other [unit].",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_3_p_1_instruction_3",
+      "eng": "You've taken damage, watch out!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_3_p_1_instruction_4",
+      "eng": "This is getting dangerous little one...\nRun back to safety.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_4_p_1_instruction_1",
+      "eng": "You've drawn a [spell]!\n[Spells] have one-time effects that are activated when played.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_4_p_1_instruction_2",
+      "eng": "This [spell] deals [2 Damage] to a [minion].\nCast it on the enemy [minion].",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_4_p_1_instruction_3",
+      "eng": "Click on the [spell] to select it...",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_4_p_1_instruction_4",
+      "eng": "Click here to cast the [spell] on the [unit].",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_4_p_2_instruction_1",
+      "eng": "Now your [minion] can defeat the enemy [minion].",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_4_p_2_instruction_2",
+      "eng": "Attack the enemy [minion].",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_4_p_3_instruction_1",
+      "eng": "Your [General] also can attack.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_4_p_3_instruction_2",
+      "eng": "Attack the enemy [General].",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_4_p_4_instruction_1",
+      "eng": "You still have a [minion] to play.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_4_p_4_instruction_2",
+      "eng": "Play the [minion] here.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_5_p_1_instruction_1",
+      "eng": "Your mana will fully replenish at the start of your turn, so don't hold back!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_5_p_1_instruction_2",
+      "eng": "GAHHH!! I HAVE NOTHING TO PLAY!\nTACTICAL RETREAT!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_5_p_1_instruction_3",
+      "eng": "Where are you going?! LITTLE ONE!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_6_p_1_instruction_1",
+      "eng": "You've drawn an [artifact].\n[Artifacts] empower your [General] when played.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_6_p_1_instruction_2",
+      "eng": "Click on the [artifact] to select it...",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_6_p_1_instruction_3",
+      "eng": "Click anywhere on the [battlefield] to [equip] it to your [General].",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_6_p_2_instruction_1",
+      "eng": "Your [General] can have 3 [artifacts] equipped at once",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_6_p_2_instruction_2",
+      "eng": "This [artifact] gave your [General] +1/+0.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_6_p_3_instruction_1",
+      "eng": "You don't have enough [mana] to play anything else.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_6_p_3_instruction_2",
+      "eng": "Once per turn, you may [replace] a [card] into your [deck] to get a new one.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_6_p_3_instruction_3",
+      "eng": "Click on the [card] to select it...",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_6_p_3_instruction_4",
+      "eng": "Click here to [replace] the [card].",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_tutorial_turn_6_p_4_instruction_1",
+      "eng": "It's all up to you now to defeat Calibero!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    }
+  ]
+}

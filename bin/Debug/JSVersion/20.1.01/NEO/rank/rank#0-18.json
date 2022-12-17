@@ -1,0 +1,142 @@
+{
+  "versionCode": "20.1.01",
+  "nodeCode": "rank",
+  "path": "rank",
+  "orderStart": 0,
+  "orderEnd": 18,
+  "translateItemList": [
+    {
+      "code": "rank",
+      "eng": "Rank",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "division",
+      "eng": "Division",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "season",
+      "eng": "Season",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "loot_crate_instructions",
+      "eng": "Upgrade Season Loot Crate by reaching the next Division",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "loot_crate_max_reached",
+      "eng": "Max Loot Crate upgrades earned!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "win_streak_message",
+      "eng": "{{win_count}} wins in a row! +1 BONUS CHEVRON",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "next_division_message",
+      "eng": "You will reach {{division_name}} at rank{{rank}}",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "bronze_division_name",
+      "eng": "Bronze",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "silver_division_name",
+      "eng": "Silver",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "gold_division_name",
+      "eng": "Gold",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "diamond_division_name",
+      "eng": "Diamond",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "elite_division_name",
+      "eng": "S-Rank",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "end_of_ranked_season_title",
+      "eng": "RANKED SEASON REWARD",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "current_rank_message",
+      "eng": "RANK {{rank}}",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "current_division_message",
+      "eng": "{{division}} DIVISION",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "month_year_season_message",
+      "eng": "{{month}} {{year}}",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "last_season_ranked_earned_message",
+      "eng": "Your rank from last season earned you",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "bonus_chevrons_message",
+      "eng": "BONUS CHEVRONS",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "season_has_begun_message",
+      "eng": "The {{month}} Season {{year}} has begun!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    }
+  ]
+}

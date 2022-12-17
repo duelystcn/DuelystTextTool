@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.01",
+  "nodeCode": "cards",
+  "path": "cards",
+  "orderStart": 1700,
+  "orderEnd": 1799,
+  "translateItemList": [
+    {
+      "code": "faction_6_spell_hailstone_prison_name",
+      "eng": "Hailstone Prison",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_hailstone_prison_description",
+      "eng": "Return ANY minion to its action bar.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_spirit_of_the_wild_name",
+      "eng": "Spirit of the Wild",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_spirit_of_the_wild_description",
+      "eng": "Reactivate friendly minions on your opponent's starting side of the battlefield.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_cryogenesis_name",
+      "eng": "Cryogenesis",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_cryogenesis_description",
+      "eng": "Deal 4 damage to an enemy minion. Draw a Vespyr minion from your deck.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_frostburn_name",
+      "eng": "Frostburn",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_frostburn_description",
+      "eng": "Deal 3 damage to all enemy minions.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_wailing_overdrive_name",
+      "eng": "Wailing Overdrive",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_wailing_overdrive_description",
+      "eng": "Give a friendly minion on your opponent's starting side of the battlefield +5/+5.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_vespyric_call_name",
+      "eng": "Vespyric Call",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_vespyric_call_description",
+      "eng": "Put a random Vespyr minion into your action bar. It costs 1 less and has +1/+1.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_lightning_blitz_name",
+      "eng": "Lightning Blitz",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_lightning_blitz_description",
+      "eng": "Give all friendly minions +1/+1 and randomly teleport them to your opponent's starting side of the battlefield.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_winters_wake_name",
+      "eng": "Winter's Wake",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_winters_wake_description",
+      "eng": "Give all friendly Wall minions +4/+4. Those minions can now move.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_altered_beast_name",
+      "eng": "Aspect of Shim'Zar",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_altered_beast_description",
+      "eng": "Transform ANY minion into a random Battle Pet.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_frigid_corona_name",
+      "eng": "Frigid Corona",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_frigid_corona_desc",
+      "eng": "Stun an enemy minion. Draw a card.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_concealing_shroud_name",
+      "eng": "Concealing Shroud",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_concealing_shroud_desc",
+      "eng": "Your General takes no damage until your next turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_enfeeble_name",
+      "eng": "Enfeeble",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_enfeeble_desc",
+      "eng": "All minions become 1/1.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_mana_deathgrip_name",
+      "eng": "Mana Deathgrip",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_mana_deathgrip_desc",
+      "eng": "Deal 1 damage to an enemy minion. If it dies this turn, permanently gain 1 mana crystal.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_vespyrian_might_name",
+      "eng": "Vespyrian Might",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_vespyrian_might_desc",
+      "eng": "Give a Vespyr minion +2/+2 for each friendly Vespyr.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_blinding_snowstorm_name",
+      "eng": "Blinding Snowstorm",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_blinding_snowstorm_desc",
+      "eng": "Deal 1 damage to all enemies. Those enemies can only move 1 space next turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_luminous_charge_name",
+      "eng": "Luminous Charge",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_luminous_charge_desc",
+      "eng": "Summon five joined 0/1 Walls that deal 2 damage to nearby enemies when destroyed.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_glacial_fissure_name",
+      "eng": "Glacial Fissure",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_glacial_fissure_desc",
+      "eng": "Deal 8 damage to EVERYTHING in the center column.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_icebreak_ambush_name",
+      "eng": "Icebreak Ambush",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_icebreak_ambush_desc",
+      "eng": "Summon an ambush of Infiltrate minions on your opponent's starting side of the battlefield.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_flawless_reflection_name",
+      "eng": "Flawless Reflection",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_flawless_reflection_desc",
+      "eng": "Choose a minion. Transform ALL nearby minions into copies of it.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_crystallize_name",
+      "eng": "Crystallize",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_crystallize_desc",
+      "eng": "Stun a nearby enemy minion.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_aspect_of_the_bear_name",
+      "eng": "Aspect of the Bear",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_aspect_of_the_bear_desc",
+      "eng": "Transform ANY minion into a 4/5 Ursaplomb that will not counterattack.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_shatter_name",
+      "eng": "Shatter",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_shatter_desc",
+      "eng": "Destroy a Stunned enemy minion.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_essence_sculpt_name",
+      "eng": "Essence Sculpt",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_essence_sculpt_desc",
+      "eng": "Choose a Stunned minion. Put a copy of that card into your action bar.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_crystalline_reinforcement_name",
+      "eng": "Crystalline Reinforcement",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_crystalline_reinforcement_desc",
+      "eng": "Double the Attack and Health buffs of friendly minions.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_wintertide_name",
+      "eng": "Wintertide",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_wintertide_desc",
+      "eng": "Summon three 2/2 Vespyr Winter Maerids on any column.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_auroraboros_name",
+      "eng": "Auroraboros",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_auroraboros_desc",
+      "eng": "Give friendly minions \"Dying Wish: Re-summon this minion on this space.\"",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_artifact_snowpiercer_name",
+      "eng": "Snowpiercer",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_artifact_snowpiercer_description",
+      "eng": "Your General gains +3 Attack.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_artifact_coldbiter_name",
+      "eng": "Coldbiter",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_artifact_coldbiter_description",
+      "eng": "At the end of your turn, your General deals 2 damage to each enemy minion around them.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_artifact_winterblade_name",
+      "eng": "Winterblade",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_artifact_winterblade_description",
+      "eng": "Your General gains +2 Attack. Enemy minions damaged by your General are Stunned.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_artifact_white_asp_name",
+      "eng": "White Asp",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_artifact_white_asp_description",
+      "eng": "Your General gains +3 Attack. Whenever your General destroys a minion, summon a 3/3 Blazing Spine Wall on that space.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_artifact_iceshatter_gauntlet_name",
+      "eng": "Iceshatter Gauntlet",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_artifact_iceshatter_gauntlet_description",
+      "eng": "Whenever your General attacks a Stunned minion, destroy it instantly.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_artifact_the_dredger_name",
+      "eng": "The Dredger",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_artifact_the_dredger_desc",
+      "eng": "Whenever your General damages an enemy, randomly teleport them to your starting side of the battlefield.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_artifact_animus_plate_name",
+      "eng": "Animus Plate",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_artifact_animus_plate_desc",
+      "eng": "Your General gains +2 Attack.\nWhenever your General attacks or counterattacks, give all friendly Vespyr minions +2/+2.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_unit_faie_name",
+      "eng": "Faie Bloodwing",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_unit_faie_desc",
+      "eng": "Bloodbound Spell: Deal 2 damage to all enemies in the enemy General's Column.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_unit_kara_name",
+      "eng": "Kara Winterblade",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_unit_kara_desc",
+      "eng": "Bloodbound Spell: Friendly minions summoned this turn gain +1/+1.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_unit_ilena_name",
+      "eng": "Ilena Cryobyte",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_unit_ilena_desc",
+      "eng": "Bloodbound Spell: Stun a nearby enemy minion.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_unit_snow_chaser_name",
+      "eng": "Snow Chaser",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_unit_snow_chaser_desc",
+      "eng": "Infiltrate:  When this minion dies, return it to your action bar.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_unit_borean_bear_name",
+      "eng": "Borean Bear",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_unit_borean_bear_desc",
+      "eng": "Whenever you summon a Vespyr minion, this minion gains +1 Attack.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_unit_crystal_cloaker_name",
+      "eng": "Crystal Cloaker",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_unit_crystal_cloaker_desc",
+      "eng": "Infiltrate: Gain +2 Attack.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_unit_crystal_wisp_name",
+      "eng": "Crystal Wisp",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_unit_crystal_wisp_desc",
+      "eng": "Dying Wish: Permanently gain 1 mana crystal.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_unit_hearth_sister_name",
+      "eng": "Hearth-Sister",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_unit_hearth_sister_desc",
+      "eng": "Opening Gambit: Switch positions with ANY other minion.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_unit_fenrir_warmaster_name",
+      "eng": "Fenrir Warmaster",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_unit_fenrir_warmaster_desc",
+      "eng": "Dying Wish: Summon a 3/2 Ghost Wolf on this space.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_unit_glacial_elemental_name",
+      "eng": "Glacial Elemental",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_unit_glacial_elemental_desc",
+      "eng": "Whenever you summon a Vespyr minion, deal 2 damage to a random enemy minion.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_unit_wolfraven_name",
+      "eng": "Wolfraven",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_unit_wolfraven_desc",
+      "eng": "Flying\nInfiltrate: Gain +3 Attack.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_unit_razorback_name",
+      "eng": "Razorback",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_unit_razorback_desc",
+      "eng": "Opening Gambit: Give all friendly minions +2 Attack this turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_unit_voice_of_the_wind_name",
+      "eng": "Voice of the Wind",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_unit_voice_of_the_wind_desc",
+      "eng": "Whenever you summon a minion from your action bar, summon a 2/2 Vespyr Winter Maerid nearby.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_unit_arctic_displacer_name",
+      "eng": "Arctic Displacer",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_unit_arctic_displacer_desc",
+      "eng": "Airdrop",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_unit_frosthorn_rhyno_name",
+      "eng": "Frosthorn Rhyno",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_unit_frosthorn_rhyno_desc",
+      "eng": "Infiltrate: Gain +1 Attack and Celerity.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_unit_draugar_lord_name",
+      "eng": "Draugar Lord",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_unit_draugar_lord_desc",
+      "eng": "Dying Wish: Summon a 4/8 Ice Drake on this space.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_unit_ancient_grove_name",
+      "eng": "Ancient Grove",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_unit_ancient_grove_desc",
+      "eng": "Provoke\nOpening Gambit: Your minions gain \"Dying Wish: Summon a 1/1 Treant with Provoke\".",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    }
+  ]
+}

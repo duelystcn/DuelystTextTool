@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.01",
+  "nodeCode": "modifiers",
+  "path": "modifiers",
+  "orderStart": 200,
+  "orderEnd": 299,
+  "translateItemList": [
+    {
+      "code": "toggle_structure_def",
+      "eng": "This Structure can now move and attack",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "untargetable_name",
+      "eng": "Untargetable",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "untargetable_def",
+      "eng": "This entity cannot be targeted",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "wild_tahr_name",
+      "eng": "Wild Thrash",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "wild_tahr_def",
+      "eng": "Whenever an enemy attacks buff this until the end of your turn",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "wraithling_fury_name",
+      "eng": "Supreme Wraithling",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_elyx_buff_applied_name",
+      "eng": "Elyx's Inspiration",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_elyx_buff_applied_desc",
+      "eng": "May move an additional space",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_arclyte_buff_applied_name",
+      "eng": "Arclyte's Balance",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_radiant_dragoon_applied_name",
+      "eng": "Dragoon Spirit",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_sunforged_lancer_applied_name",
+      "eng": "Sunforged",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_warblade_applied_name",
+      "eng": "Golem Surge",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_sol_pontiff_applied_name_1",
+      "eng": "Banner of Might",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_sol_pontiff_applied_name_2",
+      "eng": "Zealed: Golem Might",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_pureblade_enforcer_applied_name",
+      "eng": "Enforcement",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_aurora_applied_name",
+      "eng": "Pride's Might",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_war_judicator_applied_name",
+      "eng": "Judicial Protection",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_oakenheart_applied_name",
+      "eng": "Unified Core",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_oakenheart_def",
+      "eng": "Friendly Mechs have +1/+1",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_vigilator_applied_name",
+      "eng": "Vigilance",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_surgeforger_applied_name",
+      "eng": "Battleforged",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_decorated_enlisteee_applied_name",
+      "eng": "Fully Decorated",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_roar_1",
+      "eng": "Lion's Pride",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_auryn_nexus_1",
+      "eng": "Auryn Fortitude",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_lasting_judgement_1",
+      "eng": "Auryn Balance",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_war_surge_1",
+      "eng": "Battle Ready",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_divine_bond_1",
+      "eng": "Strength of Will",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_divine_bond_2",
+      "eng": "Gained +Attack equal to Health",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_afterblaze_1",
+      "eng": "Blazing",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_empyreal_congregation_1",
+      "eng": "Empyreal Strength",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_sanctify_1",
+      "eng": "Sanctified",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_call_to_arms_1",
+      "eng": "Called to Arms",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_call_to_arms_2",
+      "eng": "Friendly minions summoned nearby gain +3/+3.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_invincible",
+      "eng": "Invincible Feel",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_dauntless_advance_1",
+      "eng": "Dauntless",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_dauntless_advance_2",
+      "eng": "Takes no damage this turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_artifact_skywind_glaives_1",
+      "eng": "Nearby allies gain +2 Attack.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_artifact_sunstone_bracers_1",
+      "eng": "Ironcliffe Cestus",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_artifact_arclyte_regalia_2",
+      "eng": "The first time your General takes damage each turn, prevent 2 of it.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_artifact_dawns_eye_1",
+      "eng": "At the end of your turn, repair all of your artifacts to full durability.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_artifact_sunbound_pavise",
+      "eng": "Sunbond Strength",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_chakri_avatar_buff_name",
+      "eng": "Spell Conduit",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_gorehorn_buff_name",
+      "eng": "Growing Charge",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_onyx_jaguar_buff_name",
+      "eng": "Jaguar's Bite",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_suzumebachi",
+      "eng": "Spell Finesse",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_saberspine_seal_1",
+      "eng": "Saberspine Influence",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_mist_dragon_seal_1",
+      "eng": "Mist Dragon Influence",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_deathstrike_seal_1",
+      "eng": "Deadly Strike",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_deathstrike_seal_2",
+      "eng": "Whenever this damages an enemy minion, destroy that minion",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_killing_edge_1",
+      "eng": "Sharpened Edge",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_shadow_waltz_1",
+      "eng": "Shadow Power",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_ethereal_blades_1",
+      "eng": "Ethereal Blades",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_kiyomori_1",
+      "eng": "Gentle Breeze",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_kiyomori_2",
+      "eng": "May move an additional space.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_artifact_crescent_spear_1",
+      "eng": "Spells you cast that deal damage deal +1 damage.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_artifact_unbounded_energy_amulet_1",
+      "eng": "Your General may move an additional space",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_2_jade_monk_buff_name",
+      "eng": "Monk's Vision",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_2_jade_monk_buff_description",
+      "eng": "Costs 1 less to play for each spell you have played this turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_3_fireblaze_obelysk_buff_name",
+      "eng": "Fireblaze Rage",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_3_windstorm_obelysk_buff_name",
+      "eng": "Windstorm Fortitude",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_3_windstorm_obelysk_buff_name",
+      "eng": "Windstorm Alacrity",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_3_windstorm_obelysk_buff_description",
+      "eng": "Can move an additional space.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_3_falcius_buff_name",
+      "eng": "Falcius Punch",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_3_incinera_1",
+      "eng": "Blazing Speed",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_3_incinera_2",
+      "eng": "May move 2 additional spaces",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_3_grandmaster_noshrak",
+      "eng": "Nosh-Rak's Curse",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_3_sandhowler",
+      "eng": "Drought",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_3_followup_dunecaster_1",
+      "eng": "Dervish Permanence",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_3_spell_cosmic_flesh_1",
+      "eng": "Cosmic Strength",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_3_spell_blindscorch_1",
+      "eng": "Debilitated",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_3_spell_blindscorch_2",
+      "eng": "Attack reduced to 0",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_3_spell_astral_phasing_1",
+      "eng": "Physical Resilience",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_3_spell_sand_trap_1",
+      "eng": "Can't Move",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_3_spell_scions_first_wish_1",
+      "eng": "Scion's Favor",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_3_spell_scions_second_wish_1",
+      "eng": "Scion's Protection",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_3_spell_scions_third_wish_1",
+      "eng": "Scion's Greater Favor",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_3_spell_inner_oasis_1",
+      "eng": "Inner Fortitude",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_3_stone_to_spears_1",
+      "eng": "Stone's Might",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_3_stone_to_spears_2",
+      "eng": "Uprooted",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_3_kinematic_projection_1",
+      "eng": "Kinematic Balance",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_3_kinematic_projection_2",
+      "eng": "Cannot move.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_3_equality_constraint_1",
+      "eng": "Constrained",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_3_equality_constraint_2",
+      "eng": "Health became Attack.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_3_artifact_hexblade_1",
+      "eng": "Whenever your General damages an enemy minion, its Attack becomes one.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_3_artifact_hexblade_2",
+      "eng": "Hexed",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_3_artifact_hexblade_3",
+      "eng": "Attack set to 1",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_3_artifact_hexblade_4",
+      "eng": "its Attack becomes 1",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_3_artifact_spinecleaver_1",
+      "eng": "Enemy minions destroyed by your General summon a Bloodfire Totem on that space.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_3_artifact_spinecleaver_2",
+      "eng": "a Bloodfire Totem",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_furosa",
+      "eng": "Furosa's Fortitude",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_phantasm",
+      "eng": "Phantasmal Power",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_skullprophet",
+      "eng": "Prophetic Misfortune",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_stygian_observer",
+      "eng": "Deaths Observed",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_followup_blood_siren_2",
+      "eng": "Weakened Blood",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_followup_blood_baronette_2",
+      "eng": "Blood Surge",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_abyssal_scar_1",
+      "eng": "Shadow Scar",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_shadow_reflection_1",
+      "eng": "Shadow Strength",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_soulshatter_pact_1",
+      "eng": "Shadow Onslaught",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_void_steal_1",
+      "eng": "Void Sapped",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_void_steal_2",
+      "eng": "Void Strengthened",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    }
+  ]
+}

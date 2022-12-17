@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.01",
+  "nodeCode": "cards",
+  "path": "cards",
+  "orderStart": 700,
+  "orderEnd": 799,
+  "translateItemList": [
+    {
+      "code": "d2_neutral_dioltas_tombstone_desc",
+      "eng": "Provoke",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_minijax_name",
+      "eng": "Mini-Jax",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_minijax_desc",
+      "eng": "Ranged",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_pandora_frenzy_name",
+      "eng": "Rage",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_pandora_frenzy_desc",
+      "eng": "Frenzy",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_pandora_ranged_name",
+      "eng": "Envy",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_pandora_ranged_desc",
+      "eng": "Ranged",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_pandora_flying_name",
+      "eng": "Serenity",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_pandora_flying_desc",
+      "eng": "Flying",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_pandora_celerity_name",
+      "eng": "Wrath",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_pandora_celerity_desc",
+      "eng": "Celerity",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_pandora_provoke_name",
+      "eng": "Fear",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_pandora_provoke_desc",
+      "eng": "Provoke",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_mechaz0r_name",
+      "eng": "MECHAZ0R!!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_mechaz0r_desc",
+      "eng": "Airdrop, Frenzy, Ranged, Veil",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_frostfire_imp_name",
+      "eng": "Frostfire Imp",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_frostfire_snowchser_name",
+      "eng": "Frostfire Snowchaser",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_frostfire_tiger_name",
+      "eng": "Frostfire Tiger",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "building_name",
+      "eng": "Building",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_roar_name",
+      "eng": "Roar",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_roar_description",
+      "eng": "Give a friendly minion nearby your General +2 Attack.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_afterglow_name",
+      "eng": "Afterglow",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_afterglow_description",
+      "eng": "Restore 3 Health to any Minion.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_sundrop_elixir_name",
+      "eng": "Sundrop Elixir",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_sundrop_elixir_description",
+      "eng": "Restore 5 Health to anything.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_tempest_name",
+      "eng": "Tempest",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_tempest_description",
+      "eng": "Deal 2 damage to everything.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_decimate_name",
+      "eng": "Decimate",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_decimate_description",
+      "eng": "Destroy ALL minions that are not nearby any General.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_auryn_nexus_name",
+      "eng": "Auryn Nexus",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_auryn_nexus_description",
+      "eng": "Give a friendly minion +3 Health.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_lasting_judgement_name",
+      "eng": "Lasting Judgement",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_lasting_judgement_description",
+      "eng": "Give ANY minion +3 Attack, but -3 Health.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_martyrdom_name",
+      "eng": "Martyrdom",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_martyrdom_description",
+      "eng": "Destroy ANY minion. Restore that minion's Health to its General.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_war_surge_name",
+      "eng": "War Surge",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_war_surge_description",
+      "eng": "Give all friendly minions +1/+1.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_lionheart_blessing_name",
+      "eng": "Lionheart Blessing",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_lionheart_blessing_description",
+      "eng": "Give a friendly minion, \"Zeal: Whenever this minion deals damage, draw a card.\"",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_sun_bloom_name",
+      "eng": "Sun Bloom",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_sun_bloom_description",
+      "eng": "Dispel a 2x2 area.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_true_strike_name",
+      "eng": "True Strike",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_true_strike_description",
+      "eng": "Deal 2 damage to a minion.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_circle_of_life_name",
+      "eng": "Circle of Life",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_circle_of_life_description",
+      "eng": "Deal 5 damage to an enemy minion. Restore 5 Health to your General.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_beam_shock_name",
+      "eng": "Beam Shock",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_beam_shock_description",
+      "eng": "Stun an enemy.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_holy_immolation_name",
+      "eng": "Holy Immolation",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_holy_immolation_description",
+      "eng": "Restore 4 Health to a friendly minion. Deal 4 damage to enemies around it.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_divine_bond_name",
+      "eng": "Divine Bond",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_divine_bond_description",
+      "eng": "Give a minion +Attack equal to its Health.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_aegis_barrier_name",
+      "eng": "Aegis Barrier",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_aegis_barrier_description",
+      "eng": "Choose a friendly minion. It can't be targeted by enemy spells. Draw a card.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_aerial_rift_name",
+      "eng": "Aerial Rift",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_aerial_rift_description",
+      "eng": "Give your minions Airdrop this turn.  Draw a card.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_magnetize_name",
+      "eng": "Magnetize",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_magnetize_description",
+      "eng": "Pull ANY minion to the space in front of your General.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_ironcliffe_heart_name",
+      "eng": "Ironcliffe Heart",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_ironcliffe_heart_description",
+      "eng": "Transform a friendly minion into an Ironcliffe Guardian.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_sky_burial_name",
+      "eng": "Sky Burial",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_sky_burial_description",
+      "eng": "Destroy a minion that is not nearby any General.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_afterblaze_name",
+      "eng": "Afterblaze",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_afterblaze_description",
+      "eng": "Give a friendly minion +2/+4. If that minion has Zeal, draw a card.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_fighting_spirit_name",
+      "eng": "Fighting Spirit",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_fighting_spirit_description",
+      "eng": "Give all friendly minions +1 Health. Put a random Battle Pet into your action bar.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_lucent_beam_name",
+      "eng": "Lucent Beam",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_lucent_beam_description",
+      "eng": "Deal 2 damage to an enemy. If anything was healed this turn, deal 4 damage instead.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_sky_phalanx_name",
+      "eng": "Sky Phalanx",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_sky_phalanx_description",
+      "eng": "Summon three Silverguard Knights nearby your General.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_draining_wave_name",
+      "eng": "Draining Wave",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_draining_wave_desc",
+      "eng": "Deal 4 damage to a minion AND your General.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_prism_barrier_name",
+      "eng": "Prism Barrier",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_prism_barrier_desc",
+      "eng": "Give a friendly minion Forcefield.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_trinity_oath_name",
+      "eng": "Trinity Oath",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_trinity_oath_desc",
+      "eng": "Draw 3 cards and restore 3 Health to your General.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_life_coil_name",
+      "eng": "Life Coil",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_life_coil_desc",
+      "eng": "Double a minion's Health.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_empyreal_congregation_name",
+      "eng": "Empyreal Congregation",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_empyreal_congregation_desc",
+      "eng": "Give friendly minions in a 2x2 area +2/+2.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_sanctify_name",
+      "eng": "Sanctify",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_sanctify_desc",
+      "eng": "Give a friendly minion +1/+1 and turn its space into Hallowed Ground.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_channeled_breath_name",
+      "eng": "Channeled Breath",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_channeled_breath_desc",
+      "eng": "Restore 2 Health to your General for each friendly minion.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_aperions_claim_name",
+      "eng": "Aperion's Claim",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_aperions_claim_desc",
+      "eng": "Destroy ALL minions in a 3x3 area and turn their spaces into Hallowed Ground.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_vale_ascension_name",
+      "eng": "Vale Ascension",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_vale_ascension_desc",
+      "eng": "Summon a friendly non-token minion destroyed this game onto friendly Hallowed Ground.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_fortified_assault_name",
+      "eng": "Fortified Assault",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_fortified_assault_desc",
+      "eng": "Turn an enemy minion's space into Hallowed Ground. Deal it 1 damage for each friendly Hallowed Ground.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_steadfast_formation_name",
+      "eng": "Steadfast Formation",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_steadfast_formation_desc",
+      "eng": "Give friendly minions in a 2x2 area Provoke.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_dauntless_advance_name",
+      "eng": "Dauntless Advance",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_dauntless_advance_desc",
+      "eng": "Your General and nearby friendly minions gain, \"Takes no damage this turn.\"",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_fealty_name",
+      "eng": "Fealty",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_fealty_desc",
+      "eng": "Draw a card for each friendly minion nearby your General.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_sunstrike_name",
+      "eng": "Sunstrike",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_sunstrike_desc",
+      "eng": "Deal 3 damage to enemies and restore 3 Health to friendly minions and Generals in a row.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_invincible_name",
+      "eng": "Invincible",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_invincible_desc",
+      "eng": "Give a friendly minion with full Health +4/+4.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_spell_call_to_arms_name",
+      "eng": "Call to Arms",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    }
+  ]
+}

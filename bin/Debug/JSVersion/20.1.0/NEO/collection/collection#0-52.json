@@ -8,9 +8,9 @@
     {
       "code": "new_deck_button_label",
       "eng": "New Deck",
-      "chi": "",
+      "chi": "新牌组",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "crafting_button_label",
@@ -78,16 +78,16 @@
     {
       "code": "deck_save_button_label",
       "eng": "Save",
-      "chi": "",
+      "chi": "保存",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "back_button_label",
       "eng": "Back",
-      "chi": "",
+      "chi": "返回",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "crafting_rewards_title",
@@ -127,9 +127,9 @@
     {
       "code": "action_filter_card_skins",
       "eng": "Card Skins",
-      "chi": "",
+      "chi": "卡牌样式",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "action_filter_prismatic_crafting",
@@ -253,23 +253,23 @@
     {
       "code": "new_card_popover_msg",
       "eng": "NEW",
-      "chi": "",
+      "chi": "新建",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "import_deck",
       "eng": "Import Deck",
-      "chi": "",
+      "chi": "导入牌组",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "export_deck",
       "eng": "Export Deck",
-      "chi": "",
+      "chi": "导出牌组",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "must_select_general_error",

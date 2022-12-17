@@ -35,3 +35,5 @@ D:\work\DuelystTextTool\obj\Debug\DuelystText.TranslateForm.resources
 D:\work\DuelystTextTool\bin\Debug\version.txt
 D:\work\winDuelystText\DuelystText\bin\Debug\version.txt
 D:\work\winDuelystText\DuelystText\obj\Debug\DuelystText.ChineseCorrection.resources
+D:\work\DuelystTextTool\obj\Debug\DuelystText.ChineseCorrection.resources
+D:\work\DuelystTextTool\bin\Debug\JSVersion\20.1.01\index.json

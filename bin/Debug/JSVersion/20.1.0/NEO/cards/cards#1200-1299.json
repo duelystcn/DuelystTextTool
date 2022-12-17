@@ -99,7 +99,7 @@
     {
       "code": "faction_3_unit_imperial_mechanyst_desc",
       "eng": "Opening Gambit: Repair all of your artifacts to full durability.",
-      "chi": "登场：将将你的将领装备的所有神器修复所有耐久。",
+      "chi": "登场：将你的将领装备的神器修复所有耐久。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },

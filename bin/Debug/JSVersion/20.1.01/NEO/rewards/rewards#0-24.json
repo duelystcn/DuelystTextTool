@@ -1,0 +1,184 @@
+{
+  "versionCode": "20.1.01",
+  "nodeCode": "rewards",
+  "path": "rewards",
+  "orderStart": 0,
+  "orderEnd": 24,
+  "translateItemList": [
+    {
+      "code": "level_up_reward_title",
+      "eng": "Level {{level}} Reward",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "card_reward_subtitle",
+      "eng": "{{card_count}}/{{total}} {{factionName}} cards unlocked",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "generic_reward_title",
+      "eng": "You earned a reward!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "spirit_orb_reward_info",
+      "eng": "Open Spirit Orbs to earn new units and spells",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "quest_complete_title",
+      "eng": "Quest Complete: {{quest_name}}",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "quest_reward_gift_crate_title",
+      "eng": "FREE Gift Crate for completing the {{quest_name}} quest",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "referral_rewards_available_message",
+      "eng": "You have referral rewards available",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "spirit_for_faction_lvl_reward_message",
+      "eng": "You've earned {{spirit}} SPIRIT for reaching {{faction_name}} level {{level}}",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "gold_for_faction_lvl_reward_message",
+      "eng": "You've earned {{gold}} GOLD for reaching {{faction_name}} level {{level}}",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "orb_for_faction_lvl_reward_message",
+      "eng": "You've earned a SPIRIT ORB for reaching {{faction_name}} level {{level}}",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "3_win_gold_reward_title",
+      "eng": "3 wins reward",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "3_win_gold_reward_message",
+      "eng": "You've earned {{gold_amount}} GOLD for winning 3 games",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "4_play_gold_reward_title",
+      "eng": "4 games played reward",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "4_play_gold_reward_message",
+      "eng": "You've earned {{gold_amount}} GOLD for playing 4 games",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "first_win_of_the_day_reward_title",
+      "eng": "First Win of the Day Reward",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "first_win_of_the_day_reward_message",
+      "eng": "You've earned {{gold_amount}} GOLD for your first win of the day",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "first_3_games_reward_title",
+      "eng": "3 Games Played Reward",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "first_3_games_reward_message",
+      "eng": "You've earned {{gold_amount}} GOLD for playing 3 full games",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "first_10_games_reward_title",
+      "eng": "10 Games Played Reward",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "first_10_games_reward_message",
+      "eng": "You've earned {{gold_amount}} GOLD for playing 10 full games",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "boss_defeated_reward_title",
+      "eng": "BOSS DEFEATED",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "boss_defeated_reward_message",
+      "eng": "+1 SPIRIT ORB for defeating the Boss for the first time",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "multi_mystery_crate",
+      "eng": "You've won {{numCrates}} Mystery Crates!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "one_mystery_crate",
+      "eng": "You've won a {{crateName}} Crate!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "achievement_complete_title",
+      "eng": "Achievement Complete:",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    }
+  ]
+}

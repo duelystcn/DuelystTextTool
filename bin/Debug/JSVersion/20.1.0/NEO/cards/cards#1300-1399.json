@@ -50,7 +50,7 @@
     {
       "code": "faction_4_spell_void_pulse_description",
       "eng": "Deal 2 damage to enemy General. Restore 3 Health to your General.",
-      "chi": "对目标敌方将领造成2点伤害。为你的将领治疗3点伤害。",
+      "chi": "对目标敌方将领造成2点伤害。为你的将领治疗3点生命。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -106,7 +106,7 @@
     {
       "code": "faction_4_spell_darkfire_sacrifice_description",
       "eng": "Destroy a friendly minion. Your next minion costs 2 less.",
-      "chi": "消灭一个友方随从，你使用的下一个随从费用减少2点。",
+      "chi": "摧毁一个友方随从，你使用的下一个随从费用减少2点。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -120,7 +120,7 @@
     {
       "code": "faction_4_spell_ritual_banishing_description",
       "eng": "Destroy a friendly minion to destroy an enemy minion.",
-      "chi": "消灭一个友方随从，然后消灭一个敌方随从。",
+      "chi": "摧毁一个友方随从，然后摧毁一个敌方随从。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -218,7 +218,7 @@
     {
       "code": "faction_4_spell_consuming_rebirth_description",
       "eng": "Destroy a friendly minion. At the end of your turn, re-summon it on the same space and give it +1/+1.",
-      "chi": "摧毁目标友方随从，在你的回合结束时在相同位置重新召唤它。",
+      "chi": "摧毁目标友方随从，在你的回合结束时在相同位置重新召唤它并使其获得+1/+1。。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -526,7 +526,7 @@
     {
       "code": "faction_4_spell_abhorrent_unbirth_desc",
       "eng": "Destroy all friendly minions to summon a 1/1 Abomination that gains their Attack, Health, and keywords.",
-      "chi": "摧毁所有友方随从，召唤一个憎恨嵌合体(1/1)，它获得被摧毁的随从的攻防和关键词异能。",
+      "chi": "摧毁所有友方随从，召唤一个憎恶(1/1)，它获得被摧毁的随从的攻防和关键词异能。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -547,7 +547,7 @@
     {
       "code": "faction_4_artifact_soul_grimwar_name",
       "eng": "Soul Grimwar",
-      "chi": "残酷战争史",
+      "chi": "聚魂宝典",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -568,7 +568,7 @@
     {
       "code": "faction_4_artifact_horn_of_the_forsaken_description",
       "eng": "Whenever your General deals damage, summon a 1/1 Wraithling nearby your General.",
-      "chi": "每当你的将领造成伤害，在你的将领相邻位置召唤一个幽冥小鬼。",
+      "chi": "每当你的将领造成伤害时，在你的将领相邻位置召唤一个幽冥小鬼。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },

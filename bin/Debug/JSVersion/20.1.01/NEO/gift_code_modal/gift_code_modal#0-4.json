@@ -1,0 +1,44 @@
+{
+  "versionCode": "20.1.01",
+  "nodeCode": "gift_code_modal",
+  "path": "gift_code_modal",
+  "orderStart": 0,
+  "orderEnd": 4,
+  "translateItemList": [
+    {
+      "code": "min_char_requirement_error",
+      "eng": "Minimum 3 characters",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "failed_to_redeem_error",
+      "eng": "Failed to redeem gift code. Please retry.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "redeem_gift_code_title",
+      "eng": "Enter Gift / Referral Code:",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "redeem_success_message",
+      "eng": "Gift / Referral Code Redeemed...",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "gift_code_default",
+      "eng": "Gift code",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    }
+  ]
+}

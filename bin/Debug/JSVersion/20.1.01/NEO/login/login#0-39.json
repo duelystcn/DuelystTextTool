@@ -1,0 +1,289 @@
+{
+  "versionCode": "20.1.01",
+  "nodeCode": "login",
+  "path": "login",
+  "orderStart": 0,
+  "orderEnd": 39,
+  "translateItemList": [
+    {
+      "code": "email_input_label",
+      "eng": "Email or Username",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "password_input_label",
+      "eng": "Password",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "login_button_label",
+      "eng": "Login",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "forgot_password_button_label",
+      "eng": "Forgot Password?",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "help_label",
+      "eng": "Help?",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "create_account_button_label",
+      "eng": "Create Account",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "invalid_password_message",
+      "eng": "Invalid password",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "invalid_email_message",
+      "eng": "Invalid email",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "invalid_username_message",
+      "eng": "Invalid username",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "account_suspended_message",
+      "eng": "Account Suspended",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "invalid_username_or_password_message",
+      "eng": "Invalid email or password",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "forgot_password_dialog_title",
+      "eng": "Forgot Password?",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "email_only_input_label",
+      "eng": "Your Email",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "forgot_password_submit_button_label",
+      "eng": "Submit",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "reset_password_email_sent_message",
+      "eng": "An email containing instructions to reset your password has been sent.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "email_already_registered_message",
+      "eng": "Email is already registered. Please contact customer support.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "unable_to_login_to_account_message",
+      "eng": "We are unable to log in to your account.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "skip_to_login_button_label",
+      "eng": "Skip to Log In",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "log_in_label",
+      "eng": "Log In",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "log_in_label_emphasized",
+      "eng": "LOG IN",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "sign_up_label",
+      "eng": "Sign Up",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "sign_up_label_emphasized",
+      "eng": "SIGN UP",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "remember_email",
+      "eng": "Remember Email",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "show_password",
+      "eng": "show",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "date_of_birth",
+      "eng": "Date of Birth",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "month",
+      "eng": "Month",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "day",
+      "eng": "Day",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "year",
+      "eng": "Year",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "send_me_news",
+      "eng": "Send me news and special offers",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "account_created_success_title",
+      "eng": "Account Created!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "login_one_moment",
+      "eng": "One moment while we log you in...",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "link_old_account",
+      "eng": "Need to link your old DUELYST II account? <a href=\"javascript:void(0)\" class=\"link-existing-account\">Link Account",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "login_using_duelyst_account",
+      "eng": "Log In Using Your DUELYST II Account",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "login_using_duelyst_account_2",
+      "eng": "Use your DUELYST II account credentials to start the account linking process.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "help",
+      "eng": "Help?",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "dont_have_duelyst_account",
+      "eng": "Don't have a DUELYST II account? <a href=\"javascript:void(0)\" class=\"signup-link\">Register <i class=\"fa fa-arrow-circle-o-right\"></i></a>.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "select_username",
+      "eng": "Select Username",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "username",
+      "eng": "Username",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "play_duelyst_btn",
+      "eng": "Play DUELYST II",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "username_set_success",
+      "eng": "Your username has been set!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    }
+  ]
+}

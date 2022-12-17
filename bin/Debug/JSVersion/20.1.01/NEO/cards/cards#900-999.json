@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.01",
+  "nodeCode": "cards",
+  "path": "cards",
+  "orderStart": 900,
+  "orderEnd": 999,
+  "translateItemList": [
+    {
+      "code": "faction_1_unit_crestfallen_name",
+      "eng": "Crestfallen",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_unit_crestfallen_desc",
+      "eng": "Zeal: Provoke",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_blink_name",
+      "eng": "Blink",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_blink_description",
+      "eng": "Teleport a friendly minion up to 2 spaces.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_arcane_heart_name",
+      "eng": "Arcane Heart",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_arcane_heart_description",
+      "eng": "Summon a Heartseeker nearby your General.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_saberspine_seal_name",
+      "eng": "Saberspine Seal",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_saberspine_seal_description",
+      "eng": "Give a minion or General +3 Attack this turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_mist_dragon_seal_name",
+      "eng": "Mist Dragon Seal",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_mist_dragon_seal_description",
+      "eng": "Give a friendly minion +1/+1 and teleport it anywhere.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_phoenix_fire_name",
+      "eng": "Phoenix Fire",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_phoenix_fire_description",
+      "eng": "Deal 3 damage to anything.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_kage_lightning_name",
+      "eng": "Kage Lightning",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_kage_lightning_description",
+      "eng": "Deal 5 damage to an enemy minion.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_twin_strike_name",
+      "eng": "Twin Strike",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_twin_strike_description",
+      "eng": "Deal 2 damage to exactly two random enemy minions. Draw a card at end of turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_eight_gates_name",
+      "eng": "Eight Gates",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_eight_gates_description",
+      "eng": "Spells you cast this turn that deal damage deal +2 damage.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_spiral_technique_name",
+      "eng": "Spiral Technique",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_spiral_technique_description",
+      "eng": "Deal 8 damage to anything.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_mana_vortex_name",
+      "eng": "Mana Vortex",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_mana_vortex_description",
+      "eng": "The next spell you cast this turn costs 1 less.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_inner_focus_name",
+      "eng": "Inner Focus",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_inner_focus_description",
+      "eng": "Reactivate an exhausted friendly minion with 3 or less Attack.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_onyx_bear_seal_name",
+      "eng": "Onyx Bear Seal",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_onyx_bear_seal_description",
+      "eng": "Transform an enemy minion into a 0/2 Panddo that cannot be attacked.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_ghost_lightning_name",
+      "eng": "Ghost Lightning",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_ghost_lightning_description",
+      "eng": "Deal 1 damage to all enemy minions.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_deathstrike_seal_name",
+      "eng": "Deathstrike Seal",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_deathstrike_seal_description",
+      "eng": "Give a friendly minion, \"Destroy any minion damaged by this minion.\"",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_ancestral_divination_name",
+      "eng": "Ancestral Divination",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_ancestral_divination_description",
+      "eng": "Draw a card for each friendly minion.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_juxtaposition_name",
+      "eng": "Juxtaposition",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_juxtaposition_description",
+      "eng": "Switch positions between ANY two minions.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_artifact_defiler_name",
+      "eng": "Artifact Defiler",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_artifact_defiler_description",
+      "eng": "Destroy all artifacts on the enemy General.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_heavens_eclipse_name",
+      "eng": "Heaven's Eclipse",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_heavens_eclipse_description",
+      "eng": "Draw 3 spell cards from your deck.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_mist_walking_name",
+      "eng": "Mist Walking",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_mist_walking_description",
+      "eng": "Teleport your General up to 2 spaces.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_killing_edge_name",
+      "eng": "Killing Edge",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_killing_edge_description",
+      "eng": "Give a friendly minion +4/+2. If that minion has Backstab, draw a card at end of turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_crimson_coil_name",
+      "eng": "Crimson Coil",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_crimson_coil_description",
+      "eng": "Deal 2 damage to a minion. Activate your Battle Pets.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_shadow_waltz_name",
+      "eng": "Shadow Waltz",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_shadow_waltz_description",
+      "eng": "Lower the cost of all minions with Backstab in your action bar by 1 and give them +1/+1.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_pandamonium_name",
+      "eng": "Pandamonium",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_pandamonium_description",
+      "eng": "Transform ALL minions into 0/2 Panddo that cannot be attacked until end of turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_mirror_meld_name",
+      "eng": "Mirror Meld",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_mirror_meld_description",
+      "eng": "Summon a copy of a friendly minion that costs 2 or less nearby.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_koan_of_horns_name",
+      "eng": "Koan of Horns",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_koan_of_horns_description",
+      "eng": "Transform all minions in your action bar and deck into 0-cost Gore Horns. Draw 3 cards.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_ethereal_blades_name",
+      "eng": "Ethereal Blades",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_ethereal_blades_desc",
+      "eng": "Give a friendly minion AND your General +2 Attack this turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_obscuring_blow_name",
+      "eng": "Obscuring Blow",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_obscuring_blow_desc",
+      "eng": "Give a friendly minion or General Backstab (2).",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_cobra_strike_name",
+      "eng": "Cobra Strike",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_cobra_strike_desc",
+      "eng": "Deal 3 damage to an enemy minion AND the enemy General.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_joseki_name",
+      "eng": "Joseki",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_joseki_desc",
+      "eng": "Each player steals a random card from their opponent's deck.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_gotatsu_name",
+      "eng": "Gotatsu",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_gotatsu_desc",
+      "eng": "Deal 1 damage to a minion. Draw a card at end of turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_flicker_name",
+      "eng": "Flicker",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_flicker_desc",
+      "eng": "Teleport your General to a space behind an enemy.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_twilight_reiki_name",
+      "eng": "Twilight Reiki",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_twilight_reiki_desc",
+      "eng": "Put 3 random Songhai minions into your action bar. They cost 1 less.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_firestorm_mantra_name",
+      "eng": "Firestorm Mantra",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_firestorm_mantra_desc",
+      "eng": "Steal Health from the enemy General equal to twice the number of spells cast this turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_spiral_counter_name",
+      "eng": "Spiral Counter",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_spiral_counter_desc",
+      "eng": "Deal 8 damage to an enemy minion that attacked last turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_bombard_name",
+      "eng": "Bombard",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_bombard_desc",
+      "eng": "Reactivate your minions with Ranged.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_petal_flurry_name",
+      "eng": "Petal Flurry",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_petal_flurry_desc",
+      "eng": "Put a Spellsword into your action bar that cannot be replaced.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_murasame_name",
+      "eng": "Murasame",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_murasame_desc",
+      "eng": "Draw a card at end of turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_kiyomori_name",
+      "eng": "Kiyomori",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_kiyomori_desc",
+      "eng": "Your General may move an additional space this turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_tanahashi_name",
+      "eng": "Tanahashi",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_tanahashi_desc",
+      "eng": "Teleport an enemy minion 1 space.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_kotetsu_name",
+      "eng": "Kotetsu",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_kotetsu_desc",
+      "eng": "Give a friendly minion or General Backstab (2) this turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_thunderbomb_name",
+      "eng": "Thunderbomb",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_thunderbomb_desc",
+      "eng": "Deal 3 damage to an enemy and 1 damage to all enemies around it.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_assassination_protocol_name",
+      "eng": "Assassination Protocol",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_assassination_protocol_desc",
+      "eng": "Reactivate an exhausted friendly minion. It cannot damage or attack Generals this turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_mass_flight_name",
+      "eng": "Mass Flight",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_mass_flight_desc",
+      "eng": "Give all friendly minions Flying this turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_substitution_name",
+      "eng": "Substitution",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_substitution_desc",
+      "eng": "Switch positions between a friendly minion and your General.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_bamboozle_name",
+      "eng": "Bamboozle",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_bamboozle_desc",
+      "eng": "Transform a nearby enemy minion into a 0/2 Panddo. If it is already a Panddo, instead destroy it and draw to fill your action bar.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_seeker_squad_name",
+      "eng": "Seeker Squad",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_seeker_squad_desc",
+      "eng": "Summon a Heartseeker in each nearby space diagonal from your General.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_mechaz0r_progress_name",
+      "eng": "MECHAZ0R Progression",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_spell_mechaz0r_progress_desc",
+      "eng": "Progresses MECHAZ0R build by +20%.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_artifact_mask_of_shadows_name",
+      "eng": "Mask of Shadows",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_artifact_mask_of_shadows_description",
+      "eng": "Your General gains +1 Attack.\nYour General gains Backstab (4).",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_artifact_cyclone_mask_name",
+      "eng": "Cyclone Mask",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_artifact_cyclone_mask_description",
+      "eng": "Your General gains Ranged.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    }
+  ]
+}

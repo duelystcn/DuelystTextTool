@@ -1,0 +1,114 @@
+{
+  "versionCode": "20.1.01",
+  "nodeCode": "new_player_experience",
+  "path": "new_player_experience",
+  "orderStart": 0,
+  "orderEnd": 14,
+  "translateItemList": [
+    {
+      "code": "highlight_practice_game_popover",
+      "eng": "Practice Game Here",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "highlight_more_practice_games_popover",
+      "eng": "Play more Practice Games",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "highlight_ladder_popover",
+      "eng": "Play Season Ladder Game",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "highlight_solo_challenge_popover",
+      "eng": "Play Solo Challenges",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "play_mode_unlock_message",
+      "eng": "Complete Starter Quests to unlock.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "play_mode_gauntlet_unlock_message",
+      "eng": "Reach Level 10 with any Faction to unlock.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "play_mode_unlock_game_count_message",
+      "eng": "Play {{game_count}} more Season Games to unlock.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "highlight_open_spirit_orbs_popover",
+      "eng": "Open Spirit Orbs to unlock new cards for your Collection.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "new_quests_popover",
+      "eng": "New Quests",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "buy_spirit_orb",
+      "eng": "Get Spirit Orb",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "new_shop_special_available_popover",
+      "eng": "New Special",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_unlocked_title",
+      "eng": "Faction Unlocked",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_cards_unlocked_progress_label",
+      "eng": "{{card_count}} cards unlocked",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "bloodborn_message",
+      "eng": "This is your [Bloodbound Spell]. It refreshes on your next turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "bloodborn_message_plural",
+      "eng": "This is your [Bloodbound Spell]. It refreshes in {{count}} turns.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    }
+  ]
+}

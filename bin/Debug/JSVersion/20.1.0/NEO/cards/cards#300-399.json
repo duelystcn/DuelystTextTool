@@ -57,7 +57,7 @@
     {
       "code": "d2_faction_5_spell_fractal_replication_name",
       "eng": "Fractal Replication",
-      "chi": "分型复制",
+      "chi": "分形复制",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -148,7 +148,7 @@
     {
       "code": "d2_faction_5_spell_greater_fortitude_description",
       "eng": "Give a minion +2/+2.",
-      "chi": "使一个随从获得 +1/+2。",
+      "chi": "使一个随从获得 +2/+2。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -169,7 +169,7 @@
     {
       "code": "d2_faction_5_spell_bounded_lifeforce_name",
       "eng": "Bounded Lifeforce",
-      "chi": "进化终端",
+      "chi": "究极进化",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -190,7 +190,7 @@
     {
       "code": "d2_faction_5_spell_amplification_description",
       "eng": "Give a damaged minion +3/+0.",
-      "chi": "使一个受伤的随从获得 +1/+2。",
+      "chi": "使一个受伤的随从获得 +3/+0。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },

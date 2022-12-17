@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.01",
+  "nodeCode": "cosmetics",
+  "path": "cosmetics",
+  "orderStart": 100,
+  "orderEnd": 199,
+  "translateItemList": [
+    {
+      "code": "skinline_mk2_name",
+      "eng": "MkII",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_boss_name",
+      "eng": "Boss",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_rogueLegacy_name",
+      "eng": "Rogue Legacy",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_doge_name",
+      "eng": "Dogehai",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_festive_name",
+      "eng": "Festive",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_sapphire_name",
+      "eng": "Sapphire",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_emerald_name",
+      "eng": "Emerald",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_ruby_name",
+      "eng": "Ruby",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_ashen_name",
+      "eng": "Ashen",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_strawberry_name",
+      "eng": "Strawberry",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_gilded_name",
+      "eng": "Gilded",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_hallowed_name",
+      "eng": "Hallowed",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_kickstarter_name",
+      "eng": "Founder",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_rainbow_name",
+      "eng": "Chromatic",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_EXCEED_name",
+      "eng": "EXCEED",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "skindesc_lazyCreator",
+      "eng": "Added on the release of Public Beta.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "skindesc_laguzCreator",
+      "eng": "Added on the release of Public Beta.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "cardback_classic_name",
+      "eng": "Classic",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "cardback_classic_desc",
+      "eng": "Your default classic card back.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "cardback_redstark_name",
+      "eng": "Redstark Blue",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "cardback_redstark_desc",
+      "eng": "Banner of Aestaria's House Ashbourne.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "cardback_sienna_name",
+      "eng": "Sienna Gold",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "cardback_sienna_desc",
+      "eng": "Burning desire for the Gauntlet.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "cardback_dance_of_dreams_name",
+      "eng": "Dance of Dreams",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "cardback_dance_of_dreams_desc",
+      "eng": "Nothing is destroyed...Only transformed.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "cardback_shimzar_name",
+      "eng": "Denizens of Shim'Zar",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "cardback_shimzar_desc",
+      "eng": "From the Shim'Zar Jungle.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "cardback_azurite_name",
+      "eng": "Silver Azurite",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "cardback_azurite_desc",
+      "eng": "Every sixty years is born the Silver Azurite Lion.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "cardback_humble_bundle_name",
+      "eng": "Humble Bundle",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "cardback_humble_bundle_desc",
+      "eng": "",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "cardback_dawn_of_duelysts_name",
+      "eng": "Dawn of the Duelysts",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "cardback_dawn_of_duelysts_desc",
+      "eng": "",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "cardback_snowchaser_cup_name",
+      "eng": "Festive Cardback",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "cardback_snowchaser_cup_desc",
+      "eng": "Frostfire Festival has arrived!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_tree_of_eyos_name",
+      "eng": "Tree of Eyos",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_abyssal_crawler_name",
+      "eng": "Abyssal Crawler",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_abyssal_crawler_desc",
+      "eng": "Carrying a darkness to share with the world.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_cassyva_name",
+      "eng": "Cassyva Soulreaper",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_cassyva_desc",
+      "eng": "The oldest of all the Bloodbound.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_abyssian_crest_name",
+      "eng": "Abyssian Crest",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_abyssian_crest_desc",
+      "eng": "'Death only makes us stronger.'",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_gloomchaser_name",
+      "eng": "Gloomchaser",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_gloomchaser_desc",
+      "eng": "Oblivion loves company.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_shadow_sister_name",
+      "eng": "Shadow Sister",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_shadow_sister_desc",
+      "eng": "The Wish of Allegiance.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_lilithe_name",
+      "eng": "Lilithe Blightchaser",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_lilithe_desc",
+      "eng": "'Feel the edge of suffering.'",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_lilithe_mk2_name",
+      "eng": "Lilithe Blighterchaser II",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_lilithe_mk2_desc",
+      "eng": "A catalyst for something darker.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_vorpal_reaver_name",
+      "eng": "Vorpal Reaver",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_vorpal_reaver_desc",
+      "eng": "Face HIS inner demons.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_wraithling_name",
+      "eng": "Abyssian Wraithling",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_wraithling_desc",
+      "eng": "Cuteness as boundless as their numbers.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_frostfire_2015_name",
+      "eng": "Frostfire Festival",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_frostfire_2015_desc",
+      "eng": "Winter 2015 Frostfire Festival.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_arclyte_sentinel_name",
+      "eng": "Arclyte Sentinel",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_arclyte_sentinel_desc",
+      "eng": "Converting light into powerful enchantments.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_argeon_name",
+      "eng": "Argeon Highmayne",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_argeon_desc",
+      "eng": "Adopted Cub of the House of Highmayne.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_argeon_mk2_name",
+      "eng": "Argeon Highmayne II",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_argeon_mk2_desc",
+      "eng": "Third in line after his two rightful brothers.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_lyonar_crest_name",
+      "eng": "Lyonar Crest",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_lyonar_crest_desc",
+      "eng": "'Only the unworthy fear the light.'",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_lightchaser_name",
+      "eng": "Lightchaser",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_lightchaser_desc",
+      "eng": "A beacon of hope in the darkness.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_silverguard_knight_name",
+      "eng": "Silverguard Knight",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_silverguard_knight_desc",
+      "eng": "Courage only exceeded by the thickness of their armor.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_sun_sister_name",
+      "eng": "Sun Sister",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_sun_sister_desc",
+      "eng": "The Wish of Peace.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_suntide_maiden_name",
+      "eng": "Suntide Maiden",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_suntide_maiden_desc",
+      "eng": "Upon golden wings, their fiery resolve turns the tide.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_windblade_adept_name",
+      "eng": "Windblade Adept",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_windblade_adept_desc",
+      "eng": "Few as skilled, none as loyal.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_ziran_name",
+      "eng": "Lyonar Zir'an Sunforge",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_ziran_desc",
+      "eng": "The Cub of the Sunforge family.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_magmar_crest_name",
+      "eng": "Magmar Crest",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_magmar_crest_desc",
+      "eng": "'Nature will balance the scales.'",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_dreadnought_name",
+      "eng": "Dreadnought",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_dreadnought_desc",
+      "eng": "No conflict, no growth.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_elucidator_name",
+      "eng": "Elucidator",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_elucidator_desc",
+      "eng": "Their birthing is an explosive event.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_makantor_name",
+      "eng": "Makantor Warbeast",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_makantor_desc",
+      "eng": "The envy of any natural earthquake.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_phalanxar_name",
+      "eng": "Phalanxar",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_phalanxar_desc",
+      "eng": "'I'd hate to be the nail to that hammer.'",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_silithar_elder_name",
+      "eng": "Silithar Elder",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_silithar_elder_desc",
+      "eng": "Carrying untold generations with each new birth.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_starhorn_1_name",
+      "eng": "Starhorn the Seeker",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_starhorn_1_desc",
+      "eng": "'There can only One.'",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_starhorn_2_name",
+      "eng": "Starhorn the Seeker",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_starhorn_2_desc",
+      "eng": "The Seventh Star foretold by the prophecy.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_taygete_name",
+      "eng": "Earth Sister",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_taygete_desc",
+      "eng": "The Wish of Integrity.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_vaath_name",
+      "eng": "Vaath the Immortal",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_vaath_desc",
+      "eng": "Tamer of the wild Makantor beasts.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_vaath_mk2_name",
+      "eng": "Vaath the Immortal II",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_vaath_mk2_desc",
+      "eng": "Creator of the first Kolossi.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_veteran_silithar_name",
+      "eng": "Veteran Silithar",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "icon_veteran_silithar_desc",
+      "eng": "Fearless of death.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    }
+  ]
+}

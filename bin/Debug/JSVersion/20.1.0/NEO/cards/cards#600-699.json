@@ -183,7 +183,7 @@
     {
       "code": "d2_neutral_white_widow_desc",
       "eng": "When you replace a card, deal 2 damage split randomly among enemies.",
-      "chi": "每当你替换一张牌时，在所有敌人中随机分配2点伤害。",
+      "chi": "每当你替换一张牌时，在所有敌方单位中随机分配2点伤害。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -414,7 +414,7 @@
     {
       "code": "d2_neutral_bonereaper_desc",
       "eng": "Provoke\nAt the end of your turn, deal 2 damage to nearby enemy minions.",
-      "chi": "嘲讽\n在你的回合结束时，对相邻的敌方随从造成2点伤害。",
+      "chi": "嘲讽\n在你的回合结束时，对此随从相邻的敌方随从造成2点伤害。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },

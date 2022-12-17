@@ -22,9 +22,9 @@
     {
       "code": "d2_faction_3_unit_dunecaster_desc",
       "eng": "Opening Gambit: Give another Dervish +2/+2 and \"This does not disappear at the end of your turn\".",
-      "chi": "",
+      "chi": "登场：使一个友方苦行僧获得 +2/+2 和在你的回合结束时不会消散。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_3_unit_ethereal_obelysk_name",
@@ -36,9 +36,9 @@
     {
       "code": "d2_faction_3_unit_ethereal_obelysk_desc",
       "eng": "Gateway",
-      "chi": "",
+      "chi": "通道",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_3_unit_pyromancer_name",
@@ -64,9 +64,9 @@
     {
       "code": "d2_faction_3_unit_fireblaze_obelysk_desc",
       "eng": "Gateway\nAllied Dervishes have +1/+0.",
-      "chi": "",
+      "chi": "通道\n友方苦行僧获得 +1/+0 。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_3_unit_imperial_mechanyst_name",
@@ -78,9 +78,9 @@
     {
       "code": "d2_faction_3_unit_imperial_mechanyst_desc",
       "eng": "Opening Gambit: Restore your artifacts to full durability.",
-      "chi": "",
+      "chi": "登场：将你的将领装备的神器修复所有耐久。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_3_unit_orb_weaver_name",
@@ -92,9 +92,9 @@
     {
       "code": "d2_faction_3_unit_orb_weaver_desc",
       "eng": "Opening Gambit: Summon an exact copy of this nearby.",
-      "chi": "",
+      "chi": "登场：在相邻位置召唤一个此随从的复制。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_3_unit_portal_guardian_name",
@@ -106,9 +106,9 @@
     {
       "code": "d2_faction_3_unit_portal_guardian_desc",
       "eng": "Frenzy\nWhen you summon a minion, this gains +1/+0.",
-      "chi": "",
+      "chi": "狂暴\n每当你召唤一个随从，此随从获得+1/+0。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_3_unit_sand_howler_name",
@@ -120,9 +120,9 @@
     {
       "code": "d2_faction_3_unit_sand_howler_desc",
       "eng": "Nearby enemies have -1/-0.",
-      "chi": "",
+      "chi": "相邻的敌方单位具有 -1/-0 。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_3_unit_windstorm_obelysk_name",
@@ -134,9 +134,9 @@
     {
       "code": "d2_faction_3_unit_windstorm_obelysk_desc",
       "eng": "Gateway\nAllied Dervishes can move an additional space.",
-      "chi": "",
+      "chi": "通道\n友方苦行僧可以额外移动一格。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_3_unit_mirage_master_name",
@@ -148,9 +148,9 @@
     {
       "code": "d2_faction_3_unit_mirage_master_desc",
       "eng": "Opening Gambit: This transforms into an exact copy of another minion.",
-      "chi": "",
+      "chi": "登场：将此生物变形为一个其他随从的复制。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_3_unit_wind_shrike_name",
@@ -162,9 +162,9 @@
     {
       "code": "d2_faction_3_unit_wind_shrike_desc",
       "eng": "Flying\nDying Wish: Equip a Staff Of Y'Kir to your General.",
-      "chi": "",
+      "chi": "飞行\n死愿：为你的将领装备一个约基尔的权杖。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_3_unit_starfire_scarab_name",
@@ -190,9 +190,9 @@
     {
       "code": "d2_faction_3_unit_aymara_healer_desc",
       "eng": "Provoke\nDying Wish: Deal 5 damage to the enemy General and heal your General for 5.",
-      "chi": "",
+      "chi": "嘲讽\n死愿：对敌方将领造成5点伤害。为你的将领治疗5点生命。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_3_unit_oserix_name",
@@ -204,9 +204,9 @@
     {
       "code": "d2_faction_3_unit_oserix_desc",
       "eng": "Blast\nYour General deals double damage.",
-      "chi": "",
+      "chi": "轰炮\n你的将领造成的伤害翻倍。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_3_unit_dervish_name",
@@ -218,9 +218,9 @@
     {
       "code": "d2_faction_3_unit_dervish_desc",
       "eng": "Rush\nAt the end of your turn, this disappears.",
-      "chi": "",
+      "chi": "冲锋\n在你的回合结束时，此随从消散。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_3_unit_iron_dervish_name",
@@ -239,9 +239,9 @@
     {
       "code": "d2_faction_4_spell_wraithling_fury_description",
       "eng": "Give a Wraithling +4/+4 and Flying.",
-      "chi": "",
+      "chi": "使一个幽冥小鬼获得+4/+4。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_4_spell_daemonic_lure_name",
@@ -253,9 +253,9 @@
     {
       "code": "d2_faction_4_spell_daemonic_lure_description",
       "eng": "Deal 1 damage to an enemy minion and teleport it to any space.",
-      "chi": "",
+      "chi": "对一个敌方随从造成1点伤害并将其传送到任意位置。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_4_spell_nether_summoning_name",
@@ -267,9 +267,9 @@
     {
       "code": "d2_faction_4_spell_nether_summoning_description",
       "eng": "Summon non-token minions that were destroyed this turn on random spaces nearby your General.",
-      "chi": "",
+      "chi": "在你的将领相邻位置召唤这个回合被摧毁的不是衍生物的随从。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_4_spell_shadow_nova_name",
@@ -281,9 +281,9 @@
     {
       "code": "d2_faction_4_spell_shadow_nova_description",
       "eng": "Create Shadow Creep tiles on a 2x2 area.",
-      "chi": "",
+      "chi": "将目标2x2区域变为地刺。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_4_spell_void_pulse_name",
@@ -295,9 +295,9 @@
     {
       "code": "d2_faction_4_spell_void_pulse_description",
       "eng": "Deal 2 damage to enemy General and heal your General for 3.",
-      "chi": "",
+      "chi": "对目标敌方将领造成2点伤害。为你的将领治疗3点生命。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_4_spell_deathfire_crescendo_name",
@@ -309,9 +309,9 @@
     {
       "code": "d2_faction_4_spell_deathfire_crescendo_description",
       "eng": "Give a minion \"Deathwatch: This gains +2/+2\".",
-      "chi": "",
+      "chi": "使一个随从获得\"割魂：此随从获得+2/+2\"。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_4_spell_breath_of_the_unborn_name",
@@ -323,9 +323,9 @@
     {
       "code": "d2_faction_4_spell_breath_of_the_unborn_description",
       "eng": "Deal 2 damage to enemy minions and fully heal allied minions.",
-      "chi": "",
+      "chi": "对所有敌方随从造成2点伤害。治愈所有友方随从。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_4_spell_rite_of_the_undervault_name",
@@ -337,9 +337,9 @@
     {
       "code": "d2_faction_4_spell_rite_of_the_undervault_description",
       "eng": "Draw until you have 6 cards in your action bar.",
-      "chi": "",
+      "chi": "将你的准备栏抽满。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_4_spell_darkfire_sacrifice_name",
@@ -351,9 +351,9 @@
     {
       "code": "d2_faction_4_spell_darkfire_sacrifice_description",
       "eng": "Destroy an allied minion. The next minion you play costs 2 less.",
-      "chi": "",
+      "chi": "摧毁一个友方随从，你使用的下一个随从费用减少2点。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_4_spell_ritual_banishing_name",
@@ -365,23 +365,23 @@
     {
       "code": "d2_faction_4_spell_ritual_banishing_description",
       "eng": "Destroy an allied minion. Destroy an enemy minion.",
-      "chi": "",
+      "chi": "摧毁一个友方随从，然后摧毁一个敌方随从。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_4_spell_dark_transformation_name",
       "eng": "Dark Terminus",
-      "chi": "",
+      "chi": "暗黑转变",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_4_spell_dark_transformation_description",
       "eng": "Destroy a minion and summon a Wraithling on that space.",
-      "chi": "",
+      "chi": "摧毁目标敌方随从并在其所在位置召唤一个幽冥小鬼。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_4_spell_dark_seed_name",
@@ -393,9 +393,9 @@
     {
       "code": "d2_faction_4_spell_dark_seed_description",
       "eng": "Deal damage to the enemy General equal to the number of cards in the opponent's action bar.",
-      "chi": "",
+      "chi": "你的对手每有一张手牌就对敌方将领造成1点伤害。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_4_spell_grasp_of_agony_name",
@@ -407,9 +407,9 @@
     {
       "code": "d2_faction_4_spell_grasp_of_agony_description",
       "eng": "Give a minion \"Dying Wish: Deal 3 damage to nearby allies\".",
-      "chi": "",
+      "chi": "使一个随从获得\"死愿：对此随从相邻的友方单位造成3点伤害\"。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_4_spell_shadow_reflection_name",
@@ -421,9 +421,9 @@
     {
       "code": "d2_faction_4_spell_shadow_reflection_description",
       "eng": "Give a minion +5/+0.",
-      "chi": "",
+      "chi": "使一个随从获得 +5/+0 。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_4_spell_soulshatter_pact_name",
@@ -435,9 +435,9 @@
     {
       "code": "d2_faction_4_spell_soulshatter_pact_description",
       "eng": "Give allied minions +2/+0 until your next turn.",
-      "chi": "",
+      "chi": "使所有友方随从获得 +2/+0 直到你的下个回合开始。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_4_spell_wraithling_swarm_name",
@@ -449,9 +449,9 @@
     {
       "code": "d2_faction_4_spell_wraithling_swarm_description",
       "eng": "Summon three joined Wraithlings.",
-      "chi": "",
+      "chi": "召唤3个相邻的幽冥小鬼。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_4_spell_consuming_rebirth_name",
@@ -463,23 +463,23 @@
     {
       "code": "d2_faction_4_spell_consuming_rebirth_description",
       "eng": "Destroy an allied minion. At the end of your turn, summon a copy of it on that space and give it +1/+1.",
-      "chi": "",
+      "chi": "摧毁目标友方随从，在你的回合结束时在相同位置重新召唤它的复制并使其获得+1/+1。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_4_artifact_soul_grimwar_name",
       "eng": "Soul Grimoire",
-      "chi": "",
+      "chi": "聚魂宝典",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_4_artifact_soul_grimwar_description",
       "eng": "Your General has an additional +2/+0 for each unit that is destroyed.",
-      "chi": "",
+      "chi": "你的将领具有\"割魂：具有+2/+0\"。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_4_artifact_horn_of_the_forsaken_name",
@@ -491,9 +491,9 @@
     {
       "code": "d2_faction_4_artifact_horn_of_the_forsaken_description",
       "eng": "When your General deals damage, summon a Wraithling on a random space nearby them.",
-      "chi": "",
+      "chi": "每当你的将领造成伤害时，在受到伤害的目标的相邻随机位置召唤一个幽冥小鬼。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_4_artifact_spectral_blade_name",
@@ -505,9 +505,9 @@
     {
       "code": "d2_faction_4_artifact_spectral_blade_description",
       "eng": "Your General has +2/+0.\nWhen your General destroys a minion, heal your General for 2.",
-      "chi": "",
+      "chi": "你的将领具有 +2/+0。\n每当你的将领摧毁一个随从时，为你的将领治疗2点生命。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_4_unit_cassyva_name",
@@ -561,9 +561,9 @@
     {
       "code": "d2_faction_4_unit_abyssal_crawler_desc",
       "eng": "Dying Wish: Create a Shadow Creep tile on this space.",
-      "chi": "",
+      "chi": "死愿：所在位置变为地刺。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_4_unit_blood_siren_name",
@@ -575,9 +575,9 @@
     {
       "code": "d2_faction_4_unit_blood_siren_desc",
       "eng": "Opening Gambit: Set the enemy General's Attack to 0 this turn.",
-      "chi": "",
+      "chi": "登场：使一个敌方将领攻击变为0直到回合结束。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_4_unit_darkspine_elemental_name",
@@ -589,9 +589,9 @@
     {
       "code": "d2_faction_4_unit_darkspine_elemental_desc",
       "eng": "This has +2/+2 for each of your Shadow Creep tiles.",
-      "chi": "",
+      "chi": "每有一个友方地刺，此随从就具有 +2/+2。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_4_unit_gloomchaser_name",
@@ -603,9 +603,9 @@
     {
       "code": "d2_faction_4_unit_gloomchaser_desc",
       "eng": "Opening Gambit: Summon a Wraithling on a random nearby space.",
-      "chi": "",
+      "chi": "登场：在相邻随机位置召唤一个幽冥小鬼。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_4_unit_nightsorrow_assassin_name",
@@ -617,9 +617,9 @@
     {
       "code": "d2_faction_4_unit_nightsorrow_assassin_desc",
       "eng": "Opening Gambit: Destroy a nearby minion with 3 or less Attack.",
-      "chi": "",
+      "chi": "登场：摧毁一个相邻的攻击小于等于3的敌方随从。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_4_unit_shadow_watcher_name",
@@ -631,9 +631,9 @@
     {
       "code": "d2_faction_4_unit_shadow_watcher_desc",
       "eng": "Deathwatch: This gains +1/+1.",
-      "chi": "",
+      "chi": "割魂：此随从获得+1/+1。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_4_unit_abyssal_juggernaut_name",
@@ -645,37 +645,37 @@
     {
       "code": "d2_faction_4_unit_abyssal_juggernaut_desc",
       "eng": "When this damages an enemy minion, create a Shadow Creep tile on that space.",
-      "chi": "",
+      "chi": "每当此随从对一个敌方随从造成伤害时，该随从所在位置变为地刺。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_4_unit_bloodmoon_priestess_name",
       "eng": "Bloodmoon Priestess",
-      "chi": "",
+      "chi": "血月女祭司",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_4_unit_bloodmoon_priestess_desc",
       "eng": "Deathwatch: Summon a Wraithling on a random nearby space.",
-      "chi": "",
+      "chi": "割魂：在此随从随机相邻位置召唤一个幽冥小鬼。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_4_unit_deepfire_devourer_name",
       "eng": "Aphotic Devourer",
-      "chi": "",
+      "chi": "深渊吞噬兽",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_4_unit_deepfire_devourer_desc",
       "eng": "Opening Gambit: Destroy nearby allied minions and summon Wraithlings on those spaces. This gains +2/+2 for each destroyed.",
-      "chi": "",
+      "chi": "登场：摧毁所有与此随从相邻的友方随从并在其所在位置召唤幽冥小鬼，每摧毁一个此随从就获得+2/+2。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_4_unit_black_solus_name",
@@ -687,9 +687,9 @@
     {
       "code": "d2_faction_4_unit_black_solus_desc",
       "eng": "After you summon a Wraithling, this gains +2/+2.",
-      "chi": "",
+      "chi": "每当你召唤一个幽冥小鬼时，此随从获得+2/+0。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_faction_4_unit_reaper_of_the_nine_moons_name",
@@ -701,9 +701,9 @@
     {
       "code": "d2_faction_4_unit_reaper_of_the_nine_moons_desc",
       "eng": "Flying\nDying Wish: Teleport the enemy General to this space.",
-      "chi": "",
+      "chi": "飞行\n死愿：将敌方将领传送到所在位置。",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     }
   ]
 }

@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.01",
+  "nodeCode": "cards",
+  "path": "cards",
+  "orderStart": 1400,
+  "orderEnd": 1499,
+  "translateItemList": [
+    {
+      "code": "faction_4_unit_blood_siren_desc",
+      "eng": "Opening Gambit: Give a nearby enemy -2 attack this turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_darkspine_elemental_name",
+      "eng": "Darkspine Elemental",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_darkspine_elemental_desc",
+      "eng": "Double the damage dealt by friendly Shadow Creep.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_gloomchaser_name",
+      "eng": "Gloomchaser",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_gloomchaser_desc",
+      "eng": "Opening Gambit: Summon a 1/1 Wraithling in a random nearby space.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_nightsorrow_assassin_name",
+      "eng": "Nightsorrow Assassin",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_nightsorrow_assassin_desc",
+      "eng": "Opening Gambit: Destroy a nearby enemy minion with 2 or less attack.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_shadow_watcher_name",
+      "eng": "Shadow Watcher",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_shadow_watcher_desc",
+      "eng": "Deathwatch: Gains +1/+1.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_abyssal_juggernaut_name",
+      "eng": "Abyssal Juggernaut",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_abyssal_juggernaut_desc",
+      "eng": "This minion has +1/+1 for each friendly Shadow Creep.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_bloodmoon_priestess_name",
+      "eng": "Bloodtide Priestess",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_bloodmoon_priestess_desc",
+      "eng": "Deathwatch: Summon a Wraithling on a random nearby space.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_deepfire_devourer_name",
+      "eng": "Deepfire Devourer",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_deepfire_devourer_desc",
+      "eng": "Frenzy\nOpening Gambit: Destroy friendly minions around it and gain +2/+2 for each minion.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_black_solus_name",
+      "eng": "Black Solus",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_black_solus_desc",
+      "eng": "When you summon a Wraithling, this minion gains +2 Attack.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_reaper_of_the_nine_moons_name",
+      "eng": "Reaper of the Nine Moons",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_reaper_of_the_nine_moons_desc",
+      "eng": "Flying\nDying Wish: Summon a random minion from the opponent's deck on this space.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_shadowdancer_name",
+      "eng": "Shadowdancer",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_shadowdancer_desc",
+      "eng": "Deathwatch: Deal 1 damage to the enemy General, and restore 1 Health to your General.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_vorpal_reaver_name",
+      "eng": "Vorpal Reaver",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_vorpal_reaver_desc",
+      "eng": "Celerity\nDying Wish: Summon six Wraithlings on random spaces.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_spectral_revenant_name",
+      "eng": "Spectral Revenant",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_spectral_revenant_desc",
+      "eng": "Rush\nWhenever this damages an enemy minion, deal 4 damage to the enemy General.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_wraithling_name",
+      "eng": "Wraithling",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_night_fiend_name",
+      "eng": "Night Fiend",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_night_fiend_desc",
+      "eng": "Opening Gambit: Deal 2 damage to each enemy on or near friendly Shadow Creep.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_gor_name",
+      "eng": "Gor",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_gor_desc",
+      "eng": "Dying Wish: Re-summon this minion in a random corner.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_ooz_name",
+      "eng": "Ooz",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_ooz_desc",
+      "eng": "Whenever this minion takes damage, turn a space occupied by an enemy into Shadow Creep.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_blood_baronette_name",
+      "eng": "Blood Baronette",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_blood_baronette_desc",
+      "eng": "Opening Gambit: Double a nearby Wraithling's Attack and Health.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_arcane_devourer_name",
+      "eng": "Arcane Devourer",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_arcane_devourer_desc",
+      "eng": "Opening Gambit: The next minion you summon this turn costs 1.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_klaxon_name",
+      "eng": "Klaxon",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_klaxon_desc",
+      "eng": "Provoke\nDying Wish: Turn six random spaces into Shadow Creep.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_shadow_sister_name",
+      "eng": "Shadow Sister Kelaino",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_shadow_sister_desc",
+      "eng": "Whenever an enemy takes damage, restore 1 Health to your General.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_furosa_name",
+      "eng": "Furiosa",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_furosa_desc",
+      "eng": "Blood Surge: Friendly Wraithlings gain +1/+1.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_horror_burster_name",
+      "eng": "Horror Burster",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_horror_burster_desc",
+      "eng": "Dying Wish: Transform a random friendly minion into a 6/6 Horror.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_grandmaster_variax_name",
+      "eng": "Grandmaster Variax",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_grandmaster_variax_desc",
+      "eng": "Opening Gambit: Your Bloodbound Spell costs 3 and is now AWESOME.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_fiend_name",
+      "eng": "Fiend",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_horror_name",
+      "eng": "Horror",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_nightshroud_name",
+      "eng": "Nightshroud",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_nightshroud_desc",
+      "eng": "Bond: Your General steals 1 Health from the enemy General for each other friendly Arcanyst.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_nocturne_name",
+      "eng": "Nocturne",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_nocturne_desc",
+      "eng": "Whenever you make Shadow Creep or a Wraithling, instead make both.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_death_knell_name",
+      "eng": "Death Knell",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_death_knell_desc",
+      "eng": "Opening Gambit: Summon all friendly non-token Arcanysts destroyed this game nearby.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_phantasm_name",
+      "eng": "Phantasm",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_phantasm_desc",
+      "eng": "Whenever your opponent summons a minion, give a minion in your action bar +1 Attack.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_bound_tormentor_name",
+      "eng": "Bound Tormentor",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_bound_tormentor_desc",
+      "eng": "Sentinel: Minion summoned.\nPut a copy of the minion that transformed this into your action bar. It costs 2 less.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_skullprophet_name",
+      "eng": "Skullprophet",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_skullprophet_desc",
+      "eng": "Sentinel: General attacks.\nThe enemy General has -1 Attack.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_xerroloth_name",
+      "eng": "Xerroloth",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_xerroloth_desc",
+      "eng": "Sentinel: Spell cast.\nWhenever your opponent casts a spell, put a 4/4 Fiend into your action bar.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_nekomata_name",
+      "eng": "Nekomata",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_nekomata_desc",
+      "eng": "Dying Wish: Draw two minions with Dying Wish from your deck.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_desolator_name",
+      "eng": "Desolator",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_desolator_desc",
+      "eng": "Opening Gambit: Steal 2 Health from the enemy General.\nDying Wish: Return Desolator to your action bar.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_watchful_sentinel_name",
+      "eng": "Watchful Sentinel",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_watchful_sentinel_desc",
+      "eng": "Sentinel: This transforms into a powerful minion if its hidden condition is met.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_husk_name",
+      "eng": "Husk",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_abomination_name",
+      "eng": "Abomination",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_cacophynos_name",
+      "eng": "Cacophynos",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_cacophynos_desc",
+      "eng": "Dying Wish: Destroy a random nearby enemy minion.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_void_talon_name",
+      "eng": "Void Talon",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_void_talon_desc",
+      "eng": "Build: (1).",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_nightmare_operant_name",
+      "eng": "Nightmare Operant",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_nightmare_operant_desc",
+      "eng": "Dying Wish: Shuffle a MECHAZ0R into your deck.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_moonrider_name",
+      "eng": "Moonrider",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_moonrider_desc",
+      "eng": "Blood Surge: Summon a 4/4 Fiend on a nearby space.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_gate_to_the_undervault_name",
+      "eng": "Gate to the Undervault",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_gate_to_the_undervault_desc",
+      "eng": "Build: (3).\nInvulnerable\nDeathwatch: Summon a random Demon nearby.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_stygian_observer_name",
+      "eng": "Stygian Observer",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_unit_stygian_observer_desc",
+      "eng": "Deathwatch: Give minions in your action bar +2/+2.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_overload_name",
+      "eng": "Overload",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_overload_description",
+      "eng": "Give your General +1 Attack.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_seeking_eye_name",
+      "eng": "Seeking Eye",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_seeking_eye_description",
+      "eng": "Both players draw a card.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_fractal_replication_name",
+      "eng": "Fractal Replication",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_fractal_replication_description",
+      "eng": "Summon two copies of a friendly minion nearby that minion.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_dampening_wave_name",
+      "eng": "Dampening Wave",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_dampening_wave_description",
+      "eng": "Choose an enemy minion. It can no longer counterattack.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_flash_reincarnation_name",
+      "eng": "Flash Reincarnation",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_flash_reincarnation_description",
+      "eng": "If the next card you play this turn is a minion, it costs 2 less and takes 2 damage.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_diretide_frenzy_name",
+      "eng": "Diretide Frenzy",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_diretide_frenzy_description",
+      "eng": "Give a friendly minion +1 Attack and Frenzy.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_tremor_name",
+      "eng": "Tremor",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_tremor_description",
+      "eng": "Stun enemy minions in a 2x2 area.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_dance_of_dreams_name",
+      "eng": "Dance of Dreams",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_dance_of_dreams_description",
+      "eng": "Whenever a friendly minion dies this turn, draw a card.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_greater_fortitude_name",
+      "eng": "Greater Fortitude",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_greater_fortitude_description",
+      "eng": "Give a friendly minion +2/+2.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    }
+  ]
+}

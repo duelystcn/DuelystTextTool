@@ -1,0 +1,443 @@
+{
+  "versionCode": "20.1.01",
+  "nodeCode": "challenges",
+  "path": "challenges",
+  "orderStart": 200,
+  "orderEnd": 261,
+  "translateItemList": [
+    {
+      "code": "beginner_vanar_2_fail",
+      "eng": "Hint: It often takes two attacks to take out a Shieldmaster!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vanar_2_taunt",
+      "eng": "Feel your life end as the snow melts!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vanar_3_title",
+      "eng": "Vanar: Final Whispers",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vanar_3_description",
+      "eng": "Use the Mana tile to destroy the enemy General in one turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vanar_3_start",
+      "eng": "Use the Mana tile to destroy the enemy General in one turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vanar_3_fail",
+      "eng": "Use the Mana tile to destroy the enemy General in one turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vanar_3_taunt",
+      "eng": "Feel your life end as the snow melts!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vanar_4_title",
+      "eng": "Vanar: Approaching Cold",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vanar_4_description",
+      "eng": "Use Rush to destroy the enemy General in one turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vanar_4_start",
+      "eng": "Use Rush to destroy the enemy General in one turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vanar_4_fail",
+      "eng": "Use Rush to destroy the enemy General in one turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vanar_4_taunt",
+      "eng": "Perish and melt like snow!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vanar_5_title",
+      "eng": "Vanar: Behind Enemy Lines",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vanar_5_description",
+      "eng": "Use Infiltrate and Celerity to destroy the enemy General in one turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vanar_5_start",
+      "eng": "Use Infiltrate and Celerity to destroy the enemy General in one turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vanar_5_fail",
+      "eng": "Use Infiltrate and Celerity to destroy the enemy General in one turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vanar_5_taunt",
+      "eng": "Perish and melt like snow!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_vetruvian_1_title",
+      "eng": "Vetruvian: Patience",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_vetruvian_1_description",
+      "eng": "Defeat the Abyssian General in ONE turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_vetruvian_1_start",
+      "eng": "Finish off the Abyssian General in ONE turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_vetruvian_1_fail",
+      "eng": "Hint: Take control of the Mana Forger and consider your draws carefully.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_vetruvian_1_taunt",
+      "eng": "Burn in fire!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_vetruvian_2_title",
+      "eng": "Vetruvian: Precision Strike",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_vetruvian_2_description",
+      "eng": "Test your skills and destroy the enemy General in one turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_vetruvian_2_start",
+      "eng": "Test your skills and destroy the enemy General in one turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_vetruvian_2_fail",
+      "eng": "Test your skills and destroy the enemy General in one turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_vetruvian_2_taunt",
+      "eng": "Feel the grasp of death!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vetruvian_1_title",
+      "eng": "Vetruvian: Ready for a Blast",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vetruvian_1_description",
+      "eng": "Use Blast to destroy the enemy General in one turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vetruvian_1_start",
+      "eng": "Use Blast to destroy the enemy General in one turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vetruvian_1_fail",
+      "eng": "Use Blast to destroy the enemy General in one turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vetruvian_1_taunt",
+      "eng": "Burn in fire!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vetruvian_2_title",
+      "eng": "Vetruvian: Relics Reclaimed",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vetruvian_2_description",
+      "eng": "Defeat the Songhai General in ONE turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vetruvian_2_start",
+      "eng": "Finish off the Songhai General in ONE turn!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vetruvian_2_fail",
+      "eng": "Hint: The Windshrike must fall to claim its reward.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vetruvian_2_taunt",
+      "eng": "Burn in fire!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vetruvian_3_title",
+      "eng": "Vetruvian: Call to Action",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vetruvian_3_description",
+      "eng": "Use OPENING GAMBIT to defeat the Abyssian General in ONE turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vetruvian_3_start",
+      "eng": "Finish off the Abyssian General in ONE turn!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vetruvian_3_fail",
+      "eng": "Hint: Use your Opening Gambits to Dispel the shadows.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vetruvian_3_taunt",
+      "eng": "Consumed in darkfire!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vetruvian_4_title",
+      "eng": "Vetruvian: Leave No Trace",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vetruvian_4_description",
+      "eng": "Power up and strike to destroy the enemy General in one turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vetruvian_4_start",
+      "eng": "Power up and strike to destroy the enemy General in one turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vetruvian_4_fail",
+      "eng": "Power up and strike to destroy the enemy General in one turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vetruvian_4_taunt",
+      "eng": "Your time is over!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vetruvian_5_title",
+      "eng": "Vetruvian: Ties that Bind",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vetruvian_5_description",
+      "eng": "Use an Opening Gambit and Dispel to destroy the enemy General in one turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vetruvian_5_start",
+      "eng": "Use an Opening Gambit and Dispel to destroy the enemy General in one turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vetruvian_5_fail",
+      "eng": "Use an Opening Gambit and Dispel to destroy the enemy General in one turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vetruvian_5_taunt",
+      "eng": "Your time is over!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "medium_vetruvian_1_title",
+      "eng": "Vetruvian: Knowledge of the Scions",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "medium_vetruvian_1_description",
+      "eng": "Defeat the Abyssian General in ONE turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "medium_vetruvian_1_start",
+      "eng": "Finish off the Abyssian General in ONE turn!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "medium_vetruvian_1_fail",
+      "eng": "Hint: Make space for Dervishes.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "medium_vetruvian_1_taunt",
+      "eng": "Burn in fire!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "medium_vetruvian_2_title",
+      "eng": "Vetruvian: Sabotage",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "medium_vetruvian_2_description",
+      "eng": "Test your skills and destroy the enemy General in one turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "medium_vetruvian_2_start",
+      "eng": "Test your skills and destroy the enemy General in one turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "medium_vetruvian_2_fail",
+      "eng": "Test your skills and destroy the enemy General in one turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "medium_vetruvian_2_taunt",
+      "eng": "Burn in fire!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    }
+  ]
+}

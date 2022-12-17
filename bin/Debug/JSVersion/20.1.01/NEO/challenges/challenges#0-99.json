@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.01",
+  "nodeCode": "challenges",
+  "path": "challenges",
+  "orderStart": 0,
+  "orderEnd": 99,
+  "translateItemList": [
+    {
+      "code": "challenge_label",
+      "eng": "Challenge",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "challenge_label_plural",
+      "eng": "Challenges",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "retry_challenge_title",
+      "eng": "Replay Challenge",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "retry_challenge_button_label",
+      "eng": "Try Again!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "daily_challenge_label",
+      "eng": "Daily Challenge",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "daily_challenge_desc",
+      "eng": "Defeat the {{faction}} General in ONE turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "challenge_p1_label",
+      "eng": "You",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "challenge_p2_label",
+      "eng": "Opponent",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "challenge_label_start",
+      "eng": "Start!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "challenge_locked_label",
+      "eng": "Attempt previous challenge to unlock.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "challenge_gate_0_title",
+      "eng": "0: Training",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "challenge_gate_0_desc",
+      "eng": "Learn the basics of DUELYST II.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "challenge_gate_1_title",
+      "eng": "1: The Elemental Secrets",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "challenge_gate_1_desc",
+      "eng": "Learn mechanics and earn rewards by enjoying these solo challenges. Difficulty: Beginner",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "challenge_gate_2_title",
+      "eng": "2: The Realm of Dreams",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "challenge_gate_2_desc",
+      "eng": "New solo challenges and rewards! Difficulty: Intermediate",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "challenge_gate_3_title",
+      "eng": "3: Trials of the Seven Stars",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "challenge_gate_3_desc",
+      "eng": "Embark on more exciting solo challenges! Difficulty: Intermediate",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "challenge_gate_4_title",
+      "eng": "4: The Vault of Generations",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "challenge_gate_4_desc",
+      "eng": "Another set of fun solo challenges! Difficulty: Advanced",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "challenge_gate_5_title",
+      "eng": "5: The Adeptus Gate",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "challenge_gate_5_desc",
+      "eng": "You've earned it! Now for some tougher challenges. Difficulty: Advanced",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "challenge_gate_6_title",
+      "eng": "6: Trials of the Seven Stars",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "challenge_gate_6_desc",
+      "eng": "Experience the first Trial of Champions. Difficulty: Hard",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "challenge_gate_7_title",
+      "eng": "7: The Adeptus Gate",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "challenge_gate_7_desc",
+      "eng": "To acquire knowledge, one must study; but to acquire wisdom, one must observe. Difficulty: Hard",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "challenge_gate_8_title",
+      "eng": "8: Sacred Path to Aperion",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "challenge_gate_8_desc",
+      "eng": "The voyage of discovery is not in seeking new landscapes but in having new eyes. Difficulty: Hard",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "challenge_gate_9_title",
+      "eng": "9: The Tacticians' Contest",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "challenge_gate_9_desc",
+      "eng": "Created for the community, by the community. Difficulty: Expert",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "challenge_gate_10_title",
+      "eng": "10: The Contest of Grandmasters",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "challenge_gate_10_desc",
+      "eng": "Extremely challenging. Good luck. Difficulty: Insane",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_flying_challenge_title",
+      "eng": "Lyonar: Earn your Wings",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_flying_challenge_description",
+      "eng": "Use Flying to destroy the enemy General in one turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_flying_challenge_start",
+      "eng": "Use Flying to destroy the enemy General in one turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_flying_challenge_fail",
+      "eng": "Use Flying to destroy the enemy General in one turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_flying_challenge_taunt",
+      "eng": "You still have much to learn!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_ranged_challenge_title",
+      "eng": "Lyonar: Dead Center",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_ranged_challenge_description",
+      "eng": "Defeat the Vanar General in ONE turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_ranged_challenge_start",
+      "eng": "Finish off Vanar General in ONE turn!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_ranged_challenge_fail",
+      "eng": "Hint: Stop the Windstopper.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_ranged_challenge_taunt",
+      "eng": "Frost will conquer!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_abyss_1_title",
+      "eng": "Abyssian: Malediction",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_abyss_1_description",
+      "eng": "Test your skills and destroy the enemy General in one turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_abyss_1_start",
+      "eng": "Test your skills and destroy the enemy General in one turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_abyss_1_fail",
+      "eng": "Test your skills and destroy the enemy General in one turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_abyss_1_taunt",
+      "eng": "Feel the heat of life!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_abyss_1_title",
+      "eng": "Abyssian: Shadow Ritual",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_abyss_1_description",
+      "eng": "Use Deathwatch to destroy the enemy General in one turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_abyss_1_start",
+      "eng": "Use Deathwatch to destroy the enemy General in one turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_abyss_1_fail",
+      "eng": "Use Deathwatch to destroy the enemy General in one turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_abyss_1_taunt",
+      "eng": "Burn in fire and sand!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_abyss_2_title",
+      "eng": "Abyssian: Engulf the Flame",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_abyss_2_description",
+      "eng": "Defeat the Songhai General in ONE turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_abyss_2_start",
+      "eng": "Finish off Kaleos Xaan in ONE turn!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_abyss_2_fail",
+      "eng": "Hint: Wraithlings make great sacrifices.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_abyss_2_taunt",
+      "eng": "Feel the heat of life!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_abyss_3_title",
+      "eng": "Abyssian: Power Overwhelming",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_abyss_3_description",
+      "eng": "Use Dying Wish to destroy the enemy General in one turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_abyss_3_start",
+      "eng": "Use Dying Wish to destroy the enemy General in one turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_abyss_3_fail",
+      "eng": "Use Dying Wish to destroy the enemy General in one turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_abyss_3_taunt",
+      "eng": "Feel the heat of life!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_abyss_4_title",
+      "eng": "Abyssian: Frenzied Swarm",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_abyss_4_description",
+      "eng": "Use Frenzy to destroy the enemy General in one turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_abyss_4_start",
+      "eng": "Use Frenzy to destroy the enemy General in one turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_abyss_4_fail",
+      "eng": "Use Frenzy to destroy the enemy General in one turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_abyss_4_taunt",
+      "eng": "Perish in blood and sand!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_abyss_5_title",
+      "eng": "Abyssian: A Force to Fear",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_abyss_5_description",
+      "eng": "Test your skills and destroy the enemy General in one turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_abyss_5_start",
+      "eng": "Test your skills and destroy the enemy General in one turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_abyss_5_fail",
+      "eng": "Test your skills and destroy the enemy General in one turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_abyss_5_taunt",
+      "eng": "Perish in blood and sand!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_abyss_6_title",
+      "eng": "Abyssian: Alluring Demise",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_abyss_6_description",
+      "eng": "Use ENEMY DISPLACEMENT to defeat the Vetruvian General in ONE turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_abyss_6_start",
+      "eng": "Finish off the Vetruvian General in ONE turn!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_abyss_6_fail",
+      "eng": "Nothing is beyond our Grasp. Bring forth that Komodo so that I may strike it down and spread its pain among our enemies.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_abyss_6_taunt",
+      "eng": "Perish in blood and sand!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "medium_abyss_1_title",
+      "eng": "Abyssian: Shadows of Light",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "medium_abyss_1_description",
+      "eng": "Defeat the Lyonar General in ONE turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "medium_abyss_1_start",
+      "eng": "Finish off Argeon Highmayne in ONE turn!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "medium_abyss_1_fail",
+      "eng": "Hint: Destroy the Sunstone Templar with your general.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "medium_abyss_1_taunt",
+      "eng": "Feel the heat of life!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_lyonar_1_title",
+      "eng": "Lyonar: Rightful Heir",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_lyonar_1_description",
+      "eng": "Test your skills and destroy the enemy General in one turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_lyonar_1_start",
+      "eng": "Finish off the Lyonar General in ONE turn!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_lyonar_1_fail",
+      "eng": "Test your skills and destroy the enemy General in one turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_lyonar_1_taunt",
+      "eng": "Blaze and burn!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_lyonar_2_title",
+      "eng": "Lyonar: Inspiring Presence",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_lyonar_2_description",
+      "eng": "Use ZEAL to march across the map and bring down the enemy General.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_lyonar_2_start",
+      "eng": "Finish off the enemy General in ONE turn!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_lyonar_2_fail",
+      "eng": "Hint: Call back the Guardian to aid in your assault.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "advanced_lyonar_2_taunt",
+      "eng": "Blaze and burn!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_lyonar_1_title",
+      "eng": "Lyonar: Swiftness of Movement",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_lyonar_1_description",
+      "eng": "Use CELERITY to defeat Calibero in ONE turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_lyonar_1_start",
+      "eng": "Finish off Calibero in ONE turn!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_lyonar_1_fail",
+      "eng": "Hint: Clear a path for your Azurite Lion.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_lyonar_1_taunt",
+      "eng": "Burn in fire and sand!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_lyonar_2_title",
+      "eng": "Lyonar: Divine Zeal",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_lyonar_2_description",
+      "eng": "Use Zeal to destroy the enemy General in one turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_lyonar_2_start",
+      "eng": "Use Zeal to destroy the enemy General in one turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    }
+  ]
+}

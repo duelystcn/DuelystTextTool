@@ -8,16 +8,16 @@
     {
       "code": "menu_item_play",
       "eng": "Play",
-      "chi": "",
+      "chi": "战斗",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "menu_item_watch",
       "eng": "Watch",
-      "chi": "",
+      "chi": "观看",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "menu_item_watch_tooltip",
@@ -64,9 +64,9 @@
     {
       "code": "menu_item_codex",
       "eng": "Codex",
-      "chi": "",
+      "chi": "典籍",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "menu_item_codex_tooltip",
@@ -92,9 +92,9 @@
     {
       "code": "menu_item_shop",
       "eng": "Shop",
-      "chi": "",
+      "chi": "商店",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "menu_item_profile",
@@ -183,9 +183,9 @@
     {
       "code": "play_mode_gauntlet_name",
       "eng": "The Gauntlet",
-      "chi": "",
+      "chi": "竞技场",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "play_mode_gauntlet_description",
@@ -267,9 +267,9 @@
     {
       "code": "deck_select_play_ranked_button_label",
       "eng": "Play",
-      "chi": "",
+      "chi": "战斗",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "deck_select_play_unranked_button_label",

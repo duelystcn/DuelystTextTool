@@ -260,7 +260,7 @@
     {
       "code": "d2_faction_6_unit_hearth_sister_name",
       "eng": "Hearth-Sister",
-      "chi": "炉石姐妹",
+      "chi": "炉石修女",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -666,7 +666,7 @@
     {
       "code": "d2_neutral_bluetip_scorpion_desc",
       "eng": "This deals double damage to minions.",
-      "chi": "此随从对其他随从造成的伤害翻倍。",
+      "chi": "此随从对随从造成的伤害翻倍。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },

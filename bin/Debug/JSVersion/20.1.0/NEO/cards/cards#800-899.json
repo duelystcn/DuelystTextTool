@@ -645,7 +645,7 @@
     {
       "code": "faction_1_unit_vigilator_desc",
       "eng": "Build: (1).\nWhen this minion is built, give nearby friendly minions +3 Health.",
-      "chi": "生产(1)\n当此随从被产出时，使相邻的友方随从获得 +3/+0。",
+      "chi": "生产(1)\n当此随从被产出时，使相邻的友方随从获得 +0/+3。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },

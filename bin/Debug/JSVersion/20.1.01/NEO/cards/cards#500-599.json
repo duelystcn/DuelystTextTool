@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.01",
+  "nodeCode": "cards",
+  "path": "cards",
+  "orderStart": 500,
+  "orderEnd": 599,
+  "translateItemList": [
+    {
+      "code": "d2_neutral_ghost_lynx_desc",
+      "eng": "Opening Gambit: Teleport a nearby minion to a random space.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_golem_metallurgist_name",
+      "eng": "Golem Metallurgist",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_golem_metallurgist_desc",
+      "eng": "Your Golems cost 1 less to play.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_healing_mystic_name",
+      "eng": "Healing Mystic",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_healing_mystic_desc",
+      "eng": "Opening Gambit: Heal another unit for 2.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_jaxi_name",
+      "eng": "Jaxi",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_jaxi_desc",
+      "eng": "Dying Wish: Summon a Mini-Jax on this space.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_manaforger_name",
+      "eng": "Manaforger",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_manaforger_desc",
+      "eng": "Your spells cost 1 less to play.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_maw_name",
+      "eng": "Maw",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_maw_desc",
+      "eng": "Opening Gambit: Deal 2 damage to a nearby ally. This gains +2/+0.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_piercing_mantis_name",
+      "eng": "Piercing Mantis",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_piercing_mantis_desc",
+      "eng": "Frenzy",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_primus_fist_name",
+      "eng": "Primus Fist",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_primus_fist_desc",
+      "eng": "Opening Gambit: Give nearby allied minions +1/+0.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_rock_pulverizer_name",
+      "eng": "Rock Pulverizer",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_rock_pulverizer_desc",
+      "eng": "Provoke",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_rust_crawler_name",
+      "eng": "Rust Crawler",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_rust_crawler_desc",
+      "eng": "Opening Gambit: Destroy a random artifact equipped to the enemy General.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_skyrock_golem_name",
+      "eng": "Skyrock Golem",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_vale_hunter_name",
+      "eng": "Vale Hunter",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_vale_hunter_desc",
+      "eng": "Ranged",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_wings_of_mechaz0r_name",
+      "eng": "Wings of MECHAZ0R",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_wings_of_mechaz0r_desc",
+      "eng": "Airdrop\nDying Wish: Progress your Mechaz0r build by 20%.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_alucin_loremaster_name",
+      "eng": "Alcuin Loremaster",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_alcuin_loremaster_desc",
+      "eng": "Opening Gambit: Put a copy of the most recently played spell into your action bar.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_blaze_hound_name",
+      "eng": "Blaze Hound",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_blaze_hound_desc",
+      "eng": "This card costs 1 less to play if the enemy General took damage this turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_bloodshard_golem_name",
+      "eng": "Bloodshard Golem",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_cannon_of_mechaz0r_name",
+      "eng": "Cannon of MECHAZ0R",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_cannon_of_mechaz0r_desc",
+      "eng": "Ranged\nDying Wish: Progress your Mechaz0r build by 20%.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_chaos_elemental_name",
+      "eng": "Chaos Elemental",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_chaos_elemental_desc",
+      "eng": "When this survives damage, it teleports to a random space.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_crimson_oculus_name",
+      "eng": "Crimson Oculus",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_crimson_oculus_desc",
+      "eng": "When your opponent summons a minion, this gains +1/+1.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_crossbones_name",
+      "eng": "Crossbones",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_crossbones_desc",
+      "eng": "Dying Wish: The next card your opponent plays costs 1 more.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_golem_vanquisher_name",
+      "eng": "Golem Vanguard",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_golem_vanquisher_desc",
+      "eng": "Provoke\nOther allied Golems have Provoke.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_lady_locke_name",
+      "eng": "Lady Locke",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_lady_locke_desc",
+      "eng": "Provoke\nOpening Gambit: Give other minions you summon this turn +1/+1 and Provoke.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_mirkblood_devourer_name",
+      "eng": "Mirkblood Devourer",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_mirkblood_devourer_desc",
+      "eng": "Give allied minions summoned nearby this +1/+1.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_mogwai_name",
+      "eng": "Mogwai",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_mogwai_desc",
+      "eng": "Opening Gambit: This gains Attack equal to the highest Attack among allies.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_mogwai_modifier_name",
+      "eng": "React Andy",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_prismatic_illusionist_name",
+      "eng": "Prismatic Illusionist",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_prismatic_illusionist_desc",
+      "eng": "When you play a spell, summon an Illusion on a random nearby space.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_illusion_name",
+      "eng": "Illusion",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_putrid_dreadflayer_name",
+      "eng": "Putrid Dreadflayer",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_putrid_dreadflayer_desc",
+      "eng": "Flying\nDying Wish: Deal 1 damage to nearby enemies.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_repulsor_beast_name",
+      "eng": "Repulsor Beast",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_repulsor_beast_desc",
+      "eng": "Opening Gambit: Teleport a nearby enemy minion to any space.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_saberspine_tiger_name",
+      "eng": "Saberspine Tiger",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_saberspine_tiger_desc",
+      "eng": "Rush",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_sand_burrower_name",
+      "eng": "Sand Burrower",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_sand_burrower_desc",
+      "eng": "This cannot be attacked while at full Health.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_sarlac_the_eternal_name",
+      "eng": "Sarlac the Eternal",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_sarlac_the_eternal_desc",
+      "eng": "Dying Wish: Summon a copy of this on a random space.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_silvertongue_corsair_name",
+      "eng": "Silvertongue Corsair",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_silvertongue_corsair_desc",
+      "eng": "When this damages the enemy General, shuffle a card from your opponent's deck into yours for each damage it dealt.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_sojourner_name",
+      "eng": "Sojourner",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_sojourner_desc",
+      "eng": "Opening Gambit: Put a random card into your action bar.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_songweaver_name",
+      "eng": "Songweaver",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_songweaver_desc",
+      "eng": "After you play a minion, spell, and artifact in the same turn, draw 3 cards.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_spelljammer_name",
+      "eng": "Spelljammer",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_spelljammer_desc",
+      "eng": "Players draw 1 fewer card at the end of their turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_sun_seer_name",
+      "eng": "Sun Seer",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_sun_seer_desc",
+      "eng": "When this deals damage, heal your General for the amount dealt.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_sword_of_mechaz0r_name",
+      "eng": "Sword of MECHAZ0R",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_sword_of_mechaz0r_desc",
+      "eng": "Frenzy\nDying Wish: Progress your Mechaz0r build by 20%.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_sworn_avenger_name",
+      "eng": "Sworn Avenger",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_sworn_avenger_desc",
+      "eng": "Ranged\nWhen your General takes damage, this gains +1/+0.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_syvrel_the_exile_name",
+      "eng": "Syvrel the Exile",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_syvrel_the_exile_desc",
+      "eng": "Ranged\nWhen this damages an enemy minion, teleport that minion to the space in front of this.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_venom_toth_name",
+      "eng": "Venom Toth",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_venom_toth_desc",
+      "eng": "When your opponent summons a minion, deal 1 damage to the enemy General.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_void_hunter_name",
+      "eng": "Void Hunter",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_void_hunter_desc",
+      "eng": "Dying Wish: Draw 2 cards.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_wind_runner_name",
+      "eng": "Wind Runner",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_wind_runner_desc",
+      "eng": "After this moves, give nearby allied minions +1/+1.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_wind_stopper_name",
+      "eng": "Shield Oracle",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_wind_stopper_desc",
+      "eng": "When the ally in front of this would take damage, this takes that damage instead.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_wings_of_paradise_name",
+      "eng": "Wings of Paradise",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_wings_of_paradise_desc",
+      "eng": "Flying\nWhen you replace a card, this gains +2/+0 this turn.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_artifact_hunter_name",
+      "eng": "Artifact Hunter",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_artifact_hunter_desc",
+      "eng": "Opening Gambit: Draw an artifact.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_black_locust_name",
+      "eng": "Black Locust",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_black_locust_desc",
+      "eng": "Flying\nAt the end of your turn, summon a copy of this on a random nearby space.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_captain_hank_hart_name",
+      "eng": "Captain Hank Hart",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_captain_hank_hart_desc",
+      "eng": "Ranged\nWhen this deals damage, it heals for the amount dealt.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_chassis_of_mechaz0r_name",
+      "eng": "Chassis of MECHAZ0R",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_chassis_of_mechaz0r_desc",
+      "eng": "Veil\nDying Wish: Progress your Mechaz0r build by 20%.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_decimus_name",
+      "eng": "Decimus",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_decimus_desc",
+      "eng": "Whenever your opponent draws a card, deal 2 damage to the enemy General.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_dioltas_name",
+      "eng": "Dioltas",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_dioltas_desc",
+      "eng": "Dying Wish: Summon a Tombstone on a random space nearby your General.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_emerald_rejuvinator_name",
+      "eng": "Emerald Rejuvenator",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_emerald_rejuvinator_desc",
+      "eng": "Opening Gambit: Heal your General for 4.",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_fire_spitter_name",
+      "eng": "Fire Spitter",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    }
+  ]
+}

@@ -57,9 +57,9 @@
     {
       "code": "default_confirm_dialog_button_cancel_label",
       "eng": "Cancel",
-      "chi": "",
+      "chi": "取消",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "start_error_message_generic_please_retry",
@@ -78,9 +78,9 @@
     {
       "code": "generic_complete_message",
       "eng": "Complete",
-      "chi": "",
+      "chi": "完成",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "search_input_label",
@@ -92,9 +92,9 @@
     {
       "code": "help_button_label",
       "eng": "Help",
-      "chi": "",
+      "chi": "帮助",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "next_button_label",
@@ -134,9 +134,9 @@
     {
       "code": "confirm_button_label",
       "eng": "Confirm",
-      "chi": "",
+      "chi": "确认",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "esc_menu_more_settings_label",
@@ -148,16 +148,16 @@
     {
       "code": "esc_menu_logout_label",
       "eng": "Logout",
-      "chi": "",
+      "chi": "登出",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "esc_menu_quit_label",
       "eng": "Quit",
-      "chi": "",
+      "chi": "离开",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "acknowledge_dismiss_button_label",

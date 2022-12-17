@@ -8,37 +8,37 @@
     {
       "code": "email_input_label",
       "eng": "Email or Username",
-      "chi": "",
+      "chi": "邮箱或用户名",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "password_input_label",
       "eng": "Password",
-      "chi": "",
+      "chi": "密码",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "login_button_label",
       "eng": "Login",
-      "chi": "",
+      "chi": "登录",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "forgot_password_button_label",
       "eng": "Forgot Password?",
-      "chi": "",
+      "chi": "忘记密码？",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "help_label",
       "eng": "Help?",
-      "chi": "",
+      "chi": "帮助？",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "create_account_button_label",
@@ -134,30 +134,30 @@
     {
       "code": "log_in_label",
       "eng": "Log In",
-      "chi": "",
+      "chi": "登录",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "log_in_label_emphasized",
       "eng": "LOG IN",
-      "chi": "",
+      "chi": "登录",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "sign_up_label",
       "eng": "Sign Up",
-      "chi": "",
+      "chi": "注册",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "sign_up_label_emphasized",
       "eng": "SIGN UP",
-      "chi": "",
+      "chi": "注册",
       "originVersionCode": "20.1.0",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "remember_email",

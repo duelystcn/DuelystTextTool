@@ -1,0 +1,58 @@
+{
+  "versionCode": "20.1.01",
+  "nodeCode": "watch",
+  "path": "watch",
+  "orderStart": 0,
+  "orderEnd": 6,
+  "translateItemList": [
+    {
+      "code": "live_streams_label",
+      "eng": "Live Streams",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "replays_label",
+      "eng": "Replays",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "empty_division_replays_message",
+      "eng": "No games to watch in this division yet. Check back soon!",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "watch_on_twitch_message",
+      "eng": "Watch on Twitch",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "stream_live_message",
+      "eng": "LIVE",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "stream_offline_message",
+      "eng": "OFFLINE",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    },
+    {
+      "code": "opens_in_browser_tooltip",
+      "eng": "Opens in Browser",
+      "chi": "",
+      "originVersionCode": "20.1.01",
+      "translateState": 0
+    }
+  ]
+}
