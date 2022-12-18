@@ -141,9 +141,9 @@
     {
       "code": "emote_argeon_love_desc",
       "eng": "Sharing the love!",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "分享爱！",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "emote_kaleos_love_name",
@@ -197,9 +197,9 @@
     {
       "code": "emote_vaath_love_desc",
       "eng": "Sharing the love!",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "分享爱！",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "emote_faie_love_name",
@@ -211,9 +211,9 @@
     {
       "code": "emote_faie_love_desc",
       "eng": "Wink wink!",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "Wink wink!",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "emote_faie_kiss_name",
@@ -225,9 +225,9 @@
     {
       "code": "emote_faie_kiss_desc",
       "eng": "Sharing the love!",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "分享爱！",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "emote_ziran_wink_name",
@@ -239,9 +239,9 @@
     {
       "code": "emote_ziran_wink_desc",
       "eng": "Wink wink!",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "Wink wink!",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "emote_ziran_angry_name",
@@ -323,9 +323,9 @@
     {
       "code": "emote_ziran_bow_desc",
       "eng": "Namaste.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "合十礼",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "emote_ziran_sleep_name",
@@ -393,9 +393,9 @@
     {
       "code": "emote_brome_wink_desc",
       "eng": "Wink",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "Wink",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "emote_brome_angry_name",
@@ -407,9 +407,9 @@
     {
       "code": "emote_brome_angry_desc",
       "eng": "Angry",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "生气",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "emote_brome_confused_name",
@@ -421,9 +421,9 @@
     {
       "code": "emote_brome_confused_desc",
       "eng": "Confused",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "困惑",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "emote_brome_crying_name",
@@ -449,9 +449,9 @@
     {
       "code": "emote_brome_frustrated_desc",
       "eng": "Frustrated",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "沮丧",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "emote_brome_surprised_name",
@@ -463,9 +463,9 @@
     {
       "code": "emote_brome_surprised_desc",
       "eng": "Surprised",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "惊讶",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "emote_brome_bow_name",
@@ -477,9 +477,9 @@
     {
       "code": "emote_brome_bow_desc",
       "eng": "Bow",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "鞠躬",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "emote_brome_sleep_name",
@@ -491,9 +491,9 @@
     {
       "code": "emote_brome_sleep_desc",
       "eng": "Sleep",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "困乏",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "emote_brome_sunglasses_name",
@@ -505,9 +505,9 @@
     {
       "code": "emote_brome_sunglasses_desc",
       "eng": "Sunglasses",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "太阳镜",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "emote_brome_happy_name",
@@ -519,9 +519,9 @@
     {
       "code": "emote_brome_happy_desc",
       "eng": "Happy",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "开心",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "emote_brome_love_name",
@@ -533,9 +533,9 @@
     {
       "code": "emote_brome_love_desc",
       "eng": "Kiss",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "吻",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "emote_reva_wink_name",
@@ -701,9 +701,9 @@
     {
       "code": "emote_shidai_wink_desc",
       "eng": "Wink",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "Wink",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     }
   ]
 }

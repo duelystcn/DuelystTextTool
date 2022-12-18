@@ -29,16 +29,16 @@
     {
       "code": "beginner_vanar_3_description",
       "eng": "Use the Mana tile to destroy the enemy General in one turn.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "在一个回合内击败Abyssian将领。Defeat the Abyssian General in ONE turn.",
+      "originVersionCode": "20.1.0",
+      "translateState": 3
     },
     {
       "code": "beginner_vanar_3_start",
       "eng": "Use the Mana tile to destroy the enemy General in one turn.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "一个回合内终结枯萎牧者莉莉丝！Finish off Lilithe Blightchaser in ONE turn!",
+      "originVersionCode": "20.1.0",
+      "translateState": 3
     },
     {
       "code": "beginner_vanar_3_fail",
@@ -106,9 +106,9 @@
     {
       "code": "beginner_vanar_5_start",
       "eng": "Use Infiltrate and Celerity to destroy the enemy General in one turn.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "一个回合内终结Songhai将领！Finish off the Songhai General in ONE turn!",
+      "originVersionCode": "20.1.0",
+      "translateState": 3
     },
     {
       "code": "beginner_vanar_5_fail",
@@ -134,9 +134,9 @@
     {
       "code": "advanced_vetruvian_1_description",
       "eng": "Defeat the Abyssian General in ONE turn.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "在一个回合内击败Abyssian将领。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "advanced_vetruvian_1_start",
@@ -155,9 +155,9 @@
     {
       "code": "advanced_vetruvian_1_taunt",
       "eng": "Burn in fire!",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "烧成灰烬！",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "advanced_vetruvian_2_title",
@@ -211,9 +211,9 @@
     {
       "code": "beginner_vetruvian_1_start",
       "eng": "Use Blast to destroy the enemy General in one turn.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "一个回合内终结枯萎牧者莉莉丝！Finish off Lilithe Blightchaser in ONE turn!",
+      "originVersionCode": "20.1.0",
+      "translateState": 3
     },
     {
       "code": "beginner_vetruvian_1_fail",
@@ -225,9 +225,9 @@
     {
       "code": "beginner_vetruvian_1_taunt",
       "eng": "Burn in fire!",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "烧成灰烬！",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "beginner_vetruvian_2_title",
@@ -239,16 +239,16 @@
     {
       "code": "beginner_vetruvian_2_description",
       "eng": "Defeat the Songhai General in ONE turn.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "在一个回合内击败Songhai将领。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "beginner_vetruvian_2_start",
       "eng": "Finish off the Songhai General in ONE turn!",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "一个回合内终结Songhai将领！",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "beginner_vetruvian_2_fail",
@@ -260,9 +260,9 @@
     {
       "code": "beginner_vetruvian_2_taunt",
       "eng": "Burn in fire!",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "烧成灰烬！",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "beginner_vetruvian_3_title",
@@ -281,9 +281,9 @@
     {
       "code": "beginner_vetruvian_3_start",
       "eng": "Finish off the Abyssian General in ONE turn!",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "一个回合内终结Abyssian将领！",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "beginner_vetruvian_3_fail",
@@ -379,16 +379,16 @@
     {
       "code": "medium_vetruvian_1_description",
       "eng": "Defeat the Abyssian General in ONE turn.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "在一个回合内击败Abyssian将领。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "medium_vetruvian_1_start",
       "eng": "Finish off the Abyssian General in ONE turn!",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "一个回合内终结Abyssian将领！",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "medium_vetruvian_1_fail",
@@ -400,9 +400,9 @@
     {
       "code": "medium_vetruvian_1_taunt",
       "eng": "Burn in fire!",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "烧成灰烬！",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "medium_vetruvian_2_title",
@@ -435,9 +435,9 @@
     {
       "code": "medium_vetruvian_2_taunt",
       "eng": "Burn in fire!",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "烧成灰烬！",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     }
   ]
 }

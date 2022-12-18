@@ -91,6 +91,15 @@ namespace DuelystText
                     {
                         ShowNodeItemButtonClickNoParent(versionItem);
                     }
+                    if (btnCell.ColumnIndex == 2)
+                    {
+                        versionItem.ExportChiJson();
+                    }
+                    if (btnCell.ColumnIndex == 3)
+                    {
+                        VersionItem versionItemTarget = ToolDataManger.Instance.versionDic["20.1.0"];
+                        versionItem.ReferenceByTargetVersion(versionItemTarget);
+                    }
                     if (btnCell.ColumnIndex == 4)
                     {
                         versionItem.CreateDuplicateTextFileAndExport();

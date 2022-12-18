@@ -8,37 +8,37 @@
     {
       "code": "rarity_basic",
       "eng": "Basic",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "基础",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "rarity_common",
       "eng": "Common",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "普通",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "rarity_rare",
       "eng": "Rare",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "稀有",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "rarity_epic",
       "eng": "Epic",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "史诗",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "rarity_legendary",
       "eng": "Legendary",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "传奇",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     }
   ]
 }

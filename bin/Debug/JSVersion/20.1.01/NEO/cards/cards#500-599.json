@@ -8,702 +8,702 @@
     {
       "code": "d2_neutral_ghost_lynx_desc",
       "eng": "Opening Gambit: Teleport a nearby minion to a random space.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "登场：将一个相邻随从传送到随机位置。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_golem_metallurgist_name",
       "eng": "Golem Metallurgist",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "冶金魔像",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_golem_metallurgist_desc",
       "eng": "Your Golems cost 1 less to play.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "你的魔像减少1点费用来使用。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_healing_mystic_name",
       "eng": "Healing Mystic",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "愈伤秘法师",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_healing_mystic_desc",
       "eng": "Opening Gambit: Heal another unit for 2.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "登场：治疗目标其他单位2点生命。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_jaxi_name",
       "eng": "Jaxi",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "杰西",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_jaxi_desc",
       "eng": "Dying Wish: Summon a Mini-Jax on this space.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "死愿：所在位置召唤一个小杰斯(1/1 远程)。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_manaforger_name",
       "eng": "Manaforger",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "魔能伪造师",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_manaforger_desc",
       "eng": "Your spells cost 1 less to play.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "你的法术减少一点费用来使用。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_maw_name",
       "eng": "Maw",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "尖齿鳄",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_maw_desc",
       "eng": "Opening Gambit: Deal 2 damage to a nearby ally. This gains +2/+0.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "登场：对相邻的友方单位造成2点伤害，此随从获得 +2/+0。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_piercing_mantis_name",
       "eng": "Piercing Mantis",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "穿刺螳螂",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_piercing_mantis_desc",
       "eng": "Frenzy",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "狂暴",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_primus_fist_name",
       "eng": "Primus Fist",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "至高拳师",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_primus_fist_desc",
       "eng": "Opening Gambit: Give nearby allied minions +1/+0.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "登场：使所有的相邻己方随从获得+1/+0。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_rock_pulverizer_name",
       "eng": "Rock Pulverizer",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "穿山甲",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_rock_pulverizer_desc",
       "eng": "Provoke",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "嘲讽",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_rust_crawler_name",
       "eng": "Rust Crawler",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "酸浆蠕虫",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_rust_crawler_desc",
       "eng": "Opening Gambit: Destroy a random artifact equipped to the enemy General.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "登场：随机摧毁敌方将领装备的一个神器。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_skyrock_golem_name",
       "eng": "Skyrock Golem",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "天空石魔像",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_vale_hunter_name",
       "eng": "Vale Hunter",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "溪谷猎手",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_vale_hunter_desc",
       "eng": "Ranged",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "远程",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_wings_of_mechaz0r_name",
       "eng": "Wings of MECHAZ0R",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "原型机的推进器",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_wings_of_mechaz0r_desc",
       "eng": "Airdrop\nDying Wish: Progress your Mechaz0r build by 20%.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "空降\n死愿：使你的决战兵器组装进度提高20%。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_alucin_loremaster_name",
       "eng": "Alcuin Loremaster",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "博学者 阿尔古因",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_alcuin_loremaster_desc",
       "eng": "Opening Gambit: Put a copy of the most recently played spell into your action bar.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "登场：复制上一张被使用的法术并置入你的准备栏。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_blaze_hound_name",
       "eng": "Blaze Hound",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "喷焰猎犬",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_blaze_hound_desc",
       "eng": "This card costs 1 less to play if the enemy General took damage this turn.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "如果这回合敌方将领受到过伤害，此随从使用时减少一点费用。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_bloodshard_golem_name",
       "eng": "Bloodshard Golem",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "血晶石魔像",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_cannon_of_mechaz0r_name",
       "eng": "Cannon of MECHAZ0R",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "原型机的粒子炮",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_cannon_of_mechaz0r_desc",
       "eng": "Ranged\nDying Wish: Progress your Mechaz0r build by 20%.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "远程\n死愿：使你的决战兵器组装进度提高20%。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_chaos_elemental_name",
       "eng": "Chaos Elemental",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "混沌元素",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_chaos_elemental_desc",
       "eng": "When this survives damage, it teleports to a random space.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "每当此随从受到伤害，将其传送到随机位置。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_crimson_oculus_name",
       "eng": "Crimson Oculus",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "猩红魔瞳",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_crimson_oculus_desc",
       "eng": "When your opponent summons a minion, this gains +1/+1.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "每当你的对手召唤一个随从时，使此随从获得 +1/+1。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_crossbones_name",
       "eng": "Crossbones",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "愤怒的骷髅",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_crossbones_desc",
       "eng": "Dying Wish: The next card your opponent plays costs 1 more.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "死愿：你对手使用的下一张牌费用增加一点。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_golem_vanquisher_name",
       "eng": "Golem Vanguard",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "先驱魔像",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_golem_vanquisher_desc",
       "eng": "Provoke\nOther allied Golems have Provoke.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "嘲讽\n登场：所有友方魔像具有嘲讽。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_lady_locke_name",
       "eng": "Lady Locke",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "链锁女士",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_lady_locke_desc",
       "eng": "Provoke\nOpening Gambit: Give other minions you summon this turn +1/+1 and Provoke.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "嘲讽\n登场：在这之后，本回合你召唤的其他随从获得 +1/+1 和嘲讽。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_mirkblood_devourer_name",
       "eng": "Mirkblood Devourer",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "混血吞噬兽",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_mirkblood_devourer_desc",
       "eng": "Give allied minions summoned nearby this +1/+1.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "召唤在此随从相邻位置的友方随从获得 +1/+1。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_mogwai_name",
       "eng": "Mogwai",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "魔怪",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_mogwai_desc",
       "eng": "Opening Gambit: This gains Attack equal to the highest Attack among allies.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "登场：时此随从获得 +X/+0，X为友方单位中最高的攻击力。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_mogwai_modifier_name",
       "eng": "React Andy",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "安迪反应",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_prismatic_illusionist_name",
       "eng": "Prismatic Illusionist",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "棱镜魔术师",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_prismatic_illusionist_desc",
       "eng": "When you play a spell, summon an Illusion on a random nearby space.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "每当你使用法术时，在此随从随机相邻位置召唤一个幻象(2/1)。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_illusion_name",
       "eng": "Illusion",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "幻象",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_putrid_dreadflayer_name",
       "eng": "Putrid Dreadflayer",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "腐败水母",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_putrid_dreadflayer_desc",
       "eng": "Flying\nDying Wish: Deal 1 damage to nearby enemies.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "飞行\n死愿：对相邻的敌人造成1点伤害。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_repulsor_beast_name",
       "eng": "Repulsor Beast",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "炉犬",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_repulsor_beast_desc",
       "eng": "Opening Gambit: Teleport a nearby enemy minion to any space.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "登场：将一个相邻的敌方随从传送至任意位置。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_saberspine_tiger_name",
       "eng": "Saberspine Tiger",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "剑脊虎",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_saberspine_tiger_desc",
       "eng": "Rush",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "冲锋",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_sand_burrower_name",
       "eng": "Sand Burrower",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "掘沙虫",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_sand_burrower_desc",
       "eng": "This cannot be attacked while at full Health.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "此随从满血时不能被攻击。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_sarlac_the_eternal_name",
       "eng": "Sarlac the Eternal",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "永恒的沙拉克",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_sarlac_the_eternal_desc",
       "eng": "Dying Wish: Summon a copy of this on a random space.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "死愿：在随机位置召唤一个此随从的复制。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_silvertongue_corsair_name",
       "eng": "Silvertongue Corsair",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "巧辩海盗",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_silvertongue_corsair_desc",
       "eng": "When this damages the enemy General, shuffle a card from your opponent's deck into yours for each damage it dealt.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "每当此随从对敌方将领造成伤害时，每造成一点就将对手牌库的一张牌洗入你的牌库。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_sojourner_name",
       "eng": "Sojourner",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "漂泊客",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_sojourner_desc",
       "eng": "Opening Gambit: Put a random card into your action bar.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "登场：将一张随机的牌放入你的准备栏。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_songweaver_name",
       "eng": "Songweaver",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "谱曲家",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_songweaver_desc",
       "eng": "After you play a minion, spell, and artifact in the same turn, draw 3 cards.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "当你这回合使用了一张随从，一张法术，一张神器后，抽三张牌。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_spelljammer_name",
       "eng": "Spelljammer",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "扰咒师",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_spelljammer_desc",
       "eng": "Players draw 1 fewer card at the end of their turn.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "每个玩家在回合结束时少抽一张牌。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_sun_seer_name",
       "eng": "Sun Seer",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "太阳先知",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_sun_seer_desc",
       "eng": "When this deals damage, heal your General for the amount dealt.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "每当此随从造成伤害时，为你的将领治疗等同伤害的生命。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_sword_of_mechaz0r_name",
       "eng": "Sword of MECHAZ0R",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "原型机的光剑",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_sword_of_mechaz0r_desc",
       "eng": "Frenzy\nDying Wish: Progress your Mechaz0r build by 20%.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "狂暴\n死愿：使你的决战兵器组装进度提高20%。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_sworn_avenger_name",
       "eng": "Sworn Avenger",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "誓言复仇者",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_sworn_avenger_desc",
       "eng": "Ranged\nWhen your General takes damage, this gains +1/+0.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "远程\n每当你的将领受到伤害，此随从获得 +1/+0。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_syvrel_the_exile_name",
       "eng": "Syvrel the Exile",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "流放者 西弗尔",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_syvrel_the_exile_desc",
       "eng": "Ranged\nWhen this damages an enemy minion, teleport that minion to the space in front of this.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "远程\n每当此随从对一个敌方随从造成伤害时，将其传送到此随从正前方。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_venom_toth_name",
       "eng": "Venom Toth",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "毒牙",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_venom_toth_desc",
       "eng": "When your opponent summons a minion, deal 1 damage to the enemy General.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "每当你的对手召唤一个随从，对敌方将领造成1点伤害。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_void_hunter_name",
       "eng": "Void Hunter",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "虚空猎手",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_void_hunter_desc",
       "eng": "Dying Wish: Draw 2 cards.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "死愿：抽两张牌。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_wind_runner_name",
       "eng": "Wind Runner",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "追风者",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_wind_runner_desc",
       "eng": "After this moves, give nearby allied minions +1/+1.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "当此随从移动后，使相邻的友方随从获得+1/+1。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_wind_stopper_name",
       "eng": "Shield Oracle",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "铭文盾卫",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_wind_stopper_desc",
       "eng": "When the ally in front of this would take damage, this takes that damage instead.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "每当此随从正前方的友方单位受到伤害时，改为由此随从承担。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_wings_of_paradise_name",
       "eng": "Wings of Paradise",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "天堂鸟",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_wings_of_paradise_desc",
       "eng": "Flying\nWhen you replace a card, this gains +2/+0 this turn.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "飞行\n每当你替换一张牌时，此随从获得+2/+0直到回合结束。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_artifact_hunter_name",
       "eng": "Artifact Hunter",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "神器猎手",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_artifact_hunter_desc",
       "eng": "Opening Gambit: Draw an artifact.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "登场：抽取一张神器。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_black_locust_name",
       "eng": "Black Locust",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "黑蝗",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_black_locust_desc",
       "eng": "Flying\nAt the end of your turn, summon a copy of this on a random nearby space.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "飞行\n在你的回合结束时，在相邻位置召唤一个此随从的复制。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_captain_hank_hart_name",
       "eng": "Captain Hank Hart",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "汉克·哈特 上尉",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_captain_hank_hart_desc",
       "eng": "Ranged\nWhen this deals damage, it heals for the amount dealt.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "远程\n每当此随从造成伤害时，为此随从治疗等同于伤害的生命。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_chassis_of_mechaz0r_name",
       "eng": "Chassis of MECHAZ0R",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "原型机的骨架",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_chassis_of_mechaz0r_desc",
       "eng": "Veil\nDying Wish: Progress your Mechaz0r build by 20%.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "帷幕\n死愿：使你的决战兵器组装进度提高20%。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_decimus_name",
       "eng": "Decimus",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "德西谟斯",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_decimus_desc",
       "eng": "Whenever your opponent draws a card, deal 2 damage to the enemy General.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "每当你的对手抽一张牌时，对敌方将领造成2点伤害。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_dioltas_name",
       "eng": "Dioltas",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "迪奥塔斯",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_dioltas_desc",
       "eng": "Dying Wish: Summon a Tombstone on a random space nearby your General.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "死愿：在你的将领相邻的随机位置召唤一个墓碑(0/8 嘲讽)。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_emerald_rejuvinator_name",
       "eng": "Emerald Rejuvenator",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "翠盾医师",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_emerald_rejuvinator_desc",
       "eng": "Opening Gambit: Heal your General for 4.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "登场：为你的将领治疗4点生命。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "d2_neutral_fire_spitter_name",
       "eng": "Fire Spitter",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "火球射手",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     }
   ]
 }

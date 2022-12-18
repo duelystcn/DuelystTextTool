@@ -281,9 +281,9 @@
     {
       "code": "boss_25_taunt",
       "eng": "...",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "...",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "boss_26_taunt",

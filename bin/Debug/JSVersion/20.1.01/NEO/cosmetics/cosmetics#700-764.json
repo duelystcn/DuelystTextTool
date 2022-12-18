@@ -127,37 +127,37 @@
     {
       "code": "emote_frustrated_name",
       "eng": "Frustrated",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "沮丧",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "emote_confused_name",
       "eng": "Confused",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "困惑",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "emote_sad_name",
       "eng": "Sad",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "悲伤",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "emote_surprised_name",
       "eng": "Surprised",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "惊讶",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "emote_happy_name",
       "eng": "Happy",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "开心",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "emote_loving_name",
@@ -169,9 +169,9 @@
     {
       "code": "emote_angry_name",
       "eng": "Angry",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "生气",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "emote_anger",
@@ -400,9 +400,9 @@
     {
       "code": "battlemap_magmar_desc",
       "eng": "The Shim'zar Canopy is a lush jungle paradise where ancient trees tower overhead, their branches forming a natural arena. Featuring the battle music \"Grimrock\" by Archaeologist.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "......",
+      "originVersionCode": "20.1.0",
+      "translateState": 3
     },
     {
       "code": "battlemap_abyssian_name",
@@ -414,9 +414,9 @@
     {
       "code": "battlemap_abyssian_desc",
       "eng": "The Sharian Altar is a treacherous arena of molten lava and ash, where warriors battle amidst the fiery depths of a volcanic crater. Featuring the battle music \"Blood Echoes\" by Archaeologist.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "......",
+      "originVersionCode": "20.1.0",
+      "translateState": 3
     },
     {
       "code": "battlemap_redrock_name",
@@ -428,9 +428,9 @@
     {
       "code": "battlemap_redrock_desc",
       "eng": "The Red Rock is a majestic and treacherous peak, where warriors clash in brutal combat atop towering red mountains. Featuring the battle music \"Lightchaser\" by Archaeologist.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "......",
+      "originVersionCode": "20.1.0",
+      "translateState": 3
     },
     {
       "code": "battlemap_vanar_name",
@@ -442,9 +442,9 @@
     {
       "code": "battlemap_vanar_desc",
       "eng": "Only the bravest and most skilled warriors dare to enter the Frosthorn Summit, where victory can mean glory and defeat can mean a lonely death in the frozen wilderness. Featuring the battle music \"Frostburn\" by Archaeologist.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "......",
+      "originVersionCode": "20.1.0",
+      "translateState": 3
     },
     {
       "code": "cosmetic_crafting_error_msg",

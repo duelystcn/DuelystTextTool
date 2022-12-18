@@ -8,16 +8,16 @@
     {
       "code": "menu_item_play",
       "eng": "Play",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "战斗",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "menu_item_watch",
       "eng": "Watch",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "观看",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "menu_item_watch_tooltip",
@@ -29,9 +29,9 @@
     {
       "code": "menu_item_collection",
       "eng": "Collection",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "收藏",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "menu_item_collection_tooltip",
@@ -64,9 +64,9 @@
     {
       "code": "menu_item_codex",
       "eng": "Codex",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "典籍",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "menu_item_codex_tooltip",
@@ -78,16 +78,16 @@
     {
       "code": "menu_item_quests",
       "eng": "Quests",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "任务",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "menu_item_shop",
       "eng": "Shop",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "商店",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "menu_item_profile",
@@ -99,16 +99,16 @@
     {
       "code": "menu_item_buddy_list",
       "eng": "Friends",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "好友",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "menu_item_settings",
       "eng": "Settings",
       "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "gold_currency_indicator_tooptip",
@@ -176,9 +176,9 @@
     {
       "code": "play_mode_gauntlet_name",
       "eng": "The Gauntlet",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "竞技场",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "play_mode_gauntlet_description",
@@ -260,30 +260,30 @@
     {
       "code": "deck_select_play_ranked_button_label",
       "eng": "Play",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "战斗",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "deck_select_play_unranked_button_label",
       "eng": "Play Unranked",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "娱乐模式",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "deck_select_play_friendly_button_label",
       "eng": "Play Friendly",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "友情切磋",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "deck_select_play_practice_button_label",
       "eng": "Play Practice",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "练习模式",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "deck_select_empty_message",
@@ -317,8 +317,8 @@
       "code": "practice_mode_recommended_opponent",
       "eng": "",
       "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "booster_opening_open_all_orbs_button_label",

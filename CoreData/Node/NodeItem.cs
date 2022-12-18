@@ -1,6 +1,7 @@
 ﻿using DuelystText.Common.Log;
 using DuelystText.Common.Util;
 using DuelystText.CoreData.Export;
+using DuelystText.CoreData.Version;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using System;
@@ -313,5 +314,118 @@ namespace DuelystText.CoreData.Node
 
         }
 
+        //根据目标版本来生成这个版本的
+        public void ReferenceByTargetVersion(VersionItem targetVersion, string versionCode)
+        {
+            if(this.translateSaveItemList.Count > 0) 
+            {
+                NodeItem targetNode = targetVersion.GetTargetNodeByCodeAndPath(this.nodeCode, this.path);
+                if(targetNode != null) 
+                {
+                    Dictionary<string, TranslateItem> confirmTransItemDic = new Dictionary<string, TranslateItem>();
+                    foreach (TranslateSaveItem saveItem in targetNode.translateSaveItemList)
+                    {
+                        foreach (TranslateItem item in saveItem.translateItemList)
+                        {
+                            if (item.translateState == TranslateState.Confirm)
+                            {
+                                if (!confirmTransItemDic.ContainsKey(item.code))
+                                {
+                                    confirmTransItemDic.Add(item.code, item);
+                                }
+                            }
+                        }
+                    }
+                    foreach (TranslateSaveItem saveItem in this.translateSaveItemList)
+                    {
+                        bool hasChange = false;
+                        foreach (var item in saveItem.translateItemList)
+                        {
+                            if (item.translateState == TranslateState.UnStart)
+                            {
+                                if (confirmTransItemDic.ContainsKey(item.code))
+                                {
+                                    if(item.eng == confirmTransItemDic[item.code].eng) 
+                                    {
+                                        item.chi = confirmTransItemDic[item.code].chi;
+                                        item.translateState = TranslateState.Confirm;
+                                    }
+                                    else 
+                                    {
+                                        item.chi = confirmTransItemDic[item.code].chi + confirmTransItemDic[item.code].eng;
+                                        item.translateState = TranslateState.Difference;
+                                    }
+                                    item.originVersionCode = targetVersion.versionCode;
+                                    hasChange = true;
+                                }
+                            }
+                        }
+                        if (hasChange)
+                        {
+                            string direThisPath = this.path.Replace(".", "/");
+                            string intactPath = Application.StartupPath + "/JSVersion/" + versionCode + "/" + GlobalVariable.originNodeCode + "/" + direThisPath;
+                            Console.WriteLine("intactPath:" + intactPath);
+                            WriteTargetTranslateSaveItem(saveItem, intactPath, this.nodeCode);
+                        }
+                    }
+                }
+            }
+            foreach (var childNode in this.childNodeList)
+            {
+                childNode.ReferenceByTargetVersion(targetVersion, versionCode);
+            }
+
+        }
+
+        //根据code和path来获取指定node
+        public NodeItem GetTargetNodeByCodeAndPath(string nodeCodeTarget, string pathTarget)
+        {
+            if (this.nodeCode == nodeCodeTarget && this.path == pathTarget)
+            {
+                return this;
+            }
+            foreach (var childNode in this.childNodeList)
+            {
+                NodeItem returnNodeByChild = childNode.GetTargetNodeByCodeAndPath(nodeCodeTarget, pathTarget);
+                if(returnNodeByChild != null) 
+                {
+                    return returnNodeByChild;
+                }
+            }
+            return null;
+        }
+
+        public void ExportChiJson(Dictionary<string, Dictionary<string, string>> exportDic) 
+        {
+            if (this.translateSaveItemList.Count > 0) 
+            {
+                Dictionary<string, string> thisNodeTrans = new Dictionary<string, string>();
+                foreach (TranslateSaveItem saveItem in this.translateSaveItemList)
+                {
+                    foreach (TranslateItem item in saveItem.translateItemList)
+                    {
+                        if (item.translateState == TranslateState.Confirm)
+                        {
+                            if (!thisNodeTrans.ContainsKey(item.code))
+                            {
+                                thisNodeTrans.Add(item.code, item.chi);
+                            }
+                        }
+                        else 
+                        {
+                            if (!thisNodeTrans.ContainsKey(item.code))
+                            {
+                                thisNodeTrans.Add(item.code, item.eng);
+                            }
+                        }
+                    }
+                }
+                exportDic.Add(this.nodeCode, thisNodeTrans);
+            }
+            foreach (var childNode in this.childNodeList)
+            {
+                childNode.ExportChiJson(exportDic);
+            }
+        }
     }
 }

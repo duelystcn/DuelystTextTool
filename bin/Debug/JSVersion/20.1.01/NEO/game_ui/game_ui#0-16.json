@@ -50,9 +50,9 @@
     {
       "code": "hand_is_full_message",
       "eng": "My hand is full!",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "我的准备栏已满！",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "out_of_cards_message",
@@ -92,37 +92,37 @@
     {
       "code": "connected_label",
       "eng": "connected",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "connected",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "disconnected_label",
       "eng": "disconnected",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "disconnected",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "label_your_turn",
       "eng": "YOUR TURN",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "你的回合",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "label_enemy_turn",
       "eng": "ENEMY TURN",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "对手的回合",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "label_automatic_moves",
       "eng": "AUTOMATIC MOVES",
-      "chi": "",
+      "chi": "自动行进",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     }
   ]
 }

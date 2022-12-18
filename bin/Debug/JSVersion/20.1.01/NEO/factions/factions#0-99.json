@@ -358,16 +358,16 @@
     {
       "code": "faction_3_response_neutral",
       "eng": "Sands of time, obey my command!",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "时之沙，听我令！",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "faction_3_response_f1",
       "eng": "Sands of time, obey my command!",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "时之沙，听我令！",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "faction_3_response_f2",
@@ -379,9 +379,9 @@
     {
       "code": "faction_3_response_f3",
       "eng": "Sands of time, obey my command!",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "时之沙，听我令！",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "faction_3_response_f4",
@@ -400,9 +400,9 @@
     {
       "code": "faction_3_response_f6",
       "eng": "Sands of time, obey my command!",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "时之沙，听我令！",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "faction_3_response_boss",

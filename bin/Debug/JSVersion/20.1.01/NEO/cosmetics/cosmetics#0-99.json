@@ -211,9 +211,9 @@
     {
       "code": "scene_magaari_desc",
       "eng": "A location in the world of Duelyst.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "Duelyst世界中的一个地点。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "scene_obsidian_woods_name",
@@ -225,9 +225,9 @@
     {
       "code": "scene_obsidian_woods_desc",
       "eng": "A location in the world of Duelyst.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "Duelyst世界中的一个地点。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "scene_frostfire_festival_name",
@@ -239,9 +239,9 @@
     {
       "code": "scene_frostfire_festival_desc",
       "eng": "A location in the world of Duelyst.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "Duelyst世界中的一个地点。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "scene_city_of_kaero_name",
@@ -253,9 +253,9 @@
     {
       "code": "scene_city_of_kaero_desc",
       "eng": "A location in the world of Duelyst.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "Duelyst世界中的一个地点。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "scene_unearthed_prophecy_name",
@@ -267,9 +267,9 @@
     {
       "code": "scene_unearthed_prophecy_desc",
       "eng": "A location in the world of Duelyst.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "Duelyst世界中的一个地点。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "skin_argeon_m2_name",
@@ -512,16 +512,16 @@
     {
       "code": "skin_frostfire_tiger_name",
       "eng": "Frostfire Tiger",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "霜火虎",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "skin_frostfire_tiger_desc",
       "eng": "Frostfire Tiger",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "霜火虎",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "skin_festive_snowchaser_name",

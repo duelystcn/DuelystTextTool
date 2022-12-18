@@ -106,9 +106,9 @@
     {
       "code": "frostfire_adjective",
       "eng": "Frostfire",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "霜火",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "frostfire_promo_text",

@@ -15,9 +15,9 @@
     {
       "code": "beginner_lyonar_2_taunt",
       "eng": "Blaze and burn!",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "全部点燃！",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "beginner_lyonar_3_title",
@@ -36,9 +36,9 @@
     {
       "code": "beginner_lyonar_3_start",
       "eng": "Close the distance and destroy the enemy General in one turn.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "一个回合内终结不朽的瓦斯！Finish off Vaath the Immortal in ONE turn!",
+      "originVersionCode": "20.1.0",
+      "translateState": 3
     },
     {
       "code": "beginner_lyonar_3_fail",
@@ -50,9 +50,9 @@
     {
       "code": "beginner_lyonar_3_taunt",
       "eng": "Blaze and burn!",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "全部点燃！",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "beginner_lyonar_4_title",
@@ -71,9 +71,9 @@
     {
       "code": "beginner_lyonar_4_start",
       "eng": "Test your skills and destroy the enemy General in one turn.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "一个回合内终结不朽的瓦斯！Finish off Vaath the Immortal in ONE turn!",
+      "originVersionCode": "20.1.0",
+      "translateState": 3
     },
     {
       "code": "beginner_lyonar_4_fail",
@@ -85,9 +85,9 @@
     {
       "code": "beginner_lyonar_4_taunt",
       "eng": "Blaze and burn!",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "全部点燃！",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "advanced_magmar_1_title",
@@ -99,16 +99,16 @@
     {
       "code": "advanced_magmar_1_description",
       "eng": "Test your skills and destroy the enemy General in one turn.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "在一个回合内击败Songhai将领。Defeat the Songhai General in ONE turn.",
+      "originVersionCode": "20.1.0",
+      "translateState": 3
     },
     {
       "code": "advanced_magmar_1_start",
       "eng": "Test your skills and destroy the enemy General in one turn.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "一个回合内终结Songhai将领！Finish off the Songhai General in ONE turn!",
+      "originVersionCode": "20.1.0",
+      "translateState": 3
     },
     {
       "code": "advanced_magmar_1_fail",
@@ -155,9 +155,9 @@
     {
       "code": "beginner_magmar_1_taunt",
       "eng": "Burn in fire!",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "烧成灰烬！",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "beginner_magmar_2_title",
@@ -169,16 +169,16 @@
     {
       "code": "beginner_magmar_2_description",
       "eng": "Defeat the Vanar General in ONE turn.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "在一个回合内击败Vanar将领。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "beginner_magmar_2_start",
       "eng": "Finish off Faie Bloodwing in ONE turn!",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "一个回合内终结血翼费伊！",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "beginner_magmar_2_fail",
@@ -211,9 +211,9 @@
     {
       "code": "beginner_magmar_3_start",
       "eng": "Use Ranged to destroy the enemy General in one turn.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "一个回合内终结血翼费伊！Finish off Faie Bloodwing in ONE turn!",
+      "originVersionCode": "20.1.0",
+      "translateState": 3
     },
     {
       "code": "beginner_magmar_3_fail",
@@ -246,9 +246,9 @@
     {
       "code": "beginner_magmar_4_start",
       "eng": "Test your skills and destroy the enemy General in one turn.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "一个回合内终结Abyssian将领！Finish off the Abyssian General in ONE turn!",
+      "originVersionCode": "20.1.0",
+      "translateState": 3
     },
     {
       "code": "beginner_magmar_4_fail",
@@ -274,16 +274,16 @@
     {
       "code": "medium_magmar_1_description",
       "eng": "Multiply your threats to destroy the enemy General in one turn.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "在一个回合内击败Vanar将领。Defeat the Vanar General in ONE turn.",
+      "originVersionCode": "20.1.0",
+      "translateState": 3
     },
     {
       "code": "medium_magmar_1_start",
       "eng": "Multiply your threats to destroy the enemy General in one turn.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "一个回合内终结血翼费伊！Finish off Faie Bloodwing in ONE turn!",
+      "originVersionCode": "20.1.0",
+      "translateState": 3
     },
     {
       "code": "medium_magmar_1_fail",
@@ -316,9 +316,9 @@
     {
       "code": "advanced_songhai_1_start",
       "eng": "Test your skills and destroy the enemy General in one turn.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "一个回合内终结敌方将领！Finish off the enemy general in ONE turn!",
+      "originVersionCode": "20.1.0",
+      "translateState": 3
     },
     {
       "code": "advanced_songhai_1_fail",
@@ -330,9 +330,9 @@
     {
       "code": "advanced_songhai_1_taunt",
       "eng": "Time to freeze!",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "是时候冻结了！",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "beginner_songhai_1_title",
@@ -351,9 +351,9 @@
     {
       "code": "beginner_songhai_1_start",
       "eng": "Finish off Vaath the Immortal in ONE turn!",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "一个回合内终结不朽的瓦斯！",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "beginner_songhai_1_fail",
@@ -386,9 +386,9 @@
     {
       "code": "beginner_songhai_2_start",
       "eng": "Use Backstab to destroy the enemy General in one turn.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "一个回合内终结敌方将领！Finish off the enemy general in ONE turn!",
+      "originVersionCode": "20.1.0",
+      "translateState": 3
     },
     {
       "code": "beginner_songhai_2_fail",
@@ -400,9 +400,9 @@
     {
       "code": "beginner_songhai_2_taunt",
       "eng": "Time to freeze!",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "是时候冻结了！",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "beginner_songhai_3_title",
@@ -414,16 +414,16 @@
     {
       "code": "beginner_songhai_3_description",
       "eng": "Defeat the Abyssian General in ONE turn.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "在一个回合内击败Abyssian将领。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "beginner_songhai_3_start",
       "eng": "Finish off the enemy general in ONE turn!",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "一个回合内终结敌方将领！",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "beginner_songhai_3_fail",
@@ -435,9 +435,9 @@
     {
       "code": "beginner_songhai_3_taunt",
       "eng": "Time to freeze!",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "是时候冻结了！",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "beginner_songhai_4_title",
@@ -456,9 +456,9 @@
     {
       "code": "beginner_songhai_4_start",
       "eng": "Use Airdrop to destroy the enemy General in one turn.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "一个回合内终结Lyonar将领！Finish off the Lyonar General in ONE turn!",
+      "originVersionCode": "20.1.0",
+      "translateState": 3
     },
     {
       "code": "beginner_songhai_4_fail",
@@ -491,9 +491,9 @@
     {
       "code": "beginner_songhai_5_start",
       "eng": "Finish off the Lyonar General in ONE turn!",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "一个回合内终结Lyonar将领！",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "beginner_songhai_5_fail",
@@ -519,16 +519,16 @@
     {
       "code": "medium_songhai_1_description",
       "eng": "Test your skills and destroy the enemy General in one turn.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "在一个回合内击败Lyonar将领。Defeat the Lyonar General in ONE turn.",
+      "originVersionCode": "20.1.0",
+      "translateState": 3
     },
     {
       "code": "medium_songhai_1_start",
       "eng": "Test your skills and destroy the enemy General in one turn.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "一个回合内终结敌方将领！Finish off the enemy general in ONE turn!",
+      "originVersionCode": "20.1.0",
+      "translateState": 3
     },
     {
       "code": "medium_songhai_1_fail",
@@ -561,9 +561,9 @@
     {
       "code": "medium_songhai_2_start",
       "eng": "Cut through their defenses to destroy the enemy General in one turn.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "一个回合内终结敌方将领！Finish off the enemy general in ONE turn!",
+      "originVersionCode": "20.1.0",
+      "translateState": 3
     },
     {
       "code": "medium_songhai_2_fail",
@@ -589,16 +589,16 @@
     {
       "code": "advanced_vanar_1_description",
       "eng": "Test your skills and destroy the enemy General in one turn.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "在一个回合内击败Songhai将领。Defeat the Songhai General in ONE turn.",
+      "originVersionCode": "20.1.0",
+      "translateState": 3
     },
     {
       "code": "advanced_vanar_1_start",
       "eng": "Test your skills and destroy the enemy General in one turn.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "一个回合内终结Songhai将领！Finish off the Songhai General in ONE turn!",
+      "originVersionCode": "20.1.0",
+      "translateState": 3
     },
     {
       "code": "advanced_vanar_1_fail",
@@ -631,9 +631,9 @@
     {
       "code": "advanced_vanar_2_start",
       "eng": "Test your skills and destroy the enemy General in one turn.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "一个回合内终结Songhai将领！Finish off the Songhai General in ONE turn!",
+      "originVersionCode": "20.1.0",
+      "translateState": 3
     },
     {
       "code": "advanced_vanar_2_fail",
@@ -680,9 +680,9 @@
     {
       "code": "beginner_vanar_1_taunt",
       "eng": "Burn in fire and sand!",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "在火和沙中燃烧！",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "beginner_vanar_2_title",
@@ -694,16 +694,16 @@
     {
       "code": "beginner_vanar_2_description",
       "eng": "Defeat the Abyssian General in ONE turn.",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "在一个回合内击败Abyssian将领。",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     },
     {
       "code": "beginner_vanar_2_start",
       "eng": "Finish off Lilithe Blightchaser in ONE turn!",
-      "chi": "",
-      "originVersionCode": "20.1.01",
-      "translateState": 0
+      "chi": "一个回合内终结枯萎牧者莉莉丝！",
+      "originVersionCode": "20.1.0",
+      "translateState": 4
     }
   ]
 }

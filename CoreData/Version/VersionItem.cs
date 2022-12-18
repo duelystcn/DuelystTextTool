@@ -44,7 +44,41 @@ namespace DuelystText.CoreData.Version
             }
         }
 
+        //根据目标版本来生成这个版本的
+        public void ReferenceByTargetVersion(VersionItem targetVersion) 
+        {
+            this.nodeItem.ReferenceByTargetVersion(targetVersion, this.versionCode);
+        }
 
+        //根据code和path来获取指定node
+        public NodeItem GetTargetNodeByCodeAndPath(string nodeCodeTarget, string pathTarget) 
+        {
+            if(this.nodeItem.nodeCode == nodeCodeTarget && this.nodeItem.path == pathTarget) 
+            {
+                return this.nodeItem;
+            }
+            return this.nodeItem.GetTargetNodeByCodeAndPath(nodeCodeTarget, pathTarget);
+        }
+
+        //导出汉化文本
+        public void ExportChiJson() 
+        {
+            Dictionary<string, Dictionary<string, string>> exportDic = new Dictionary<string, Dictionary<string, string>>();
+            this.nodeItem.ExportChiJson(exportDic);
+
+            string pathDuplictae = Application.StartupPath + "/JSVersion/" + versionCode + "/ExportJson";
+            if (!Directory.Exists(pathDuplictae))
+            {
+                Directory.CreateDirectory(pathDuplictae);
+            }
+            string duplictaeExport = JsonConvert.SerializeObject(exportDic, Formatting.Indented);
+            string fileName = "index.json";
+            FileWriteUtil.FileWrite(fileName, duplictaeExport, pathDuplictae);
+            pathDuplictae = pathDuplictae.Replace("/", "\\");
+            FileReadUtil.OpenFolder(pathDuplictae + "\\");
+        }
+
+        //导出重复文本
         public void CreateDuplicateTextFileAndExport() 
         {
             List<TranslateItem> translateItemReturnList = new List<TranslateItem>();
