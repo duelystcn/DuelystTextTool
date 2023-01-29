@@ -183,23 +183,23 @@
     {
       "code": "month",
       "eng": "Month",
-      "chi": "",
+      "chi": "月",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "day",
       "eng": "Day",
-      "chi": "",
+      "chi": "日",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "year",
       "eng": "Year",
-      "chi": "",
+      "chi": "年",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "send_me_news",

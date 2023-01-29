@@ -37,3 +37,5 @@ D:\work\winDuelystText\DuelystText\bin\Debug\version.txt
 D:\work\winDuelystText\DuelystText\obj\Debug\DuelystText.ChineseCorrection.resources
 D:\work\DuelystTextTool\obj\Debug\DuelystText.ChineseCorrection.resources
 D:\work\DuelystTextTool\bin\Debug\JSVersion\20.1.01\index.json
+D:\work\DuelystTextTool\bin\Debug\JSVersion\20.1.02\index.json
+D:\work\DuelystTextTool\bin\Debug\JSVersion\20.1.03\index.json

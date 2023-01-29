@@ -8,114 +8,114 @@
     {
       "code": "must_select_deck_message",
       "eng": "You must select a deck!",
-      "chi": "",
+      "chi": "你必须选择一个牌组！",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "must_select_opponent_message",
       "eng": "You must select an opponent!",
-      "chi": "",
+      "chi": "你必须选择一个对手！",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "must_select_deck_and_opponent_message",
       "eng": "You must select your deck and an opponent!",
-      "chi": "",
+      "chi": "你必须选择一个牌组和一个对手！",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "recommended_ai_opponent_label",
       "eng": "(recommended)",
-      "chi": "",
+      "chi": "(推荐)",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "choose_your_opponent_header",
       "eng": "Choose Your Opponent",
-      "chi": "",
+      "chi": "选择你的对手",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "matchmaking_wait_time_message",
       "eng": "Average wait is {{wait_time}}",
-      "chi": "",
+      "chi": "平均等待时间 {{wait_time}}",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "matchmaking_estimated_wait_time_message",
       "eng": "Average est. wait is {{wait_time}}",
-      "chi": "",
+      "chi": "平均等待时间 {{wait_time}}",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "find_selected_deck_msg",
       "eng": "Find your selected deck here.",
-      "chi": "",
+      "chi": "在这里选择你的牌组。",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "waiting_for_opponent_msg",
       "eng": "Waiting for Opponent",
-      "chi": "",
+      "chi": "等待对手",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "opponent_choosing_hand_msg",
       "eng": "Opponent still choosing starting hand",
-      "chi": "",
+      "chi": "你的对手正在调整起始手牌",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "opponent_connecting_msg",
       "eng": "Opponent connecting",
-      "chi": "",
+      "chi": "对手连接中",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "opponent_connected_msg",
       "eng": "Opponent connected",
-      "chi": "",
+      "chi": "对手已连接",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "battle_map_choose_tooltip",
       "eng": "The Battle Map you choose will be used when you are <strong>player one</strong>.",
-      "chi": "",
+      "chi": "当你是<strong>先手玩家时</strong>，你设置的战场将会生效。",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "battle_map_saved_success_msg",
       "eng": "Your Battle Map has been saved!",
-      "chi": "",
+      "chi": "你的战场已设置好！",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "battle_map_select_title",
       "eng": "Set Battle Map",
-      "chi": "",
+      "chi": "设置战场",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "battle_map_random",
       "eng": "RANDOM",
-      "chi": "",
+      "chi": "随机",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     }
   ]
 }

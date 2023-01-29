@@ -8,9 +8,9 @@
     {
       "code": "beginner_lyonar_2_fail",
       "eng": "Use Zeal to destroy the enemy General in one turn.",
-      "chi": "",
+      "chi": "使用热诚在一个回合内击败敌方将领。",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_lyonar_2_taunt",
@@ -22,30 +22,30 @@
     {
       "code": "beginner_lyonar_3_title",
       "eng": "Lyonar: Stone Skipping",
-      "chi": "",
+      "chi": "Lyonar: 石头跳板",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_lyonar_3_description",
       "eng": "Close the distance and destroy the enemy General in one turn.",
-      "chi": "",
+      "chi": "拉近距离，在一个回合内击败敌方将领。",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_lyonar_3_start",
       "eng": "Close the distance and destroy the enemy General in one turn.",
-      "chi": "一个回合内终结不朽的瓦斯！Finish off Vaath the Immortal in ONE turn!",
+      "chi": "拉近距离，在一个回合内击败敌方将领。",
       "originVersionCode": "20.1.0",
-      "translateState": 3
+      "translateState": 4
     },
     {
       "code": "beginner_lyonar_3_fail",
       "eng": "Close the distance and destroy the enemy General in one turn.",
-      "chi": "",
+      "chi": "拉近距离，在一个回合内击败敌方将领。",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_lyonar_3_taunt",
@@ -57,30 +57,30 @@
     {
       "code": "beginner_lyonar_4_title",
       "eng": "Lyonar: The Greater Good",
-      "chi": "",
+      "chi": "Lyonar: 更好的未来",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_lyonar_4_description",
       "eng": "Test your skills and destroy the enemy General in one turn.",
-      "chi": "",
+      "chi": "尝试在一个回合内击败敌方将领。",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_lyonar_4_start",
       "eng": "Test your skills and destroy the enemy General in one turn.",
-      "chi": "一个回合内终结不朽的瓦斯！Finish off Vaath the Immortal in ONE turn!",
+      "chi": "尝试在一个回合内击败敌方将领。",
       "originVersionCode": "20.1.0",
-      "translateState": 3
+      "translateState": 4
     },
     {
       "code": "beginner_lyonar_4_fail",
       "eng": "Test your skills and destroy the enemy General in one turn.",
-      "chi": "",
+      "chi": "尝试在一个回合内击败敌方将领。",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_lyonar_4_taunt",
@@ -92,65 +92,65 @@
     {
       "code": "advanced_magmar_1_title",
       "eng": "Magmar: Mind Game",
-      "chi": "",
+      "chi": "Magmar: 思维游戏",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "advanced_magmar_1_description",
       "eng": "Test your skills and destroy the enemy General in one turn.",
-      "chi": "在一个回合内击败Songhai将领。Defeat the Songhai General in ONE turn.",
+      "chi": "尝试在一个回合内击败敌方将领。",
       "originVersionCode": "20.1.0",
-      "translateState": 3
+      "translateState": 4
     },
     {
       "code": "advanced_magmar_1_start",
       "eng": "Test your skills and destroy the enemy General in one turn.",
-      "chi": "一个回合内终结Songhai将领！Finish off the Songhai General in ONE turn!",
+      "chi": "尝试在一个回合内击败敌方将领。",
       "originVersionCode": "20.1.0",
-      "translateState": 3
+      "translateState": 4
     },
     {
       "code": "advanced_magmar_1_fail",
       "eng": "Test your skills and destroy the enemy General in one turn.",
-      "chi": "",
+      "chi": "尝试在一个回合内击败敌方将领。",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "advanced_magmar_1_taunt",
       "eng": "Burn in Fire!",
-      "chi": "",
+      "chi": "葬身烈火吧！",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_magmar_1_title",
       "eng": "Magmar: Beast of War",
-      "chi": "",
+      "chi": "Magmar: 战争巨兽",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_magmar_1_description",
       "eng": "Use Frenzy to destroy the enemy General in one turn.",
-      "chi": "",
+      "chi": "使用狂暴在一个回合内击败敌方将领。",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_magmar_1_start",
       "eng": "Use Frenzy to destroy the enemy General in one turn.",
-      "chi": "",
+      "chi": "使用狂暴在一个回合内击败敌方将领。",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_magmar_1_fail",
       "eng": "Use Frenzy to destroy the enemy General in one turn.",
-      "chi": "",
+      "chi": "使用狂暴在一个回合内击败敌方将领。",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_magmar_1_taunt",
@@ -162,9 +162,9 @@
     {
       "code": "beginner_magmar_2_title",
       "eng": "Magmar: Breaking The Bad",
-      "chi": "",
+      "chi": "Magmar: 修正错误",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_magmar_2_description",
@@ -183,149 +183,149 @@
     {
       "code": "beginner_magmar_2_fail",
       "eng": "Hint: Silhouette Tracer can give your general great mobility.",
-      "chi": "",
+      "chi": "提示：仿影师可以让你的将领变得灵活。",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_magmar_2_taunt",
       "eng": "You need to chill!",
-      "chi": "",
+      "chi": "你需要冷静！",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_magmar_3_title",
       "eng": "Magmar: Crushing Breach",
-      "chi": "",
+      "chi": "Magmar: 碎裂重压",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_magmar_3_description",
       "eng": "Use Ranged to destroy the enemy General in one turn.",
-      "chi": "",
+      "chi": "使用远程在一个回合内击败敌方将领。",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_magmar_3_start",
       "eng": "Use Ranged to destroy the enemy General in one turn.",
-      "chi": "一个回合内终结血翼费伊！Finish off Faie Bloodwing in ONE turn!",
+      "chi": "使用远程在一个回合内击败敌方将领。",
       "originVersionCode": "20.1.0",
-      "translateState": 3
+      "translateState": 4
     },
     {
       "code": "beginner_magmar_3_fail",
       "eng": "Use Ranged to destroy the enemy General in one turn.",
-      "chi": "",
+      "chi": "使用远程在一个回合内击败敌方将领。",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_magmar_3_taunt",
       "eng": "Beware, frost is coming!",
-      "chi": "",
+      "chi": "当心，寒冬将至！",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_magmar_4_title",
       "eng": "Magmar: Overriding Order",
-      "chi": "",
+      "chi": "Magmar: 最优排序",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_magmar_4_description",
       "eng": "Test your skills and destroy the enemy General in one turn.",
-      "chi": "",
+      "chi": "尝试在一个回合内击败敌方将领。",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_magmar_4_start",
       "eng": "Test your skills and destroy the enemy General in one turn.",
-      "chi": "一个回合内终结Abyssian将领！Finish off the Abyssian General in ONE turn!",
+      "chi": "尝试在一个回合内击败敌方将领。",
       "originVersionCode": "20.1.0",
-      "translateState": 3
+      "translateState": 4
     },
     {
       "code": "beginner_magmar_4_fail",
       "eng": "Test your skills and destroy the enemy General in one turn.",
-      "chi": "",
+      "chi": "尝试在一个回合内击败敌方将领。",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_magmar_4_taunt",
       "eng": "Find peace in your demise!",
-      "chi": "",
+      "chi": "在你的死亡中找到和平！",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "medium_magmar_1_title",
       "eng": "Magmar: Close Formation",
-      "chi": "",
+      "chi": "Magmar: 闭合地壳",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "medium_magmar_1_description",
       "eng": "Multiply your threats to destroy the enemy General in one turn.",
-      "chi": "在一个回合内击败Vanar将领。Defeat the Vanar General in ONE turn.",
+      "chi": "增殖你的部队来一个回合内击败敌方将领。",
       "originVersionCode": "20.1.0",
-      "translateState": 3
+      "translateState": 4
     },
     {
       "code": "medium_magmar_1_start",
       "eng": "Multiply your threats to destroy the enemy General in one turn.",
-      "chi": "一个回合内终结血翼费伊！Finish off Faie Bloodwing in ONE turn!",
+      "chi": "增殖你的部队来一个回合内击败敌方将领。",
       "originVersionCode": "20.1.0",
-      "translateState": 3
+      "translateState": 4
     },
     {
       "code": "medium_magmar_1_fail",
       "eng": "Multiply your threats to destroy the enemy General in one turn.",
-      "chi": "",
+      "chi": "增殖你的部队来一个回合内击败敌方将领。",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "medium_magmar_1_taunt",
       "eng": "You need to chill!",
-      "chi": "",
+      "chi": "你需要冷静！",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "advanced_songhai_1_title",
       "eng": "Songhai: Rogue's Gallery",
-      "chi": "",
+      "chi": "Songhai: 浪客小巷",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "advanced_songhai_1_description",
       "eng": "Test your skills and destroy the enemy General in one turn.",
-      "chi": "",
+      "chi": "尝试在一个回合内击败敌方将领。",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "advanced_songhai_1_start",
       "eng": "Test your skills and destroy the enemy General in one turn.",
-      "chi": "一个回合内终结敌方将领！Finish off the enemy general in ONE turn!",
+      "chi": "尝试在一个回合内击败敌方将领。",
       "originVersionCode": "20.1.0",
-      "translateState": 3
+      "translateState": 4
     },
     {
       "code": "advanced_songhai_1_fail",
       "eng": "Test your skills and destroy the enemy General in one turn.",
-      "chi": "",
+      "chi": "尝试在一个回合内击败敌方将领。",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "advanced_songhai_1_taunt",
@@ -337,16 +337,16 @@
     {
       "code": "beginner_songhai_1_title",
       "eng": "Songhai: Evolution into Ash",
-      "chi": "",
+      "chi": "Songhai: 化为灰烬",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_songhai_1_description",
       "eng": "Defeat the Magmar General in ONE turn.",
-      "chi": "",
+      "chi": "在一个回合内击败Magmar将领。",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_songhai_1_start",
@@ -358,44 +358,44 @@
     {
       "code": "beginner_songhai_1_fail",
       "eng": "Hint: Kill the Phalanxar with your general without dying.",
-      "chi": "",
+      "chi": "提示：在将领不死的情况下摧毁好战者。",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_songhai_1_taunt",
       "eng": "Be crushed by the weight of our might!",
-      "chi": "",
+      "chi": "致命一击！",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_songhai_2_title",
       "eng": "Songhai: Path of the Mistwalkers",
-      "chi": "",
+      "chi": "Songhai: 迷途者之路",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_songhai_2_description",
       "eng": "Use Backstab to destroy the enemy General in one turn.",
-      "chi": "",
+      "chi": "使用背刺在一个回合内击败敌方将领。",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_songhai_2_start",
       "eng": "Use Backstab to destroy the enemy General in one turn.",
-      "chi": "一个回合内终结敌方将领！Finish off the enemy general in ONE turn!",
+      "chi": "使用背刺在一个回合内击败敌方将领。",
       "originVersionCode": "20.1.0",
-      "translateState": 3
+      "translateState": 4
     },
     {
       "code": "beginner_songhai_2_fail",
       "eng": "Use Backstab to destroy the enemy General in one turn.",
-      "chi": "",
+      "chi": "使用背刺在一个回合内击败敌方将领。",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_songhai_2_taunt",
@@ -407,9 +407,9 @@
     {
       "code": "beginner_songhai_3_title",
       "eng": "Songhai: Chaos Control",
-      "chi": "",
+      "chi": "Songhai: 掌控局势",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_songhai_3_description",
@@ -442,44 +442,44 @@
     {
       "code": "beginner_songhai_4_title",
       "eng": "Songhai: Leaf on the Wind",
-      "chi": "",
+      "chi": "Songhai: 叶随风舞",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_songhai_4_description",
       "eng": "Use Airdrop to destroy the enemy General in one turn.",
-      "chi": "",
+      "chi": "使用空降在一个回合内击败敌方将领。",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_songhai_4_start",
       "eng": "Use Airdrop to destroy the enemy General in one turn.",
-      "chi": "一个回合内终结Lyonar将领！Finish off the Lyonar General in ONE turn!",
+      "chi": "使用空降在一个回合内击败敌方将领。",
       "originVersionCode": "20.1.0",
-      "translateState": 3
+      "translateState": 4
     },
     {
       "code": "beginner_songhai_4_fail",
       "eng": "Use Airdrop to destroy the enemy General in one turn.",
-      "chi": "",
+      "chi": "使用空降在一个回合内击败敌方将领。",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_songhai_4_taunt",
       "eng": "Crushed by the weight of our might!",
-      "chi": "",
+      "chi": "致命一击！",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_songhai_5_title",
       "eng": "Songhai: Eye of the Tiger",
-      "chi": "",
+      "chi": "Songhai: 虎眼",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_songhai_5_description",
@@ -505,177 +505,177 @@
     {
       "code": "beginner_songhai_5_taunt",
       "eng": "Crushed by the weight of our might!",
-      "chi": "",
+      "chi": "致命一击！",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "medium_songhai_1_title",
       "eng": "Songhai: Songhai Shuffle",
-      "chi": "",
+      "chi": "Songhai: 兴衰更替",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "medium_songhai_1_description",
       "eng": "Test your skills and destroy the enemy General in one turn.",
-      "chi": "在一个回合内击败Lyonar将领。Defeat the Lyonar General in ONE turn.",
+      "chi": "尝试在一个回合内击败敌方将领。",
       "originVersionCode": "20.1.0",
-      "translateState": 3
+      "translateState": 4
     },
     {
       "code": "medium_songhai_1_start",
       "eng": "Test your skills and destroy the enemy General in one turn.",
-      "chi": "一个回合内终结敌方将领！Finish off the enemy general in ONE turn!",
+      "chi": "尝试在一个回合内击败敌方将领。",
       "originVersionCode": "20.1.0",
-      "translateState": 3
+      "translateState": 4
     },
     {
       "code": "medium_songhai_1_fail",
       "eng": "Test your skills and destroy the enemy General in one turn.",
-      "chi": "",
+      "chi": "尝试在一个回合内击败敌方将领。",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "medium_songhai_1_taunt",
       "eng": "Burn in the light!",
-      "chi": "",
+      "chi": "在光芒中燃烧吧！",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "medium_songhai_2_title",
       "eng": "Songhai: Jack of Blades",
-      "chi": "",
+      "chi": "Songhai: 利刃穿孔",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "medium_songhai_2_description",
       "eng": "Cut through their defenses to destroy the enemy General in one turn.",
-      "chi": "",
+      "chi": "突破防线，在一个回合内击败敌方将领。",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "medium_songhai_2_start",
       "eng": "Cut through their defenses to destroy the enemy General in one turn.",
-      "chi": "一个回合内终结敌方将领！Finish off the enemy general in ONE turn!",
+      "chi": "突破防线，在一个回合内击败敌方将领。",
       "originVersionCode": "20.1.0",
-      "translateState": 3
+      "translateState": 4
     },
     {
       "code": "medium_songhai_2_fail",
       "eng": "Cut through their defenses to destroy the enemy General in one turn.",
-      "chi": "",
+      "chi": "突破防线，在一个回合内击败敌方将领。",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "medium_songhai_2_taunt",
       "eng": "Burn in the light!",
-      "chi": "",
+      "chi": "在光芒中燃烧吧！",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "advanced_vanar_1_title",
       "eng": "Vanar: The Locked Library",
-      "chi": "",
+      "chi": "Vanar: 被锁住的图书馆",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "advanced_vanar_1_description",
       "eng": "Test your skills and destroy the enemy General in one turn.",
-      "chi": "在一个回合内击败Songhai将领。Defeat the Songhai General in ONE turn.",
+      "chi": "尝试在一个回合内击败敌方将领。",
       "originVersionCode": "20.1.0",
-      "translateState": 3
+      "translateState": 4
     },
     {
       "code": "advanced_vanar_1_start",
       "eng": "Test your skills and destroy the enemy General in one turn.",
-      "chi": "一个回合内终结Songhai将领！Finish off the Songhai General in ONE turn!",
+      "chi": "尝试在一个回合内击败敌方将领。",
       "originVersionCode": "20.1.0",
-      "translateState": 3
+      "translateState": 4
     },
     {
       "code": "advanced_vanar_1_fail",
       "eng": "Test your skills and destroy the enemy General in one turn.",
-      "chi": "",
+      "chi": "尝试在一个回合内击败敌方将领。",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "advanced_vanar_1_taunt",
       "eng": "Say your prayers.",
-      "chi": "",
+      "chi": "祈祷吧。",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "advanced_vanar_2_title",
       "eng": "Vanar: Ice Block",
-      "chi": "",
+      "chi": "Vanar: 冰块",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "advanced_vanar_2_description",
       "eng": "Test your skills and destroy the enemy General in one turn.",
-      "chi": "",
+      "chi": "尝试在一个回合内击败敌方将领。",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "advanced_vanar_2_start",
       "eng": "Test your skills and destroy the enemy General in one turn.",
-      "chi": "一个回合内终结Songhai将领！Finish off the Songhai General in ONE turn!",
+      "chi": "尝试在一个回合内击败敌方将领。",
       "originVersionCode": "20.1.0",
-      "translateState": 3
+      "translateState": 4
     },
     {
       "code": "advanced_vanar_2_fail",
       "eng": "Test your skills and destroy the enemy General in one turn.",
-      "chi": "",
+      "chi": "尝试在一个回合内击败敌方将领。",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "advanced_vanar_2_taunt",
       "eng": "Say your prayers.",
-      "chi": "",
+      "chi": "祈祷吧。",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_vanar_1_title",
       "eng": "Vanar: Freezing Sand",
-      "chi": "",
+      "chi": "Vanar：冰冻流沙",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_vanar_1_description",
       "eng": "Defeat the Vetruvian General in ONE turn.",
-      "chi": "",
+      "chi": "在一个回合内击败Vetruvian将领。",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_vanar_1_start",
       "eng": "Finish off Zirix Starstrider in ONE turn!",
-      "chi": "",
+      "chi": "在一个回合内击败敌方将领！",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_vanar_1_fail",
       "eng": "Hint: Control where the Glacial Elemental's ability hits by clearing out the other enemy minions.",
-      "chi": "",
+      "chi": "提示：摧毁其他随从，来让冰川元素准确命中目标。",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_vanar_1_taunt",
@@ -687,9 +687,9 @@
     {
       "code": "beginner_vanar_2_title",
       "eng": "Vanar: Frozen Shadows",
-      "chi": "",
+      "chi": "Vanar：冰冻阴影",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "beginner_vanar_2_description",

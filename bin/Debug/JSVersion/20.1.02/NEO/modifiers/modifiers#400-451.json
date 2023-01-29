@@ -1,0 +1,373 @@
+{
+  "versionCode": "20.1.02",
+  "nodeCode": "modifiers",
+  "path": "modifiers",
+  "orderStart": 400,
+  "orderEnd": 451,
+  "translateItemList": [
+    {
+      "code": "boss_6_applied_name",
+      "eng": "D3cepticle's Limb",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "boss_22_applied_name",
+      "eng": "Crystalline Sacrifice",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "boss_24_applied_name_1",
+      "eng": "Skurge's Eye",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "boss_24_applied_name_2",
+      "eng": "Sibling's Bond",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "boss_25_applied_name",
+      "eng": "Shadow Lord's Guile",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "boss_30_applied_name",
+      "eng": "Warrior's Spirit",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "boss_33_applied_name",
+      "eng": "Legion's Agility",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "boss_33_applied_name_2",
+      "eng": "Legion's Strength",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "boss_36_applied_name",
+      "eng": "Unending Hunger",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "boss_37_applied_name",
+      "eng": "Soul Vessel",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "boss_37_applied_desc",
+      "eng": "Soulstealer's spirit can transfer to this when it dies",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "building_text",
+      "eng": "Builds into {{unit_name}} (this ability cannot be dispelled)",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "building_counter_applied_name",
+      "eng": "Building",
+      "chi": "生产中",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "building_counter_applied_desc",
+      "eng": "Turns Until Complete: {{turns_until_complete}}",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "mechazor_counter_applied_name",
+      "eng": "MECHAZ0R Progress",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "mechazor_counter_applied_desc",
+      "eng": "MECHAZ0R is {{percent_complete}}% complete",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "shadowcreep_counter_applied_name",
+      "eng": "Stacking Shadows",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "shadowcreep_counter_applied_desc",
+      "eng": "Shadow Creep Tiles: {{tile_count}}",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "forged_artifact_lyonar",
+      "eng": "Your General gains +{{numericValue}} Attack.\nWhenever your General takes damage, restore {{numericValue}} Health to them",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "forged_artifact_songhai",
+      "eng": "Your General gains +{{numericValue}} Attack.\nWhenever your General attacks or counterattacks, deal {{numericValue}} damage to a random enemy",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "forged_artifact_vetruvian",
+      "eng": "Your General gains +{{numericValue}} Attack.\nWhenever your General attacks, summon {{numericValue}} destroyed friendly minions on random spaces",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "forged_artifact_abyssian",
+      "eng": "Your General gains +{{numericValue}} Attack.\nWhenever your General attacks a minion, they steal {{numericValue}} Health from the enemy General",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "forged_artifact_magmar",
+      "eng": "Your General gains +{{numericValue}} Attack.\nWhenever your General deals damage, friendly minions gain +{{numericValue}}/+{{numericValue}}",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "forged_artifact_vanar",
+      "eng": "Your General gains +{{numericValue}} Attack.\nWhenever your General attacks, summon {{numericValue}} Vespyr Night Howlers nearby",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "forged_artifact_neutral",
+      "eng": "Your General gains +{{numericValue}} Attack.",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "intensify_counter_applied_name",
+      "eng": "Intensified",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "intensify_counter_applied_desc",
+      "eng": "Effect boosted by: {{intensify_effect_level}}x",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "sentinel_watchful",
+      "eng": "This minion is watching you!",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "sentinel_general_attack",
+      "eng": "When your opponent attacks with their General, this minion reveals its true form.",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "sentinel_spell_cast",
+      "eng": "When your opponent casts a spell, this minion reveals its true form.",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "sentinel_summon",
+      "eng": "When your opponent summons a minion on their turn, this minion reveals its true form.",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "deathwatch_buff_applied_name",
+      "eng": "Gathering Shadow",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "bound_name",
+      "eng": "Bound",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "bound_desc",
+      "eng": "Cannot be replaced.",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "cannot_replace_error",
+      "eng": "You can't replace that!",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "frostfire_chest_name",
+      "eng": "Frostfire Chest",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "frostfire_chest_desc",
+      "eng": "Collect this and get a gift. But don't be greedy...",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "lyonarquest_counter_applied_name",
+      "eng": "Trial of Lyonar",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "lyonarquest_counter_applied_desc",
+      "eng": "Minions Summoned: {{summon_count}}/12",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "songhaiquest_counter_applied_name",
+      "eng": "Trial of Songhai",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "songhaiquest_counter_applied_desc",
+      "eng": "Minions Summoned: {{summon_count}}/7\nCosts Summoned: {{manacost_list}}",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "abyssianquest_counter_applied_name",
+      "eng": "Trial of Abyssian",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "abyssianquest_counter_applied_desc",
+      "eng": "Spells Cast: {{spell_count}}/6",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "vetruvianquest_counter_applied_name",
+      "eng": "Trial of Vetruvian",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "vetruvianquest_counter_applied_desc",
+      "eng": "Trial Incomplete",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "magmarquest_counter_applied_name",
+      "eng": "Trial of Magmar",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "magmarquest_counter_applied_desc",
+      "eng": "Spells Cast: {{spell_count}}/7",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "vanarquest_counter_applied_name",
+      "eng": "Trial of Vanar",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "vanarquest_counter_applied_desc",
+      "eng": "Tokens: {{token_count}}/5",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "neutralquest_counter_applied_name",
+      "eng": "Trial of Mythron",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "neutralquest_counter_applied_desc",
+      "eng": "Trial Incomplete",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "quest_completed_applied_desc",
+      "eng": "Trial Completed",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    }
+  ]
+}

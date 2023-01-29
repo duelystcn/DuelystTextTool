@@ -372,7 +372,7 @@
     {
       "code": "faction_3_unit_bloodfire_totem_desc",
       "eng": "At end of turn, deal 1 damage to your General.",
-      "chi": "在你的回合结束时，对你的将领造成1点伤害。",
+      "chi": "在每个回合结束时，对你的将领造成1点伤害。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },

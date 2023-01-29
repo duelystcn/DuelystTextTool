@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.03",
+  "nodeCode": "tutorial",
+  "path": "tutorial",
+  "orderStart": 0,
+  "orderEnd": 99,
+  "translateItemList": [
+    {
+      "code": "welcome_title",
+      "eng": "Welcome to DUELYST II",
+      "chi": "欢迎来到DUELYST II",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "welcome_instructions",
+      "eng": "Complete this short challenge to learn the basics, or skip to dive right into battle.",
+      "chi": "完成这个简短的挑战，学习基本操作，或者跳过它直接开始战斗。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "continue_button_label",
+      "eng": "Continue",
+      "chi": "继续",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_default_duration",
+      "eng": "2 minutes",
+      "chi": "2分钟",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "skip_button_label",
+      "eng": "Skip",
+      "chi": "跳过",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "confirm_skip_message",
+      "eng": "Are you sure you want to skip?",
+      "chi": "你确定你要跳过吗？",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "tutorial_intro_plate_start_button_label",
+      "eng": "Start!",
+      "chi": "开始！",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "end_your_turn_message",
+      "eng": "End your turn.",
+      "chi": "结束你的回合",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "must_end_turn_message",
+      "eng": "You must end your turn.",
+      "chi": "你需要结束你的回合",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_1_title",
+      "eng": "Knowledge is Power",
+      "chi": "知识就是力量",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_1_description",
+      "eng": "Summon your Minions and defeat the enemy General.",
+      "chi": "召唤你的随从，击败敌方将领。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_1_difficulty",
+      "eng": "2 Minutes",
+      "chi": "2分钟",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_1_start_message",
+      "eng": "Finish off Calibero THIS turn!",
+      "chi": "在这回合内击败敌方将领。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_1_failure_message",
+      "eng": "Use your Hailstone Golem to defeat Calibero in ONE turn.",
+      "chi": "使用你的随从在这回合内击败敌方将领。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_1_turn_0_failure_message_1",
+      "eng": "Select your General and [target] this tile.",
+      "chi": "选择你的将领和目标格子。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_1_turn_0_instruction_1",
+      "eng": "This is your [General]!",
+      "chi": "这是你的[将领]！",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_1_turn_0_instruction_2",
+      "eng": "You start on the [left side] as Player One.",
+      "chi": "你是先手玩家位于战场的左侧。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_1_turn_0_instruction_3",
+      "eng": "If you run out of [Health], you lose.",
+      "chi": "如果你的生命变为0，你将战败。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_1_turn_0_instruction_4",
+      "eng": "Deal enough [damage] to Calibero to win!",
+      "chi": "对敌方将领造成足够的伤害来获胜！",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_1_turn_0_instruction_5",
+      "eng": "Your units can move up to [2 spaces].",
+      "chi": "你的单位可以移动最多2格距离。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_1_turn_0_instruction_6",
+      "eng": "[Move] forward by dragging onto the tile.",
+      "chi": "通过拖动来向前移动。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_1_turn_0_failure_message_2",
+      "eng": "Select your General and attack Calibero.",
+      "chi": "选择你的将领来攻击敌方将领。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_1_turn_0_instruction_7",
+      "eng": "[Attack] by dragging onto the enemy.",
+      "chi": "[攻击]拖向敌人。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_1_turn_0_instruction_8",
+      "eng": "You draw [ONE] new card each turn.",
+      "chi": "你每回合可以抽取一张新卡牌。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_1_turn_1_failure_message_1",
+      "eng": "[Summon] your Golem onto the battlefield.",
+      "chi": "在战场上召唤你的魔像。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_1_turn_1_instruction_1",
+      "eng": "You gain one [Mana] at start of turn.",
+      "chi": "在你的回合开始时你会获得一点费用上限。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_1_turn_1_instruction_2",
+      "eng": "It's about time.",
+      "chi": "是时候了。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_1_turn_1_instruction_3",
+      "eng": "[Summon] it by dragging onto the tile.",
+      "chi": "[召唤]将其拖到战场上。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_1_turn_1_failure_message_2",
+      "eng": "[Attack] the enemy General.",
+      "chi": "攻击敌方将领。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_1_turn_1_instruction_4",
+      "eng": "Minions must wait a turn to attack.",
+      "chi": "随从必须等待一回合才能攻击。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_1_turn_1_instruction_5",
+      "eng": "[Attack] the enemy General again!",
+      "chi": "再次攻击敌方将领！",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_1_turn_2_failure_message_1",
+      "eng": "[Summon] your Hailstone Golem onto the battlefield.",
+      "chi": "在战场上召唤你的冰雹石魔像。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_1_turn_2_instruction_1",
+      "eng": "[Summon] it!",
+      "chi": "召唤它！",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_1_turn_2_failure_message_2",
+      "eng": "[Attack] the enemy Silvermane diagonally with your General.",
+      "chi": "攻击你将军斜向的敌方银狮。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_1_turn_2_instruction_2",
+      "eng": "[Attack] diagonally to finish it off!",
+      "chi": "攻击斜向目标来终结它！",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_1_turn_2_failure_message_3",
+      "eng": "Click Here.",
+      "chi": "点击这里。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_1_turn_2_instruction_3",
+      "eng": "There will be no retreat.",
+      "chi": "没有退路",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_1_taunt_1",
+      "eng": "Minions, join me!",
+      "chi": "随从们，跟着我！",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_1_taunt_2",
+      "eng": "Taste these claws!",
+      "chi": "感受利爪！",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_1_taunt_3",
+      "eng": "You're on borrowed time!",
+      "chi": "你在使用额外时间！",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_2_title",
+      "eng": "Ready Player Two",
+      "chi": "后手玩家练习",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_2_description",
+      "eng": "Cast Spells on the battlefield.",
+      "chi": "在战场上施放法术。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_2_difficulty",
+      "eng": "2 Minutes",
+      "chi": "2分钟",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_2_start_message",
+      "eng": "Finish off General Rook in ONE turn!",
+      "chi": "在这回合内击败敌方将领。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_2_failure_message",
+      "eng": "Finish off General Rook in ONE turn.",
+      "chi": "在这回合内击败敌方将领。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_2_turn_0_failure_message_1",
+      "eng": "[Move] forward towards the nearest [Mana Spring].",
+      "chi": "向最近的魔泉移动。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_2_turn_0_instruction_1",
+      "eng": "You start on the [right side] as Player 2.",
+      "chi": "你是后手玩家位于战场的右侧。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_2_turn_0_instruction_2",
+      "eng": "You get an [extra mana] crystal.",
+      "chi": "你有一点额外的费用上限。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_2_turn_0_instruction_3",
+      "eng": "Occupy any [Mana Spring] to gain bonus Mana!",
+      "chi": "占据一个魔泉来获得额外的费用。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_2_turn_0_instruction_4",
+      "eng": "Now move to the closest [Mana Spring].",
+      "chi": "现在移动到最近的[魔泉]。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_2_turn_1_failure_message_1",
+      "eng": "[Move] to occupy the Mana Spring.",
+      "chi": "移动去占领魔泉。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_2_turn_1_instruction_1",
+      "eng": "Occupy the Mana Spring.",
+      "chi": "占领这个魔泉。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_2_turn_1_failure_message_2",
+      "eng": "[Summon] it!",
+      "chi": "召唤它！",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_2_turn_1_instruction_2",
+      "eng": "Great Job! You gained an [extra] Mana!",
+      "chi": "做的好！你现在获得额外的费用！",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_2_turn_1_instruction_3",
+      "eng": "[Summon] it!",
+      "chi": "召唤它！",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_2_turn_1_failure_message_3",
+      "eng": "[Replace] this by dragging it to the REPLACE area.",
+      "chi": "[替换]将其拖到替换区域。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_2_turn_1_instruction_4",
+      "eng": "You can replace [ONE] card anytime during your turn.",
+      "chi": "你每回合可以随时替换一张牌。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_2_turn_1_instruction_5",
+      "eng": "Drag this to the REPLACE area.",
+      "chi": "将其拖到替换区域。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_2_turn_1_failure_message_4",
+      "eng": "Cast [True Strike] onto the enemy Gro.",
+      "chi": "向着敌方随从使用至真一击。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_2_turn_1_instruction_6",
+      "eng": "A True Strike spell! Perfect timing!",
+      "chi": "至真一击！完美的时机！",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_2_turn_1_instruction_7",
+      "eng": "This deals 2 damage to a minion.",
+      "chi": "这将会对一个随从造成2点伤害。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_2_turn_1_instruction_8",
+      "eng": "[Drag] this spell over the enemy.",
+      "chi": "将此咒语拖到敌人身上。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_2_taunt_1",
+      "eng": "You're on borrowed time!",
+      "chi": "你在使用额外时间！",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_3_title",
+      "eng": "",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_3_description",
+      "eng": "",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_3_difficulty",
+      "eng": "",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_3_start_message",
+      "eng": "",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_3_failure_message",
+      "eng": "",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_4_title",
+      "eng": "The Bloodbound",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "lesson_4_description",
+      "eng": "Learn the power of Artifacts and Bloodbound Spells.",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "lesson_4_difficulty",
+      "eng": "3 Minutes",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "lesson_4_start_message",
+      "eng": "Defeat the Draugar Lord in ONE turn!",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "lesson_4_failure_message",
+      "eng": "Defeat the Draugar Lord in ONE turn.",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "lesson_4_mulligan_instruction_1",
+      "eng": "You can replace up to 2 cards in your starting hand.\n[Replace] this high cost card.",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "lesson_4_turn_0_failure_message_1",
+      "eng": "Drag your [Sunstone Bracers] onto the battlefield to equip it.",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "lesson_4_turn_0_instruction_1",
+      "eng": "Equip it to gain new abilities!",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "lesson_4_turn_0_instruction_2",
+      "eng": "[Drag] anywhere to equip onto your General.",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "lesson_4_turn_0_failure_message_2",
+      "eng": "[Move] your General forward into attack range.",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "lesson_4_turn_0_instruction_3",
+      "eng": "Let's see who wins head-to-head!",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "lesson_4_turn_0_instruction_4",
+      "eng": "[Move] forward into attack range.",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "lesson_4_turn_1_failure_message_1",
+      "eng": "[Summon] it!",
+      "chi": "召唤它！",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_4_turn_1_instruction_1",
+      "eng": "[Summon] it!",
+      "chi": "召唤它！",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_4_turn_1_failure_message_2",
+      "eng": "Drag your [Sunstone Bracers] onto the battlefield to equip it.",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "lesson_4_turn_1_instruction_2",
+      "eng": "Another Artifact to [equip]!",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "lesson_4_turn_1_failure_message_3",
+      "eng": "[Attack] the Draugar Lord with your General.",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "lesson_4_turn_1_instruction_3",
+      "eng": "Deal [+2 Attack] from your Artifacts!",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "lesson_4_turn_2_failure_message_1",
+      "eng": "Drag your [Bloodbound Spell] over your ally and buff it.",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "lesson_4_turn_2_instruction_1",
+      "eng": "Drag your [Bloodbound Spell] over your ally and buff it.",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "lesson_4_turn_2_failure_message_2",
+      "eng": "[Attack] the enemy General with your minion.",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "lesson_4_turn_2_instruction_2",
+      "eng": "[Attack] the enemy General with it.",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "lesson_4_turn_2_failure_message_3",
+      "eng": "[Attack] the enemy General with your General.",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "lesson_4_turn_2_instruction_3",
+      "eng": "[Attack] the enemy General.",
+      "chi": "攻击敌方将领。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "lesson_4_artifact_instruction_1",
+      "eng": "Artifacts have [THREE] durability.\nIf your General takes damage, it loses 1.",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "lesson_4_artifact_instruction_2",
+      "eng": "You can equip up to [THREE] Artifacts at a time.",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "lesson_4_taunt_1",
+      "eng": "Bring it ON!",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "lesson_4_bloodborn_instruction_1",
+      "eng": "Your [Bloodbound Spell] counts down each turn until it refreshes.",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "lesson_4_taunt_2",
+      "eng": "It's just you and me now!",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "lesson_4_taunt_3",
+      "eng": "You're on borrowed time!",
+      "chi": "你在使用额外时间！",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "tutorial_card_blazing_orb_name",
+      "eng": "Blazing Orb",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "tutorial_card_blazing_orb_desc",
+      "eng": "Deal 25 damage to the enemy General.",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    }
+  ]
+}

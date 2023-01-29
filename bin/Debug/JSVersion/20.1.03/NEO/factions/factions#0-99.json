@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.03",
+  "nodeCode": "factions",
+  "path": "factions",
+  "orderStart": 0,
+  "orderEnd": 99,
+  "translateItemList": [
+    {
+      "code": "faction_1_name",
+      "eng": "Lyonar Kingdoms",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_description",
+      "eng": "The Kingdom of Fallen Earth",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_resign_statement",
+      "eng": "I concede this battle to you!",
+      "chi": "我向你认输了！",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_abbreviated_name",
+      "eng": "Lyonar",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "faction_1_taunt_neutral",
+      "eng": "We will break you!",
+      "chi": "我们会撕碎你的！",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_taunt_f1",
+      "eng": "We will break you!",
+      "chi": "我们会撕碎你的！",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_taunt_f2",
+      "eng": "Our light will purify.",
+      "chi": "我们的光芒将净化你。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_taunt_f3",
+      "eng": "Our roar will turn your cities to dust!",
+      "chi": "我们的咆哮将碾碎你的城市！",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_taunt_f4",
+      "eng": "Our sun casts away all shadows.",
+      "chi": "我们的光芒将驱散阴影。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_taunt_f5",
+      "eng": "Nothing will hold us back.",
+      "chi": "没有什么能阻挡我们。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_taunt_f6",
+      "eng": "We are the sun unleashed.",
+      "chi": "我们是烈阳之光。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_taunt_boss",
+      "eng": "Your hollow armor means nothing to us.",
+      "chi": "你那空洞的铠甲毫无意义。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_response_neutral",
+      "eng": "Come companions, to arms!",
+      "chi": "来吧，伙伴们，拿起武器！",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_response_f1",
+      "eng": "Come companions, to arms!",
+      "chi": "来吧，伙伴们，拿起武器！",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_response_f2",
+      "eng": "Fire will only fuel our might!",
+      "chi": "火焰只会让我们变得更强大！",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_response_f3",
+      "eng": "You are no match to our blades!",
+      "chi": "比不过我们的利刃！",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_response_f4",
+      "eng": "Enlighten us.",
+      "chi": "引导我们。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_response_f5",
+      "eng": "We rise to the challenge!",
+      "chi": "我们迎接挑战！",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_response_f6",
+      "eng": "Keep together against the cold!",
+      "chi": "团结起来抵御寒冷！",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_response_boss",
+      "eng": "You'll enjoy the taste of our steel.",
+      "chi": "你会享受我们武器的味道。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_name",
+      "eng": "Songhai Empire",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_description",
+      "eng": "The Kingdom of Blossom Spring",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_abbreviated_name",
+      "eng": "Songhai",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "faction_2_taunt_neutral",
+      "eng": "Today you will taste your own blood.",
+      "chi": "今日，你将品尝你的血。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_taunt_f1",
+      "eng": "Melt inside your armor of gold!",
+      "chi": "融化在你的金盔甲里吧！",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_taunt_f2",
+      "eng": "Your spirit ancestors forsake you.",
+      "chi": "你的灵魂先祖抛弃了你。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_taunt_f3",
+      "eng": "Reflect upon your rage.",
+      "chi": "反思你的愤怒。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_taunt_f4",
+      "eng": "See you on the other side.",
+      "chi": "彼岸再会。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_taunt_f5",
+      "eng": "Today you will taste your own blood.",
+      "chi": "今日，你将品尝你的血。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_taunt_f6",
+      "eng": "Honor will not save you.",
+      "chi": "荣誉不会拯救你。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_taunt_boss",
+      "eng": "Our blades will tear out your insides!",
+      "chi": "我们的利刃将割开你的胸膛！",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_response_neutral",
+      "eng": "You'll never see the blade coming.",
+      "chi": "你永远也不会看见刺向你的剑。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_response_f1",
+      "eng": "Still taking your first step, little cub!",
+      "chi": "先迈出你的第一步，小可怜！",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_response_f2",
+      "eng": "You'll never see the blade coming.",
+      "chi": "你永远也不会看见刺向你的剑。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_response_f3",
+      "eng": "Watch sand burn!",
+      "chi": "看着沙子烧起来！",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_response_f4",
+      "eng": "Don't burn yourself in the darkness.",
+      "chi": "不要在黑暗中点燃自己。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_response_f5",
+      "eng": "This marks the end of your journey.",
+      "chi": "这标志着你旅途的结束。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_response_f6",
+      "eng": "Let's unravel your fate.",
+      "chi": "让我们解开你的命运。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_response_boss",
+      "eng": "Did no one teach you the danger of the flame?",
+      "chi": "没有人教你火很危险吗？",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_name",
+      "eng": "Vetruvian Imperium",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "faction_3_description",
+      "eng": "The Kingdom of Summer Light",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "faction_3_abbreviated_name",
+      "eng": "Vetruvian",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "faction_3_taunt_neutral",
+      "eng": "Witness the fury of the sands!",
+      "chi": "见证沙之怒！",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_taunt_f1",
+      "eng": "Your armor is nothing to the sands!",
+      "chi": "你的铠甲在沙子面前不值一提！",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_taunt_f2",
+      "eng": "The raging winds will erase your flames!",
+      "chi": "狂风会吹散你的火焰！",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_taunt_f3",
+      "eng": "Witness the fury of the sands!",
+      "chi": "见证沙之怒！",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_taunt_f4",
+      "eng": "We will bury you beneath our tombs.",
+      "chi": "我们将用你的尸骨修筑陵墓。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_taunt_f5",
+      "eng": "Today we decide your future.",
+      "chi": "今天我们决定你的未来。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_taunt_f6",
+      "eng": "We are untouchable.",
+      "chi": "我们是不可接触者。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_taunt_boss",
+      "eng": "The sands of time have deemed you unworthy!",
+      "chi": "时之沙认为你不值一提！",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_response_neutral",
+      "eng": "Sands of time, obey my command!",
+      "chi": "时之沙，听我令！",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_response_f1",
+      "eng": "Sands of time, obey my command!",
+      "chi": "时之沙，听我令！",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_response_f2",
+      "eng": "The fury of the sands!",
+      "chi": "沙之怒！",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_response_f3",
+      "eng": "Sands of time, obey my command!",
+      "chi": "时之沙，听我令！",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_response_f4",
+      "eng": "You cannot escape us.",
+      "chi": "你逃不掉的。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_response_f5",
+      "eng": "We will remember you.",
+      "chi": "我们会记住你。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_response_f6",
+      "eng": "Sands of time, obey my command!",
+      "chi": "时之沙，听我令！",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_response_boss",
+      "eng": "Choke on the sands!",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_name",
+      "eng": "Abyssian Host",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_description",
+      "eng": "The Kingdom of Winter Darkness",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_abbreviated_name",
+      "eng": "Abyssian",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_taunt_neutral",
+      "eng": "We will deliver you to your deathbed.",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_taunt_f1",
+      "eng": "Your pride hides in our shadows!",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_taunt_f2",
+      "eng": "Be engulfed in shadow!",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_taunt_f3",
+      "eng": "You need not seek shelter.",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_taunt_f4",
+      "eng": "Return to the darkness!",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_taunt_f5",
+      "eng": "Be engulfed in shadow!",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_taunt_f6",
+      "eng": "Sow the seeds of strife!",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_taunt_boss",
+      "eng": "Your death will change nothing.",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_response_neutral",
+      "eng": "You need not fear death.",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_response_f1",
+      "eng": "Feel the edge of suffering.",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_response_f2",
+      "eng": "Feel the shadow of despair.",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_response_f3",
+      "eng": "You need not fear death.",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_response_f4",
+      "eng": "Embrace death!",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_response_f5",
+      "eng": "Shadows increase!",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_response_f6",
+      "eng": "A new moon is rising.",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_response_boss",
+      "eng": "Shadows fear neither teeth nor claw.",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_name",
+      "eng": "Magmar Aspects",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_description",
+      "eng": "The First Guardians",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_abbreviated_name",
+      "eng": "Magmar",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_taunt_neutral",
+      "eng": "Our strength is boundless.",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_taunt_f1",
+      "eng": "Our strength is boundless.",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_taunt_f2",
+      "eng": "We are powerful beyond your dreams.",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_taunt_f3",
+      "eng": "We are timeless.",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_taunt_f4",
+      "eng": "Your corruption will spread no further.",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_taunt_f5",
+      "eng": "Generations dwell within me.",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_taunt_f6",
+      "eng": "Another unworthy opponent.",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_taunt_boss",
+      "eng": "We've come to collect your debts.",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_response_neutral",
+      "eng": "We will be reborn!",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_response_f1",
+      "eng": "Your ancestors paid a debt to us.",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_response_f2",
+      "eng": "Your fire will be ours.",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_response_f3",
+      "eng": "We will be reborn!",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_response_f4",
+      "eng": "We're just getting started!",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_response_f5",
+      "eng": "Time makes all things possible.",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_response_f6",
+      "eng": "We will not offer sanctuary.",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_response_boss",
+      "eng": "Time makes all things possible.",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_name",
+      "eng": "Vanar Kindred",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_description",
+      "eng": "The First Protectors",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_abbreviated_name",
+      "eng": "Vanar",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_taunt_neutral",
+      "eng": "Frostbite will tear away your strength!",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    }
+  ]
+}

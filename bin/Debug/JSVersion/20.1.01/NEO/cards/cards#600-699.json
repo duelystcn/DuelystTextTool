@@ -22,7 +22,7 @@
     {
       "code": "d2_neutral_frostbone_naga_desc",
       "eng": "Opening Gambit: Deal 2 damage to nearby units.",
-      "chi": "登场：对相邻的所有单位造成2点伤害。",
+      "chi": "登场：对相邻的所有单位造\n成2点伤害。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -57,7 +57,7 @@
     {
       "code": "d2_neutral_mindwarper_desc",
       "eng": "Players replace cards from their opponent's deck.",
-      "chi": "玩家替换卡时改为从对手牌库进行操作。",
+      "chi": "玩家替换卡时改为\n从对手牌库进行操作。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -71,7 +71,7 @@
     {
       "code": "d2_neutral_moebius_desc",
       "eng": "Airdrop\nOpening Gambit: Spend your remaining mana. This gains +1/+1 for each mana spent.",
-      "chi": "空降\n登场：消耗你所有的剩余法力，每消耗一点，此随从获得+1/+1。",
+      "chi": "空降\n登场：消耗你所有的剩余\n法力，每消耗一点，此随\n从获得+1/+1。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -85,7 +85,7 @@
     {
       "code": "d2_neutral_owlbeast_sage_desc",
       "eng": "When you play a spell, allied Arcanysts gain +0/+2.",
-      "chi": "每当你使用一张法术，所有奥术师获得 +0/+2。",
+      "chi": "每当你使用一张法术，\n所有奥术师获得 +0/+2。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -99,7 +99,7 @@
     {
       "code": "d2_neutral_primus_shieldmaster_desc",
       "eng": "Provoke\nAt the end of your turn, give nearby allied minions +0/+1.",
-      "chi": "嘲讽\n在你的回合结束时，使相邻的友方随从获得 +0/+1。",
+      "chi": "嘲讽\n在你的回合结束时，使相邻\n的友方随从获得 +0/+1。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -113,7 +113,7 @@
     {
       "code": "d2_neutral_purgatos_desc",
       "eng": "When this attacks, heal your General for 2. When this counterattacks, deal 2 damage to the enemy General.",
-      "chi": "每当此随从攻击时，治疗你的将领2点生命。\n每当此随从反击时，对敌方将领造成两点伤害。",
+      "chi": "每当此随从攻击时，\n治疗你的将领2点生命。\n每当此随从反击时，\n对敌方将领造成两点伤害。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -127,7 +127,7 @@
     {
       "code": "d2_neutral_silhouette_tracer_desc",
       "eng": "Opening Gambit: Teleport your General up to 4 spaces.",
-      "chi": "登场：将你的将领传送至多4格。",
+      "chi": "登场：将你的将领\n传送至多4格。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -141,7 +141,7 @@
     {
       "code": "d2_neutral_sun_elemental_desc",
       "eng": "At the end of your turn, this gains +2/-1.",
-      "chi": "在你的回合结束时，此随从获得+2/-1。",
+      "chi": "在你的回合结束时，\n此随从获得+2/-1。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -169,7 +169,7 @@
     {
       "code": "d2_neutral_thorn_needler_desc",
       "eng": "When this takes damage, it gains +2/+0 until your next turn.",
-      "chi": "每当此随从受到伤害时，此随从获得+2/+0直到你的下个回合开始。",
+      "chi": "每当此随从受到伤害时，\n此随从获得+2/+0直到\n你的下个回合开始。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -183,7 +183,7 @@
     {
       "code": "d2_neutral_white_widow_desc",
       "eng": "When you replace a card, deal 2 damage split randomly among enemies.",
-      "chi": "每当你替换一张牌时，在所有敌方单位中随机分配2点伤害。",
+      "chi": "每当你替换一张牌时，\n在所有敌方单位中随\n机分配2点伤害。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -211,7 +211,7 @@
     {
       "code": "d2_neutral_ash_mephytt_desc",
       "eng": "Opening Gambit: Summon two exact copies of this nearby.",
-      "chi": "登场：在相邻位置召唤两个此随从的精准复制。",
+      "chi": "登场：在相邻位置召唤\n两个此随从的精准复制。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -246,7 +246,7 @@
     {
       "code": "d2_neutral_dancing_blades_desc",
       "eng": "Opening Gambit: Deal 3 damage to the minion in front of this.",
-      "chi": "登场：对此随从正前方的随从造成3点伤害。",
+      "chi": "登场：对此随从正前方的\n随从造成3点伤害。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -260,7 +260,7 @@
     {
       "code": "d2_neutral_fireblazer_desc",
       "eng": "At the start of each turn, deal 1 damage to both Generals.",
-      "chi": "在每个回合开始时，对双方将领造成1点伤害。",
+      "chi": "在每个回合开始时，对双方\n将领造成1点伤害。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -274,7 +274,7 @@
     {
       "code": "d2_neutral_firestarter_desc",
       "eng": "When you play a spell, summon a Spellspark on a random nearby space.",
-      "chi": "每当你使用一张法术时，在此随从随机相邻位置召唤一个火苗(1/1 冲锋)。",
+      "chi": "每当你使用一张法术时，在\n此随从随机相邻位置召唤一\n个火苗(1/1 冲锋)。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -302,7 +302,7 @@
     {
       "code": "d2_neutral_hollow_grovekeeper_desc",
       "eng": "Frenzy\nOpening Gambit: Give nearby allied minions Provoke.",
-      "chi": "狂暴\n登场：使相邻友方随从获得嘲讽。",
+      "chi": "狂暴\n登场：使相邻友方随从\n获得嘲讽。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -316,7 +316,7 @@
     {
       "code": "d2_neutral_keeper_of_the_vale_desc",
       "eng": "Opening Gambit: Put a 1 cost 1/1 copy of another allied minion into your action bar.",
-      "chi": "登场：在你的准备栏放入一张其他友方随从的复制品，该复制品的攻防为1/1，费用为1。",
+      "chi": "登场：在你的准备栏放入一\n张其他友方随从的复制品，\n该复制品的攻防为1/1，\n费用为1。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -330,7 +330,7 @@
     {
       "code": "d2_neutral_lux_ignis_desc",
       "eng": "Ranged\nAt the end of your turn, heal nearby allies for 2.",
-      "chi": "远程\n在你的回合结束时，为相邻的友方单位治疗2点生命。",
+      "chi": "远程\n在你的回合结束时，为相邻\n的友方单位治疗2点生命。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -344,7 +344,7 @@
     {
       "code": "d2_neutral_rogue_warden_desc",
       "eng": "Ranged\nThis has +1/+0 for each nearby ally.",
-      "chi": "远程\n此随从每有一个相邻的友方单位，就具有 +1/+0。",
+      "chi": "远程\n此随从每有一个相邻的友方\n单位，就具有 +1/+0。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -358,7 +358,7 @@
     {
       "code": "d2_neutral_sworn_defender_desc",
       "eng": "Provoke\nOpening Gambit: This gains +0/+1 for each nearby enemy.",
-      "chi": "嘲讽\n登场：每有一个相邻的敌方单位，此随从获得 +0/+1。",
+      "chi": "嘲讽\n登场：每有一个相邻的敌方\n单位，此随从获得 +0/+1。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -372,7 +372,7 @@
     {
       "code": "d2_neutral_the_high_hand_desc",
       "eng": "Opening Gambit: This gains +1/+1 for each card in your opponent's action bar.",
-      "chi": "登场：你的对手每有一张手牌，此随从获得+1/+1。",
+      "chi": "登场：你的对手每有一张\n手牌，此随从获得+1/+1。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -386,7 +386,7 @@
     {
       "code": "d2_neutral_twilight_sorcerer_desc",
       "eng": "Opening Gambit: Put a copy of a random spell you have played into your action bar.",
-      "chi": "登场：随机复制一张你曾使用过的法术并放入你的准备栏。",
+      "chi": "登场：随机复制一张你曾使用\n过的法术并放入你的准备栏。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -400,7 +400,7 @@
     {
       "code": "d2_neutral_archon_spellbinder_desc",
       "eng": "Your opponent's spells cost 1 more to play.",
-      "chi": "你对手使用的法术增加1点费用。",
+      "chi": "你对手使用的法术\n增加1点费用。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -414,7 +414,7 @@
     {
       "code": "d2_neutral_bonereaper_desc",
       "eng": "Provoke\nAt the end of your turn, deal 2 damage to nearby enemy minions.",
-      "chi": "嘲讽\n在你的回合结束时，对此随从相邻的敌方随从造成2点伤害。",
+      "chi": "嘲讽\n在你的回合结束时，对此随\n从相邻的敌方随从造成2点\n伤害。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -442,7 +442,7 @@
     {
       "code": "d2_neutral_eclipse_desc",
       "eng": "When this takes damage, deal that much damage to the enemy General.",
-      "chi": "每当此随从受到伤害，对敌方将领造成等量的伤害。",
+      "chi": "每当此随从受到伤害，对敌\n方将领造成等量的伤害。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -456,7 +456,7 @@
     {
       "code": "d2_neutral_first_sword_of_akrane_desc",
       "eng": "Other allies have +1/+0.",
-      "chi": "所有其他友方单位获得 +1/+0。",
+      "chi": "所有其他友方单位\n获得 +1/+0。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -470,7 +470,7 @@
     {
       "code": "d2_neutral_jax_truesight_desc",
       "eng": "Ranged\nOpening Gambit: Summon a Mini-Jax on each corner space of the battlefield.",
-      "chi": "远程\n登场：在战场的每个角落召唤一个小杰斯斯(1/1 远程)。",
+      "chi": "远程\n登场：在战场的每个角落召\n唤一个小杰斯斯(1/1 远程)。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -498,7 +498,7 @@
     {
       "code": "d2_neutral_storm_aratha_desc",
       "eng": "Flying\nWhen this attacks an enemy, deal 3 damage to enemies nearby that enemy.",
-      "chi": "每当此随从攻击一个敌方单位时，对与攻击目标相邻的敌方单位造成3点伤害。",
+      "chi": "每当此随从攻击一个敌方\n单位时，对与攻击目标相\n邻的敌方单位造成3点伤害。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -519,7 +519,7 @@
     {
       "code": "d2_neutral_zenrui_desc",
       "eng": "Opening Gambit: Take control of a nearby enemy minion with 2 or less Attack.",
-      "chi": "登场：获得一个相邻的攻击小于等于2的敌方随从的控制权。",
+      "chi": "登场：获得一个相邻的攻击\n小于等于2的敌方随从的\n控制权。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -533,7 +533,7 @@
     {
       "code": "d2_neutral_astral_crusader_desc",
       "eng": "At the start of each turn, switch the positions of both Generals.",
-      "chi": "在每个回合开始时，交换双方将领位置。",
+      "chi": "在每个回合开始时，\n交换双方将领位置。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -547,7 +547,7 @@
     {
       "code": "d2_neutral_dark_nemesis_desc",
       "eng": "At the start of your turn, this gains +4/+0. Deal 4 damage to the enemy General.",
-      "chi": "在你的回合开始时，此随从获得 +4/+0，对敌方将领造成4点伤害。",
+      "chi": "在你的回合开始时，此随从\n获得 +4/+0，对敌方将领造\n成4点伤害。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -568,7 +568,7 @@
     {
       "code": "d2_neutral_grailmaster_desc",
       "eng": "When you summon a minion, this gains a new random keyword from Celerity, Flying, Frenzy, Provoke, and Ranged.",
-      "chi": "每当你召唤一个随从时，此随从在迅捷，飞行，狂暴，嘲讽，远程中获得一个未拥有的关键词。",
+      "chi": "每当你召唤一个随从时，此\n随从在迅捷，飞行，狂暴，\n嘲讽，远程中获得一个未拥\n有的关键词。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -582,7 +582,7 @@
     {
       "code": "d2_neutral_paddo_desc",
       "eng": "Airdrop\nOpening Gambit: Teleport nearby units to random spaces.",
-      "chi": "空降\n登场：将所有相邻单位传送到随机位置。",
+      "chi": "空降\n登场：将所有相邻单位\n传送到随机位置。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -596,7 +596,7 @@
     {
       "code": "d2_neutral_pandora_desc",
       "eng": "At the end of your turn, summon a random Spirit on a random nearby space.",
-      "chi": "在你的回合结束时，在此随从相邻随机位置召唤一个幻兽(3/3 具有随机关键词)。",
+      "chi": "在你的回合结束时，在此随\n从相邻随机位置召唤一个幻\n兽(3/3 具有随机关键词)。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -610,7 +610,7 @@
     {
       "code": "d2_neutral_red_synja_desc",
       "eng": "When your General takes damage, this deals 7 damage to a random nearby enemy minion.",
-      "chi": "当你的将领受到伤害时，此随从对随机一个相邻敌方随从造成7点伤害。",
+      "chi": "当你的将领受到伤害时，此\n随从对随机一个相邻敌方随\n从造成7点伤害。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -624,7 +624,7 @@
     {
       "code": "d2_neutral_rook_desc",
       "eng": "Opening Gambit: This moves forward until a unit is in front of it. Deal damage equal to the number of spaces moved to that unit.",
-      "chi": "登场：此随从向前移动直到正前方存在一个单位，对那个单位造成等同于移动距离的伤害。",
+      "chi": "登场：此随从向前移动直到\n正前方存在一个单位，对那\n个单位造成等同于移动距离\n的伤害。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -638,7 +638,7 @@
     {
       "code": "d2_neutral_war_talon_desc",
       "eng": "When this attacks an enemy minion, deal excess damage dealt to the enemy General.",
-      "chi": "每当此随从攻击一个敌方随从时，对敌方将领造成这次攻击产生的过量伤害。",
+      "chi": "每当此随从攻击一个敌方\n随从时，对敌方将领造成\n这次攻击产生的过量伤害。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -666,7 +666,7 @@
     {
       "code": "d2_neutral_zurael_the_lifegiver_desc",
       "eng": "Airdrop, Flying\nOpening Gambit: Summon other allied minions that were destroyed since your last turn on random spaces.",
-      "chi": "空降，飞行\n登场：在随机位置召唤所有从你的上个回合到现在被摧毁的友方随从。",
+      "chi": "空降，飞行\n登场：在随机位置召唤所有\n从你的上个回合到现在被摧\n毁的友方随从。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -680,7 +680,7 @@
     {
       "code": "d2_neutral_khymera_desc",
       "eng": "When this takes damage, summon a random token minion on a random nearby space.",
-      "chi": "每当此随从受到伤害时，在相邻随机位置召唤一个随机衍生物。",
+      "chi": "每当此随从受到伤害时，在\n相邻随机位置召唤一个随机\n衍生物。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },
@@ -694,7 +694,7 @@
     {
       "code": "d2_neutral_zukong_desc",
       "eng": "Opening Gambit: Give all enemies \"This moves and attacks automatically.\" until your next turn.",
-      "chi": "登场：所有敌方单位将会自动移动和攻击直到你的下个回合开始。",
+      "chi": "登场：所有敌方单位将会自\n动移动和攻击直到你的下个\n回合开始。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },

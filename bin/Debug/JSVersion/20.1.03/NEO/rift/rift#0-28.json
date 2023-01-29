@@ -1,0 +1,212 @@
+{
+  "versionCode": "20.1.03",
+  "nodeCode": "rift",
+  "path": "rift",
+  "orderStart": 0,
+  "orderEnd": 28,
+  "translateItemList": [
+    {
+      "code": "rift_title",
+      "eng": "The Rift",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "start_run_button_label",
+      "eng": "Start Run",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "rift_level_label",
+      "eng": "LEVEL: {{level}}",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "rift_rating_label",
+      "eng": "RATING: {{rating}}",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "progress_to_next_level_message",
+      "eng": "progress to next level",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "progress_over_required_xp_message",
+      "eng": "{{current}} / {{required}}",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "upgrade_count_button_label",
+      "eng": "LEVEL UP ({{upgradesAvailableCount}})",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "improve_deck_message",
+      "eng": "Improve your deck by upgrading cards.",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "select_card_to_upgrade_message",
+      "eng": "SELECT A CARD TO UPGRADE",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "select_a_new_card_message",
+      "eng": "Select a new card",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "save_upgrade_button_label",
+      "eng": "SAVE UPGRADE",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "save_upgrade_confirmation_title",
+      "eng": "Save Upgrade",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "save_upgrade_confirmation_body",
+      "eng": "Saving an upgrade will allow you to use it in your NEXT RIFT RUN.  Are you sure you wish to do this?",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "choose_card_upgrade_instruction_message",
+      "eng": "Choose a card to replace",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "upgrade_details_message",
+      "eng": "You will get a choice of 6 cards to replace the selected card with.",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "upgrade_details_with_stored_packs_message",
+      "eng": "You will get a choice of cards that you saved from previous Rift Runs.\nYou have {{storedPacks}} saved packs remaining.\nThese upgrades cannot be saved again.",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "upgrade_added_details_max_saved_message",
+      "eng": "\nYou have the max (10) number of saved upgrades and WILL NOT be able to save this for a future run.",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "upgrade_added_details_current_saved_message",
+      "eng": "\nYou have {{storedUpgradeCount}} saved upgrades and will be able to save this for a future run.",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "purchase_rift_ticket_message",
+      "eng": "Purchase Rift Ticket:",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "stored_upgrade_count_label",
+      "eng": "Stored Upgrades: {{getStoredRiftUpgradesCount}} / 10",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "no_active_rift_runs_message",
+      "eng": "You have no active rift runs yet.",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "select_general_message",
+      "eng": "SELECT YOUR GENERAL",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "select_card_message",
+      "eng": "SELECT A CARD",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "confirm_replace_card_message",
+      "eng": "Are you sure you want to replace this card?",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "empty_rift_instruction_header",
+      "eng": "In Rift Mode, you build a deck over time by upgrading cards one-by-one.",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "empty_rift_instruction_p1",
+      "eng": "Every Rift Run starts with a Basic Deck.",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "empty_rift_instruction_p2",
+      "eng": "You earn Rift XP as you play, which alows you to level up your Deck.",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "empty_rift_instruction_p3",
+      "eng": "Each time you level up a Rift Run, you can replace one card from your deck with a new card from a pack of 6.",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    },
+    {
+      "code": "empty_rift_instruction_p4",
+      "eng": "Your first Rift Run is free and starts with 5 upgrades.",
+      "chi": "",
+      "originVersionCode": "20.1.03",
+      "translateState": 0
+    }
+  ]
+}

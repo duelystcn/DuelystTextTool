@@ -8,72 +8,72 @@
     {
       "code": "instructions",
       "eng": "Defeat AI controlled Boss Decks for special rewards.",
-      "chi": "",
+      "chi": "击败AI控制的Boss牌组获得特殊奖励。",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "boss_battle_available",
       "eng": "Boss Battle Available",
-      "chi": "",
+      "chi": "Boss战可用",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "boss_battle_upcoming",
       "eng": "Upcoming Boss Battle",
-      "chi": "",
+      "chi": "Boss战即将到来",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "defeated",
       "eng": "Defeated",
-      "chi": "",
+      "chi": "击败",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "play_button_label",
       "eng": "Battle",
-      "chi": "",
+      "chi": "战斗",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "boss_1_name",
       "eng": "Boreal Juggernaut",
-      "chi": "",
+      "chi": "极地巨兽",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "boss_1_desc",
       "eng": "Frenzy\nWhenever this damages an enemy minion, it is stunned.",
-      "chi": "",
+      "chi": "狂暴\n每当此单位对敌方随从造成伤害时，眩晕该随从。",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "boss_1_bio",
       "eng": "A walking mountain of ice and fury that can not be contained.",
-      "chi": "",
+      "chi": "一座无法阻挡的狂暴冰山。",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "boss_2_name",
       "eng": "Umbra",
-      "chi": "",
+      "chi": "幽影",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "boss_2_desc",
       "eng": "Whenever an enemy summons a minion, summon a 1 health clone nearby your General.",
-      "chi": "",
+      "chi": "每当一个对手召唤一个随从时，在你的将领相邻位置召唤一个1点生命的该随从的复制。",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "boss_2_bio",

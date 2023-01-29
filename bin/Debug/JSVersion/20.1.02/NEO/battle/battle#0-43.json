@@ -1,0 +1,317 @@
+{
+  "versionCode": "20.1.02",
+  "nodeCode": "battle",
+  "path": "battle",
+  "orderStart": 0,
+  "orderEnd": 43,
+  "translateItemList": [
+    {
+      "code": "finding_game",
+      "eng": "Searching",
+      "chi": "寻找中",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "starting_practice_game",
+      "eng": "Starting",
+      "chi": "预备中",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "loading_battle",
+      "eng": "Loading Battle",
+      "chi": "加载战斗中",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "existing_battle_in_progress",
+      "eng": "Game in Progress",
+      "chi": "游戏进行中",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "continue_battle_button_label",
+      "eng": "Continue",
+      "chi": "继续",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "choose_starting_hand_title",
+      "eng": "Choose Starting Hand",
+      "chi": "选择起始手牌",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "choose_starting_hand_instructions",
+      "eng": "Click to replace up to 2 cards.",
+      "chi": "点击来替换最多2张牌。",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "choose_starting_hand_confirm_button_label",
+      "eng": "Confirm",
+      "chi": "确认",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "opponent_connection_status_connecting",
+      "eng": "Opponent connecting",
+      "chi": "对手连接中",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "opponent_connection_status_connected",
+      "eng": "Opponent connected",
+      "chi": "对手已连接上",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "replace_button_label",
+      "eng": "Replace",
+      "chi": "替换",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "hand_indicator_label",
+      "eng": "Hand",
+      "chi": "手牌",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "deck_indicator_label",
+      "eng": "Deck",
+      "chi": "牌库",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "emote_category_default",
+      "eng": "Default",
+      "chi": "默认",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "emote_category_faction",
+      "eng": "Faction",
+      "chi": "阵营",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "emote_category_other",
+      "eng": "Other",
+      "chi": "其他",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "your_name_default_label",
+      "eng": "You",
+      "chi": "你",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "opponent_name_default_label",
+      "eng": "Opponent",
+      "chi": "对手",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "battle_log_label",
+      "eng": "Battlelog",
+      "chi": "战斗日志",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "turn_button_label_enemy_turn",
+      "eng": "Enemy Turn",
+      "chi": "敌方回合",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "turn_button_label_end_turn",
+      "eng": "End Turn",
+      "chi": "结束回合",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "turn_button_label_restart_turn",
+      "eng": "Restart Turn",
+      "chi": "重新开始",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "menu_button_label",
+      "eng": "Menu",
+      "chi": "菜单",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "esc_menu_fast_forward_label",
+      "eng": "Skip Ongoing Animations",
+      "chi": "跳过正在执行的动画",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "esc_menu_end_game_label",
+      "eng": "End Game",
+      "chi": "结束游戏",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "esc_menu_concede_label",
+      "eng": "Concede",
+      "chi": "认输",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "esc_menu_more_settings_label",
+      "eng": "Settings",
+      "chi": "设置",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "esc_menu_friends_label",
+      "eng": "Friends",
+      "chi": "好友",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "card_instructions_attack",
+      "eng": "Attack",
+      "chi": "攻击",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "card_instructions_health",
+      "eng": "Health",
+      "chi": "生命",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "card_instructions_mana_cost",
+      "eng": "Mana",
+      "chi": "费用",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "outcome_victory",
+      "eng": "Victory",
+      "chi": "胜利",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "outcome_defeat",
+      "eng": "Defeat",
+      "chi": "失败",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "outcome_draw",
+      "eng": "Draw",
+      "chi": "平局",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "zero_xp_earned",
+      "eng": "+0 XP",
+      "chi": "+0 XP",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "unscored_game_xp_notice",
+      "eng": "Games with insufficient gameplay do not earn XP or rewards.",
+      "chi": "游戏性不足的游戏模式不会获得经验或奖励",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "max_practice_xp_reached_notice",
+      "eng": "Single Player and Friendly games stop rewarding XP at level 10. Play Ranked Games to earn more XP and rewards up to max level.",
+      "chi": "单人模式和好友切磋在10级时不在奖励经验。天梯对战以获得更多的经验和级别的奖励。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "gold_tip_button_label",
+      "eng": "Tip 5 Gold",
+      "chi": "赠送5金币",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "gold_tip_button_tooltip",
+      "eng": "Tip opponent with a small amount of YOUR gold.",
+      "chi": "用少量你的金币来答谢对方。",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "gold_tip_confirm_message",
+      "eng": "Are you sure you want to tip with 5 of your OWN gold?",
+      "chi": "你确认要从你的金币中赠送5金币吗?",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "report_opponent_button_label",
+      "eng": "Report",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "max_daily_win_rewards_reached",
+      "eng": "Max Daily Win Rewards reached.",
+      "chi": "已达到每日奖励上限。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "progress_towards_next_win_counter_reward",
+      "eng": "{{x}}/3 wins towards next Reward.",
+      "chi": "{{x}}/3 胜场赢得下一次奖励。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "level_up_notice",
+      "eng": "Leveled up",
+      "chi": "等级提升",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    }
+  ]
+}

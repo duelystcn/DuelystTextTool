@@ -57,16 +57,16 @@
     {
       "code": "not_enough_mana_message",
       "eng": "You don't have enough Mana.",
-      "chi": "",
+      "chi": "你没有足够的法力。",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "cannot_do_that_message",
       "eng": "Cannot do that.",
-      "chi": "",
+      "chi": "不能这样做。",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "game_is_over_message",
@@ -99,37 +99,37 @@
     {
       "code": "unit_cannot_move_message",
       "eng": "This unit cannot move!",
-      "chi": "",
+      "chi": "这个单位无法移动！",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "invalid_move_position_message",
       "eng": "This unit cannot move there!",
-      "chi": "",
+      "chi": "这个单位无法移动到这里！",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "invalid_attack_message",
       "eng": "This isn't a valid attack!",
-      "chi": "",
+      "chi": "这不是有效的攻击！",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "unit_cannot_attack_message",
       "eng": "This unit cannot attack!",
-      "chi": "",
+      "chi": "这个单位不能发起攻击！",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "invalid_attack_position_message",
       "eng": "This unit cannot attack there!",
-      "chi": "",
+      "chi": "这个单位不能对目标发起攻击！",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "invalid_followup_message",
@@ -155,9 +155,9 @@
     {
       "code": "invalid_card_message",
       "eng": "That isn't a valid card!",
-      "chi": "",
+      "chi": "那不是有效的卡牌！",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "invalid_card_target_message",
@@ -169,23 +169,23 @@
     {
       "code": "card_isnt_ready_message",
       "eng": "That card isn't ready yet!",
-      "chi": "",
+      "chi": "这张牌还没准备好！",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "invalid_card_to_replace_message",
       "eng": "Cannot replace that card.",
-      "chi": "",
+      "chi": "不能替换这张牌。",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "out_of_replaces_message",
       "eng": "Cannot replace another card this turn.",
-      "chi": "",
+      "chi": "这回合不能替换其他的牌。",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "card_has_been_removed_message",

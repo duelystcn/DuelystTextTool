@@ -456,23 +456,23 @@
     {
       "code": "immune_to_spells_name",
       "eng": "Veil",
-      "chi": "",
+      "chi": "帷幕",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "immune_to_spells_def",
       "eng": "Cannot be targeted by spells",
-      "chi": "",
+      "chi": "不能成为法术的目标。",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "immune_to_spells_by_enemy_def",
       "eng": "Cannot be targeted by enemy spells",
-      "chi": "",
+      "chi": "不能成为敌方法术的目标。",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "inkhorn_gaze_name",

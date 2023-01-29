@@ -148,7 +148,7 @@
     {
       "code": "faction_1_spell_roar_description",
       "eng": "Give a friendly minion nearby your General +2 Attack.",
-      "chi": "使与你将领相邻的一个友方随从获得 +2/+0。",
+      "chi": "使与你将领相邻的一个友方\n随从获得 +2/+0。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },

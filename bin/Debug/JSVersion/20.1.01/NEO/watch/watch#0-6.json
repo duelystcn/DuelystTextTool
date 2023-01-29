@@ -8,30 +8,30 @@
     {
       "code": "live_streams_label",
       "eng": "Live Streams",
-      "chi": "",
+      "chi": "直播",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "replays_label",
       "eng": "Replays",
-      "chi": "",
+      "chi": "回放",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "empty_division_replays_message",
       "eng": "No games to watch in this division yet. Check back soon!",
-      "chi": "",
+      "chi": "暂时没有比赛可以观看，请稍后再来！",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "watch_on_twitch_message",
       "eng": "Watch on Twitch",
-      "chi": "",
+      "chi": "在Twitch上观看",
       "originVersionCode": "20.1.01",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "stream_live_message",

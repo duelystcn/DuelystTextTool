@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.02",
+  "nodeCode": "cosmetics",
+  "path": "cosmetics",
+  "orderStart": 600,
+  "orderEnd": 699,
+  "translateItemList": [
+    {
+      "code": "emote_maehv_sleep_name",
+      "eng": "Sleepy Maehv",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_maehv_sleep_desc",
+      "eng": "Sleepy.",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_maehv_sunglasses_name",
+      "eng": "Sunglasses Maehv",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_maehv_sunglasses_desc",
+      "eng": "Sunglasses",
+      "chi": "太阳镜",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "emote_maehv_confused_name",
+      "eng": "Confused Maehv",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_maehv_confused_desc",
+      "eng": "Confused",
+      "chi": "困惑",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "emote_maehv_love_name",
+      "eng": "Kissing Maehv",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_maehv_love_desc",
+      "eng": "Kiss",
+      "chi": "吻",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "emote_starhorn_wink_name",
+      "eng": "Winking Starhorn",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_starhorn_wink_desc",
+      "eng": "Wink wink!",
+      "chi": "Wink wink!",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "emote_starhorn_happy_name",
+      "eng": "Happy Starhorn",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_starhorn_happy_desc",
+      "eng": "I found the One!",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_starhorn_angry_name",
+      "eng": "Angry Starhorn",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_starhorn_angry_desc",
+      "eng": "Rage of a thousand lifetimes.",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_starhorn_sad_name",
+      "eng": "Sad Starhorn",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_starhorn_sad_desc",
+      "eng": "Diretide Tears.",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_starhorn_frustrated_name",
+      "eng": "Frustrated Starhorn",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_starhorn_frustrated_desc",
+      "eng": "Ugh...",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_starhorn_surprised_name",
+      "eng": "Surprised Starhorn",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_starhorn_surprised_desc",
+      "eng": "Unstable Leviathan worked?",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_starhorn_bow_name",
+      "eng": "Bowing Starhorn",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_starhorn_bow_desc",
+      "eng": "Namaste.",
+      "chi": "合十礼",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "emote_starhorn_sleep_name",
+      "eng": "Sleepy Starhorn",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_starhorn_sleep_desc",
+      "eng": "Go sleep and be reborn!",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_starhorn_sunglasses_name",
+      "eng": "Sunglasses Starhorn",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_starhorn_sunglasses_desc",
+      "eng": "Matches my Adamantite Claws!",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_starhorn_confused_name",
+      "eng": "Confused Starhorn",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_starhorn_confused_desc",
+      "eng": "Who stole my mind?",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_starhorn_love_name",
+      "eng": "Kissy Starhorn",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_starhorn_love_desc",
+      "eng": "My heart goes out to you.",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_ragnora_wink_name",
+      "eng": "Winking Ragnora",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_ragnora_wink_desc",
+      "eng": "Wink",
+      "chi": "Wink",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "emote_ragnora_happy_name",
+      "eng": "Happy Ragnora",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_ragnora_happy_desc",
+      "eng": "Happy",
+      "chi": "开心",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "emote_ragnora_angry_name",
+      "eng": "Angry Ragnora",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_ragnora_angry_desc",
+      "eng": "Angry",
+      "chi": "生气",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "emote_ragnora_sad_name",
+      "eng": "Sad Ragnora",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_ragnora_sad_desc",
+      "eng": "Sad",
+      "chi": "悲伤",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "emote_ragnora_frustrated_name",
+      "eng": "Frustrated Ragnora",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_ragnora_frustrated_desc",
+      "eng": "Frustrated",
+      "chi": "沮丧",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "emote_ragnora_surprised_name",
+      "eng": "Surprised Ragnora",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_ragnora_surprised_desc",
+      "eng": "Surprised",
+      "chi": "惊讶",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "emote_ragnora_bow_name",
+      "eng": "Bowing Ragnora",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_ragnora_bow_desc",
+      "eng": "Bow",
+      "chi": "鞠躬",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "emote_ragnora_sleep_name",
+      "eng": "Sleepy Ragnora",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_ragnora_sleep_desc",
+      "eng": "Sleep",
+      "chi": "困乏",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "emote_ragnora_sunglasses_name",
+      "eng": "Sunglasses Ragnora",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_ragnora_sunglasses_desc",
+      "eng": "Sunglasses",
+      "chi": "太阳镜",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "emote_ragnora_confused_name",
+      "eng": "Confused Ragnora",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_ragnora_confused_desc",
+      "eng": "Confused",
+      "chi": "困惑",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "emote_ragnora_love_name",
+      "eng": "Kiss Ragnora",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_ragnora_love_desc",
+      "eng": "Kiss",
+      "chi": "吻",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "emote_kara_wink_name",
+      "eng": "Winking Kara",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_kara_wink_desc",
+      "eng": "Wink wink!",
+      "chi": "Wink wink!",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "emote_kara_happy_name",
+      "eng": "Happy Kara",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_kara_happy_desc",
+      "eng": "Boundless Happiness.",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_kara_angry_name",
+      "eng": "Angry Kara",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_kara_angry_desc",
+      "eng": "Aspect of Angry Drake.",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_kara_sad_name",
+      "eng": "Sad Kara",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_kara_sad_desc",
+      "eng": "Kinetic Surge didn't work.",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_kara_frustrated_name",
+      "eng": "Frustrated Kara",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_kara_frustrated_desc",
+      "eng": "Bonechilled.",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_kara_surprised_name",
+      "eng": "Surprised Kara",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_kara_surprised_desc",
+      "eng": "Oh My!",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_kara_bow_name",
+      "eng": "Bowing Kara",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_kara_bow_desc",
+      "eng": "To the blade itself.",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_kara_sleep_name",
+      "eng": "Sleepy Kara",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_kara_sleep_desc",
+      "eng": "Back to Winter Sleep.",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_kara_sunglasses_name",
+      "eng": "Cool Kara",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_kara_sunglasses_desc",
+      "eng": "Cool and frosty.",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_kara_confused_name",
+      "eng": "Confused Kara",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_kara_confused_desc",
+      "eng": "Must be the Polarity.",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_kara_love_name",
+      "eng": "Kissing Kara",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_kara_love_desc",
+      "eng": "A Frostfire Kiss.",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_ilena_wink_name",
+      "eng": "Winking Ilena",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_ilena_wink_desc",
+      "eng": "Wink",
+      "chi": "Wink",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "emote_ilena_happy_name",
+      "eng": "Happy Ilena",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_ilena_happy_desc",
+      "eng": "Happy.",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_ilena_angry_name",
+      "eng": "Angry Ilena",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_ilena_angry_desc",
+      "eng": "Angry",
+      "chi": "生气",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "emote_ilena_sad_name",
+      "eng": "Sad Ilena",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_ilena_sad_desc",
+      "eng": "Cry",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_ilena_frustrated_name",
+      "eng": "Frustrated Ilena",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_ilena_frustrated_desc",
+      "eng": "Frustrated",
+      "chi": "沮丧",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "emote_ilena_surprised_name",
+      "eng": "Surprised Ilena",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_ilena_surprised_desc",
+      "eng": "Surprised",
+      "chi": "惊讶",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "emote_ilena_bow_name",
+      "eng": "Bowing Ilena",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_ilena_bow_desc",
+      "eng": "Bowing",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_ilena_sleep_name",
+      "eng": "Sleepy Ilena",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_ilena_sleep_desc",
+      "eng": "Sleep",
+      "chi": "困乏",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "emote_ilena_sunglasses_name",
+      "eng": "Cool Ilena",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_ilena_sunglasses_desc",
+      "eng": "Sunglasses",
+      "chi": "太阳镜",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "emote_ilena_confused_name",
+      "eng": "Confused Ilena",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_ilena_confused_desc",
+      "eng": "Confused",
+      "chi": "困惑",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "emote_ilena_love_name",
+      "eng": "Kissing Ilena",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_ilena_love_desc",
+      "eng": "Kiss",
+      "chi": "吻",
+      "originVersionCode": "20.1.01",
+      "translateState": 4
+    },
+    {
+      "code": "emote_argeon_name",
+      "eng": "Argeon",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_ziran_name",
+      "eng": "Zir'An",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_brome_name",
+      "eng": "Brome",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "emote_kaleos_name",
+      "eng": "Kaleos",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    }
+  ]
+}

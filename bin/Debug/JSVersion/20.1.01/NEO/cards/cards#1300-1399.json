@@ -22,7 +22,7 @@
     {
       "code": "faction_4_spell_nether_summoning_description",
       "eng": "Summon 2 non-token minions destroyed since the end of your last turn nearby.",
-      "chi": "在随机位置召唤2个从你的上个回合到现在被摧毁的不是衍生物的友方随从。",
+      "chi": "在随机位置召唤2个从你的上个回合结束后到现在被摧毁的不是衍生物的随从。",
       "originVersionCode": "20.1.0",
       "translateState": 4
     },

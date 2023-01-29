@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.02",
+  "nodeCode": "modifiers",
+  "path": "modifiers",
+  "orderStart": 300,
+  "orderEnd": 399,
+  "translateItemList": [
+    {
+      "code": "faction_4_spell_doom_1",
+      "eng": "Doomed",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_infest_1",
+      "eng": "Infested",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_infest_2",
+      "eng": "When this dies, spread to nearby friendly minions and deal 2 damage to its General.",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_deathmark_1",
+      "eng": "Deathmarked",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_deathmark_2",
+      "eng": "Destroyed when attacked.",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_horrific_visage",
+      "eng": "Horrified",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_spell_abhorrent_unbirth",
+      "eng": "What Have We Done?",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_artifact_spectral_blade_1",
+      "eng": "Whenever your General destroys an enemy minion, restore 2 Health to your General.",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_artifact_ghost_azalea_1",
+      "eng": "Ghostly Strength",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_artifact_furor_chakram_1",
+      "eng": "Instilled Fury",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_4_artifact_furor_chakram_2",
+      "eng": "Your minions have +2 Attack and Frenzy.",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_dreadnought_buff_name",
+      "eng": "Egg Fortitude",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_mandrake_buff_name",
+      "eng": "Mandrake's Value",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_drogon_buff_name",
+      "eng": "Double Drogon",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_thraex_buff_name",
+      "eng": "Thraex's Aid",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_rancour_buff_name",
+      "eng": "Rancour's Rage",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_gigaloth_buff",
+      "eng": "Gigagrowth",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_followup_primordial_gazer_2",
+      "eng": "Primordial Growth",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_overload_1",
+      "eng": "Immortal Strength",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_diretide_frenzy_1",
+      "eng": "Diretide Strength",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_greater_fortitude_1",
+      "eng": "Perseverance",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_bounded_lifeforce_1",
+      "eng": "Becomes 10/10",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_amplification_1",
+      "eng": "Amplified Strength",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_kinetic_equlibrium_1",
+      "eng": "Kinetic Might",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_thumping_wave_1",
+      "eng": "Strength of Kin",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_saurian_finality_1",
+      "eng": "Saurian Strength",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_spell_effulgent_infusion_1",
+      "eng": "General's Strength",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_5_artifact_morinkhur_1",
+      "eng": "Whenever your General deals damage, hatch all friendly Eggs.",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_infiltrated_attack_buff_name",
+      "eng": "Infiltrated: Attack",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_infiltrated_celerity_buff_name",
+      "eng": "Infiltrated: Celerity",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_infiltrated_replicate_buff_name",
+      "eng": "Infiltrated: Replicate",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_infiltrated_replicate_buff_desc",
+      "eng": "Whenever this minion is destroyed, put a Snow Chaser in your Action Bar",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_razorback_buff_name",
+      "eng": "Inspired",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_matron_elveiti",
+      "eng": "While this minion is on the battlefield, minions cannot attack your General",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_shivers",
+      "eng": "Mana Sting",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_shivers_buff_desc",
+      "eng": "When this attacks, permanently gain 1 mana crystal",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_moonlit_basilysk",
+      "eng": "Spellhungry",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_crystal_arbiter",
+      "eng": "Cold Arbitration",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_draugar_eyolith_1",
+      "eng": "Snowstorm",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_draugar_eyolith_2",
+      "eng": "Enemies move 1 space.",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_draugar_eyolith_3",
+      "eng": "Snowed",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_draugar_eyolith_4",
+      "eng": "Moves 1 space.",
+      "chi": "移动1格距离。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_followup_iceblade_dryad_2",
+      "eng": "Iceblade Aid",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_kinetic_surge_1",
+      "eng": "Kinetic Power",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_kinetic_surge_2",
+      "eng": "gain +1/+1",
+      "chi": "获得 +1/+1",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_boundless_courage_1",
+      "eng": "Unstoppable",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_mark_of_solitude_1",
+      "eng": "Solitude",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_mark_of_solitude_2",
+      "eng": "Set to 5/5",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_lightning_blitz_1",
+      "eng": "Blitz!",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_winters_wake_1",
+      "eng": "Awoken",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_winters_wake_2",
+      "eng": "+4/+4 and can move",
+      "chi": "获得+4/+4且可以移动",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_concealing_shroud_1",
+      "eng": "Shrouded",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_enfeeble_1",
+      "eng": "Humility",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_enfeeble_2",
+      "eng": "Set to 1/1",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_mana_deathgrip_1",
+      "eng": "Mana Grip",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_blinding_snowstorm_1",
+      "eng": "Snowblind",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_auroraboros_1",
+      "eng": "Boreal Cycle",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_auroraboros_2",
+      "eng": "Dying Wish: Re-summon this in its space.",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_artifact_coldbiter_1",
+      "eng": "At the end of your turn, your General deals 2 damage to each enemy minion around it.",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_artifact_winterblade_1",
+      "eng": "Enemy minions damaged by your General are Stunned",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_artifact_winterblade_2",
+      "eng": "it is STUNNED",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_artifact_white_asp_1",
+      "eng": "a 3/3 Blazing Spine Wall",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_artifact_white_asp_2",
+      "eng": "Whenever your General destroys a minion, summon a 3/3 Blazing Spine Wall on that space.",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_artifact_animus_plate_1",
+      "eng": "Animus Surge",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_6_artifact_winterblade_buff_name",
+      "eng": "Snow Cover",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_6_artifact_winterblade_buff_description",
+      "eng": "Immune to damage until your next turn.",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_owlbeast_sage_modifier",
+      "eng": "Arcanyst Fortitude",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_primus_fist_modifier_2",
+      "eng": "Fist of the Primus",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_dark_nemesis_modifier",
+      "eng": "Siphon Power",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_mirkblood_devourer_modifier",
+      "eng": "Mirkblood Aid",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_azure_horn_shaman_modifier",
+      "eng": "Shaman's Sacrifice",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_first_sword_of_akrane_modifier",
+      "eng": "Might of Akrane",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_lady_locke_modifier",
+      "eng": "Lockedown",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_songweaver_modifier_2",
+      "eng": "Songwoven",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_sand_sister_modifier",
+      "eng": "Might of the Sands",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_wind_sister_modifier",
+      "eng": "Wind's Fortitude",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_wind_runner_modifier",
+      "eng": "Wind's Strength",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_sun_elemental_modifier",
+      "eng": "Vitamin D",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_sun_elemental_modifier",
+      "eng": "Vitamin XD",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_wings_of_paradise_modifier",
+      "eng": "Divine Winds",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_arrow_whistler_modifier",
+      "eng": "Arrow's Might",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_golden_justicar_modifier",
+      "eng": "Reach of Justice",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_golden_justicar_modifier_2",
+      "eng": "May move 2 additional spaces",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_skywing_modifier",
+      "eng": "Skywing's Support",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_bastion_modifier",
+      "eng": "Bastion's Fortitude",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_shiro_puppydragon_modifier",
+      "eng": "Puppydragon Power!",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_ruby_rifter_modifier",
+      "eng": "Heavy Rifter",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_feralu_modifier",
+      "eng": "Tribal Might",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_boulder_breacher_modifier",
+      "eng": "BREACHED!",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_boulder_breacher_modifier_2",
+      "eng": "Can't counterattack this turn.",
+      "chi": "这回合不能反击。",
+      "originVersionCode": "20.1.02",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_lesson_of_courage_modifier",
+      "eng": "Heart of Flame",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_project_omega_1",
+      "eng": "Collective Strength",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_redsteel_minos_1",
+      "eng": "Brute Strength",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_impervious_giago_1",
+      "eng": "Go Giago, Go!",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_forge_artifact_1",
+      "eng": "Primal Surge",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_primus_shieldmaster_modifier",
+      "eng": "Shield of the Primus",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_blaze_hound_modifier",
+      "eng": "Ignited",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_sworn_defender_modifier",
+      "eng": "Barricade",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "boss_5_applied_name",
+      "eng": "Zendo's Faithful",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    },
+    {
+      "code": "boss_5_applied_desc",
+      "eng": "Zendo cannot be damaged while this minion lives.",
+      "chi": "",
+      "originVersionCode": "20.1.02",
+      "translateState": 0
+    }
+  ]
+}

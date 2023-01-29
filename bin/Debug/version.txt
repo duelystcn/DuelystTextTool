@@ -3,3 +3,16 @@
 
 1.0.0:完成了编辑功能
 1.0.1:增加了提取重复文本和批量替换一些语句的功能。
+
+Question 1
+ The last expansion for Legendary Mode,The text is in duelyst.js, not in index.json, it is very troublesome to translate, will you extract it to index.json?
+
+Question 2
+In the display, the text in the store interface and the game interface does not wrap.
+In the collection interface and the card details interface, the display is normal. Can you solve it?
+In duelyst2 I manually added \n for newline, the workload of legend mode is too much.
+
+Question 3
+Now I can only let players manually replace locales\en\index.js, if you want to officially launch the localization function, you can contact me, I will do translation work for free, I wrote a tool to do this.
+
+There are not many Chinese players, but if you can help solve these problems, thank you very much
