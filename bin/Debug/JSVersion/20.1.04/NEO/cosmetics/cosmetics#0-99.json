@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.04",
+  "nodeCode": "cosmetics",
+  "path": "cosmetics",
+  "orderStart": 0,
+  "orderEnd": 99,
+  "translateItemList": [
+    {
+      "code": "cosmetic_type_emote",
+      "eng": "Emote",
+      "chi": "表情",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "cosmetic_type_card_back",
+      "eng": "Card Back",
+      "chi": "卡背",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "cosmetic_type_profile_icon",
+      "eng": "Profile Icon",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "cosmetic_type_scene",
+      "eng": "Scene",
+      "chi": "场景",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "cosmetic_type_battle_map",
+      "eng": "Battle Map",
+      "chi": "对战地图",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "cosmetic_type_card_skin",
+      "eng": "Card Skin",
+      "chi": "卡牌皮肤",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "cardback_desc",
+      "eng": "Set your card back per-deck in your Collection, and show it off in-game!",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "scene_desc",
+      "eng": "Custom splash art for your Duelyst Main Menu.",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "icon_desc",
+      "eng": "Icon to show off in-game, in your Profile, and in your buddy list.",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "common_mystery_crate_1",
+      "eng": "Common Mystery Crates contain:\n",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "common_mystery_crate_2",
+      "eng": "- 2 Cosmetic Items",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "common_mystery_crate_3",
+      "eng": "- 1 Prismatic Card\n",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "common_mystery_crate_4",
+      "eng": "Common Mystery Crates guarantee 1 Rare (or better) Cosmetic Item.",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "rare_mystery_crate_1",
+      "eng": "Rare Mystery Crates contain:\n",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "rare_mystery_crate_2",
+      "eng": "- 4 Cosmetic Items",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "rare_mystery_crate_3",
+      "eng": "- 1 Prismatic Card\n",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "rare_mystery_crate_4",
+      "eng": "Rare Mystery Crates guarantee at least 1 Epic (or better) Cosmetic Item and 1 Rare (or better) Prismatic Card.",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "epic_mystery_crate_1",
+      "eng": "Epic Mystery Crates contain:\n",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "epic_mystery_crate_2",
+      "eng": "- 5 Cosmetic Items",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "epic_mystery_crate_3",
+      "eng": "- 2 Prismatic Cards\n",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "epic_mystery_crate_4",
+      "eng": "Epic Mystery Crates guarantee at least 1 Legendary Cosmetic Item and 2 Rare (or better) Prismatic Cards.",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "generic_mystery_crate",
+      "eng": "Gift Crates may contain any random assortment of currency, cosmetic items, cards, and more!",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "boss_crate_1",
+      "eng": "Boss Mystery Crates contain:\n",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "boss_crate_2",
+      "eng": "- 1 Random Spirit Orb",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "boss_crate_3",
+      "eng": "- 1 Common Cosmetic",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "boss_crate_4",
+      "eng": "- 100 Spirit\n",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "frostfire_premium_crate",
+      "eng": "Special festive cosmetics, and more!",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "frostfire_crate",
+      "eng": "Special festive cosmetics, and more!",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "scene_magaari_name",
+      "eng": "Magaari, Ember Highlands",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "scene_magaari_desc",
+      "eng": "A location in the world of Duelyst.",
+      "chi": "Duelyst世界中的一个地点。",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "scene_obsidian_woods_name",
+      "eng": "Obsidian Woods",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "scene_obsidian_woods_desc",
+      "eng": "A location in the world of Duelyst.",
+      "chi": "Duelyst世界中的一个地点。",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "scene_frostfire_festival_name",
+      "eng": "Frostfire Festival",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "scene_frostfire_festival_desc",
+      "eng": "A location in the world of Duelyst.",
+      "chi": "Duelyst世界中的一个地点。",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "scene_city_of_kaero_name",
+      "eng": "City of Kaero",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "scene_city_of_kaero_desc",
+      "eng": "A location in the world of Duelyst.",
+      "chi": "Duelyst世界中的一个地点。",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "scene_unearthed_prophecy_name",
+      "eng": "Unearthed Prophecy",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "scene_unearthed_prophecy_desc",
+      "eng": "A location in the world of Duelyst.",
+      "chi": "Duelyst世界中的一个地点。",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "skin_argeon_m2_name",
+      "eng": "Argeon Highmayne MkII",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skin_argeon_m2_desc",
+      "eng": "Claimed the Lyonar throne by bloodright in the bloody aftermath of the Battle of God's Heel.",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skin_ziran_m2_name",
+      "eng": "Zir'an Sunforge MkII",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skin_ziran_m2_desc",
+      "eng": "Found in Akram as a young child by Argeon. Raised by the Sunforge family as Argeon's ward.",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skin_kaleos_m2_name",
+      "eng": "Kaleos Xaan MkII",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skin_kaleos_m2_desc",
+      "eng": "Uniquely born from the twilight mists. Received his first Sandshield from Starhorn.",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skin_reva_m2_name",
+      "eng": "Reva Eventide MkII",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skin_reva_m2_desc",
+      "eng": "She's fused with the Spirit Dragon, having received the most valued piece from Kaleos's Sandshield.",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skin_zirix_m2_name",
+      "eng": "Zirix Starstrider MkII",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skin_zirix_m2_desc",
+      "eng": "During his own Melding, his Sandshield seared and permanently damaged his face.",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skin_sajj_m2_name",
+      "eng": "Scioness Sajj MkII",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skin_sajj_m2_desc",
+      "eng": "Zirix altered the Melding to produce the first Sandshield without the need for an organic body.",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skin_lilithe_m2_name",
+      "eng": "Lilithe Blightchaser MkII",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skin_lilithe_m2_desc",
+      "eng": "Four hundred years old. A sister of Vetruvia's House Khaleem during the Second Vetruvian Wars.",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skin_cassyva_m2_name",
+      "eng": "Cassyva Soulreaper MkII",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skin_cassyva_m2_desc",
+      "eng": "Over four hundred years old. Originally the leader of the Five Fanblades of Akram.",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skin_vaath_m2_name",
+      "eng": "Vaath the Immortal MkII",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skin_vaath_m2_desc",
+      "eng": "Builder of the Amberhorn Citadel, inviting all sentient creatures on Magaari to join him.",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skin_starhorn_m2_name",
+      "eng": "Starhorn the Seeker MkII",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skin_starhorn_m2_desc",
+      "eng": "Wove the location of Deladriss Peake into the sacred song, the Dance of Dreams.",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skin_faie_m2_name",
+      "eng": "Faie Bloodwing MkII",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skin_faie_m2_desc",
+      "eng": "First of the Aperion Bloodbound, first of the Hawkwolf.",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skin_kara_m2_name",
+      "eng": "Kara Winterblade MkII",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skin_kara_m2_desc",
+      "eng": "Honored as the protector of the mythic Winterblade, which carries Songweaver Eurielle’s secret.",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skin_rogue_legacy_name",
+      "eng": "Rogue Legacy skin",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skin_rogue_legacy_desc",
+      "eng": "Argeon Highmayne Rogue Legacy skin",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skin_dogehai_name",
+      "eng": "Dogehai",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skin_dogehai_desc",
+      "eng": "Kaleos Xaan doge skin",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skin_sarlac_prime_name",
+      "eng": "Sarlac Prime",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skin_sarlac_prime_desc",
+      "eng": "Sarlac Prime",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skin_keeper_name",
+      "eng": "Keeper of the Value",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skin_keeper_desc",
+      "eng": "Keeper of the Value",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skin_darkjammer_name",
+      "eng": "Darkjammer",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skin_darkjammer_desc",
+      "eng": "Darkjammer",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skin_frostfire_tiger_name",
+      "eng": "Frostfire Tiger",
+      "chi": "霜火虎",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "skin_frostfire_tiger_desc",
+      "eng": "Frostfire Tiger",
+      "chi": "霜火虎",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "skin_festive_snowchaser_name",
+      "eng": "Festive Snowchaser",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skin_festive_snowchaser_desc",
+      "eng": "Festive Snowchaser",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skin_faie_festive_name",
+      "eng": "Festive Faie Bloodwing",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skin_faie_festive_desc",
+      "eng": "Faie is ready for the Frostfire Festival!",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skin_zirix_festive_name",
+      "eng": "Festive Zirix Starstrider",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skin_zirix_festive_desc",
+      "eng": "Zirix is ready for the Frostfire Festival!",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skin_zyx_festive_name",
+      "eng": "Festive Zyx",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skin_zyx_festive_desc",
+      "eng": "Zyx is ready for the Frostfire Festival!",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skin_brome_m2_name",
+      "eng": "Brome Warcrest MkII",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skin_brome_m2_desc",
+      "eng": "Brome is pumped up and ready for battle!",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skin_shidai_m2_name",
+      "eng": "Shidai Stormblossom MkII",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skin_shidai_m2_desc",
+      "eng": "Shidai is pumped up and ready for battle!",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skin_ciphyron_m2_name",
+      "eng": "Ciphyron Ascendant MkII",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skin_ciphyron_m2_desc",
+      "eng": "Ciphyron is pumped up and ready for battle!",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skin_ragnora_m2_name",
+      "eng": "Ragnora the Relentless MkII",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skin_ragnora_m2_desc",
+      "eng": "Ragnora is pumped up and ready for battle!",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skin_maehv_m2_name",
+      "eng": "Maehv Skinsolder MkII",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skin_maehv_m2_desc",
+      "eng": "Maehv is pumped up and ready for battle!",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skin_ilena_m2_name",
+      "eng": "Ilena Cryobyte MkII",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skin_ilena_m2_desc",
+      "eng": "Ilena is pumped up and ready for battle!",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_silver_name",
+      "eng": "Noble",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_void_name",
+      "eng": "Umbral",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_ancient_name",
+      "eng": "Ancient",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_ghost_name",
+      "eng": "Undead",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_ash_name",
+      "eng": "Volcanic",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_boreal_name",
+      "eng": "Boreal",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    }
+  ]
+}

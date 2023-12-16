@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.11",
+  "nodeCode": "modifiers",
+  "path": "modifiers",
+  "orderStart": 0,
+  "orderEnd": 99,
+  "translateItemList": [
+    {
+      "code": "plus_attack_key",
+      "eng": "+{{amount}} Attack.",
+      "chi": "+{{amount}}攻击.",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "minus_attack_key",
+      "eng": "-{{amount}} Attack.",
+      "chi": "-{{amount}}攻击.",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "plus_health_key",
+      "eng": "+{{amount}} Health.",
+      "chi": "+{{amount}}生命.",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "minus_health_key",
+      "eng": "-{{amount}} Health.",
+      "chi": "-{{amount}}生命.",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "plus_stat",
+      "eng": "+{{amount}}",
+      "chi": "+{{amount}}",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "minus_stat",
+      "eng": "-{{amount}}",
+      "chi": "-{{amount}}",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "stat_divider",
+      "eng": "/",
+      "chi": "/",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "mana_shift_name",
+      "eng": "Mana Shift",
+      "chi": "费用变化",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "mana_shift_plus",
+      "eng": "Mana cost increased by {{amount}}",
+      "chi": "费用消耗增加{{amount}}点",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "mana_shift_minus",
+      "eng": "Mana cost decreased by {{amount}}",
+      "chi": "费用消耗减少{{amount}}点",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "mana_shift_set",
+      "eng": "Mana cost changed to {{amount}}",
+      "chi": "费用已变为{{amount}}点",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "egg_text",
+      "eng": "Will hatch into {{unit_name}}",
+      "chi": "将会孵化为{{unit_name}}",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "temp_transformed",
+      "eng": "{{unit_name}} has temporarily transformed",
+      "chi": "{{unit_name}}被暂时变形",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "flying_name",
+      "eng": "Flying",
+      "chi": "飞行",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "flying_def",
+      "eng": "Can move anywhere on the battlefield.",
+      "chi": "可以移动到战场的任意位置。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "blast_name",
+      "eng": "Blast",
+      "chi": "轰炮",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "blast_def",
+      "eng": "Can attack multiple enemies in a line regardless of distance.",
+      "chi": "可以无视距离攻击位于同一条线上的多个敌人。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "blood_surge_name",
+      "eng": "Blood Surge",
+      "chi": "血涌",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "blood_surge_def",
+      "eng": "Triggers an effect after you activate your Bloodbound Spell.",
+      "chi": "在你使用血技后触发效果。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "bond_name",
+      "eng": "Bond",
+      "chi": "链接",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "bond_def",
+      "eng": "Triggers an effect when summoned if you have another minion from the same tribe.",
+      "chi": "如果你控制有其他相同类别的随从，此随从召唤时将触发效果。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "celerity_name",
+      "eng": "Celerity",
+      "chi": "迅捷",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "celerity_def",
+      "eng": "Can activate twice per turn.",
+      "chi": "每回合可以行动两次。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "deathwatch_name",
+      "eng": "Deathwatch",
+      "chi": "割魂",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "deathwatch_def",
+      "eng": "Triggers effect when a unit is destroyed.",
+      "chi": "当一个单位死亡后触发效果。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "destructible_name",
+      "eng": "Destructible",
+      "chi": "耐久度",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "destructible_def",
+      "eng": "Artifacts have 3 Durability. When your General takes damage, it loses 1 Durability. When an artifact has no durability, it is destroyed.",
+      "chi": "神器具有3点耐久度。当你的将领受到伤害时，失去1点耐久。当神器失去所有耐久时将被摧毁。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "dying_wish_name",
+      "eng": "Dying Wish",
+      "chi": "死愿",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "dying_wish_def",
+      "eng": "Triggers an effect when destroyed.",
+      "chi": "被摧毁时将会触发效果。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "ephemeral_name",
+      "eng": "Ephemeral",
+      "chi": "骤现",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "ephemeral_def",
+      "eng": "Disappears at the end of your turn.",
+      "chi": "在你的回合结束时消失。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "exhuming_sand_name",
+      "eng": "Exhuming Sand",
+      "chi": "流沙",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "exhuming_sand_def",
+      "eng": "Summons a 2/2 Iron Dervish when its owner summons a minion from their action bar",
+      "chi": "当控制者从准备栏召唤一个随从时，在流沙之上召唤一个2/2的铁行僧。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "forcefield_name",
+      "eng": "Forcefield",
+      "chi": "力场",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "forcefield_def",
+      "eng": "Cancel the first damage taken each turn.",
+      "chi": "免疫每回合受到的第一次伤害。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "frenzy_name",
+      "eng": "Frenzy",
+      "chi": "狂暴",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "frenzy_def",
+      "eng": "When attacking a nearby enemy, deals its Attack damage to other nearby enemies.",
+      "chi": "对相邻的敌方单位进行攻击时，对相邻的所有其他敌方单位造成攻击伤害。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "grow_name",
+      "eng": "Grow",
+      "chi": "成长",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "grow_def",
+      "eng": "Gains Attack and Health at the start of your turn",
+      "chi": "在你的回合开始获得攻防增益。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "hallowed_ground_name",
+      "eng": "Hallowed Ground",
+      "chi": "圣地",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "hallowed_ground_def",
+      "eng": "Restores 1 Health to friendly minions and Generals standing on it at the end of owner's turn",
+      "chi": "在回合结束时，为圣地上的友方单位治疗1点生命。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "infiltrate_name",
+      "eng": "Infiltrate",
+      "chi": "渗透",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "infiltrate_def",
+      "eng": "Has an additional effect while on the enemy side of the battlefield.",
+      "chi": "在敌方半场时具有额外效果。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "mana_spring_name",
+      "eng": "Mana",
+      "chi": "费用",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "bonus_mana_name",
+      "eng": "Bonus Mana",
+      "chi": "额外费用",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "bonus_mana_def",
+      "eng": "Gain +1 Mana this turn",
+      "chi": "这回合获得一点费用。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "mechaz0r_name",
+      "eng": "MECHAZ0R Progress",
+      "chi": "决战兵器组装进度",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "mechaz0r_def",
+      "eng": "When fully assembled, MECHAZ0R will arrive in your action bar!",
+      "chi": "组装完成后，将可以使用一个决战兵器原型机。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "opening_gambit_name",
+      "eng": "Opening Gambit",
+      "chi": "登场",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "opening_gambit_def",
+      "eng": "Triggers an effect when played.",
+      "chi": "被使用时触发效果。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "primal_flourish_name",
+      "eng": "Primal Flourish",
+      "chi": "茂林",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "primal_flourish_def",
+      "eng": "Friendly minions standing on it have \"Grow: +2/+2\"",
+      "chi": "位于茂林上的友方随从具有\"成长：+2/+2\"。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "ranged_name",
+      "eng": "Ranged",
+      "chi": "远程",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "ranged_def",
+      "eng": "Can attack from anywhere on the battlefield.",
+      "chi": "可以攻击战场上的任意位置。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "rebirth_name",
+      "eng": "Rebirth",
+      "chi": "重生",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "rebirth_def",
+      "eng": "When this dies, it leaves behind a 0/1 Egg that hatches into the same minion before your next turn.",
+      "chi": "当此随从死亡时，所在位置留下一个0/1的蛋，在你的下个回合开始时孵化这个蛋。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_rebirth_name",
+      "eng": "Rebirth",
+      "chi": "重生",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_rebirth_def",
+      "eng": "When destroyed, summons an Egg on this space that hatches into a copy of it at the end of your next turn.",
+      "chi": "当此随从死亡时，所在位置留下一个0/1的蛋，在你的下个回合结束时孵化这个蛋。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "sentinel_name",
+      "eng": "Sentinel",
+      "chi": "哨兵",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "sentinel_def",
+      "eng": "Summoned as a 3/3 with no abilities. Will transform into its true form if a specific event occurs on opponent's turn.",
+      "chi": "被召唤时将会是一个没有异能的3/3随从。在对手的回合满足守望条件时，将会变形为原本的卡牌特征。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "shadow_creep_name",
+      "eng": "Shadow Creep",
+      "chi": "地刺",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "shadow_creep_def",
+      "eng": "Deals damage to enemy minions and Generals standing on it at the end of owner's turn",
+      "chi": "在控制者的回合结束时，对位于其上的敌方单位造成伤害。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_shadow_creep_name",
+      "eng": "Shadow Creep",
+      "chi": "地刺",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_shadow_creep_def",
+      "eng": "At the end of your turn, this deals damage equal to the number of allied Shadow Creep to the enemy on this space.",
+      "chi": "在你的回合结束时，对地刺之上的敌方单位造成等同你控制的地刺的数量的伤害。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "structure_name",
+      "eng": "Structure",
+      "chi": "建筑",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "structure_def",
+      "eng": "This minion cannot move or attack.",
+      "chi": "这个随从不能移动和攻击。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "stunned_name",
+      "eng": "Stunned",
+      "chi": "眩晕",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "stunned_def",
+      "eng": "Stunned units lose their next action.",
+      "chi": "被眩晕的单位失去下一次行动机会。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "summon_dervish_name",
+      "eng": "Summon Dervish",
+      "chi": "苦行僧召集",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "summon_dervish_def",
+      "eng": "At the start of your turn, summon a 2/2 Wind Dervish with Rush nearby. It disappears at the end of your turn.",
+      "chi": "在你的回合开始时，在相邻位置召唤一个风行僧(2/2 冲锋)，它将在你的回合结束时消失。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "gateway_name",
+      "eng": "Gateway",
+      "chi": "通道",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "gateway_def",
+      "eng": "At the start of your turn, summon a Wind Dervish on a random nearby space.",
+      "chi": "在你的回合开始时，在相邻位置召唤一个风行僧(2/2 冲锋)，它将在你的回合结束时消失。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "battle_pet_name",
+      "eng": "Battle Pet",
+      "chi": "战宠",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "battle_pet_def",
+      "eng": "Activates at the start of your turn and moves to attack the nearest enemy.",
+      "chi": "将会在你的回合开始时自动进行移动和攻击。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "battle_pet_error",
+      "eng": "Battle Pets have a mind of their own!",
+      "chi": "战宠有自己的想法！",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "antimagic_field_name",
+      "eng": "Anti-Magic Field",
+      "chi": "反魔法屏障",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "antimagic_field_def",
+      "eng": "Cannot be targeted or damaged by spells.",
+      "chi": "不会被法术指定或者伤害。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "wall_name",
+      "eng": "Wall",
+      "chi": "墙",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "wall_def",
+      "eng": "This cannot move, and disappears if dispelled.",
+      "chi": "这个随从不能移动，被驱散时将会消失。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "zeal_name",
+      "eng": "Zeal",
+      "chi": "热诚",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "zeal_def",
+      "eng": "Gains a bonus effect when nearby your General.",
+      "chi": "位于你的将领相邻位置时获得额外效果。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "backstab_name",
+      "eng": "Backstab",
+      "chi": "背刺",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "backstab_def",
+      "eng": "When attacking from behind, this deals extra damage and cannot be counterattacked.",
+      "chi": "当此随从从目标正后方发起攻击时，将造成额外伤害且不会被反击。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "invulnerable_name",
+      "eng": "Invulnerable",
+      "chi": "无敌",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "invulnerable_def",
+      "eng": "Cannot die or be affected by ANYTHING",
+      "chi": "不会死亡，不会受到任何影响。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "build_name",
+      "eng": "Build",
+      "chi": "生产",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "build_def",
+      "eng": "Summon as a 0/10 Structure that transforms into its true form after a number of turns.",
+      "chi": "将会以一个0/10的建筑的形态被召唤，当倒计时结束时将会变形为原本的卡牌特征。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "rush_name",
+      "eng": "Rush",
+      "chi": "冲锋",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "rush_def",
+      "eng": "Can move and attack immediately.",
+      "chi": "在召唤的回合就可以移动与攻击。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "airdrop_name",
+      "eng": "Airdrop",
+      "chi": "空降",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "airdrop_def",
+      "eng": "Summon this minion anywhere on the battlefield.",
+      "chi": "可以召唤在战场上的任意位置。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "provoke_name",
+      "eng": "Provoke",
+      "chi": "嘲讽",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "provoke_def",
+      "eng": "Stops nearby enemy minions and Generals from moving. They must attack this first.",
+      "chi": "相邻的敌方单位必须优先攻击这个随从。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "provoked_name",
+      "eng": "Provoked",
+      "chi": "被嘲讽",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "provoked_desc",
+      "eng": "Provoked - cannot move and must attack Provoker first",
+      "chi": "被嘲讽-不能移动，必须优先攻击嘲讽目标。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "provoked_move_error",
+      "eng": "Provoked - cannot move.",
+      "chi": "被嘲讽-不能移动。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "provoked_attack_error",
+      "eng": "Provoked - must first attack the Provoker.",
+      "chi": "被嘲讽-必须优先攻击嘲讽目标。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "banding_heal_desc",
+      "eng": "At the end of your turn, fully heal this minion",
+      "chi": "在你的回合结束时，治愈此随从。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "banding_heal_applied_name",
+      "eng": "Zeal: Lion's Recovery",
+      "chi": "热诚：狮子的愈伤",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "banded_heal_applied_name",
+      "eng": "Zealed: Lion's Recovery",
+      "chi": "热诚：狮子的愈伤",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    }
+  ]
+}

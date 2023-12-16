@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.19",
+  "nodeCode": "cards",
+  "path": "cards",
+  "orderStart": 2000,
+  "orderEnd": 2099,
+  "translateItemList": [
+    {
+      "code": "neutral_ghost_lynx_name",
+      "eng": "Ghost Lynx",
+      "chi": "幽灵山猫",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_ghost_lynx_desc",
+      "eng": "Opening Gambit: Teleport a nearby minion to a random space.",
+      "chi": "登场：将一个相邻随从传送到随机位置。",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_golem_metallurgist_name",
+      "eng": "Golem Metallurgist",
+      "chi": "冶金魔像",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_golem_metallurgist_desc",
+      "eng": "The first Golem you summon each turn costs 1 less.",
+      "chi": "你每回合使用的第一张魔像费用减少1点。",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_healing_mystic_name",
+      "eng": "Healing Mystic",
+      "chi": "愈伤秘法师",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_healing_mystic_desc",
+      "eng": "Opening Gambit: Restore 2 Health to anything.",
+      "chi": "登场：治疗任意单位2点生命。",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_jaxi_name",
+      "eng": "Jaxi",
+      "chi": "杰西",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_jaxi_desc",
+      "eng": "Dying Wish: Summon a 1/1 Ranged Mini-Jax in a random corner.",
+      "chi": "死愿：在一个随机角落召唤一个小杰斯(1/1 远程)。",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_manaforger_name",
+      "eng": "Manaforger",
+      "chi": "魔能伪造师",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_manaforger_desc",
+      "eng": "The first non-Bloodbound spell you cast each turn costs 1 less.",
+      "chi": "你每回合使用的第一张非血技法术费用减少1点。",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_maw_name",
+      "eng": "Maw",
+      "chi": "尖齿鳄",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_maw_desc",
+      "eng": "Opening Gambit: Deal 2 damage to a nearby enemy minion.",
+      "chi": "登场：对一个相邻的敌方随从造成2点伤害。",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_piercing_mantis_name",
+      "eng": "Piercing Mantis",
+      "chi": "穿刺螳螂",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_piercing_mantis_desc",
+      "eng": "Frenzy",
+      "chi": "狂暴",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_primus_fist_name",
+      "eng": "Primus Fist",
+      "chi": "至高拳师",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_primus_fist_desc",
+      "eng": "Opening Gambit: Give a nearby friendly minion +2 Attack this turn.",
+      "chi": "登场：使一个相邻的友方随从获得+2/+0直到回合结束。",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_rock_pulverizer_name",
+      "eng": "Rock Pulverizer",
+      "chi": "穿山甲",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_rock_pulverizer_desc",
+      "eng": "Provoke",
+      "chi": "嘲讽",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_rust_crawler_name",
+      "eng": "Rust Crawler",
+      "chi": "酸浆蠕虫",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_rust_crawler_desc",
+      "eng": "Opening Gambit: Destroy a random artifact on the enemy General.",
+      "chi": "登场：随机摧毁敌方将领装备的一个神器。",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_shiro_puppydragon_name",
+      "eng": "Shiro Puppydragon",
+      "chi": "白尾犬龙",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_shiro_puppydragon_desc",
+      "eng": "At the end of your turn, give each nearby friendly minion +1 Attack.",
+      "chi": "在你的回合结束时，使所有相邻的友方随从获得 +1/+0.。",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_skyrock_golem_name",
+      "eng": "Skyrock Golem",
+      "chi": "天空石魔像",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_vale_hunter_name",
+      "eng": "Vale Hunter",
+      "chi": "溪谷猎手",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_vale_hunter_desc",
+      "eng": "Ranged",
+      "chi": "远程",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_wings_of_mechaz0r_name",
+      "eng": "Wings of MECHAZ0R",
+      "chi": "原型机的推进器",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_wings_of_mechaz0r_desc",
+      "eng": "Airdrop\nOpening Gambit: Progresses MECHAZ0R build by +20%.",
+      "chi": "空降\n登场：使你的决战兵器组装进度提高20%。",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_woodwen_name",
+      "eng": "Wood-Wen",
+      "chi": "木纹兽",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_woodwen_desc",
+      "eng": "Provoke\nOpening Gambit: Give a nearby friendly minion Provoke.",
+      "chi": "嘲讽\n登场：使一个相邻友方随从获得嘲讽。",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_abjudicator_name",
+      "eng": "Abjudicator",
+      "chi": "奥术裁决师",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_abjudicator_desc",
+      "eng": "Opening Gambit: Lower the cost of all spells in your action bar by 1.",
+      "chi": "登场：使你准备栏中所有法术的费用减少1点。",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_alucin_loremaster_name",
+      "eng": "Alcuin Loremaster",
+      "chi": "博学者 阿尔古因",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_alcuin_loremaster_desc",
+      "eng": "Opening Gambit: Put a copy of the most recently cast spell into your action bar.",
+      "chi": "登场：复制上一张被使用的法术并置入你的准备栏。",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_bastion_name",
+      "eng": "Bastion",
+      "chi": "堡垒石像鬼",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_bastion_desc",
+      "eng": "At the end of your turn, give all friendly minions +1 health.",
+      "chi": "在你的回合结束时，使所有友方随从获得 +0/+1.。",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_blaze_hound_name",
+      "eng": "Blaze Hound",
+      "chi": "喷焰猎犬",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_blaze_hound_desc",
+      "eng": "Opening Gambit: Both players draw a card.",
+      "chi": "登场：双方玩家抽一张牌。",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_blistering_skorn_name",
+      "eng": "Blistering Skorn",
+      "chi": "炙热炎魔",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_blistering_skorn_desc",
+      "eng": "Opening Gambit: Deal 1 damage to everything (including itself).",
+      "chi": "登场：对所有随从造成1点伤害(包括此随从)。",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_bloodshard_golem_name",
+      "eng": "Bloodshard Golem",
+      "chi": "血晶石魔像",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_cannon_of_mechaz0r_name",
+      "eng": "Cannon of MECHAZ0R",
+      "chi": "原型机的粒子炮",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_cannon_of_mechaz0r_desc",
+      "eng": "Ranged\nOpening Gambit: Progresses MECHAZ0R build by +20%.",
+      "chi": "远程\n登场：使你的决战兵器组装进度提高20%。",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_chaos_elemental_name",
+      "eng": "Chaos Elemental",
+      "chi": "混沌元素",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_chaos_elemental_desc",
+      "eng": "Whenever this minion takes damage, it randomly teleports.",
+      "chi": "每当此随从受到伤害，将其传送到随机位置。",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_crimson_oculus_name",
+      "eng": "Crimson Oculus",
+      "chi": "猩红魔瞳",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_crimson_oculus_desc",
+      "eng": "Whenever opponent summons a minion, this minion gains +1/+1",
+      "chi": "每当你的对手召唤一个随从时，使此随从获得 +1/+1。",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_crossbones_name",
+      "eng": "Crossbones",
+      "chi": "愤怒的骷髅",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_crossbones_desc",
+      "eng": "Opening Gambit: Destroy an enemy minion with Ranged.",
+      "chi": "登场：摧毁一个具有远程的随从。",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_day_watcher_name",
+      "eng": "Day Watcher",
+      "chi": "守日人",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_day_watcher_desc",
+      "eng": "Whenever a friendly minion attacks, restore 1 Health to your General.",
+      "chi": "每当一个友方随从攻击时，为你的将领治疗1点生命。",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_elkowl_name",
+      "eng": "Elkowl",
+      "chi": "枭头鹿",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_elkowl_desc",
+      "eng": "Opening Gambit: Gain two random keywords.",
+      "chi": "登场：此随从获得2个随机关键词异能。",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_golem_vanquisher_name",
+      "eng": "Golem Vanquisher",
+      "chi": "征服者魔像",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_golem_vanquisher_desc",
+      "eng": "Provoke\nYour other Golem minions have Provoke.",
+      "chi": "嘲讽\n其他友方魔像具有嘲讽。",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_lady_locke_name",
+      "eng": "Lady Locke",
+      "chi": "链锁女士",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_lady_locke_desc",
+      "eng": "Provoke\nOpening Gambit: Other minions you summon this turn gain +1/+1 and gain Provoke.",
+      "chi": "嘲讽\n登场：在这之后，本回合你召唤的其他随从获得 +1/+1 和嘲讽。",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_mirkblood_devourer_name",
+      "eng": "Mirkblood Devourer",
+      "chi": "混血吞噬兽",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_mirkblood_devourer_desc",
+      "eng": "Friendly minions summoned nearby this minion gain +1/+1.",
+      "chi": "召唤在此随从相邻位置的友方随从获得 +1/+1。",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_mogwai_name",
+      "eng": "Mogwai",
+      "chi": "魔怪",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_mogwai_desc",
+      "eng": "After this moves, draw a card.",
+      "chi": "当此随从移动后，抽一张牌。",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_prismatic_illusionist_name",
+      "eng": "Prismatic Illusionist",
+      "chi": "棱镜魔术师",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_prismatic_illusionist_desc",
+      "eng": "Whenever you cast a spell, summon a 2/1 Illusion on a random nearby space.",
+      "chi": "每当你使用法术时，在此随从随机相邻位置召唤一个幻象(2/1)。",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_illusion_name",
+      "eng": "Illusion",
+      "chi": "幻象",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_putrid_dreadflayer_name",
+      "eng": "Putrid Dreadflayer",
+      "chi": "腐败水母",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_putrid_dreadflayer_desc",
+      "eng": "Flying",
+      "chi": "飞行",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_repulsor_beast_name",
+      "eng": "Repulsor Beast",
+      "chi": "炉犬",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_repulsor_beast_desc",
+      "eng": "Opening Gambit: Push a nearby enemy minion to any space.",
+      "chi": "登场：将一个相邻的敌方随从传送至任意位置。",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_saberspine_tiger_name",
+      "eng": "Saberspine Tiger",
+      "chi": "剑脊虎",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_saberspine_tiger_desc",
+      "eng": "Rush",
+      "chi": "冲锋",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_sand_burrower_name",
+      "eng": "Sand Burrower",
+      "chi": "掘沙虫",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_sand_burrower_desc",
+      "eng": "When this minion survives damage, it returns to your action bar.",
+      "chi": "每当此随从受到伤害时，将其返回你的准备栏。",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_sapphire_seer_name",
+      "eng": "Sapphire Seer",
+      "chi": "蓝宝石先知",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_sapphire_seer_desc",
+      "eng": "Forcefield",
+      "chi": "力场",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_sarlac_the_eternal_name",
+      "eng": "Sarlac the Eternal",
+      "chi": "永恒的沙拉克",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_sarlac_the_eternal_desc",
+      "eng": "Dying Wish: Re-summon this minion on a random space.",
+      "chi": "死愿：在随机位置重新召唤此随从。",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_silvertongue_corsair_name",
+      "eng": "Silvertongue Corsair",
+      "chi": "巧辩海盗",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_silvertongue_corsair_desc",
+      "eng": "Takes no damage from Generals.",
+      "chi": "此随从不会受到源自将领的伤害。",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_skywing_name",
+      "eng": "Skywing",
+      "chi": "天翼龙",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_skywing_desc",
+      "eng": "Flying\nYour other minions with Flying cost 1 less.",
+      "chi": "飞行\n你使用的具有飞行的随从费用减少1点。",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_sojourner_name",
+      "eng": "Sojourner",
+      "chi": "漂泊客",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_sojourner_desc",
+      "eng": "Whenever this minion deals damage, draw a card.",
+      "chi": "每当此随从造成伤害时，抽一张牌。",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_songweaver_name",
+      "eng": "Songweaver",
+      "chi": "谱曲家",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_songweaver_desc",
+      "eng": "Opening Gambit: Give a nearby friendly minion +1/+1.",
+      "chi": "登场：使一个友方随从获得 +1/+1。",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_spelljammer_name",
+      "eng": "Spelljammer",
+      "chi": "扰咒师",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_spelljammer_desc",
+      "eng": "Each player draws an additional card at the end of their turns.",
+      "chi": "每位玩家在回合结束时额外抽一张牌。",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_sun_seer_name",
+      "eng": "Sun Seer",
+      "chi": "太阳先知",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_sun_seer_desc",
+      "eng": "Whenever this minion deals damage, restore 2 Health to your General.",
+      "chi": "每当此随从造成伤害时，为你的将领治疗2点生命。",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_sword_of_mechaz0r_name",
+      "eng": "Sword of MECHAZ0R",
+      "chi": "原型机的光剑",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_sword_of_mechaz0r_desc",
+      "eng": "Frenzy\nOpening Gambit: Progresses MECHAZ0R build by +20%.",
+      "chi": "狂暴\n登场：使你的决战兵器组装进度提高20%。",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_sworn_avenger_name",
+      "eng": "Sworn Avenger",
+      "chi": "誓言复仇者",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_sworn_avenger_desc",
+      "eng": "Ranged\nWhenever your General takes damage, this minion gains +1 Attack.",
+      "chi": "远程\n每当你的将领受到伤害，此随从获得 +1/+0。",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_syvrel_the_exile_name",
+      "eng": "Syvrel the Exile",
+      "chi": "流放者 西弗尔",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_syvrel_the_exile_desc",
+      "eng": "Ranged\nMinions damaged by Syvrel are pulled in front of him.",
+      "chi": "远程\n每当此随从对一个敌方随从造成伤害时，将其传送到此随从正前方。",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_venom_toth_name",
+      "eng": "Venom Toth",
+      "chi": "毒牙",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_venom_toth_desc",
+      "eng": "Whenever your opponent summons a minion, deal 1 damage to the enemy General.",
+      "chi": "每当你的对手召唤一个随从，对敌方将领造成1点伤害。",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_void_hunter_name",
+      "eng": "Void Hunter",
+      "chi": "虚空猎手",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_void_hunter_desc",
+      "eng": "Dying Wish: Draw a card.",
+      "chi": "死愿：抽1张牌。",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_wind_runner_name",
+      "eng": "Wind Runner",
+      "chi": "追风者",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_wind_runner_desc",
+      "eng": "After this minion moves, give all friendly minions around it +1/+1.",
+      "chi": "当此随从移动后，使相邻的友方随从获得+1/+1。",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_wind_stopper_name",
+      "eng": "Wind Stopper",
+      "chi": "阻风师",
+      "originVersionCode": "20.1.18",
+      "translateState": 4
+    }
+  ]
+}

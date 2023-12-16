@@ -1,0 +1,184 @@
+{
+  "versionCode": "20.1.22",
+  "nodeCode": "rewards",
+  "path": "rewards",
+  "orderStart": 0,
+  "orderEnd": 24,
+  "translateItemList": [
+    {
+      "code": "level_up_reward_title",
+      "eng": "Level {{level}} Completion Reward",
+      "chi": "等级{{level}}奖励",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "card_reward_subtitle",
+      "eng": "{{card_count}}/{{total}} {{factionName}} cards unlocked",
+      "chi": "",
+      "originVersionCode": "20.1.22",
+      "translateState": 0
+    },
+    {
+      "code": "generic_reward_title",
+      "eng": "You earned a reward!",
+      "chi": "你赢得了奖励！",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "spirit_orb_reward_info",
+      "eng": "Open Spirit Orbs to earn new units and spells",
+      "chi": "打开卡包获取新的随从与法术",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "quest_complete_title",
+      "eng": "Quest Complete: {{quest_name}}",
+      "chi": "任务完成: {{quest_name}}",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "quest_reward_gift_crate_title",
+      "eng": "FREE Gift Crate for completing the {{quest_name}} quest",
+      "chi": "",
+      "originVersionCode": "20.1.22",
+      "translateState": 0
+    },
+    {
+      "code": "referral_rewards_available_message",
+      "eng": "You have referral rewards available",
+      "chi": "你可以获得推荐奖励",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "spirit_for_faction_lvl_reward_message",
+      "eng": "You've earned {{spirit}} SPIRIT for completing {{faction_name}} level {{level}}",
+      "chi": "你获得了{{spirit}} 精魄因为{{faction_name}}到达了等级{{level}}",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "gold_for_faction_lvl_reward_message",
+      "eng": "You've earned {{gold}} GOLD for completing {{faction_name}} level {{level}}",
+      "chi": "你获得了{{gold}}金币因为{{faction_name}}到达了等级{{level}}",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "orb_for_faction_lvl_reward_message",
+      "eng": "You've earned a SPIRIT ORB for completing {{faction_name}} level {{level}}",
+      "chi": "你获得了一个卡包因为{{faction_name}}到达了等级{{level}}",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "3_win_gold_reward_title",
+      "eng": "3 wins reward",
+      "chi": "三胜奖励",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "3_win_gold_reward_message",
+      "eng": "You've earned {{gold_amount}} GOLD for winning 3 games",
+      "chi": "你因为3胜获得了{{gold_amount}}金币",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "4_play_gold_reward_title",
+      "eng": "4 games played reward",
+      "chi": "4局游戏奖励",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "4_play_gold_reward_message",
+      "eng": "You've earned {{gold_amount}} GOLD for playing 4 games",
+      "chi": "你因为对战4次获得了{{gold_amount}}金币",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "first_win_of_the_day_reward_title",
+      "eng": "First Win of the Day Reward",
+      "chi": "每日首胜奖励",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "first_win_of_the_day_reward_message",
+      "eng": "You've earned {{gold_amount}} GOLD for your first win of the day",
+      "chi": "你因为每日首胜获得了{{gold_amount}}金币",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "first_3_games_reward_title",
+      "eng": "3 Games Played Reward",
+      "chi": "3局游戏奖励",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "first_3_games_reward_message",
+      "eng": "You've earned {{gold_amount}} GOLD for playing 3 full games",
+      "chi": "你因为对战3次获得了{{gold_amount}}金币",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "first_10_games_reward_title",
+      "eng": "10 Games Played Reward",
+      "chi": "10局游戏奖励",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "first_10_games_reward_message",
+      "eng": "You've earned {{gold_amount}} GOLD for playing 10 full games",
+      "chi": "你因为对战10次获得了{{gold_amount}}金币",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "boss_defeated_reward_title",
+      "eng": "BOSS DEFEATED",
+      "chi": "战胜BOSS",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "boss_defeated_reward_message",
+      "eng": "+1 SPIRIT ORB for defeating the Boss for the first time",
+      "chi": "",
+      "originVersionCode": "20.1.22",
+      "translateState": 0
+    },
+    {
+      "code": "multi_mystery_crate",
+      "eng": "You've won {{numCrates}} Mystery Crates!",
+      "chi": "",
+      "originVersionCode": "20.1.22",
+      "translateState": 0
+    },
+    {
+      "code": "one_mystery_crate",
+      "eng": "You've won a {{crateName}} Crate!",
+      "chi": "",
+      "originVersionCode": "20.1.22",
+      "translateState": 0
+    },
+    {
+      "code": "achievement_complete_title",
+      "eng": "Achievement Complete:",
+      "chi": "成就完成：",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    }
+  ]
+}

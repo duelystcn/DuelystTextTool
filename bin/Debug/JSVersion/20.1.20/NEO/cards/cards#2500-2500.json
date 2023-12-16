@@ -1,0 +1,16 @@
+{
+  "versionCode": "20.1.20",
+  "nodeCode": "cards",
+  "path": "cards",
+  "orderStart": 2500,
+  "orderEnd": 2500,
+  "translateItemList": [
+    {
+      "code": "frostfire_tiger_name",
+      "eng": "Frostfire Tiger",
+      "chi": "霜火虎",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    }
+  ]
+}

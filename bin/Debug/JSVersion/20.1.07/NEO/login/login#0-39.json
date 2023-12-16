@@ -1,0 +1,289 @@
+{
+  "versionCode": "20.1.07",
+  "nodeCode": "login",
+  "path": "login",
+  "orderStart": 0,
+  "orderEnd": 39,
+  "translateItemList": [
+    {
+      "code": "email_input_label",
+      "eng": "Email or Username",
+      "chi": "邮箱或用户名",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "password_input_label",
+      "eng": "Password",
+      "chi": "密码",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "login_button_label",
+      "eng": "Login",
+      "chi": "登录",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "forgot_password_button_label",
+      "eng": "Forgot Password?",
+      "chi": "忘记密码？",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "help_label",
+      "eng": "Help?",
+      "chi": "帮助？",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "create_account_button_label",
+      "eng": "Create Account",
+      "chi": "创建账号",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "invalid_password_message",
+      "eng": "Invalid password",
+      "chi": "无效密码",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "invalid_email_message",
+      "eng": "Invalid email",
+      "chi": "无效邮箱",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "invalid_username_message",
+      "eng": "Invalid username",
+      "chi": "无效用户名",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "account_suspended_message",
+      "eng": "Account Suspended",
+      "chi": "账户已封停",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "invalid_username_or_password_message",
+      "eng": "Invalid email or password",
+      "chi": "无效邮箱或密码",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "forgot_password_dialog_title",
+      "eng": "Forgot Password?",
+      "chi": "忘记密码？",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "email_only_input_label",
+      "eng": "Your Email",
+      "chi": "你的邮箱",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "forgot_password_submit_button_label",
+      "eng": "Submit",
+      "chi": "确认",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "reset_password_email_sent_message",
+      "eng": "If the email exists, you will receive instructions to reset your password.",
+      "chi": "如果该电子邮箱存在，你将收到重置密码的说明。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "email_already_registered_message",
+      "eng": "Email is already registered. Please contact customer support.",
+      "chi": "电子邮件已注册。请联系客户支持。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "unable_to_login_to_account_message",
+      "eng": "We are unable to log in to your account.",
+      "chi": "我们无法登录到你的帐户。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "skip_to_login_button_label",
+      "eng": "Skip to Log In",
+      "chi": "跳转到登录",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "log_in_label",
+      "eng": "Log In",
+      "chi": "登录",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "log_in_label_emphasized",
+      "eng": "LOG IN",
+      "chi": "登录",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "sign_up_label",
+      "eng": "Sign Up",
+      "chi": "注册",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "sign_up_label_emphasized",
+      "eng": "SIGN UP",
+      "chi": "注册",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "remember_email",
+      "eng": "Remember Email",
+      "chi": "记住邮箱",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "show_password",
+      "eng": "show",
+      "chi": "",
+      "originVersionCode": "20.1.07",
+      "translateState": 0
+    },
+    {
+      "code": "date_of_birth",
+      "eng": "Date of Birth",
+      "chi": "出生日期",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "month",
+      "eng": "Month",
+      "chi": "月",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "day",
+      "eng": "Day",
+      "chi": "日",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "year",
+      "eng": "Year",
+      "chi": "年",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "send_me_news",
+      "eng": "Send me news and special offers",
+      "chi": "向我发送新闻和特别优惠",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "account_created_success_title",
+      "eng": "Account Created!",
+      "chi": "帐户已创建！",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "login_one_moment",
+      "eng": "One moment while we log you in...",
+      "chi": "登陆中请稍等",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "link_old_account",
+      "eng": "Need to link your old DUELYST II account? <a href=\"javascript:void(0)\" class=\"link-existing-account\">Link Account",
+      "chi": "",
+      "originVersionCode": "20.1.07",
+      "translateState": 0
+    },
+    {
+      "code": "login_using_duelyst_account",
+      "eng": "Log In Using Your DUELYST II Account",
+      "chi": "使用DULYST II帐户登录",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "login_using_duelyst_account_2",
+      "eng": "Use your DUELYST II account credentials to start the account linking process.",
+      "chi": "",
+      "originVersionCode": "20.1.07",
+      "translateState": 0
+    },
+    {
+      "code": "help",
+      "eng": "Help?",
+      "chi": "帮助？",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "dont_have_duelyst_account",
+      "eng": "Don't have a DUELYST II account? <a href=\"javascript:void(0)\" class=\"signup-link\">Register <i class=\"fa fa-arrow-circle-o-right\"></i></a>.",
+      "chi": "",
+      "originVersionCode": "20.1.07",
+      "translateState": 0
+    },
+    {
+      "code": "select_username",
+      "eng": "Select Username",
+      "chi": "选择用户名",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "username",
+      "eng": "Username",
+      "chi": "用户名",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "play_duelyst_btn",
+      "eng": "Play DUELYST II",
+      "chi": "游玩DUELYST II",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "username_set_success",
+      "eng": "Your username has been set!",
+      "chi": "您的用户名已被设置！",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    }
+  ]
+}

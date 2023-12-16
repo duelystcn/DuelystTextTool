@@ -1,0 +1,72 @@
+{
+  "versionCode": "20.1.22",
+  "nodeCode": "cards",
+  "path": "cards",
+  "orderStart": 2500,
+  "orderEnd": 2508,
+  "translateItemList": [
+    {
+      "code": "neutral_gauntletspecial_fortuneshaper_name",
+      "eng": "Fortuneshaper",
+      "chi": "运气塑造者",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_gauntletspecial_fortuneshaper_desc",
+      "eng": "Your next Gauntlet card choices will be Epic cards.",
+      "chi": "你下一次选择将会是史诗卡。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_gauntletspecial_futureshaker_name",
+      "eng": "Futureshaker",
+      "chi": "未来改变者",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_gauntletspecial_futureshaker_desc",
+      "eng": "Your next Gauntlet card choices will be Legendary Neutral cards.",
+      "chi": "你下一次选择将会是中立的传奇卡。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_gauntletspecial_fatesealer_name",
+      "eng": "Fatesealer",
+      "chi": "命运封印者",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_gauntletspecial_fatesealer_desc",
+      "eng": "Your next Gauntlet card choices will be Legendary Faction cards.",
+      "chi": "你下一次选择将会是所属阵营的传奇卡。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "frostfire_imp_name",
+      "eng": "Frostfire Imp",
+      "chi": "霜火精灵",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "frostfire_snowchser_name",
+      "eng": "Frostfire Snowchaser",
+      "chi": "霜火寻雪精灵",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "frostfire_tiger_name",
+      "eng": "Frostfire Tiger",
+      "chi": "霜火虎",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    }
+  ]
+}

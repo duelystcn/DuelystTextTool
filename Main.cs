@@ -97,7 +97,7 @@ namespace DuelystText
                     }
                     if (btnCell.ColumnIndex == 3)
                     {
-                        VersionItem versionItemTarget = ToolDataManger.Instance.versionDic["20.1.02"];
+                        VersionItem versionItemTarget = ToolDataManger.Instance.versionDic["20.1.22"];
                         versionItem.ReferenceByTargetVersion(versionItemTarget);
                     }
                     if (btnCell.ColumnIndex == 4)

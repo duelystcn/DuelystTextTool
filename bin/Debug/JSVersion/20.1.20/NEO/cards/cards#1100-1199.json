@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.20",
+  "nodeCode": "cards",
+  "path": "cards",
+  "orderStart": 1100,
+  "orderEnd": 1199,
+  "translateItemList": [
+    {
+      "code": "faction_2_spell_ethereal_blades_desc",
+      "eng": "Give a friendly minion AND your General +2 Attack this turn.",
+      "chi": "使一个友方随从和你的将领获得 +2/+0 直到回合结束。\n",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_spell_obscuring_blow_name",
+      "eng": "Obscuring Blow",
+      "chi": "鬼影击",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_spell_obscuring_blow_desc",
+      "eng": "Give a friendly minion or General Backstab (2).",
+      "chi": "使一个友方单位获得背刺2。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_spell_cobra_strike_name",
+      "eng": "Cobra Strike",
+      "chi": "蛇形刁手",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_spell_cobra_strike_desc",
+      "eng": "Deal 3 damage to an enemy minion AND the enemy General.",
+      "chi": "对一个敌方随从和敌方将领各造成3点伤害。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_spell_joseki_name",
+      "eng": "Joseki",
+      "chi": "定式",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_spell_joseki_desc",
+      "eng": "Each player steals a random card from their opponent's deck.",
+      "chi": "每名玩家从对手牌库随机抽取一张牌，",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_spell_gotatsu_name",
+      "eng": "Gotatsu",
+      "chi": "手里剑",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_spell_gotatsu_desc",
+      "eng": "Deal 1 damage to a minion. Draw a card at end of turn.",
+      "chi": "对一个随从造成1点伤害。在你的回合结束时抽一张牌。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_spell_flicker_name",
+      "eng": "Flicker",
+      "chi": "迷踪步",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_spell_flicker_desc",
+      "eng": "Teleport your General to a space behind an enemy.",
+      "chi": "将你的将领传送到一个敌方单位身后。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_spell_twilight_reiki_name",
+      "eng": "Twilight Reiki",
+      "chi": "暮气",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_spell_twilight_reiki_desc",
+      "eng": "Put 3 random Songhai minions into your action bar. They cost 1 less.",
+      "chi": "将三张随机的Songhai随从放入你的准备栏，这三张牌费用减少1点。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_spell_firestorm_mantra_name",
+      "eng": "Firestorm Mantra",
+      "chi": "风暴炎咒",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_spell_firestorm_mantra_desc",
+      "eng": "Steal Health from the enemy General equal to twice the number of spells cast this turn.",
+      "chi": "从敌方将领上偷取X点生命，X为你这回合使用的法术数量的两倍。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_spell_spiral_counter_name",
+      "eng": "Spiral Counter",
+      "chi": "反击螺旋",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_spell_spiral_counter_desc",
+      "eng": "Deal 8 damage to an enemy minion that attacked last turn.",
+      "chi": "对目标上回合攻击过的敌方随从造成8点伤害。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_spell_bombard_name",
+      "eng": "Bombard",
+      "chi": "轰击指令",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_spell_bombard_desc",
+      "eng": "Reactivate your minions with Ranged.",
+      "chi": "激活你所有的具有远程的随从。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_spell_petal_flurry_name",
+      "eng": "Petal Flurry",
+      "chi": "剑花",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_spell_petal_flurry_desc",
+      "eng": "Put a Spellsword into your action bar that cannot be replaced.",
+      "chi": "将一张名剑放入你的准备栏，剑芒无法被替换。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_spell_murasame_name",
+      "eng": "Murasame",
+      "chi": "村雨",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_spell_murasame_desc",
+      "eng": "Draw a card at end of turn.",
+      "chi": "回合结束时抽一张牌。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_spell_kiyomori_name",
+      "eng": "Kiyomori",
+      "chi": "清盛",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_spell_kiyomori_desc",
+      "eng": "Your General may move an additional space this turn.",
+      "chi": "你的将领本回合可以额外移动一格。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_spell_tanahashi_name",
+      "eng": "Tanahashi",
+      "chi": "棚桥",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_spell_tanahashi_desc",
+      "eng": "Teleport an enemy minion 1 space.",
+      "chi": "传送一个敌方随从一格。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_spell_kotetsu_name",
+      "eng": "Kotetsu",
+      "chi": "虎彻",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_spell_kotetsu_desc",
+      "eng": "Give a friendly minion or General Backstab (2) this turn.",
+      "chi": "使一个友方单位获得背刺2直到回合结束。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_spell_thunderbomb_name",
+      "eng": "Thunderbomb",
+      "chi": "震天雷",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_spell_thunderbomb_desc",
+      "eng": "Deal 3 damage to an enemy and 1 damage to all enemies around it.",
+      "chi": "对一个敌方单位造成3点伤害，对该单位相邻的敌方单位造成1点伤害。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_spell_assassination_protocol_name",
+      "eng": "Assassination Protocol",
+      "chi": "刺杀契约",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_spell_assassination_protocol_desc",
+      "eng": "Reactivate an exhausted friendly minion. It cannot damage or attack Generals this turn.",
+      "chi": "激活目标已力竭的友方随从，这回合该随从不能对敌方将领造成伤害。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_spell_mass_flight_name",
+      "eng": "Mass Flight",
+      "chi": "腾云术",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_spell_mass_flight_desc",
+      "eng": "Give all friendly minions Flying this turn.",
+      "chi": "使所有友方随从获得飞行直到回合结束。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_spell_substitution_name",
+      "eng": "Substitution",
+      "chi": "替身术",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_spell_substitution_desc",
+      "eng": "Switch positions between a friendly minion and your General.",
+      "chi": "交换一个友方随从与你的将领的位置。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_spell_bamboozle_name",
+      "eng": "Bamboozle",
+      "chi": "竹叶障目",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_spell_bamboozle_desc",
+      "eng": "Transform a nearby enemy minion into a 0/2 Panddo. If it is already a Panddo, instead destroy it and draw to fill your action bar.",
+      "chi": "将一个相邻敌方随从变形为胖多(0/2 不能被攻击)。如果该随从已经是胖多，改为消灭它并将你的准备栏抽满。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_spell_seeker_squad_name",
+      "eng": "Seeker Squad",
+      "chi": "穿心小队",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_spell_seeker_squad_desc",
+      "eng": "Summon a Heartseeker in each nearby space diagonal from your General.",
+      "chi": "所有与你将领的相邻位置召唤一个猎心者(1/1 远程)。\n",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_spell_mechaz0r_progress_name",
+      "eng": "MECHAZ0R Progression",
+      "chi": "组装展开",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_spell_mechaz0r_progress_desc",
+      "eng": "Progresses MECHAZ0R build by +20%.",
+      "chi": "使你的决战兵器组装进度提高20%。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_artifact_mask_of_shadows_name",
+      "eng": "Mask of Shadows",
+      "chi": "阴影面具",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_artifact_mask_of_shadows_description",
+      "eng": "Your General gains +1 Attack.\nYour General gains Backstab (4).",
+      "chi": "你的将领具有 +1/+0 。\n你的将领具有背刺5。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_artifact_cyclone_mask_name",
+      "eng": "Cyclone Mask",
+      "chi": "旋风面具",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_artifact_cyclone_mask_description",
+      "eng": "Your General gains Ranged.",
+      "chi": "你的将领具有远程。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_artifact_bloodrage_mask_name",
+      "eng": "Bloodrage Mask",
+      "chi": "血怒面具",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_artifact_bloodrage_mask_description",
+      "eng": "Whenever you cast a spell, deal 1 damage to the enemy General.",
+      "chi": "你使用一张法术时，对敌方将领造成1点伤害。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_artifact_crescent_spear_name",
+      "eng": "Crescent Spear",
+      "chi": "新月矛",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_artifact_crescent_spear_description",
+      "eng": "Your General gains +1 Attack. Spells you cast that deal damage deal +1 damage.",
+      "chi": "你的将领具有 +1/+0。\n你使用的法术造成伤害增加1点。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_artifact_bangle_of_blinding_strike_name",
+      "eng": "Bangle of Blinding Strike",
+      "chi": "迷雾手串",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_artifact_bangle_of_blinding_strike_description",
+      "eng": "Your General has Celerity.",
+      "chi": "你的将领具有迅捷。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_artifact_unbounded_energy_amulet_name",
+      "eng": "Unbounded Energy Amulet",
+      "chi": "轻盈玉佩",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_artifact_unbounded_energy_amulet_desc",
+      "eng": "Your General gains +1 Attack.\nYour General may move an additional space.",
+      "chi": "你的将领具有 +1/+0。\n你的将领可以额外移动一格。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_artifact_ornate_hiogi_name",
+      "eng": "Ornate Hiogi",
+      "chi": "玲珑绯扇",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_artifact_ornate_hiogi_desc",
+      "eng": "Whenever you cast a spell, draw a card.",
+      "chi": "每当你使用一张法术时，抽一张牌。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_kaelos_name",
+      "eng": "Kaleos Xaan",
+      "chi": "卡莱·肖",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_kaelos_desc",
+      "eng": "Bloodbound Spell: Teleport a friendly minion up to 2 spaces.",
+      "chi": "血技：传送一个友方随从最多2格。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_reva_name",
+      "eng": "Reva Eventide",
+      "chi": "暮色 雷伊",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_reva_desc",
+      "eng": "Bloodbound Spell: Summon a Heartseeker nearby your General.",
+      "chi": "血技：在你的将领相邻位置召唤一个猎心者(1/1 远程)。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_shidai_name",
+      "eng": "Shidai Stormblossom",
+      "chi": "剑芒 石黛",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_shidai_desc",
+      "eng": "Bloodbound Spell: Put a Spellsword into your action bar that cannot be replaced.",
+      "chi": "血技：将一张名剑放入你的准备栏，剑芒无法被替换。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_lantern_fox_name",
+      "eng": "Lantern Fox",
+      "chi": "灯狐",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_lantern_fox_desc",
+      "eng": "Whenever this minion takes damage, put a Phoenix Fire into your action bar.",
+      "chi": "每当此随从受伤时，将一张凤凰火置入你的准备栏。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_jade_monk_name",
+      "eng": "Jade Monk",
+      "chi": "玉和尚",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_jade_monk_desc",
+      "eng": "Whenever this minion takes damage, deal 1 damage to a random enemy minion.",
+      "chi": "本回合你每使用一张法术，这张牌的费用便减少1。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_chakri_avatar_name",
+      "eng": "Chakri Avatar",
+      "chi": "却克里化身",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_chakri_avatar_desc",
+      "eng": "Whenever you cast a spell, this minion gains +1/+1",
+      "chi": "当你使用法术，此随从获得+1/+1。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_four_winds_magi_name",
+      "eng": "Four Winds Magi",
+      "chi": "四风法师",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_four_winds_magi_desc",
+      "eng": "Whenever you cast a spell, deal 1 damage to enemy General and restore 1 Health to your General",
+      "chi": "当你使用法术时，对敌方将领造成1点伤害，治疗你的将领1点生命。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_celestial_phantom_name",
+      "eng": "Celestial Phantom",
+      "chi": "虚空幻影",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_celestial_phantom_desc",
+      "eng": "Destroy any minion damaged by this minion.",
+      "chi": "对敌方随从造成伤害后，摧毁该随从。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_storm_kage_name",
+      "eng": "Storm Kage",
+      "chi": "风暴赤影",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_storm_kage_desc",
+      "eng": "Whenever one of your spells deals damage, put a Kage Lightning in your action bar.",
+      "chi": "当你使用造成伤害的法术，将一张赤影闪电置入准备栏。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_hamon_bladeseeker_name",
+      "eng": "Hamon Bladeseeker",
+      "chi": "寻剑客",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_hamon_bladeseeker_desc",
+      "eng": "At the start of your turn, deal 2 damage to your General.",
+      "chi": "你的回合开始时，对你的将领造成2点伤害。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_keshrai_fanblade_name",
+      "eng": "Keshrai Fanblade",
+      "chi": "叶刃舞者",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_keshrai_fanblade_desc",
+      "eng": "Opening Gambit: Next turn, opponent's spells cost 2 more to cast",
+      "chi": "登场：直到你的下回合，对手的法术费用加2。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_kaido_assassin_name",
+      "eng": "Kaido Assassin",
+      "chi": "凯多刺客",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_kaido_assassin_desc",
+      "eng": "Backstab: (1).",
+      "chi": "背刺1",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_scarlet_viper_name",
+      "eng": "Scarlet Viper",
+      "chi": "猩红毒蛇",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_scarlet_viper_desc",
+      "eng": "Flying\nBackstab: (4).",
+      "chi": "背刺4",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_gorehorn_name",
+      "eng": "Gore Horn",
+      "chi": "屠戮巨角",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_gorehorn_desc",
+      "eng": "Backstab: (2)\nAfter this minion attacks, it gains +1/+1.",
+      "chi": "背刺2\n当此随从攻击后获得+1/+1。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_panddo_name",
+      "eng": "Panddo",
+      "chi": "胖多",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_panddo_desc",
+      "eng": "Cannot be attacked.",
+      "chi": "不能被攻击。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_tuskboar_name",
+      "eng": "Tusk Boar",
+      "chi": "利牙野猪",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_tuskboar_desc",
+      "eng": "Rush\nReturn this minion to your action bar at the beginning of your turn.",
+      "chi": "冲锋\n在你的回合开始时，将此随从返回你的准备栏。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_heartseeker_name",
+      "eng": "Heartseeker",
+      "chi": "猎心者",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_heartseeker_desc",
+      "eng": "Ranged",
+      "chi": "远程",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_widowmaker_name",
+      "eng": "Widowmaker",
+      "chi": "寡妇制造者",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_widowmaker_desc",
+      "eng": "Ranged",
+      "chi": "远程",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_katara_name",
+      "eng": "Katara",
+      "chi": "水宗刺客",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_katara_desc",
+      "eng": "Backstab: (1).",
+      "chi": "背刺1",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_ace_name",
+      "eng": "Ace",
+      "chi": "负炮龟",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_ace_desc",
+      "eng": "Ranged",
+      "chi": "远程",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_ki_beholder_name",
+      "eng": "Ki Beholder",
+      "chi": "邪眼 凯",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_ki_beholder_desc",
+      "eng": "Ranged\nOpening Gambit: An enemy minion cannot move next turn.",
+      "chi": "远程\n登场：目标敌方随从下回合无法移动。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_xho_name",
+      "eng": "Xho",
+      "chi": "炎吼兽",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "versionCode": "20.1.22",
+  "nodeCode": "cosmetics",
+  "path": "cosmetics",
+  "orderStart": 900,
+  "orderEnd": 904,
+  "translateItemList": [
+    {
+      "code": "title_SeriallyEpic",
+      "eng": "Serially Epic",
+      "chi": "",
+      "originVersionCode": "20.1.22",
+      "translateState": 0
+    },
+    {
+      "code": "title_EpicChampion",
+      "eng": "Epic Champion",
+      "chi": "",
+      "originVersionCode": "20.1.22",
+      "translateState": 0
+    },
+    {
+      "code": "title_EpicContender",
+      "eng": "Epic Contender",
+      "chi": "",
+      "originVersionCode": "20.1.22",
+      "translateState": 0
+    },
+    {
+      "code": "title_SeriesRival",
+      "eng": "Series Rival",
+      "chi": "",
+      "originVersionCode": "20.1.22",
+      "translateState": 0
+    },
+    {
+      "code": "title_EpicStyle",
+      "eng": "Epic Style",
+      "chi": "",
+      "originVersionCode": "20.1.22",
+      "translateState": 0
+    }
+  ]
+}

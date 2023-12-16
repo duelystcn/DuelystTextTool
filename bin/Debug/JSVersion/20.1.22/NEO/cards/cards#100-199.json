@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.22",
+  "nodeCode": "cards",
+  "path": "cards",
+  "orderStart": 100,
+  "orderEnd": 199,
+  "translateItemList": [
+    {
+      "code": "d2_faction_2_spell_twin_strike_description",
+      "eng": "Deal 2 damage to exactly two enemy minions. Draw a card at the end of your turn.",
+      "chi": "选择两个敌方随从，各造\n成2点伤害。在你的回合\n结束时抽一张牌。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_eight_gates_name",
+      "eng": "Eight Gates",
+      "chi": "八门",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_eight_gates_description",
+      "eng": "Spells you play this turn that deal damage deal +2 damage.",
+      "chi": "这个回合内，你使用法术\n造成的伤害增加2点。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_spiral_technique_name",
+      "eng": "Spiral Technique",
+      "chi": "极意螺旋",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_spiral_technique_description",
+      "eng": "Deal 8 damage to a unit.",
+      "chi": "对一个单位造成8点伤害。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_mana_vortex_name",
+      "eng": "Mana Vortex",
+      "chi": "蓄气",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_mana_vortex_description",
+      "eng": "The next spell you play this turn costs 1 less. Draw a card at the end of your turn.",
+      "chi": "这个回合你使用的下一张\n法术费用减少1点。在你的\n回合结束时抽一张牌。\n",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_inner_focus_name",
+      "eng": "Inner Focus",
+      "chi": "凝神静气",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_inner_focus_description",
+      "eng": "Activate an allied minion with 3 or less Attack.",
+      "chi": "激活一个攻击小于等于3的\n友方随从。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_onyx_bear_seal_name",
+      "eng": "Onyx Bear Seal",
+      "chi": "墨熊印",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_onyx_bear_seal_description",
+      "eng": "Transform a minion into a Panddo.",
+      "chi": "将一个随从变形为胖多(0/2 \n不能被攻击)。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_ghost_lightning_name",
+      "eng": "Ghost Lightning",
+      "chi": "闪灵一击",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_ghost_lightning_description",
+      "eng": "Deal 1 damage to enemy minions.",
+      "chi": "对所有敌方随从造成1点伤害。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_deathstrike_seal_name",
+      "eng": "Deathstrike Seal",
+      "chi": "触蛇印",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_deathstrike_seal_description",
+      "eng": "Give an allied minion \"After this damages an enemy minion, destroy that minion\".",
+      "chi": "使一个友方随从获得\"对敌\n方随从造成伤害后，摧毁\n该随从。\"。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_ancestral_divination_name",
+      "eng": "Ancestral Divination",
+      "chi": "卜算",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_ancestral_divination_description",
+      "eng": "When you play a minion this turn, draw a card.",
+      "chi": "本回合你使用随从\n时抽一张牌。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_juxtaposition_name",
+      "eng": "Juxtaposition",
+      "chi": "移形换影",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_juxtaposition_description",
+      "eng": "Switch the positions of two minions.",
+      "chi": "交换两个随从的位置。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_artifact_defiler_name",
+      "eng": "Artifact Defiler",
+      "chi": "折戟",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_artifact_defiler_description",
+      "eng": "Destroy all artifacts equipped to the enemy General.",
+      "chi": "摧毁敌方将领装备的所有神器。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_heavens_eclipse_name",
+      "eng": "Heaven's Eclipse",
+      "chi": "天之蚀",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_heavens_eclipse_description",
+      "eng": "Draw three spells.",
+      "chi": "抽三张法术。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_mist_walking_name",
+      "eng": "Mist Walking",
+      "chi": "雾影步",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_mist_walking_description",
+      "eng": "Teleport your General up to 2 spaces.",
+      "chi": "将你的将领传送至多两格。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_killing_edge_name",
+      "eng": "Killing Edge",
+      "chi": "致命利刃",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_killing_edge_description",
+      "eng": "Give an allied minion +4/+2. If it has Backstab, draw a card at the end of your turn.",
+      "chi": "使一个友方随从获得+4/+2。\n如果其有背刺，在你的回合\n结束时抽一张牌。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_blink_name",
+      "eng": "Blink",
+      "chi": "闪烁",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_blink_desc",
+      "eng": "Ephemeral\nTeleport an allied minion up to 2 spaces.",
+      "chi": "骤现\n传送一个友方随从至多2格。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_backstep_name",
+      "eng": "Backstep",
+      "chi": "后撤步",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_backstep_desc",
+      "eng": "Teleport an exhausted allied minion up to 2 spaces. Put a Blink into your action bar.",
+      "chi": "传送一个力竭的友方随从\n至多两格。将一张闪烁置\n入你的准备栏。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_gotatsu_name",
+      "eng": "Gotatsu",
+      "chi": "手里剑",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_gotatsu_desc",
+      "eng": "Deal 1 damage to a minion. Draw a card at end of turn.",
+      "chi": "对一个随从造成1点伤害。\n在回合结束时抽一张牌。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_artifact_mask_of_shadows_name",
+      "eng": "Mask of Shadows",
+      "chi": "阴影面具",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_artifact_mask_of_shadows_description",
+      "eng": "Your General has +1/+0 and Backstab: 3.",
+      "chi": "你的将领具有\n+1/+0 和背刺3。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_artifact_cyclone_mask_name",
+      "eng": "Cyclone Mask",
+      "chi": "旋风面具",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_artifact_cyclone_mask_description",
+      "eng": "Your General has Ranged.",
+      "chi": "你的将领具有远程。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_artifact_bloodrage_mask_name",
+      "eng": "Bloodrage Mask",
+      "chi": "血怒面具",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_artifact_bloodrage_mask_description",
+      "eng": "When you play a spell, your General deals 1 damage to the enemy General.",
+      "chi": "你使用一张法术时，\n对敌方将领造成1点伤害。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_artifact_sensu_of_epochs_name",
+      "eng": "Sensu of Epochs",
+      "chi": "纪元历",
+      "originVersionCode": "20.1.22",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_artifact_sensu_of_epochs_desc",
+      "eng": "Timeless\nAt the end of your turn, if you've played a minion and a spell, draw a card.",
+      "chi": "永恒\n在你的回合结束时，如果\n你打出过一张随从和一张\n法术，抽一张牌。",
+      "originVersionCode": "20.1.22",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_artifact_crescent_spear_name",
+      "eng": "Crescent Spear",
+      "chi": "月牙矛",
+      "originVersionCode": "20.1.22",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_artifact_crescent_spear_desc",
+      "eng": "Your General gains +1 Attack. Spells you cast that deal damage deal +1 damage.",
+      "chi": "你的将领具有+1/+0。\n你使用的法术造成的伤害\n增加1点。",
+      "originVersionCode": "20.1.22",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_artifact_ribbon_of_the_wind_name",
+      "eng": "Ribbon of the Wind",
+      "chi": "灵风飘",
+      "originVersionCode": "20.1.22",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_artifact_ribbon_of_the_wind_desc",
+      "eng": "Your General can move an additional space. When this is destroyed, your next spell costs 1 less.",
+      "chi": "你的将领可以额外移动1格。\n当此神器被摧毁时，你使\n用的下一张法术费用减少1。",
+      "originVersionCode": "20.1.22",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_artifact_windup_shuriken_name",
+      "eng": "Wind-up Shuriken",
+      "chi": "蓄能手里剑",
+      "originVersionCode": "20.1.22",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_artifact_windup_shuriken_desc",
+      "eng": "Timeless\nAt the end of each turn, your General gains +1/+0 until they attack or counterattack.",
+      "chi": "永恒\n在每个回合结束时，你的\n将领获得+1/+0直到下一次\n攻击或反击。",
+      "originVersionCode": "20.1.22",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_unit_kaelos_name",
+      "eng": "Kaleos Xaan",
+      "chi": "卡莱·肖",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_unit_kaelos_desc",
+      "eng": "",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_unit_reva_name",
+      "eng": "Reva Eventide",
+      "chi": "暮色 雷伊",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_unit_reva_desc",
+      "eng": "",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_unit_shidai_name",
+      "eng": "Shidai Stormblossom",
+      "chi": "剑芒 石黛",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_unit_shidai_desc",
+      "eng": "",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_unit_lantern_fox_name",
+      "eng": "Lantern Fox",
+      "chi": "灯狐",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_unit_lantern_fox_desc",
+      "eng": "When this takes damage, put a Phoenix Fire into your action bar.",
+      "chi": "每当此随从受伤时，将一张\n凤凰火置入你的准备栏。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_unit_jade_monk_name",
+      "eng": "Jade Monk",
+      "chi": "玉和尚",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_unit_jade_monk_desc",
+      "eng": "This card costs 1 less for each spell you played this turn.",
+      "chi": "本回合你每使用一张法术，\n这张牌的费用便减少1。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_unit_chakri_avatar_name",
+      "eng": "Chakri Avatar",
+      "chi": "却克里化身",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_unit_chakri_avatar_desc",
+      "eng": "When you play a spell, this gains +1/+1.",
+      "chi": "当你使用法术，此随从\n获得+1/+1。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_unit_four_winds_magi_name",
+      "eng": "Four Winds Magus",
+      "chi": "四风法师",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_unit_four_winds_magi_desc",
+      "eng": "When you play a spell, deal 1 damage to enemy General and heal your General for 1.",
+      "chi": "当你使用法术时，\n对敌方将领造成1点伤害，\n治疗你的将领1点生命。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_unit_celestial_phantom_name",
+      "eng": "Celestial Phantom",
+      "chi": "虚空幻影",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_unit_celestial_phantom_desc",
+      "eng": "Opening Gambit: This gains +1/+0 for each card in your action bar.",
+      "chi": "登场：你每有一张手牌，\n此随从获得+1/+0。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_unit_storm_kage_name",
+      "eng": "Storm Kage",
+      "chi": "风暴赤影",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_unit_storm_kage_desc",
+      "eng": "When you play a spell that deals damage, put a Kage Lightning into your action bar.",
+      "chi": "当你使用造成伤害的法术，\n将一张赤影闪电置入准备栏。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_unit_hamon_bladeseeker_name",
+      "eng": "Hamon Bladeseeker",
+      "chi": "寻剑客",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_unit_hamon_bladeseeker_desc",
+      "eng": "At the start of your turn, deal 1 damage to your General.",
+      "chi": "你的回合开始时，\n对你的将领造成1点伤害。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_unit_keshrai_fanblade_name",
+      "eng": "Keshrai Fanblade",
+      "chi": "叶刃舞者",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_unit_keshrai_fanblade_desc",
+      "eng": "Opening Gambit: Your opponent's spells cost 2 more until your next turn.",
+      "chi": "登场：直到你的下回合，\n对手的法术费用加2。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_unit_kaido_assassin_name",
+      "eng": "Kaido Assassin",
+      "chi": "凯多刺客",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_unit_kaido_assassin_desc",
+      "eng": "Backstab: 2.",
+      "chi": "背刺2",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_unit_scarlet_viper_name",
+      "eng": "Scarlet Viper",
+      "chi": "猩红毒蛇",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_unit_scarlet_viper_desc",
+      "eng": "Flying\nBackstab: 3.",
+      "chi": "飞行\n背刺3",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_unit_gorehorn_name",
+      "eng": "Gore Horn",
+      "chi": "屠戮巨角",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_unit_gorehorn_desc",
+      "eng": "Backstab: 2.\nAfter this attacks, it gains +1/+1.",
+      "chi": "背刺2\n攻击后，获得+1/+1。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_unit_panddo_name",
+      "eng": "Panddo",
+      "chi": "胖多",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_unit_panddo_desc",
+      "eng": "This cannot be attacked.",
+      "chi": "无法被攻击。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_unit_tuskboar_name",
+      "eng": "Tusk Boar",
+      "chi": "利牙野猪",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_unit_tuskboar_desc",
+      "eng": "Rush\nAt the start of your turn, deal 1 damage to your General and return this to your action bar.",
+      "chi": "冲锋\n你的回合开始时，对你的\n将领造成1点伤害，此随从\n回到你的准备栏。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_unit_heartseeker_name",
+      "eng": "Heartseeker",
+      "chi": "猎心者",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_unit_heartseeker_desc",
+      "eng": "Ranged",
+      "chi": "远程",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_unit_widowmaker_name",
+      "eng": "Widowmaker",
+      "chi": "寡妇制造者",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_unit_widowmaker_desc",
+      "eng": "Ranged\nWhen this attacks, draw a card at the end of your turn.",
+      "chi": "远程\n每当此随从攻击，在你的\n回合结束时抽一张牌。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_unit_thief_of_moments_name",
+      "eng": "Thief of Moments",
+      "chi": "时间窃贼",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_unit_thief_of_moments_desc",
+      "eng": "After an ally attacks, put a Blink into your action bar.",
+      "chi": "当一个友方单位攻击后，\n将一张闪烁置入你的准备栏。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_unit_rhythmweaver_name",
+      "eng": "Rhythmweaver",
+      "chi": "节奏大师",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_unit_rhythmweaver_desc",
+      "eng": "After this takes damage, draw a spell.",
+      "chi": "当此随从受到伤害后，\n抽一张法术。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_unit_flamewreath_name",
+      "eng": "Flamewreath Alpha",
+      "chi": "环火兽A版",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_unit_flamewreath_desc",
+      "eng": "Rush\nAfter this moves or teleports, deal 2 damage to all nearby enemies.",
+      "chi": "冲锋\n当此随从移动或者传送后，\n对相邻敌方单位造成2点\n伤害。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_unit_flamewreath_beta_name",
+      "eng": "Flamewreath Beta",
+      "chi": "环火兽B版",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_unit_flamewreath_beta_desc",
+      "eng": "Rush\nAfter this moves or teleports, deal 1 damage to all nearby enemies.",
+      "chi": "冲锋\n当此随从移动或者传送后，\n对相邻敌方单位造成1点\n伤害。.",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_unit_bakezori_name",
+      "eng": "Bakezori",
+      "chi": "草鞋妖",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_unit_bakezori_desc",
+      "eng": "After this moves or teleports, draw a card.",
+      "chi": "当此随从移动或者传送后，\n抽一张牌。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_unit_grandmaster_zendo_name",
+      "eng": "Zendo, Ronin Lord",
+      "chi": "幕府将军 禅",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_unit_grandmaster_zendo_desc",
+      "eng": "At the end of your turn, summon two Ronin Shades on random spaces nearby the enemy General.",
+      "chi": "在你的回合结束时，在敌\n方将领随机相邻位置召唤\n两个浪人残影。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_unit_ronin_shade_name",
+      "eng": "Ronin Shade",
+      "chi": "浪人残影",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_unit_ronin_shade_desc",
+      "eng": "Provoke\nDisappears when attacked.",
+      "chi": "嘲讽\n此随从被攻击时消散。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_spell_dominate_will_name",
+      "eng": "Dominate Will",
+      "chi": "支配意志",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_spell_dominate_will_description",
+      "eng": "Take control of an enemy minion nearby your General.",
+      "chi": "获得一个与你的将领相邻的\n敌方随从的控制权。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_spell_siphon_energy_name",
+      "eng": "Siphon Energy",
+      "chi": "虹吸能量",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    }
+  ]
+}

@@ -1,0 +1,478 @@
+{
+  "versionCode": "20.1.20",
+  "nodeCode": "game_tips",
+  "path": "game_tips",
+  "orderStart": 0,
+  "orderEnd": 66,
+  "translateItemList": [
+    {
+      "code": "novice_tip_0",
+      "eng": "Occupying a Mana Spring gives you +1 bonus Mana for that turn.",
+      "chi": "占领魔泉会在该回合为你提供1点法力奖励。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "novice_tip_1",
+      "eng": "Up to 3 Artifacts can be equipped at one time.",
+      "chi": "同时最多装备3件神器。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "novice_tip_2",
+      "eng": "Minions will always counterattack, even if they get destroyed.",
+      "chi": "随从总会进行反击，即使它们被摧毁。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "novice_tip_3",
+      "eng": "Use Practice Mode to hone your skills with a new Faction.",
+      "chi": "在练习模式中可以解锁新阵营。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "novice_tip_4",
+      "eng": "Earn rewards for completing Solo Challenges.",
+      "chi": "完成单人挑战获得奖励。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "novice_tip_5",
+      "eng": "You can gain Faction XP up to level 10 in practice mode.",
+      "chi": "你可以在练习模式中将阵营等级提升至10级。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "novice_tip_6",
+      "eng": "Reach Rank 20 and you'll be rewarded with a Loot Crate containing prizes at the end of the season!",
+      "chi": "达到Rank20，你将在赛季结束时获得战利品箱！",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "novice_tip_7",
+      "eng": "Reach Rank 10 and you'll be rewarded with a new LEGENDARY card at the end of the season.",
+      "chi": "达到Rank10，你将在赛季结束时获得一张传奇卡牌！",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "novice_tip_8",
+      "eng": "Every month, rank up in Ranked Ladder to earn better monthly rewards.",
+      "chi": "每个月，在排名天梯中排名越靠前，获得月度奖励越好。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "novice_tip_9",
+      "eng": "Allies can move through each other, but not through enemies.",
+      "chi": "己方单位之间可以互相穿越，但是不可以穿越敌方单位。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "novice_tip_10",
+      "eng": "Bonus chevrons are awarded for each rank achieved at the end of the previous season.",
+      "chi": "在上一赛季结束时，会根据排名获得徽章。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "novice_tip_11",
+      "eng": "Look at ALL cards in the entire set by enabling Crafting Mode.",
+      "chi": "可以在制作模式中查看当前版本所有的卡牌。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "novice_tip_12",
+      "eng": "You earn +20 Gold for your first Win of the Day.",
+      "chi": "你每天的第一场胜利可以获得20金币。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "novice_tip_13",
+      "eng": "Card Rarity: COMMON, RARE, EPIC and LEGENDARY.",
+      "chi": "卡牌的稀有度：普通，稀有，史诗，传奇。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "novice_tip_14",
+      "eng": "5 Divisions: BRONZE, SILVER, GOLD, DIAMOND AND S-RANK.",
+      "chi": "5个天梯段位：青铜，白银，黄金，钻石 和 S级榜单。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "novice_tip_15",
+      "eng": "Win Streaks start in SILVER and end in DIAMOND.",
+      "chi": "在白银和钻石段位之间，连胜可以获得额外天梯进度。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "novice_tip_16",
+      "eng": "Artifacts have 3 durability - damage the wearer 3 times to break them.",
+      "chi": "神器具有3点耐久，每次受到伤害将会失去一点耐久。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "novice_tip_17",
+      "eng": "Once you enter a new Division, you cannot drop to the previous division for that season.",
+      "chi": "当你进入一个新的段位后，你不会跌落回上一个段位。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "novice_tip_18",
+      "eng": "Playing online matches earn you Faction XP.",
+      "chi": "参加在线战斗可以获取阵营经验。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "novice_tip_19",
+      "eng": "Generals cannot surpass 25 health.",
+      "chi": "将领的生命值不会超过25。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "novice_tip_20",
+      "eng": "Tipping opponents at the end of a match is a great way to show that you enjoyed playing against them.",
+      "chi": "在对局结束后，给于对手小奖励可以表达你的这局游戏的喜爱。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "novice_tip_21",
+      "eng": "You can replace each quest once per day.",
+      "chi": "你每天可以替换每个任务一次。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "novice_tip_22",
+      "eng": "Your units can move up to 2 spaces.",
+      "chi": "你的单位可以移动至多两格。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "novice_tip_23",
+      "eng": "You can replace one card per turn, every turn.",
+      "chi": "你每回合可以替换一张卡牌。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "novice_tip_24",
+      "eng": "Replacing a card never returns the same copy of that card.",
+      "chi": "当你替换一张牌时，不会换回这张牌的同名牌。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "novice_tip_25",
+      "eng": "You can change your username once per month.",
+      "chi": "你每个月可以修改一次你的用户名。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "novice_tip_26",
+      "eng": "The standard movement range for units is 2 spaces.",
+      "chi": "单位的标准移动范围是 2 格。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "novice_tip_27",
+      "eng": "You do not draw cards at the end of your turn if your action bar is full.",
+      "chi": "如果你的准备栏是满的，在你的回合结束时你不会抽牌。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "novice_tip_28",
+      "eng": "Join a tournament to get exclusive rewards: prestige emotes, ribbons, titles.",
+      "chi": "参加锦标赛可获得独家奖励：威望表情、缎带、头衔。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "novice_tip_29",
+      "eng": "The effects of Artifacts cannot be dispelled.",
+      "chi": "神器赋予的能力无法被驱散。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "novice_tip_30",
+      "eng": "Player 1’s units always face to the right, while Player 2’s units always face to the left.",
+      "chi": "玩家1的单位始终面向右侧，而玩家2的单位始终朝向左侧。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "novice_tip_31",
+      "eng": "You gain 1 Mana at the start of your turn, up to max of 9.",
+      "chi": "你每回合开始时增加一点费用上限，最多为9点。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "novice_tip_32",
+      "eng": "You can mute an opponent by clicking on their portrait.",
+      "chi": "你可以通过点击对手的头像来屏蔽对手。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "novice_tip_33",
+      "eng": "You start with an extra mana crystal as Player 2.",
+      "chi": "作为后手玩家时会获得额外一点费用上限。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "novice_tip_34",
+      "eng": "Unlock over a dozen Hidden Achievements as you play more matches.",
+      "chi": "进行更多的战斗来解锁十几个隐藏的成就。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "novice_tip_35",
+      "eng": "You earn a Faction Ribbon for every 100 wins with that faction.",
+      "chi": "每个阵营的每100场胜利，将获得一个阵营徽章。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "novice_tip_36",
+      "eng": "Watch your own replays in your Profile Match History.",
+      "chi": "在你的个人资料的比赛历史中观看回放。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "novice_tip_37",
+      "eng": "The Battle Log shows you all previous card plays during your match.",
+      "chi": "战斗日志将显示你在战斗中的使用的卡牌。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "novice_tip_38",
+      "eng": "Actions consist of movements followed by attacks, you cannot attack and then move.",
+      "chi": "一次行动机会中，你不能在攻击后再移动。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "medium_tip_0",
+      "eng": "Consider replacing at the START of your turn to expand your strategic options.",
+      "chi": "在轮到你的回合时，可以考虑先替换牌来增加选择。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "medium_tip_1",
+      "eng": "Minions with AIRDROP can be summoned anywhere on the battlefield.",
+      "chi": "具有空降的随从可以召唤在任意位置。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "medium_tip_2",
+      "eng": "Minions with BLAST deal damage to all enemies in a straight line.",
+      "chi": "具有轰炮的随从可以攻击在一条线上的敌方单位。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "medium_tip_3",
+      "eng": "Minions with CELERITY can be activated TWICE per turn.",
+      "chi": "具有迅捷的随从一回合有两次行动机会。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "medium_tip_4",
+      "eng": "Minions with DEATHWATCH trigger whenever ANY minion dies.",
+      "chi": "具有割魂的随从会在其他随从死亡时触发效果。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "medium_tip_5",
+      "eng": "Minions with DYING WISH trigger AFTER they're destroyed.",
+      "chi": "具有死愿的随从会在自己死亡时触发效果。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "medium_tip_6",
+      "eng": "Minions with FLYING can move anywhere on the battlefield.",
+      "chi": "具有飞行的随从可以移动到战场任意位置。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "medium_tip_7",
+      "eng": "Minions with FRENZY can hit all nearby enemies simultaneously.",
+      "chi": "具有狂暴的随从可以对相邻的所有敌方单位造成伤害。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "medium_tip_8",
+      "eng": "Minions with PROVOKE force nearby enemies to attack them first.",
+      "chi": "具有嘲讽的随从会使所有相邻的敌方单位优先攻击它。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "medium_tip_9",
+      "eng": "Minions with REBIRTH leave behind an egg that hatches at the end of your next turn.",
+      "chi": "具有重生的随从会在死亡时留下一个蛋，在你的下个回合结束时孵化。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "medium_tip_10",
+      "eng": "Minions with RUSH are activated right upon entering play.",
+      "chi": "具有冲锋的随从在被召唤的回合就可以行动。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "medium_tip_11",
+      "eng": "Minions with GROW will gain stats at the beginning of your turn.",
+      "chi": "具有成长的随从会在你的回合开始时获得增益。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "medium_tip_12",
+      "eng": "Reach Rank 10 and you'll be rewarded with a new LEGENDARY card at the end of the season.",
+      "chi": "到达rank10的玩家在赛季结束后将会获得一张传奇卡牌。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "medium_tip_13",
+      "eng": "Consider replacing at the START of your turn to expand your strategic options.",
+      "chi": "在轮到你的回合时，可以考虑先替换牌来增加选择。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "medium_tip_14",
+      "eng": "ZEAL minions need to be near your General to maximize their potential.",
+      "chi": "具有热诚的随从将在位于你的将领相邻位置时触发效果。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "medium_tip_15",
+      "eng": "Minions with OPENING GAMBIT trigger right BEFORE they enter play.",
+      "chi": "具有登场的随从将在被使用后触发效果。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "medium_tip_16",
+      "eng": "Wall Minions disappear when dispelled.",
+      "chi": "墙将会在被驱散后消失。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "medium_tip_17",
+      "eng": "BLAST minions will receive counterattacks from RANGED minions.",
+      "chi": "轰炮将会触发具有远程的随从的反击。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "medium_tip_18",
+      "eng": "Dervishes summoned by your Obelysks disappear at the end of your turn.",
+      "chi": "风行僧将会在方尖碑相邻位置被召唤，在回合结束时消失。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "medium_tip_19",
+      "eng": "Effects that only target minions will not apply to Generals.",
+      "chi": "只能选取随从作为目标的效果不能选择将领作为目标。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "medium_tip_20",
+      "eng": "Minions with FRENZY are only counterattacked by their attack target.",
+      "chi": "具有狂暴的随从攻击时只会被攻击目标反击。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "medium_tip_21",
+      "eng": "Minions with INFILTRATE gain a bonus while on your opponent's side of the battlefield.",
+      "chi": "具有渗透的随从将会在位于敌方半场时触发效果。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "medium_tip_22",
+      "eng": "Star's Fury won't summon Dervishes on spaces that are already occupied.",
+      "chi": "星怒只会在空位置上召唤风行僧。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "medium_tip_23",
+      "eng": "Dispelling a STUNNED minion will remove STUN, allowing it to move and attack.",
+      "chi": "驱散一个被眩晕的随从将会移除眩晕并让该随从可以行动。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "medium_tip_24",
+      "eng": "Transforming units does not activate REBIRTH or DYING WISH.",
+      "chi": "被变形的随从无法触发重生和死愿。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "medium_tip_25",
+      "eng": "Use your allies to block movement of your enemies.",
+      "chi": "使用己方单位去阻挡敌方单位的移动。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "medium_tip_26",
+      "eng": "Your minions lose the ZEAL buff when they're not adjacent to your General.",
+      "chi": "具有热诚的随从不处于己方将领相邻位置时将会失去热诚效果。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "medium_tip_27",
+      "eng": "You can inspect a card during a match for extra information by right-clicking it.",
+      "chi": "您可以在战斗中通过右键单击卡片来获取更多信息。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    }
+  ]
+}

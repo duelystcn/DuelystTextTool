@@ -1,0 +1,58 @@
+{
+  "versionCode": "20.1.14",
+  "nodeCode": "gift_code_modal",
+  "path": "gift_code_modal",
+  "orderStart": 0,
+  "orderEnd": 6,
+  "translateItemList": [
+    {
+      "code": "min_char_requirement_error",
+      "eng": "Minimum 3 characters",
+      "chi": "最少3个字符",
+      "originVersionCode": "20.1.13",
+      "translateState": 4
+    },
+    {
+      "code": "failed_to_redeem_error",
+      "eng": "Failed to redeem gift code. Please retry.",
+      "chi": "无法兑换礼品码。请重试。",
+      "originVersionCode": "20.1.13",
+      "translateState": 4
+    },
+    {
+      "code": "redeem_gift_code_title",
+      "eng": "Enter Gift / Referral Code:",
+      "chi": "输入礼品码/推荐码：",
+      "originVersionCode": "20.1.13",
+      "translateState": 4
+    },
+    {
+      "code": "redeem_success_message",
+      "eng": "Gift / Referral Code Redeemed...",
+      "chi": "礼品码/推荐码已兑换。。。",
+      "originVersionCode": "20.1.13",
+      "translateState": 4
+    },
+    {
+      "code": "gift_code_default",
+      "eng": "Gift code",
+      "chi": "礼品码",
+      "originVersionCode": "20.1.13",
+      "translateState": 4
+    },
+    {
+      "code": "code_generate_success_title",
+      "eng": "Your new gift code is:",
+      "chi": "",
+      "originVersionCode": "20.1.14",
+      "translateState": 0
+    },
+    {
+      "code": "code_generate_success_disclaimer",
+      "eng": "Your code will be emailed to you shortly.",
+      "chi": "",
+      "originVersionCode": "20.1.14",
+      "translateState": 0
+    }
+  ]
+}

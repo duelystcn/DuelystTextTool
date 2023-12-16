@@ -1,0 +1,191 @@
+{
+  "versionCode": "20.1.04",
+  "nodeCode": "registration",
+  "path": "registration",
+  "orderStart": 0,
+  "orderEnd": 25,
+  "translateItemList": [
+    {
+      "code": "registration_title",
+      "eng": "Create Account",
+      "chi": "创建账号",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "registration_email_label",
+      "eng": "Email",
+      "chi": "邮箱",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "registration_username_label",
+      "eng": "Username",
+      "chi": "用户名",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "registration_password_label",
+      "eng": "Password",
+      "chi": "密码",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "registration_password_confirmation_label",
+      "eng": "Confirm Password",
+      "chi": "确认密码",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "registration_invite_code_label",
+      "eng": "Invite Code",
+      "chi": "邀请码",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "registration_show_referral_button_label",
+      "eng": "did a friend refer you?",
+      "chi": "有朋友邀请你吗？",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "registration_referral_field_label",
+      "eng": "Friend Code",
+      "chi": "邀请码",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "registration_referral_field_placeholder",
+      "eng": "friend username",
+      "chi": "朋友用户名",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "registration_submit_button_label",
+      "eng": "Submit",
+      "chi": "提交",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "registration_success_message",
+      "eng": "One moment while we log you into your new account...",
+      "chi": "请稍候，我们将你登录到你的新帐户...",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "registration_validation_invalid_email",
+      "eng": "Invalid Email",
+      "chi": "无效邮箱",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "registration_validation_email_exists",
+      "eng": "Email already exists",
+      "chi": "邮箱已被使用",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "registration_validation_username_instructions",
+      "eng": "3 to 18 alphanumeric characters",
+      "chi": "3到18个字母数字字符",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "registration_validation_username_exists",
+      "eng": "Username already exists",
+      "chi": "用户名已被使用",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "registration_validation_password_instructions",
+      "eng": "Minimum 8 characters",
+      "chi": "最少8个字符",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "registration_validation_passwords_dont_match",
+      "eng": "Passwords must match",
+      "chi": "两次密码必须匹配",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "registration_validation_invite_code_invalid",
+      "eng": "Invalid invite code",
+      "chi": "无效的邀请码",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "registration_accept_legal",
+      "eng": "By creating an account, you agree to the following:",
+      "chi": "为创建帐户，你需要同意以下内容：",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "registration_terms_of_use",
+      "eng": "Terms of Use",
+      "chi": "使用条款",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "registration_eula",
+      "eng": "EULA",
+      "chi": "EULA",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "registration_privacy_policy",
+      "eng": "Privacy Policy",
+      "chi": "隐私政策",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "registration_marketing_emails",
+      "eng": "Receive emails about in-game events and updates?",
+      "chi": "接收有关游戏事件和更新的电子邮件？",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "already_have_an_account",
+      "eng": "already have an account?",
+      "chi": "已有账号？",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "verify_email_notification_message",
+      "eng": "Please verify your account email: ",
+      "chi": "请验证您的帐户电子邮件：",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "verify_email_notification_resend_button_label",
+      "eng": "Resend Verification Email",
+      "chi": "重新发送验证电子邮件",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    }
+  ]
+}

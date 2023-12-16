@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.18",
+  "nodeCode": "cards",
+  "path": "cards",
+  "orderStart": 2200,
+  "orderEnd": 2299,
+  "translateItemList": [
+    {
+      "code": "neutral_blood_taura_desc",
+      "eng": "Provoke\nThis minion's cost is your General's health.",
+      "chi": "嘲讽\n此随从的费用等于你将领的生命。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_dioltas_tombstone_name",
+      "eng": "Tombstone",
+      "chi": "墓碑",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_dioltas_tombstone_desc",
+      "eng": "Provoke",
+      "chi": "嘲讽",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_minijax_name",
+      "eng": "Mini-Jax",
+      "chi": "小杰斯",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_minijax_desc",
+      "eng": "Ranged",
+      "chi": "远程",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_pandora_frenzy_name",
+      "eng": "Rage",
+      "chi": "狂心幻兽",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_pandora_frenzy_desc",
+      "eng": "Frenzy",
+      "chi": "狂暴",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_pandora_ranged_name",
+      "eng": "Envy",
+      "chi": "妒心幻兽",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_pandora_ranged_desc",
+      "eng": "Ranged",
+      "chi": "远程",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_pandora_flying_name",
+      "eng": "Serenity",
+      "chi": "宁心幻兽",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_pandora_flying_desc",
+      "eng": "Flying",
+      "chi": "飞行",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_pandora_celerity_name",
+      "eng": "Wrath",
+      "chi": "怒心幻兽",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_pandora_celerity_desc",
+      "eng": "Celerity",
+      "chi": "迅捷",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_pandora_provoke_name",
+      "eng": "Fear",
+      "chi": "惧心幻兽",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_pandora_provoke_desc",
+      "eng": "Provoke",
+      "chi": "嘲讽",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_mechaz0r_name",
+      "eng": "MECHAZ0R!",
+      "chi": "决战兵器原型机！",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_mechaz0r_desc",
+      "eng": "Airdrop, Forcefield, Frenzy, Ranged",
+      "chi": "空降，力场，狂暴，远程",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_golden_justicar_name",
+      "eng": "Golden Justicar",
+      "chi": "金色审判官",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_golden_justicar_desc",
+      "eng": "Provoke\nYour other minions with Provoke can move two additional spaces.",
+      "chi": "嘲讽\n其他友方具有嘲讽的随从可以额外移动2格。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_golden_mantella_name",
+      "eng": "Golden Mantella",
+      "chi": "金色曼蛙",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_golden_mantella_desc",
+      "eng": "Opening Gambit: Put a random Battle Pet into your action bar.",
+      "chi": "登场：在你的准备栏放入一张随机战宠。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_yun_name",
+      "eng": "Yun",
+      "chi": "云鬃魔",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_koi_name",
+      "eng": "Koi",
+      "chi": "白锦鲤",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_koi_desc",
+      "eng": "This minion takes no damage from Generals.",
+      "chi": "此随从不会受到源自将领的伤害。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_gnasher_name",
+      "eng": "Gnasher",
+      "chi": "铁手僵尸",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_gnasher_desc",
+      "eng": "Dying Wish: This minion deals 3 damage to all enemies around it.",
+      "chi": "死愿：此随从对相邻的敌方单位造成3点伤害。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_silverbeak_name",
+      "eng": "Silverbeak",
+      "chi": "银喙鸟",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_amu_name",
+      "eng": "Amu",
+      "chi": "红魔灵",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_ion_name",
+      "eng": "Ion",
+      "chi": "离子球",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_ion_desc",
+      "eng": "Ranged\nDeals double damage to Generals.",
+      "chi": "远程\n对将领造成的伤害翻倍。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_beastmaster_name",
+      "eng": "Beastbound Savage",
+      "chi": "捕兽野人",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_beastmaster_desc",
+      "eng": "Frenzy\nCelerity",
+      "chi": "狂暴\n迅捷",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_sol_name",
+      "eng": "Sol",
+      "chi": "嗦音灵",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_sol_desc",
+      "eng": "Opening Gambit: Activate a friendly Battle Pet.",
+      "chi": "登场：激活一个友方战宠。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_soboro_name",
+      "eng": "Soboro",
+      "chi": "猪头怪",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_soboro_desc",
+      "eng": "Whenever this damages a neutral minion, destroy that minion.",
+      "chi": "当此随从对一个中立阵营的随从造成伤害时，摧毁该随从。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_z0r_name",
+      "eng": "Z0r",
+      "chi": "小机核",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_z0r_desc",
+      "eng": "Dying Wish: Put a random MECH minion into your action bar.",
+      "chi": "死愿：在你的准备栏放入一张随机的机兵。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_calculator_name",
+      "eng": "Calculator",
+      "chi": "计算王",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_calculator_desc",
+      "eng": "Opening Gambit: Gain the combined Attack and Health of all Battle Pets in your action bar.",
+      "chi": "登场：此随从获得+X/+Y, X与Y为你准备栏中所有战宠的攻与防的合计数值。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_zukong_name",
+      "eng": "Zukong",
+      "chi": "悟空",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_zukong_desc",
+      "eng": "You control your Battle Pets.",
+      "chi": "你可以控制你的战宠。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_hydrax_name",
+      "eng": "Hydrax",
+      "chi": "多头龙",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_hydrax_desc",
+      "eng": "Whenever a friendly Battle Pet dies, draw a card.",
+      "chi": "每当一个友方战宠死亡时，抽一张牌。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_inquisitor_kron_name",
+      "eng": "Inquisitor Kron",
+      "chi": "典狱长 克朗",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_inquisitor_kron_desc",
+      "eng": "Provoke\nWhenever you replace a card, summon a 2/2 Prisoner with a random ability nearby.",
+      "chi": "嘲讽\n每当你替换一张牌时，在相邻位置召唤一个囚徒(2/2 具有随机关键词异能)。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_rawr_name",
+      "eng": "Rawr",
+      "chi": "电晶豹",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_rawr_desc",
+      "eng": "Whenever this minion takes damage, summon a random Battle Pet nearby.",
+      "chi": "每当此随从受到伤害时，在相邻位置召唤一个随机战宠。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_fog_name",
+      "eng": "Fog",
+      "chi": "泡泡灵",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_fog_desc",
+      "eng": "Dying Wish: Draw a random battle pet.",
+      "chi": "死愿：抽一张随机战宠。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_rok_name",
+      "eng": "Rok",
+      "chi": "石头怪",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_rok_desc",
+      "eng": "Can't move.",
+      "chi": "不能移动。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_dex_name",
+      "eng": "Dex",
+      "chi": "蓝背狐",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_dex_desc",
+      "eng": "Celerity",
+      "chi": "迅捷",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_sai_name",
+      "eng": "Sai",
+      "chi": "忍者兔",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_ubo_name",
+      "eng": "Ubo",
+      "chi": "雪风鸮",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_ubo_desc",
+      "eng": "Flying",
+      "chi": "飞行",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_oni_name",
+      "eng": "Oni",
+      "chi": "胖幽灵",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_oni_desc",
+      "eng": "Forcefield.",
+      "chi": "力场",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_dispirited_prisoner_name",
+      "eng": "Dispirited Prisoner",
+      "chi": "丧气的囚犯",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_dispirited_prisoner_desc",
+      "eng": "Frenzy",
+      "chi": "狂暴",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_broken_captive_name",
+      "eng": "Broken Captive",
+      "chi": "残废的俘虏",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_broken_captive_desc",
+      "eng": "Rush",
+      "chi": "冲锋",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_ruined_slave_name",
+      "eng": "Ruined Slave",
+      "chi": "破产的奴隶",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_ruined_slave_desc",
+      "eng": "Provoke",
+      "chi": "嘲讽",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_dejected_thrall_name",
+      "eng": "Dejected Thrall",
+      "chi": "遭弃的仆从",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_dejected_thrall_desc",
+      "eng": "Forcefield",
+      "chi": "力场",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_drudging_servant_name",
+      "eng": "Drudging Servant",
+      "chi": "烂醉的苦工",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_drudging_servant_desc",
+      "eng": "Flying",
+      "chi": "飞行",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_toiling_vassal_name",
+      "eng": "Toiling Vassal",
+      "chi": "艰辛的喽啰",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_toiling_vassal_desc",
+      "eng": "Ranged",
+      "chi": "远程",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_sworn_sister_name",
+      "eng": "Sworn Sister L'Kian",
+      "chi": "誓言姐妹 丽凯安",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_sworn_sister_desc",
+      "eng": "Opening Gambit: Add 2 random cards from your Faction to your action bar.",
+      "chi": "登场：在你的准备栏放入两张随机的你所属阵营的卡牌。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_riddle_name",
+      "eng": "Riddle",
+      "chi": "谜题",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_riddle_desc",
+      "eng": "While you have the Riddle, you cannot replace. Cast to give your opponent a Riddle.",
+      "chi": "当你有谜题时，你不能进行替换。\n使用此牌使你的对手获得一张谜题。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_cryptographer_name",
+      "eng": "Cryptographer",
+      "chi": "密码学者",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_cryptographer_desc",
+      "eng": "Opening Gambit: Refresh your Bloodbound Spell.",
+      "chi": "登场：刷新你的血技冷却。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_sanguinar_name",
+      "eng": "Sanguinar",
+      "chi": "血腥剑客",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_sanguinar_desc",
+      "eng": "Your Bloodbound Spell costs 0.",
+      "chi": "你的血技使用时费用减少1点。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_meltdown_name",
+      "eng": "Meltdown",
+      "chi": "熔毁核心",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_meltdown_desc",
+      "eng": "Blood Surge: Deal 6 damage to a random enemy.",
+      "chi": "血涌：对一个随机敌方单位造成6点伤害。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_ghoulie_name",
+      "eng": "Ghoulie",
+      "chi": "变形鬼",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_ghoulie_desc",
+      "eng": "This minion is from every tribe.",
+      "chi": "此随从具有所有随从类别。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_grimes_name",
+      "eng": "Grimes",
+      "chi": "格莱姆斯",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_grimes_desc",
+      "eng": "Opening Gambit and Dying Wish: Summon a random minion from any tribe nearby.",
+      "chi": "登场和死愿：在相邻位置召唤一个随机的特殊类别的随从。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_loreweaver_name",
+      "eng": "Loreweaver",
+      "chi": "秘法织匠",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_loreweaver_desc",
+      "eng": "Whenever you draw a spell, put a copy of it into your action bar.",
+      "chi": "每当你抽到一张法术时，在你的准备栏放入一张该法术的复制。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_celebrant_name",
+      "eng": "Celebrant",
+      "chi": "庆典魔像",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_celebrant_desc",
+      "eng": "Opening Gambit: Create a mana spring tile nearby.",
+      "chi": "登场：在相邻位置创造一个魔泉。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_blue_conjurer_name",
+      "eng": "Blue Conjurer",
+      "chi": "深蓝魔术师",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_blue_conjurer_desc",
+      "eng": "Whenever you cast a spell, put a random Arcanyst into your action bar.",
+      "chi": "每当你使用一张法术时，将一个随机的奥术师放入你的准备栏。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_emp_name",
+      "eng": "EMP",
+      "chi": "电磁脉冲",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_emp_desc",
+      "eng": "Opening Gambit: Dispel ALL minions and Generals, and destroy ALL artifacts.",
+      "chi": "登场：驱散所有单位，摧毁所有神器。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_boulder_breacher_name",
+      "eng": "Boulder Breacher",
+      "chi": "碎石魔像",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_boulder_breacher_desc",
+      "eng": "Bond: Enemies can't counterattack this turn.",
+      "chi": "链接：敌方单位这个回合内不能反击。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_feralu_name",
+      "eng": "Feralu",
+      "chi": "蛮荒行者",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_feralu_desc",
+      "eng": "Friendly minions from any tribe have +1/+1.",
+      "chi": "友方特殊类别的随从具有 +1/+1。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_trinity_wing_name",
+      "eng": "Trinity Wing",
+      "chi": "圣三一之翼",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_trinity_wing_desc",
+      "eng": "Flying\nBond: Put the three Teachings of the Dragon into your action bar.",
+      "chi": "飞行\n链接：在你的准备栏放入三张龙吼。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_lesson_of_power_name",
+      "eng": "Lesson of Power",
+      "chi": "力量之音",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    }
+  ]
+}

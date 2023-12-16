@@ -1,0 +1,331 @@
+{
+  "versionCode": "20.1.21",
+  "nodeCode": "custom_errors",
+  "path": "custom_errors",
+  "orderStart": 0,
+  "orderEnd": 45,
+  "translateItemList": [
+    {
+      "code": "default_auth_invalidpassword",
+      "eng": "Provided password is invalid.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "default_auth_passwordhashgenerationfailed",
+      "eng": "An error occurred while attempting to generate password hash.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "default_common_invalidargument",
+      "eng": "Provided argument is invalid or undefined.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "default_cs_scenarionotauthor",
+      "eng": "User is not scenario author.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "default_cs_scenariometadatanotfound",
+      "eng": "Could not find requested scenario metadata.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "default_cs_scenarionotfound",
+      "eng": "Could not find requested scenario.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "default_cs_scenariosaveerror",
+      "eng": "An error occurred while attempting to save custom scenario.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "default_cs_scenariourlmissmatch",
+      "eng": "Scenario metadata URL properties do not match.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "default_ff_featuredisabled",
+      "eng": "Service is unavailable or has been temporarily disabled.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "default_game_arenadecknotfound",
+      "eng": "Unable to find arena deck.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "default_game_gauntletrunnotfound",
+      "eng": "Unable to find gauntlet run.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "default_game_invaliddeckerror",
+      "eng": "Not a valid deck.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "default_game_invaliddeckmissinggeneral",
+      "eng": "Deck is missing a general.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "default_game_invalidgametype",
+      "eng": "Not a valid game type.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "default_game_riftrunnotfound",
+      "eng": "Unable to find rift run.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "default_gcs_bucketdeletefileerror",
+      "eng": "An error occurred while attempting to delete file from cloud storage.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "default_gcs_bucketfilecorrupted",
+      "eng": "Retrieved file is corrupted.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "default_gcs_bucketfilenotfound",
+      "eng": "Unable to find requested file.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "default_gcs_bucketgetfileerror",
+      "eng": "An error occurred while attempting to retrieve file from cloud storage",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "default_gcs_bucketuploadfileerror",
+      "eng": "An error occurred while attempting to upload file to cloud storage",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "default_inventory_cosmeticnotfound",
+      "eng": "Unable not find cosmetic.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "default_inventory_cosmeticnotowned",
+      "eng": "Unable not find cosmetic.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "default_mail_mailsendfailed",
+      "eng": "An error occurred while sending an email.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "default_matchmaking_matchmakingconsulerror",
+      "eng": "An error ocurred while communicating with CONSUL.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "default_matchmaking_matchmakingofflineerror",
+      "eng": "Matchmaking is currently offline, please retry shortly.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "default_shop_insufficientfundserror",
+      "eng": "User lacks sufficient funds for a transaction.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "default_postgres_postgrestransactionerror",
+      "eng": "An error occurred during Postgres transaction.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "default_redis_redisinvitequeueerror",
+      "eng": "An error occurred while processing invite queue.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "default_redis_redisjobserror",
+      "eng": "An error occurred while processing redis job.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "default_redis_redisplayerqueueerror",
+      "eng": "An error occurred while managing player queue.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "default_redis_redistokenmanagererror",
+      "eng": "An internal error occurred while managing tokens.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "default_redis_redistokennotfound",
+      "eng": "Redis token not found.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "default_users_emailalreadyverified",
+      "eng": "This account is already verified",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "default_users_emailchangetokenexpired",
+      "eng": "Email change token has expired.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "default_users_emailchangetokennotfound",
+      "eng": "Unable to find email change token.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "default_users_emailinuse",
+      "eng": "Provided email is already in use.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "default_users_emailverificationtokenexpired",
+      "eng": "Email verification token has expired.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "default_users_emailverificationtokennotfound",
+      "eng": "Unable to find email verification token.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "default_users_emailnotverified",
+      "eng": "User email is not verified.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "default_users_invalidusername",
+      "eng": "Provided username is invalid.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "default_users_passwordresettokenexpired",
+      "eng": "Password reset token has expired.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "default_users_passwordresettokennotfound",
+      "eng": "Unable to find password reset token.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "default_users_usernamechangerrror",
+      "eng": "An error occurred while attempting to change username.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "default_users_usernameinuse",
+      "eng": "Provided username is already in use.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "default_users_usernotfound",
+      "eng": "User not found.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "default_users_usercoreprogressionnotfound",
+      "eng": "User core progression not found.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    }
+  ]
+}

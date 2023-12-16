@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.07",
+  "nodeCode": "cards",
+  "path": "cards",
+  "orderStart": 2100,
+  "orderEnd": 2199,
+  "translateItemList": [
+    {
+      "code": "neutral_archon_spellbinder_name",
+      "eng": "Archon Spellbinder",
+      "chi": "缚法执政官",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_archon_spellbinder_desc",
+      "eng": "Your opponent's non-Bloodbound spells cost 1 more to cast.",
+      "chi": "你对手使用的非血技的法术费用增加一点。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_bonereaper_name",
+      "eng": "Bonereaper",
+      "chi": "集骨家",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_bonereaper_desc",
+      "eng": "Provoke\nAt the end of your turn, deal 2 damage to each enemy minion around this one.",
+      "chi": "嘲讽\n在你的回合结束时，对此随从相邻的敌方随从造成2点伤害。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_deathblighter_name",
+      "eng": "Deathblighter",
+      "chi": "枯萎化身",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_deathblighter_desc",
+      "eng": "Opening Gambit: Deal 3 damage to all enemy minions around it.",
+      "chi": "登场：对此随从相邻的敌方随从造成3点伤害。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_diamond_golem_name",
+      "eng": "Diamond Golem",
+      "chi": "钻石魔像",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_dust_wailer_name",
+      "eng": "Dust Wailer",
+      "chi": "喽啰之灾",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_dust_wailer_desc",
+      "eng": "Flying\nOpening Gambit: Deal 3 damage to all enemies in front of this minion.",
+      "chi": "飞行\n登场：对此随从前方所有敌方单位造成3点伤害。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_eclipse_name",
+      "eng": "Eclipse",
+      "chi": "食月天狗",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_eclipse_desc",
+      "eng": "Whenever this minion takes damage, it deals that much damage to the enemy General.",
+      "chi": "每当此随从受到伤害，此随从对敌方将领造成等量的伤害。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_first_sword_of_akrane_name",
+      "eng": "First Sword of Akrane",
+      "chi": "阿克兰的首席剑士",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_first_sword_of_akrane_desc",
+      "eng": "Your other minions have +1 Attack.",
+      "chi": "友方其他随从具有 +1/+0。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_grove_lion_name",
+      "eng": "Grove Lion",
+      "chi": "自然树面狮",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_grove_lion_desc",
+      "eng": "While this minion is on the battlefield, your General has Forcefield.",
+      "chi": "此随从位于战场上时，你的将领具有力场。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_jax_truesight_name",
+      "eng": "Jax Truesight",
+      "chi": "灵视杰斯",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_jax_truesight_desc",
+      "eng": "Ranged\nOpening Gambit: Summon a 1/1 Ranged Mini-Jax in each corner.",
+      "chi": "远程\n登场：在每个角落召唤一个小杰斯(1/1 远程)。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_quartermaster_gauj_name",
+      "eng": "Quartermaster Gauj",
+      "chi": "军需官高伊",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_quartermaster_gauj_desc",
+      "eng": "Takes no damage from minions or Generals.",
+      "chi": "不会受到源自随从和将领的伤害。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_ruby_rifter_name",
+      "eng": "Ruby Rifter",
+      "chi": "红宝石切割师",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_ruby_rifter_desc",
+      "eng": "Whenever your General takes damage, draw a card and give this minion +2 Attack.",
+      "chi": "每当你的将领受到伤害时，抽一张牌，此随从获得 +2/+0。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_serpenti_name",
+      "eng": "Serpenti",
+      "chi": "长颈龙",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_serpenti_desc",
+      "eng": "Frenzy",
+      "chi": "狂暴",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_storm_aratha_name",
+      "eng": "Storm Aratha",
+      "chi": "风暴阿格莎",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_storm_aratha_desc",
+      "eng": "Flying",
+      "chi": "飞行",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_stormmetal_golem_name",
+      "eng": "Stormmetal Golem",
+      "chi": "铁飓风傀儡",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_the_scientist_name",
+      "eng": "The Scientist",
+      "chi": "科学家",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_the_scientist_desc",
+      "eng": "Whenever you play a spell that targets a friendly minion, draw a card.",
+      "chi": "每当你以友方随从为目标使用一张法术时，抽一张牌。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_zenrui_name",
+      "eng": "Zen'Rui, the Blightspawned",
+      "chi": "曾·锐 枯萎之源",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_zenrui_desc",
+      "eng": "Opening Gambit: Take control of a nearby enemy minion with 2 or less Attack.",
+      "chi": "登场：获得一个相邻的攻击小于等于2的敌方随从的控制权。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_astral_crusader_name",
+      "eng": "Astral Crusader",
+      "chi": "星界十字军",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_astral_crusader_desc",
+      "eng": "Whenever you replace this card, it costs 3 less and gains +3/+3.",
+      "chi": "每当你替换此牌时，此牌费用减少3点且获得+3/+3。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_dark_nemesis_name",
+      "eng": "Dark Nemesis",
+      "chi": "黑暗宿敌",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_dark_nemesis_desc",
+      "eng": "At the start of your turn, deal 4 damage to the enemy General and this minion gains +4 Attack.",
+      "chi": "在你的回合开始时，对敌方将领造成4点伤害，此随从获得+4/+0。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_dragonbone_golem_name",
+      "eng": "Drybone Golem",
+      "chi": "龙骨魔像",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_exun_name",
+      "eng": "E'Xun",
+      "chi": "逊吼",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_exun_desc",
+      "eng": "Forcefield\nWhenever this minion attacks or is attacked, draw a card.",
+      "chi": "力场\n每当此随从攻击或被攻击时，抽一张牌。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_grailmaster_name",
+      "eng": "Grailmaster",
+      "chi": "幻梦学者",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_grailmaster_desc",
+      "eng": "Whenever you summon a minion, this minion gains a random keyword ability.",
+      "chi": "每当你召唤一个随从时，此随从获得一个关键词异能。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_paddo_name",
+      "eng": "Paddo",
+      "chi": "帕多",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_paddo_desc",
+      "eng": "Airdrop\nOpening Gambit: Push ALL nearby minions and Generals to random spaces.",
+      "chi": "空降\n登场：将所有相邻单位传送到随机位置。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_pandora_name",
+      "eng": "Pandora",
+      "chi": "潘多拉",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_pandora_desc",
+      "eng": "At the end of your turn, summon a 3/3 Spirit Wolf with a random ability into a nearby space.",
+      "chi": "在你的回合结束时，在此随从相邻随机位置召唤一个幻兽(3/3 具有随机关键词)。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_red_synja_name",
+      "eng": "Red Synja",
+      "chi": "红女王",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_red_synja_desc",
+      "eng": "Whenever your General takes damage, deal 7 damage to a random nearby enemy minion.",
+      "chi": "当你的将领受到伤害时，此随从对随机一个相邻敌方随从造成7点伤害。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_rook_name",
+      "eng": "Rook",
+      "chi": "战车",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_rook_desc",
+      "eng": "At the end of your turn, this minion gains a random Faction ability.",
+      "chi": "在你的回合结束时，此随从获得一个随机关键词异能。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_war_talon_name",
+      "eng": "War Talon",
+      "chi": "好斗魔爪",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_war_talon_desc",
+      "eng": "Frenzy\nProvoke",
+      "chi": "狂暴\n嘲讽",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_bloodletter_name",
+      "eng": "Facestriker",
+      "chi": "裂首佣兵",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_bloodletter_desc",
+      "eng": "Deals double damage to Generals.",
+      "chi": "对将领造成的伤害翻倍。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_whistling_blade_name",
+      "eng": "Whistling Blade",
+      "chi": "啸刃",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_whistling_blade_desc",
+      "eng": "Provoke",
+      "chi": "嘲讽",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_zurael_the_lifegiver_name",
+      "eng": "Zurael, the Lifegiver",
+      "chi": "复归灵鸟 祖瑞尔",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_zurael_the_lifegiver_desc",
+      "eng": "Opening Gambit: Summon all non-token friendly minions destroyed on your opponent's last turn on a random space.",
+      "chi": "登场：在随机位置召唤所有上个对手回合被摧毁的友方非衍生随从。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_khymera_name",
+      "eng": "Khymera",
+      "chi": "凯莫拉",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_khymera_desc",
+      "eng": "Whenever this minion takes damage, summon a random token minion nearby.",
+      "chi": "每当此随从受到伤害时，在相邻随机位置召唤一个随机衍生物。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_blood_taura_name",
+      "eng": "Blood Taura",
+      "chi": "血毒魔",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_blood_taura_desc",
+      "eng": "Provoke\nThis minion's cost is your General's health.",
+      "chi": "嘲讽\n此随从的费用等于你将领的生命。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_dioltas_tombstone_name",
+      "eng": "Tombstone",
+      "chi": "墓碑",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_dioltas_tombstone_desc",
+      "eng": "Provoke",
+      "chi": "嘲讽",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_minijax_name",
+      "eng": "Mini-Jax",
+      "chi": "小杰斯",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_minijax_desc",
+      "eng": "Ranged",
+      "chi": "远程",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_pandora_frenzy_name",
+      "eng": "Rage",
+      "chi": "狂心幻兽",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_pandora_frenzy_desc",
+      "eng": "Frenzy",
+      "chi": "狂暴",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_pandora_ranged_name",
+      "eng": "Envy",
+      "chi": "妒心幻兽",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_pandora_ranged_desc",
+      "eng": "Ranged",
+      "chi": "远程",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_pandora_flying_name",
+      "eng": "Serenity",
+      "chi": "宁心幻兽",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_pandora_flying_desc",
+      "eng": "Flying",
+      "chi": "飞行",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_pandora_celerity_name",
+      "eng": "Wrath",
+      "chi": "怒心幻兽",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_pandora_celerity_desc",
+      "eng": "Celerity",
+      "chi": "迅捷",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_pandora_provoke_name",
+      "eng": "Fear",
+      "chi": "惧心幻兽",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_pandora_provoke_desc",
+      "eng": "Provoke",
+      "chi": "嘲讽",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_mechaz0r_name",
+      "eng": "MECHAZ0R!",
+      "chi": "决战兵器原型机！",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_mechaz0r_desc",
+      "eng": "Airdrop, Forcefield, Frenzy, Ranged",
+      "chi": "空降，力场，狂暴，远程",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_golden_justicar_name",
+      "eng": "Golden Justicar",
+      "chi": "金色审判官",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_golden_justicar_desc",
+      "eng": "Provoke\nYour other minions with Provoke can move two additional spaces.",
+      "chi": "嘲讽\n其他友方具有嘲讽的随从可以额外移动2格。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_golden_mantella_name",
+      "eng": "Golden Mantella",
+      "chi": "金色曼蛙",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_golden_mantella_desc",
+      "eng": "Opening Gambit: Put a random Battle Pet into your action bar.",
+      "chi": "登场：在你的准备栏放入一张随机战宠。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_yun_name",
+      "eng": "Yun",
+      "chi": "云鬃魔",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_koi_name",
+      "eng": "Koi",
+      "chi": "白锦鲤",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_koi_desc",
+      "eng": "This minion takes no damage from Generals.",
+      "chi": "此随从不会受到源自将领的伤害。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_gnasher_name",
+      "eng": "Gnasher",
+      "chi": "铁手僵尸",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_gnasher_desc",
+      "eng": "Dying Wish: This minion deals 3 damage to all enemies around it.",
+      "chi": "死愿：此随从对相邻的敌方单位造成3点伤害。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_silverbeak_name",
+      "eng": "Silverbeak",
+      "chi": "银喙鸟",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_amu_name",
+      "eng": "Amu",
+      "chi": "红魔灵",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_ion_name",
+      "eng": "Ion",
+      "chi": "离子球",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_ion_desc",
+      "eng": "Ranged\nDeals double damage to Generals.",
+      "chi": "远程\n对将领造成的伤害翻倍。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_beastmaster_name",
+      "eng": "Beastbound Savage",
+      "chi": "捕兽野人",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_beastmaster_desc",
+      "eng": "Frenzy\nCelerity",
+      "chi": "狂暴\n迅捷",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_sol_name",
+      "eng": "Sol",
+      "chi": "嗦音灵",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_sol_desc",
+      "eng": "Opening Gambit: Activate a friendly Battle Pet.",
+      "chi": "登场：激活一个友方战宠。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_soboro_name",
+      "eng": "Soboro",
+      "chi": "猪头怪",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_soboro_desc",
+      "eng": "Whenever this damages a neutral minion, destroy that minion.",
+      "chi": "当此随从对一个中立阵营的随从造成伤害时，摧毁该随从。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_z0r_name",
+      "eng": "Z0r",
+      "chi": "小机核",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_z0r_desc",
+      "eng": "Dying Wish: Put a random MECH minion into your action bar.",
+      "chi": "死愿：在你的准备栏放入一张随机的机兵。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_calculator_name",
+      "eng": "Calculator",
+      "chi": "计算王",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_calculator_desc",
+      "eng": "Opening Gambit: Gain the combined Attack and Health of all Battle Pets in your action bar.",
+      "chi": "登场：此随从获得+X/+Y, X与Y为你准备栏中所有战宠的攻与防的合计数值。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_zukong_name",
+      "eng": "Zukong",
+      "chi": "悟空",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_zukong_desc",
+      "eng": "You control your Battle Pets.",
+      "chi": "你可以控制你的战宠。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    }
+  ]
+}

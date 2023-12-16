@@ -1,0 +1,205 @@
+{
+  "versionCode": "20.1.20",
+  "nodeCode": "validators",
+  "path": "validators",
+  "orderStart": 0,
+  "orderEnd": 27,
+  "translateItemList": [
+    {
+      "code": "run_out_of_time_message",
+      "eng": "You have run out of time!",
+      "chi": "",
+      "originVersionCode": "20.1.20",
+      "translateState": 0
+    },
+    {
+      "code": "cant_draw_starting_hand_again_message",
+      "eng": "Cannot draw your starting hand again.",
+      "chi": "",
+      "originVersionCode": "20.1.20",
+      "translateState": 0
+    },
+    {
+      "code": "max_replaces_reached_message",
+      "eng": "Can only replace {{count}} card",
+      "chi": "",
+      "originVersionCode": "20.1.20",
+      "translateState": 0
+    },
+    {
+      "code": "max_replaces_reached_message_plural",
+      "eng": "Can only replace {{count}} cards",
+      "chi": "",
+      "originVersionCode": "20.1.20",
+      "translateState": 0
+    },
+    {
+      "code": "game_hasnt_started_message",
+      "eng": "Cannnot do that until the game has started.",
+      "chi": "",
+      "originVersionCode": "20.1.20",
+      "translateState": 0
+    },
+    {
+      "code": "turn_has_ended_message",
+      "eng": "Cannot do that after your turn has ended.",
+      "chi": "",
+      "originVersionCode": "20.1.20",
+      "translateState": 0
+    },
+    {
+      "code": "opponents_turn_message",
+      "eng": "Cannot do that during your opponent's turn.",
+      "chi": "",
+      "originVersionCode": "20.1.20",
+      "translateState": 0
+    },
+    {
+      "code": "not_enough_mana_message",
+      "eng": "You don't have enough Mana.",
+      "chi": "你没有足够的法力。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "cannot_do_that_message",
+      "eng": "Cannot do that.",
+      "chi": "不能这样做。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "game_is_over_message",
+      "eng": "Cannot do that after the game is over.",
+      "chi": "",
+      "originVersionCode": "20.1.20",
+      "translateState": 0
+    },
+    {
+      "code": "position_off_board_message",
+      "eng": "Invalid card application: target position is outside the board",
+      "chi": "",
+      "originVersionCode": "20.1.20",
+      "translateState": 0
+    },
+    {
+      "code": "obstructed_position_message",
+      "eng": "Invalid card application: target position is obstructed",
+      "chi": "",
+      "originVersionCode": "20.1.20",
+      "translateState": 0
+    },
+    {
+      "code": "not_a_valid_move_message",
+      "eng": "This isn't a valid move!",
+      "chi": "",
+      "originVersionCode": "20.1.20",
+      "translateState": 0
+    },
+    {
+      "code": "unit_cannot_move_message",
+      "eng": "This unit cannot move!",
+      "chi": "这个单位无法移动！",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "invalid_move_position_message",
+      "eng": "This unit cannot move there!",
+      "chi": "这个单位无法移动到这里！",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "invalid_attack_message",
+      "eng": "This isn't a valid attack!",
+      "chi": "这不是有效的攻击！",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "unit_cannot_attack_message",
+      "eng": "This unit cannot attack!",
+      "chi": "这个单位不能发起攻击！",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "invalid_attack_position_message",
+      "eng": "This unit cannot attack there!",
+      "chi": "这个单位不能对目标发起攻击！",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "invalid_followup_message",
+      "eng": "This isn't a valid followup.",
+      "chi": "",
+      "originVersionCode": "20.1.20",
+      "translateState": 0
+    },
+    {
+      "code": "invalid_followup_source_message",
+      "eng": "That isn't a valid source for your followup",
+      "chi": "",
+      "originVersionCode": "20.1.20",
+      "translateState": 0
+    },
+    {
+      "code": "invalid_followup_target_message",
+      "eng": "That isn't a valid target for your followup",
+      "chi": "",
+      "originVersionCode": "20.1.20",
+      "translateState": 0
+    },
+    {
+      "code": "invalid_card_message",
+      "eng": "That isn't a valid card!",
+      "chi": "那不是有效的卡牌！",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "invalid_card_target_message",
+      "eng": "[Not] a valid target!",
+      "chi": "",
+      "originVersionCode": "20.1.20",
+      "translateState": 0
+    },
+    {
+      "code": "card_isnt_ready_message",
+      "eng": "That card isn't ready yet!",
+      "chi": "这张牌还没准备好！",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "invalid_card_to_replace_message",
+      "eng": "Cannot replace that card.",
+      "chi": "不能替换这张牌。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "out_of_replaces_message",
+      "eng": "Cannot replace another card this turn.",
+      "chi": "这回合不能替换其他的牌。",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "card_has_been_removed_message",
+      "eng": "This card has already been removed!",
+      "chi": "",
+      "originVersionCode": "20.1.20",
+      "translateState": 0
+    },
+    {
+      "code": "card_will_be_removed_message",
+      "eng": "This card is going to be removed!",
+      "chi": "",
+      "originVersionCode": "20.1.20",
+      "translateState": 0
+    }
+  ]
+}

@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.08",
+  "nodeCode": "shop",
+  "path": "shop",
+  "orderStart": 0,
+  "orderEnd": 99,
+  "translateItemList": [
+    {
+      "code": "confirm_purchase_dialog_purchase_button_label",
+      "eng": "PURCHASE",
+      "chi": "购买",
+      "originVersionCode": "20.1.07",
+      "translateState": 4
+    },
+    {
+      "code": "confirm_purchase_gift_code_button_label",
+      "eng": "PURCHASE CODE",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "confirm_purchase_dialog_cancel_button_label",
+      "eng": "CANCEL",
+      "chi": "取消",
+      "originVersionCode": "20.1.07",
+      "translateState": 4
+    },
+    {
+      "code": "confirm_purchase_dialog_refill_button_label",
+      "eng": "REFILL SHARDS",
+      "chi": "补充碎钻",
+      "originVersionCode": "20.1.07",
+      "translateState": 4
+    },
+    {
+      "code": "payment_option_steam",
+      "eng": "Steam",
+      "chi": "Steam",
+      "originVersionCode": "20.1.07",
+      "translateState": 4
+    },
+    {
+      "code": "payment_option_credit_card",
+      "eng": "Credit Card",
+      "chi": "信用卡",
+      "originVersionCode": "20.1.07",
+      "translateState": 4
+    },
+    {
+      "code": "payment_option_paypal",
+      "eng": "Paypal",
+      "chi": "Paypal",
+      "originVersionCode": "20.1.07",
+      "translateState": 4
+    },
+    {
+      "code": "paypal_instructions",
+      "eng": "Paypal purchases may take up to 5 minutes to process. After the purchase is processed your inventory will update automatically. There is no need to reload.",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "payment_disabled_for_network_test",
+      "eng": "Payment options disabled for the Network Test. Have fun!",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "steam_instructions",
+      "eng": "Purchase using your Steam Wallet and your inventory will auto-update.",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "payment_option_disabled_message",
+      "eng": "This payment option is temporarily disabled for maintenance. Sorry for the inconvenience.",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "change_payment_info_button_label",
+      "eng": "Change",
+      "chi": "改变",
+      "originVersionCode": "20.1.07",
+      "translateState": 4
+    },
+    {
+      "code": "delete_payment_info_button_label",
+      "eng": "Delete",
+      "chi": "删除",
+      "originVersionCode": "20.1.07",
+      "translateState": 4
+    },
+    {
+      "code": "confirm_purchase_dialog_quantity_label",
+      "eng": "Quantity",
+      "chi": "数量",
+      "originVersionCode": "20.1.07",
+      "translateState": 4
+    },
+    {
+      "code": "confirm_purchase_dialog_orb_gold_cost",
+      "eng": "<strong>{{gold_cost}}</strong> GOLD",
+      "chi": "<strong>{{gold_cost}} </strong>金币",
+      "originVersionCode": "20.1.07",
+      "translateState": 4
+    },
+    {
+      "code": "confirm_purchase_dialog_premium_price",
+      "eng": "<strong> {{price}} </strong> SHARDS",
+      "chi": "<strong> {{price}} </strong>碎钻",
+      "originVersionCode": "20.1.07",
+      "translateState": 4
+    },
+    {
+      "code": "all_subcategories_title",
+      "eng": "All",
+      "chi": "全部",
+      "originVersionCode": "20.1.07",
+      "translateState": 4
+    },
+    {
+      "code": "balance_label",
+      "eng": "Balance",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "cost_label",
+      "eng": "Cost",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "remaining_label",
+      "eng": "Remaining",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "bonus_label",
+      "eng": "(+{{amount}} BONUS)",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "category_featured_name",
+      "eng": "Featured",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "category_specials_name",
+      "eng": "Specials",
+      "chi": "特价",
+      "originVersionCode": "20.1.07",
+      "translateState": 4
+    },
+    {
+      "code": "category_sales_name",
+      "eng": "Sales",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "category_spirit_orbs_name",
+      "eng": "Spirit Orbs",
+      "chi": "卡包",
+      "originVersionCode": "20.1.07",
+      "translateState": 4
+    },
+    {
+      "code": "category_emotes_name",
+      "eng": "Emotes",
+      "chi": "表情",
+      "originVersionCode": "20.1.07",
+      "translateState": 4
+    },
+    {
+      "code": "category_profile_icons_name",
+      "eng": "Profile Icons",
+      "chi": "头像",
+      "originVersionCode": "20.1.07",
+      "translateState": 4
+    },
+    {
+      "code": "category_card_backs_name",
+      "eng": "Card Backs",
+      "chi": "卡背",
+      "originVersionCode": "20.1.07",
+      "translateState": 4
+    },
+    {
+      "code": "category_general_skins_name",
+      "eng": "Card Skins",
+      "chi": "卡牌皮肤",
+      "originVersionCode": "20.1.07",
+      "translateState": 4
+    },
+    {
+      "code": "category_battle_maps_name",
+      "eng": "Battle Maps",
+      "chi": "战场地图",
+      "originVersionCode": "20.1.07",
+      "translateState": 4
+    },
+    {
+      "code": "category_bundles_name",
+      "eng": "Bundles",
+      "chi": "合集",
+      "originVersionCode": "20.1.07",
+      "translateState": 4
+    },
+    {
+      "code": "category_gauntlet_name",
+      "eng": "Gauntlet",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "category_loot_chest_keys_name",
+      "eng": "Mystery Crate Keys",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "gift_code_button_label",
+      "eng": "Use Gift Codes",
+      "chi": "使用礼品码",
+      "originVersionCode": "20.1.07",
+      "translateState": 4
+    },
+    {
+      "code": "help_button_label",
+      "eng": "Help and Support",
+      "chi": "帮助和支持",
+      "originVersionCode": "20.1.07",
+      "translateState": 4
+    },
+    {
+      "code": "specials_category_instructions",
+      "eng": "Specials can only be purchased ONCE",
+      "chi": "特价只能买一次",
+      "originVersionCode": "20.1.07",
+      "translateState": 4
+    },
+    {
+      "code": "orb_contents_instructions",
+      "eng": "Each Orb contains <strong>5 cards</strong>. At least 1 card will be RARE or better.",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "eyos_orb_contents_instructions",
+      "eng": "Each {{card_set_name}} Orb contains 3 copies of <strong>3 unowned cards</strong>.",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "eyos_orb_set_complete_message",
+      "eng": "You own the full {{card_set_name}} card set!.",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "eyos_orb_refund_message",
+      "eng": "Refunds 300 gold for each {{card_set_name}} Orb already purchased.",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "core_set_booster_name",
+      "eng": "{{count}} Spirit Orb",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "core_set_booster_name_plural",
+      "eng": "{{count}} Spirit Orbs",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "core_set_booster_description",
+      "eng": "Each Spirit Orb contains 5 cards from the Core set. At least 1 card will be RARE or better.",
+      "chi": "每个卡包有基础版的5张牌，至少有一张牌的品质是稀有或者更高。",
+      "originVersionCode": "20.1.07",
+      "translateState": 4
+    },
+    {
+      "code": "f1_core_set_booster_name",
+      "eng": "{{count}} Lyonar Spirit Orb",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "f1_core_set_booster_name_plural",
+      "eng": "{{count}} Lyonar Spirit Orbs",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "f1_core_set_booster_description",
+      "eng": "Each Lyonar Spirit Orb contains 5 cards from the Core set. At least 1 card will be RARE or better.",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "f2_core_set_booster_name",
+      "eng": "{{count}} Songhai Spirit Orb",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "f2_core_set_booster_name_plural",
+      "eng": "{{count}} Songhai Spirit Orbs",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "f2_core_set_booster_description",
+      "eng": "Each Songhai Spirit Orb contains 5 cards from the Core set. At least 1 card will be RARE or better.",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "f3_core_set_booster_name",
+      "eng": "{{count}} Vetruvian Spirit Orb",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "f3_core_set_booster_name_plural",
+      "eng": "{{count}} Vetruvian Spirit Orbs",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "f3_core_set_booster_description",
+      "eng": "Each Vetruvian Spirit Orb contains 5 cards from the Core set. At least 1 card will be RARE or better.",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "f4_core_set_booster_name",
+      "eng": "{{count}} Abyssian Spirit Orb",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "f4_core_set_booster_name_plural",
+      "eng": "{{count}} Abyssian Spirit Orbs",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "f4_core_set_booster_description",
+      "eng": "Each Abyssian Spirit Orb contains 5 cards from the Core set. At least 1 card will be RARE or better.",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "f5_core_set_booster_name",
+      "eng": "{{count}} Magmar Spirit Orb",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "f5_core_set_booster_name_plural",
+      "eng": "{{count}} Magmar Spirit Orbs",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "f5_core_set_booster_description",
+      "eng": "Each Magmar Spirit Orb contains 5 cards from the Core set. At least 1 card will be RARE or better.",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "f6_core_set_booster_name",
+      "eng": "{{count}} Vanar Spirit Orb",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "f6_core_set_booster_name_plural",
+      "eng": "{{count}} Vanar Spirit Orbs",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "f6_core_set_booster_description",
+      "eng": "Each Vanar Spirit Orb contains 5 cards from the Core set. At least 1 card will be RARE or better.",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "shimzar_booster_name",
+      "eng": "{{count}} Shim'Zar Orb",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "shimzar_booster_name_plural",
+      "eng": "{{count}} Shim'Zar Orbs",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "shimzar_booster_description",
+      "eng": "Each Shim'Zar Orb contains 5 cards from the Shim'Zar set. At least 1 card will be RARE or better.",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "bloodborn_booster_name",
+      "eng": "{{count}} Bloodbound Orb",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "bloodborn_booster_name_plural",
+      "eng": "{{count}} Bloodbound Orbs",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "bloodborn_booster_complete_name",
+      "eng": "Complete Bloodbound Set",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "bloodborn_booster_complete_description",
+      "eng": "&#8226; The full Rise of the Bloodbound set.<br>&#8226; When you purchase the full set, you will receive 300 gold for each Rise of the Bloodbound Orb you have already opened.",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "bloodborn_booster_description",
+      "eng": "&#8226; Each Bloodbound Orb contains 3 copies of 3 random cards from the Bloodbound set (1 Common, 1 Rare, and 1 Epic or Legendary).<br>&#8226; Bloodbound Orbs will not contain cards you already own.<br>&#8226; You cannot craft or disenchant cards in Bloodbound Orbs.",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "ancient_booster_name",
+      "eng": "{{count}} Ancient Orb",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "ancient_booster_name_plural",
+      "eng": "{{count}} Ancient Orbs",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "ancient_booster_complete_name",
+      "eng": "Complete Ancient Set",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "ancient_booster_complete_description",
+      "eng": "&#8226; The full Ancient Bonds set.<br>&#8226; When you purchase the full set, you will receive 300 gold for each Ancient Bonds Orb you have already opened.",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "ancient_booster_description",
+      "eng": "&#8226; Each Ancient Orb contains 3 copies of 3 random cards from the Ancient Bonds set (1 Common, 1 Rare, and 1 Epic or Legendary).",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "firstwatch_booster_name",
+      "eng": "{{count}} Unearthed Orb",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "firstwatch_booster_name_plural",
+      "eng": "{{count}} Unearthed Orbs",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "firstwatch_booster_description",
+      "eng": "Each Unearthed Orb contains 5 cards from the Unearthed Prophecy set. At least 1 card will be RARE or better.",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "wartech_preorder_name_plural",
+      "eng": "Pre-order {{count}} Orbs",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "wartech_preorder_description",
+      "eng": "Pre-order 35 Immortal Vanguard Orbs! The Orbs will become openable when the expansion launches!",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "wartech_booster_name",
+      "eng": "{{count}} Immortal Orb",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "wartech_booster_name_plural",
+      "eng": "{{count}} Immortal Orbs",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "wartech_booster_description",
+      "eng": "Each Immortal Orb contains 5 cards from the Immortal Vanguard set. At least 1 card will be RARE or better.",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "combined_booster_name",
+      "eng": "{{count}} Ancient Orb",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "combined_booster_name_plural",
+      "eng": "{{count}} Ancient Orbs",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "combined_booster_description",
+      "eng": "Each Ancient Orb contains 5 cards from the Bloodbound Ancients set. At least 1 card will be RARE or better.",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "fate_booster_name",
+      "eng": "{{count}} Mythron Orb",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "fate_booster_name_plural",
+      "eng": "{{count}} Mythron Orbs",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "fate_booster_description",
+      "eng": "Each Mythron Orb contains 5 cards from the Trials of Mythron set. At least 1 card will be RARE or better.",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "BRONZE_DIVISION_STARTER_SPECIAL_name",
+      "eng": "Bronze Division Starter",
+      "chi": "青铜新手礼包",
+      "originVersionCode": "20.1.07",
+      "translateState": 4
+    },
+    {
+      "code": "BRONZE_DIVISION_STARTER_SPECIAL_description",
+      "eng": "5 Spirit Orbs + 3x of a random Neutral Legendary",
+      "chi": "5卡包 + 3张随机中立传奇卡牌",
+      "originVersionCode": "20.1.07",
+      "translateState": 4
+    },
+    {
+      "code": "BRONZE_DIVISION_STARTER_SPECIAL_locked_label",
+      "eng": "Unlock by winning 2 RANKED games",
+      "chi": "获得两场天梯对局胜利后解锁",
+      "originVersionCode": "20.1.07",
+      "translateState": 4
+    },
+    {
+      "code": "SILVER_DIVISION_STARTER_SPECIAL_name",
+      "eng": "Silver Division Starter",
+      "chi": "白银新手礼包",
+      "originVersionCode": "20.1.07",
+      "translateState": 4
+    },
+    {
+      "code": "SILVER_DIVISION_STARTER_SPECIAL_description",
+      "eng": "10 Spirit Orbs + 3x of a random Neutral Epic",
+      "chi": "10卡包 + 3张随机中立史诗卡牌",
+      "originVersionCode": "20.1.07",
+      "translateState": 4
+    },
+    {
+      "code": "SILVER_DIVISION_STARTER_SPECIAL_locked_label",
+      "eng": "Unlock by reaching SILVER division",
+      "chi": "到达白银分段后解锁",
+      "originVersionCode": "20.1.07",
+      "translateState": 4
+    },
+    {
+      "code": "GOLD_DIVISION_STARTER_SPECIAL_name",
+      "eng": "Gold Division Starter",
+      "chi": "黄金新手礼包",
+      "originVersionCode": "20.1.07",
+      "translateState": 4
+    },
+    {
+      "code": "GOLD_DIVISION_STARTER_SPECIAL_description",
+      "eng": "15 Spirit Orbs + 3x of a random Faction Legendary",
+      "chi": "15卡包 + 3张随机阵营传奇卡牌",
+      "originVersionCode": "20.1.07",
+      "translateState": 4
+    },
+    {
+      "code": "GOLD_DIVISION_STARTER_SPECIAL_locked_label",
+      "eng": "Unlock by reaching GOLD division",
+      "chi": "到达黄金后解锁",
+      "originVersionCode": "20.1.07",
+      "translateState": 4
+    },
+    {
+      "code": "F1_F5_STARTER_SPECIAL_name",
+      "eng": "Lyonar and Magmar Starter",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "F1_F5_STARTER_SPECIAL_description",
+      "eng": "4 Epic, 8 Rare cards, and 2 emotes for Lyonar and Magmar. Plus a card back.",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    },
+    {
+      "code": "F2_F4_STARTER_SPECIAL_name",
+      "eng": "Songhai and Abyssian Starter",
+      "chi": "",
+      "originVersionCode": "20.1.08",
+      "translateState": 0
+    }
+  ]
+}

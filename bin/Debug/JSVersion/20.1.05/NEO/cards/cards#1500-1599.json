@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.05",
+  "nodeCode": "cards",
+  "path": "cards",
+  "orderStart": 1500,
+  "orderEnd": 1599,
+  "translateItemList": [
+    {
+      "code": "faction_5_spell_earth_sphere_name",
+      "eng": "Earth Sphere",
+      "chi": "大地领域",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_earth_sphere_description",
+      "eng": "Restore 8 Health to your General.",
+      "chi": "治疗你的将领8点生命。",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_bounded_lifeforce_name",
+      "eng": "Bounded Lifeforce",
+      "chi": "究极进化",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_bounded_lifeforce_description",
+      "eng": "Your General becomes 10/10.",
+      "chi": "你的将领变成10/10。",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_amplification_name",
+      "eng": "Amplification",
+      "chi": "受激进化",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_amplification_description",
+      "eng": "Give a friendly damaged minion +2 Attack and +4 Health.",
+      "chi": "使一个受伤的友方随从获得 +2/+4",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_metamorphosis_name",
+      "eng": "Metamorphosis",
+      "chi": "蜕变",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_metamorphosis_description",
+      "eng": "Transform all enemy minions into 1/1 Magma with no abilities until the end of your opponent's turn.",
+      "chi": "将所有敌方随从变成小石块(1/1)直到你的下个回合开始。",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_plasma_storm_name",
+      "eng": "Plasma Storm",
+      "chi": "离子风暴",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_plasma_storm_description",
+      "eng": "Destroy ALL minions with 3 or less Attack.",
+      "chi": "摧毁所有攻击小于等于3的随从。",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_chrysalis_burst_name",
+      "eng": "Chrysalis Burst",
+      "chi": "蛹动",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_chrysalis_burst_description",
+      "eng": "Summon a random Egg in 4 random spaces.",
+      "chi": "在随机位置召唤4个随机的蛋。",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_natural_selection_name",
+      "eng": "Natural Selection",
+      "chi": "物竞天择",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_natural_selection_description",
+      "eng": "Destroy ANY minion with the lowest Attack or tied for the lowest Attack.",
+      "chi": "摧毁目标攻击力最低的随从。",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_mind_steal_name",
+      "eng": "Mind Steal",
+      "chi": "思维窃取",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_mind_steal_description",
+      "eng": "Steal a random minion from your opponent's deck and summon it.",
+      "chi": "从你对手的牌库中偷取一张随从并将其召唤。",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_egg_morph_name",
+      "eng": "Egg Morph",
+      "chi": "化蛹",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_egg_morph_description",
+      "eng": "Turn a non-Egg minion into an Egg, or hatch an Egg.",
+      "chi": "将一个随从变成该随从的蛋。如果已经是蛋，则改为孵化它。",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_kinetic_equilibrium_name",
+      "eng": "Kinetic Equilibrium",
+      "chi": "优胜劣汰",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_kinetic_equilibrium_description",
+      "eng": "Deal 2 damage to ALL minions in a 3x3 area. Friendly minions in the area also gain +2 Attack.",
+      "chi": "对3x3区域内所有随从造成2点伤害，使区域内的友方随从获得 +2/+0。",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_razor_skin_name",
+      "eng": "Razor Skin",
+      "chi": "尖刺外壳",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_razor_skin_description",
+      "eng": "Give all friendly minions +1 Attack. Put a random Battle Pet into your action bar.",
+      "chi": "使所有友方随从获得+1/+0。在你的准备栏放入一张随机战宠。",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_lava_lance_name",
+      "eng": "Lava Lance",
+      "chi": "熔岩贯穿",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_lava_lance_description",
+      "eng": "Deal 2 damage to a minion. If you have an Egg, deal 4 damage instead.",
+      "chi": "对一个随从造成2点伤害。如果你控制着一个蛋，则改为造成4点伤害。",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_natures_confluence_name",
+      "eng": "Nature's Confluence",
+      "chi": "野性交汇",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_natures_confluence_description",
+      "eng": "Summon four copies of a random Battle Pet in a 2x2 area.",
+      "chi": "在目标2x2区域召唤一个随机战宠的4个复制。",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_thumping_wave_name",
+      "eng": "Thumping Wave",
+      "chi": "重击波",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_thumping_wave_description",
+      "eng": "Give a minion +5 Attack. At end of turn, transform it into a 3/3 Kin.",
+      "chi": "使一个随从获得+5/+0，回合结束时，将该随从变为兔小队(3/3 战宠)。",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_flaming_stampede_name",
+      "eng": "Flaming Stampede",
+      "chi": "岩浆奔涌",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_flaming_stampede_description",
+      "eng": "Deal 8 damage to ALL non-Egg minions and Generals.",
+      "chi": "对所有不是蛋的单位造成8点伤害。",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_entropic_gaze_name",
+      "eng": "Entropic Gaze",
+      "chi": "熵值判断",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_entropic_gaze_desc",
+      "eng": "Deal 2 damage to the enemy General. Both players draw a card.",
+      "chi": "对敌方将领造成2点伤害。双方玩家抽一张牌。",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_tectonic_spikes_name",
+      "eng": "Tectonic Spikes",
+      "chi": "地壳隆起",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_tectonic_spikes_desc",
+      "eng": "Both players draw 3 cards. Deal 3 damage to both Generals.",
+      "chi": "双方玩家抽3张牌，对双方玩家造成3点伤害。",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_valknus_seal_name",
+      "eng": "Valknu's Seal",
+      "chi": "瓦尔克努的刻印",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_valknus_seal_desc",
+      "eng": "Summon an Egg that hatches into a copy of your General.",
+      "chi": "召唤一个蛋，该蛋将会孵化成你的将领的复制。",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_cascading_rebirth_name",
+      "eng": "Cascading Rebirth",
+      "chi": "倾曳重生",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_cascading_rebirth_desc",
+      "eng": "Destroy a friendly minion to summon a random Magmar minion that costs 1 more.",
+      "chi": "摧毁一个友方随从，召唤一个比该随从费用多1点的随机的Magmar随从。",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_vaaths_brutality_name",
+      "eng": "Vaath's Brutality",
+      "chi": "瓦斯的暴行",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_vaaths_brutality_desc",
+      "eng": "Stun an enemy minion. Give your General +1 Attack.",
+      "chi": "眩晕一个敌方随从。你的将领获得 +1/+0。",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_blood_rage_name",
+      "eng": "Blood Rage",
+      "chi": "血怒",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_blood_rage_desc",
+      "eng": "Give a friendly minion +1/+1 for each time damage was dealt this turn.",
+      "chi": "选择一个友方随从，本回合每造成过一次伤害，该随从就获得+1/+1。",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_primal_ballast_name",
+      "eng": "Primal Ballast",
+      "chi": "始祖力量",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_primal_ballast_desc",
+      "eng": "Dispel a space. If there is a minion on that space, give it +2/+2.",
+      "chi": "驱散一个格子。使该格子上的随从获得+2/+2.。",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_endure_the_beastlands_name",
+      "eng": "Endure the Beastlands",
+      "chi": "悠久兽谷",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_endure_the_beastlands_desc",
+      "eng": "Turn a 2x2 area into Primal Flourish.",
+      "chi": "将目标2x2区域变为茂林。",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_verdant_fulmination_name",
+      "eng": "Verdant Fulmination",
+      "chi": "生机爆发",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_verdant_fulmination_desc",
+      "eng": "Your minions on friendly Primal Flourish grow. Turn your other minions' spaces into Primal Flourish.",
+      "chi": "位于友方茂林之上的友方随从进行一次成长。将不位于友方茂林之上的友方随从所在位置变为茂林。",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_evolutionary_apex_name",
+      "eng": "Evolutionary Apex",
+      "chi": "进化顶点",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_evolutionary_apex_desc",
+      "eng": "BOTH players put all minions in their action bars onto the battlefield nearby their General.",
+      "chi": "双方玩家将准备栏中所有随从放入与其将领相邻的位置中。",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_propogate_rage_name",
+      "eng": "Propagate Rage",
+      "chi": "播种愤怒",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_propogate_rage_desc",
+      "eng": "Summon a Ripper Egg nearby your General.",
+      "chi": "在你将领相邻位置召唤一个恐爪蜥(3/1 重生 迅捷)的蛋。",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_embryotic_insight_name",
+      "eng": "Embryotic Insight",
+      "chi": "筛选胚胎",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_embryotic_insight_desc",
+      "eng": "If you have an Egg, draw 2 cards.",
+      "chi": "如果你控制着一个蛋，抽2张牌。",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_effulgent_infusion_name",
+      "eng": "Effulgent Infusion",
+      "chi": "量子速读",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_effulgent_infusion_desc",
+      "eng": "Give a friendly minion +Attack equal to your General's Attack.",
+      "chi": "使一个友方随从获得 +X/+0，X为你将领的攻击力。",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_upper_hand_name",
+      "eng": "Upper Hand",
+      "chi": "巨掌践踏",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_upper_hand_desc",
+      "eng": "Deal 1 damage to an enemy minion for each card in your opponent's action bar.",
+      "chi": "对一个敌方随从造成X点伤害，X为对手手牌数量。",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_pupabomb_name",
+      "eng": "Pupabomb",
+      "chi": "爆蛋",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_pupabomb_desc",
+      "eng": "Destroy a friendly Egg to deal 4 damage to enemies around it.",
+      "chi": "摧毁一个友方蛋，对该蛋相邻的所有敌方单位造成4点伤害。",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_homeostatic_rebuke_name",
+      "eng": "Homeostatic Rebuke",
+      "chi": "内循环紊乱",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_homeostatic_rebuke_desc",
+      "eng": "ALL minions attack themselves.",
+      "chi": "所有随从对自身发起攻击。",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_saurian_finality_name",
+      "eng": "Saurian Finality",
+      "chi": "大灭绝",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_saurian_finality_desc",
+      "eng": "Stun the enemy General.\nYour General gains +3 Attack.\nBoth players lose 3 mana.\nRestore 10 Health to your General.",
+      "chi": "眩晕敌方将领。\n你的将领获得+3/+0。\n每个玩家失去3点法力水晶。\n为你的将领治疗10点生命。",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_artifact_adamantite_claws_name",
+      "eng": "Adamantite Claws",
+      "chi": "刚玉爪",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_artifact_adamantite_claws_description",
+      "eng": "Your General gains +4 Attack.",
+      "chi": "你的将领具有+4/+0。",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_artifact_twin_fang_name",
+      "eng": "Twin Fang",
+      "chi": "双牙",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_artifact_twin_fang_description",
+      "eng": "Whenever a friendly minion or your General takes damage, your General gains +2 Attack.",
+      "chi": "每当一个友方单位受到伤害时，你的将领具有 +2/+0。",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_artifact_iridium_scale_name",
+      "eng": "Iridium Scale",
+      "chi": "铱金鳞",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_artifact_iridium_scale_description",
+      "eng": "Your General gains Frenzy.",
+      "chi": "你的将领具有狂暴。",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_artifact_morinkhur_name",
+      "eng": "Morin-Khur",
+      "chi": "马头琴",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_artifact_morinkhur_description",
+      "eng": "Your General gains +3 Attack. Whenever your General deals damage, hatch all friendly Eggs.",
+      "chi": "你的将领具有+3/+0。每当你的将领造成伤害时，孵化所有友方蛋。",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_artifact_godhammer_name",
+      "eng": "Godhammer",
+      "chi": "神锤",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_artifact_godhammer_description",
+      "eng": "Your minions have \"Grow: +1/+1.\"",
+      "chi": "你的随从具有\"成长：+1/+1\"。",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_artifact_eternal_heart_name",
+      "eng": "Eternal Heart",
+      "chi": "永恒之心",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_artifact_eternal_heart_desc",
+      "eng": "Your General cannot die.",
+      "chi": "你的将领不会死亡。",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_artifact_rage_reactor_name",
+      "eng": "Rage Reactor",
+      "chi": "狂躁反应炉",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_artifact_rage_reactor_desc",
+      "eng": "Your General gains +1 Attack.\nWhenever your General destroys an enemy, summon a Ripper Egg on that space.",
+      "chi": "你的将领具有+1/+0。\n每当你的将领摧毁一个敌方单位时，在其所在位置召唤一个恐爪蜥(3/1 重生 迅捷)的蛋。",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_vaath_name",
+      "eng": "Vaath the Immortal",
+      "chi": "不朽的瓦斯",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_vaath_desc",
+      "eng": "Bloodbound Spell: Give your General +1 Attack.",
+      "chi": "血技：使你的将领获得 +1/+0。",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_starhorn_name",
+      "eng": "Starhorn the Seeker",
+      "chi": "求知的星角",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_starhorn_desc",
+      "eng": "Bloodbound Spell: Both players draw a card.",
+      "chi": "血技：双方玩家抽一张牌。",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_ragnora_name",
+      "eng": "Ragnora the Relentless",
+      "chi": "无情的拉格诺拉",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_ragnora_desc",
+      "eng": "Bloodbound Spell: Summon a Ripper Egg nearby your General.",
+      "chi": "血技：在你将领相邻位置召唤一个恐爪蜥(3/1 重生 迅捷)的蛋。",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_kujata_name",
+      "eng": "Kujata",
+      "chi": "库亚塔",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_kujata_desc",
+      "eng": "Your minions cost 1 less to summon and take 1 damage when summoned from your action bar.",
+      "chi": "你的随从使用时费用减少1点。\n当你使用一个随从后，对其造成1点伤害。",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_phalanxar_name",
+      "eng": "Phalanxar",
+      "chi": "好战者",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_young_silithar_name",
+      "eng": "Young Silithar",
+      "chi": "幼年期西里萨",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_young_silithar_desc",
+      "eng": "Rebirth",
+      "chi": "重生",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_earth_walker_name",
+      "eng": "Earth Walker",
+      "chi": "滚石",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_earth_walker_desc",
+      "eng": "Grow: +1/+1",
+      "chi": "成长：+1/+1",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_primordial_gazer_name",
+      "eng": "Primordial Gazer",
+      "chi": "照管者",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_primordial_gazer_desc",
+      "eng": "Opening Gambit: Give a nearby friendly minion +2/+2.",
+      "chi": "登场：使一个相邻的友方随从获得 +2/+2。",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_vindicator_name",
+      "eng": "Vindicator",
+      "chi": "维护者",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_vindicator_desc",
+      "eng": "Whenever your opponent draws a card, this minion gains +2/+2.",
+      "chi": "每当你的对手抽一张牌，此随从获得+2/+2。",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_elucidator_name",
+      "eng": "Elucidator",
+      "chi": "阐释者",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_elucidator_desc",
+      "eng": "Rush\nOpening Gambit: Deal 4 damage to your General.",
+      "chi": "冲锋\n登场：对你的将领造成4点伤害。",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_grimrock_name",
+      "eng": "Grimrock",
+      "chi": "不动魔岩",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_grimrock_desc",
+      "eng": "Grow: +2/+2",
+      "chi": "成长：+2/+2",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_veteran_silithar_name",
+      "eng": "Veteran Silithar",
+      "chi": "成熟期西利萨",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    }
+  ]
+}

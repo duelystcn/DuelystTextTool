@@ -1,0 +1,16 @@
+{
+  "versionCode": "20.1.23",
+  "nodeCode": "shop",
+  "path": "shop",
+  "orderStart": 200,
+  "orderEnd": 200,
+  "translateItemList": [
+    {
+      "code": "gift_code_user_discount",
+      "eng": "User discount ({{discount}}%)",
+      "chi": "",
+      "originVersionCode": "20.1.23",
+      "translateState": 0
+    }
+  ]
+}

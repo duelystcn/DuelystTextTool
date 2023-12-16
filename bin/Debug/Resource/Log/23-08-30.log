@@ -1,0 +1,7 @@
+﻿日志开始-2023/08/31 11:19:03
+--2023/08/31 11:19:03.668--读取文件错误:System.IO.IOException: 文件“D:\work\DuelystTextTool(1)\DuelystTextTool\bin\Debug\JSVersion\20.1.01\NEO\cards\cards#600-699.json”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   在 System.IO.File.Open(String path, FileMode mode)
+   在 DuelystText.Common.Util.FileReadUtil.GetTextFromFile(String path) 位置 D:\work\DuelystTextTool(1)\DuelystTextTool\Common\Util\FileReadUtil.cs:行号 23

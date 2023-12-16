@@ -1,0 +1,23 @@
+{
+  "versionCode": "20.1.11",
+  "nodeCode": "cosmetics",
+  "path": "cosmetics",
+  "orderStart": 800,
+  "orderEnd": 801,
+  "translateItemList": [
+    {
+      "code": "cosmetic_crafting_error_msg",
+      "eng": "There was a problem crafting this item.",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "cosmetic_chest_duplicate",
+      "eng": "(duplicate)",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    }
+  ]
+}

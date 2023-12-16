@@ -1,0 +1,65 @@
+{
+  "versionCode": "20.1.23",
+  "nodeCode": "cosmetics",
+  "path": "cosmetics",
+  "orderStart": 900,
+  "orderEnd": 907,
+  "translateItemList": [
+    {
+      "code": "title_theunhallowedone",
+      "eng": "The Unhallowed One",
+      "chi": "",
+      "originVersionCode": "20.1.23",
+      "translateState": 0
+    },
+    {
+      "code": "title_developerblatm",
+      "eng": "Developer Blatm",
+      "chi": "",
+      "originVersionCode": "20.1.23",
+      "translateState": 0
+    },
+    {
+      "code": "title_makeitrain",
+      "eng": "Make It Rain!",
+      "chi": "",
+      "originVersionCode": "20.1.23",
+      "translateState": 0
+    },
+    {
+      "code": "title_SeriallyEpic",
+      "eng": "Serially Epic",
+      "chi": "",
+      "originVersionCode": "20.1.23",
+      "translateState": 0
+    },
+    {
+      "code": "title_EpicChampion",
+      "eng": "Epic Champion",
+      "chi": "",
+      "originVersionCode": "20.1.23",
+      "translateState": 0
+    },
+    {
+      "code": "title_EpicContender",
+      "eng": "Epic Contender",
+      "chi": "",
+      "originVersionCode": "20.1.23",
+      "translateState": 0
+    },
+    {
+      "code": "title_SeriesRival",
+      "eng": "Series Rival",
+      "chi": "",
+      "originVersionCode": "20.1.23",
+      "translateState": 0
+    },
+    {
+      "code": "title_EpicStyle",
+      "eng": "Epic Style",
+      "chi": "",
+      "originVersionCode": "20.1.23",
+      "translateState": 0
+    }
+  ]
+}

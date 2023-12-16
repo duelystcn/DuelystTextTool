@@ -1,0 +1,58 @@
+{
+  "versionCode": "20.1.20",
+  "nodeCode": "watch",
+  "path": "watch",
+  "orderStart": 0,
+  "orderEnd": 6,
+  "translateItemList": [
+    {
+      "code": "live_streams_label",
+      "eng": "Live Streams",
+      "chi": "直播",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "replays_label",
+      "eng": "Replays",
+      "chi": "回放",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "empty_division_replays_message",
+      "eng": "No games to watch in this division yet. Check back soon!",
+      "chi": "暂时没有比赛可以观看，请稍后再来！",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "watch_on_twitch_message",
+      "eng": "Watch on Twitch",
+      "chi": "在Twitch上观看",
+      "originVersionCode": "20.1.19",
+      "translateState": 4
+    },
+    {
+      "code": "stream_live_message",
+      "eng": "LIVE",
+      "chi": "",
+      "originVersionCode": "20.1.20",
+      "translateState": 0
+    },
+    {
+      "code": "stream_offline_message",
+      "eng": "OFFLINE",
+      "chi": "",
+      "originVersionCode": "20.1.20",
+      "translateState": 0
+    },
+    {
+      "code": "opens_in_browser_tooltip",
+      "eng": "Opens in Browser",
+      "chi": "",
+      "originVersionCode": "20.1.20",
+      "translateState": 0
+    }
+  ]
+}

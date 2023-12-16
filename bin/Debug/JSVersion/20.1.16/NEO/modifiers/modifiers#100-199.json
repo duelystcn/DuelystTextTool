@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.16",
+  "nodeCode": "modifiers",
+  "path": "modifiers",
+  "orderStart": 100,
+  "orderEnd": 199,
+  "translateItemList": [
+    {
+      "code": "banded_heal_applied_name",
+      "eng": "Zealed: Lion's Recovery",
+      "chi": "热诚：狮子的愈伤",
+      "originVersionCode": "20.1.15",
+      "translateState": 4
+    },
+    {
+      "code": "banded_heal_name",
+      "eng": "Zealed: Lion's Recovery",
+      "chi": "热诚：狮子的愈伤",
+      "originVersionCode": "20.1.15",
+      "translateState": 4
+    },
+    {
+      "code": "banded_heal_desc",
+      "eng": "At the end of your turn, fully heal this minion",
+      "chi": "在你的回合结束时，治愈此随从",
+      "originVersionCode": "20.1.15",
+      "translateState": 4
+    },
+    {
+      "code": "banding_attack_applied_name",
+      "eng": "Zeal: Lion's Strength",
+      "chi": "热诚：雄狮之力",
+      "originVersionCode": "20.1.15",
+      "translateState": 4
+    },
+    {
+      "code": "banded_attack_applied_name",
+      "eng": "Zealed: Lion's Strength",
+      "chi": "热诚：雄狮之力",
+      "originVersionCode": "20.1.15",
+      "translateState": 4
+    },
+    {
+      "code": "healwatch_bufself_applied_name",
+      "eng": "Sun's Strength",
+      "chi": "烈阳之力",
+      "originVersionCode": "20.1.15",
+      "translateState": 4
+    },
+    {
+      "code": "absorb_damage_name",
+      "eng": "Absorb Damage",
+      "chi": "伤害吸收",
+      "originVersionCode": "20.1.15",
+      "translateState": 4
+    },
+    {
+      "code": "absorb_damage_def",
+      "eng": "The next time this takes damage, prevent {{amount}} of it.",
+      "chi": "当此单位下次受到伤害时，减少{{amount}}点。",
+      "originVersionCode": "20.1.15",
+      "translateState": 4
+    },
+    {
+      "code": "absorb_damage_minions_only_def",
+      "eng": "The next time this takes damage from a minion, prevent {{amount}} of it.",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "absorb_damage_golems_name",
+      "eng": "The Maker's Ingenuity",
+      "chi": "造物主的巧思",
+      "originVersionCode": "20.1.15",
+      "translateState": 4
+    },
+    {
+      "code": "absorb_damage_golems_def",
+      "eng": "Golems take 1 less damage.",
+      "chi": "魔像受到的伤害减少1点。",
+      "originVersionCode": "20.1.15",
+      "translateState": 4
+    },
+    {
+      "code": "any_draw_card_watch_buff_self_name",
+      "eng": "Any Draw Card Watch",
+      "chi": "抽牌监视",
+      "originVersionCode": "20.1.15",
+      "translateState": 4
+    },
+    {
+      "code": "any_draw_card_watch_buff_self_def",
+      "eng": "Whenever either player draws a card, this minion gains {{amount}}",
+      "chi": "每当一格玩家抽一张牌时，此随从获得{{amount}}",
+      "originVersionCode": "20.1.15",
+      "translateState": 4
+    },
+    {
+      "code": "any_draw_card_watch_buff_self_applied",
+      "eng": "Vision Quest",
+      "chi": "视觉探索",
+      "originVersionCode": "20.1.15",
+      "translateState": 4
+    },
+    {
+      "code": "any_summon_watch_from_action_bar_apply_modifiers_def",
+      "eng": "{desc} for each minion summoned from either player's action bar this game",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "apply_minion_to_board_watch_apply_modifiers_to_target_name",
+      "eng": "Any ApplyToBoard Watch",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "apply_minion_to_board_watch_apply_modifiers_to_target_def",
+      "eng": "Minions enther the board {desc}",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "attack_equals_health_name",
+      "eng": "Attack Equals Health",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "attack_equals_health_def",
+      "eng": "This unit's Attack is always equal to its current Health",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "attacks_deal_no_damage_name",
+      "eng": "Attacks Deal No Damage",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "attacks_deal_no_damage_def",
+      "eng": "Deals no damage when it attacks",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "backstab_watch_steal_spell_from_deck_name",
+      "eng": "Backstab Watch: Steal Spell From Deck",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "backstab_watch_steal_spell_from_deck_def",
+      "eng": "After this backstabs, steal a spell from the enemy deck",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "banded_name",
+      "eng": "Zealed",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "banded_def",
+      "eng": "Gaining buff from zeal",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "banded_ranged_name",
+      "eng": "Zealed: Lion's Reach",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "banded_ranged_def",
+      "eng": "Ranged",
+      "chi": "远程",
+      "originVersionCode": "20.1.15",
+      "translateState": 4
+    },
+    {
+      "code": "banding_change_card_draw_name",
+      "eng": "Zeal: Sun's Blessing",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "banding_change_card_draw_def",
+      "eng": "Draw {amount} additional cards at the end of your turn",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "banding_deal_damage_watch_draw_card_name",
+      "eng": "Zeal: Lion's Blessing",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "banding_heal_self_and_general_name",
+      "eng": "Zeal: Lion's Restoration",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "belongs_to_all_races_name",
+      "eng": "Belongs to all Races",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "belongs_to_all_races_def",
+      "eng": "This minion is a part of every tribe",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "buff_self_on_replace_name",
+      "eng": "Star Walker",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "buff_self_on_replace_def",
+      "eng": "Whenever you replace this card, {desc}",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "cannot_attack_general_name",
+      "eng": "Avoids Generals",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "cannot_attack_general_def",
+      "eng": "This minion cannot attack Generals unless attacked.",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "cannot_attack_general_error",
+      "eng": "[Not] a valid target.",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "cost_change_if_my_general_damaged_last_turn_name",
+      "eng": "Chakkram's Duty",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "cost_change_if_my_general_damaged_last_turn_name_def",
+      "eng": "{desc} if your General took damage on your opponent's last turn",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "cost_change_if_my_general_damaged_last_turn_name_mod",
+      "eng": "Costs 2 less",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "cannot_strikeback_name",
+      "eng": "Slowed Reactions",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "cannot_strikeback_def",
+      "eng": "This minion no longer strikes back",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "destroy_at_end_of_turn_def",
+      "eng": "This minion is destroyed at the end of this turn",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "doomed_name",
+      "eng": "Doomed",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "doomed_1_def",
+      "eng": "Will die at the end of their next turn!",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "doomed_2_def",
+      "eng": "Will die after two turns.",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "doomed_3_def",
+      "eng": "Will die after three turns.",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "draw_card_watch_buff_self_name",
+      "eng": "Gusting",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "draw_card_watch_buff_self_def",
+      "eng": "Whenever you draw a card, this minion gains {buff}",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "eternal_heart_error",
+      "eng": "I can't die yet!",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "gain_attack_watch_buff_self_by_same_this_turn_name",
+      "eng": "Morin-Khur",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "gain_attack_watch_buff_self_by_same_this_turn_def",
+      "eng": "Whenever a friendly minion gains Attack, this gains that much Attack this turn",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "grow_on_both_turns_name",
+      "eng": "Moloki's Influence",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "grow_on_both_turns_def",
+      "eng": "Will Grow on enemy turns",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "hallowed_ground_buff_name",
+      "eng": "Aided by Hallowed Ground",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "hallowed_ground_buff_def",
+      "eng": "Will have 1 Health restored at the end of owner's turn.",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "HP_threshold_gain_modifiers_def",
+      "eng": "Gains new keyword abilities as health decreases",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "immune_to_attacks_error",
+      "eng": "[Not] a valid target.",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "immune_to_damage_by_general_name",
+      "eng": "General Immunity",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "immune_to_damage_by_general_def",
+      "eng": "Takes no damage from Generals",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "immune_to_damage_by_spells_def",
+      "eng": "This unit takes no damage from spells",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "immune_to_damage_from_minions_and_generals_name",
+      "eng": "Minion and General damage Immunity",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "immune_to_damage_from_minions_and_generals_def",
+      "eng": "Takes no damage from minions or Generals",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "immune_to_spell_damage_name",
+      "eng": "Immune to Spells",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "immune_to_spell_damage_def",
+      "eng": "This unit takes no damage from spells",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "immune_to_spells_name",
+      "eng": "Veil",
+      "chi": "帷幕",
+      "originVersionCode": "20.1.15",
+      "translateState": 4
+    },
+    {
+      "code": "immune_to_spells_def",
+      "eng": "Cannot be targeted by spells",
+      "chi": "不能成为法术的目标。",
+      "originVersionCode": "20.1.15",
+      "translateState": 4
+    },
+    {
+      "code": "immune_to_spells_by_enemy_def",
+      "eng": "Cannot be targeted by enemy spells",
+      "chi": "不能成为敌方法术的目标。",
+      "originVersionCode": "20.1.15",
+      "translateState": 4
+    },
+    {
+      "code": "inkhorn_gaze_name",
+      "eng": "Inkhorn Gaze",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "inkhorn_gaze_def",
+      "eng": "If this dies this turn, caster draws a random Battle Pet.",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "mirage_name",
+      "eng": "Illusory Mirage",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "mirage_def",
+      "eng": "Immediately vanishes when attacked",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "noshrak_name",
+      "eng": "Nosh-Rak's Visage",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "primal_protection_name",
+      "eng": "Primal Strength",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "primal_protection_def",
+      "eng": "Gaining \"Grow: +2/+2\" from Primal Flourish.",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "ranged_provoke_name",
+      "eng": "Ranged Provoke",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "ranged_provoke_def",
+      "eng": "Ranged attackers must attack this minion first",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "ranged_provoked_name",
+      "eng": "Ranged Provoked",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "ranged_provoked_def",
+      "eng": "Must attack Provoker first",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "rook_infiltrate_name",
+      "eng": "Infiltrated: Attack",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "rook_infiltrate_def",
+      "eng": "Gain +5 Attack on the enemy side of the battlefield.",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "second_wind_name",
+      "eng": "Second Wind",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "second_wind_def",
+      "eng": "When this reaches low HP, watch out!",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "self_damage_area_attack_name",
+      "eng": "Magic Buster Cannon",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "self_damage_area_attack_def",
+      "eng": "Attacks hit the target and all enemies around that target. Take damage equal to the total damage dealt",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "shadow_scar_name",
+      "eng": "Shadow Scar",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "shadow_scar_def",
+      "eng": "If this minion dies, the space becomes Shadow Creep",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "shattering_heart_name",
+      "eng": "Frozen Heart",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "shattering_heart_def",
+      "eng": "Instantly destroys any Stunned minion that it attacks",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "silence_name",
+      "eng": "Dispelled",
+      "chi": "被驱散",
+      "originVersionCode": "20.1.15",
+      "translateState": 4
+    },
+    {
+      "code": "silence_def",
+      "eng": "Nullifies all abilities and enchantments previously added.",
+      "chi": "失去之前拥有的异能和加成。",
+      "originVersionCode": "20.1.15",
+      "translateState": 4
+    },
+    {
+      "code": "dispels_name",
+      "eng": "Dispel",
+      "chi": "驱散",
+      "originVersionCode": "20.1.15",
+      "translateState": 4
+    },
+    {
+      "code": "dispels_def",
+      "eng": "Nullifies all abilities and enchantments previously added.",
+      "chi": "失去之前拥有的异能和加成。",
+      "originVersionCode": "20.1.15",
+      "translateState": 4
+    },
+    {
+      "code": "snow_rippler_name",
+      "eng": "Infiltrated: Ripple",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "snow_rippler_def",
+      "eng": "Whenever this minion damages a General, put a random Battle Pet into your action bar",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "spriggin_dies_buff_self_name",
+      "eng": "Not the Spriggin!!",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "spriggin_dies_buff_self_def",
+      "eng": "Whenever a Spriggin dies, give this +3/+3",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "stacking_shadows_debuff_name",
+      "eng": "Afflicted by Enemy Shadow Creep",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    },
+    {
+      "code": "stacking_shadows_debuff_def",
+      "eng": "Takes damage at the end of enemy's turn",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 0
+    }
+  ]
+}

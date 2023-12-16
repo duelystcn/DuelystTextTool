@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.13",
+  "nodeCode": "cards",
+  "path": "cards",
+  "orderStart": 1200,
+  "orderEnd": 1299,
+  "translateItemList": [
+    {
+      "code": "faction_3_spell_blood_of_air_desc",
+      "eng": "Transform an enemy minion into a friendly Wind Dervish.",
+      "chi": "将一个敌方随从变形为友方风行僧(2/2 冲锋 骤现)。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_arid_unmaking_name",
+      "eng": "Arid Unmaking",
+      "chi": "复归尘土",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_arid_unmaking_desc",
+      "eng": "Destroy a friendly minion to turn its space into Exhuming Sand.",
+      "chi": "消灭一个友方随从并将其所在位置变为流沙。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_cataclysmic_fault_name",
+      "eng": "Cataclysmic Fault",
+      "chi": "灾变断层",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_cataclysmic_fault_desc",
+      "eng": "Turn the entire center column into Exhuming Sand.",
+      "chi": "将战场正中间一列全部变为流沙",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_reassemble_name",
+      "eng": "Reassemble",
+      "chi": "重构",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_reassemble_desc",
+      "eng": "Return a friendly Obelysk to your action bar and reduce its cost to 0. Draw a card.",
+      "chi": "将一个友方方尖碑返回你的准备栏，该方尖碑的费用变为0。抽一张牌。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_azure_summoning_name",
+      "eng": "Azure Summoning",
+      "chi": "青空召集",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_azure_summoning_desc",
+      "eng": "Whenever you summon a minion with Flying from your action bar this turn, draw a minion with Flying from your deck.",
+      "chi": "这个回合每当你从准备栏召唤一个具有飞行的随从时，从你的牌库抽取一张具有飞行的随从。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_superior_mirage_name",
+      "eng": "Superior Mirage",
+      "chi": "海市蜃楼",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_superior_mirage_desc",
+      "eng": "Summon three copies of an enemy minion nearby it. They disappear when attacked.",
+      "chi": "在目标敌方随从相邻位置召唤3个该随从的复制品，这些复制品在攻击后会消散。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_droplift_name",
+      "eng": "Droplift",
+      "chi": "此消彼长",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_droplift_desc",
+      "eng": "Steal a random artifact from the enemy General and equip it.",
+      "chi": "从敌方将领上偷取一件随机神器并装备上。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_decension_name",
+      "eng": "Descension",
+      "chi": "沉降",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_decension_desc",
+      "eng": "Give an enemy minion -2 Attack until your next turn.",
+      "chi": "使一个敌方随从获得-2/-0直到你的下个回合开始。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_equality_constraint_name",
+      "eng": "Equality Constraint",
+      "chi": "等式约束",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_equality_constraint_desc",
+      "eng": "ANY minion's Health becomes equal to its Attack.",
+      "chi": "所有随从的生命变为与其攻击相等。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_burden_of_knowledge_name",
+      "eng": "Burden of Knowledge",
+      "chi": "内存溢出",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_burden_of_knowledge_desc",
+      "eng": "Deal 3 damage to your General to draw a card.",
+      "chi": "对你的将领造成3点伤害，抽一张牌。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_kinematic_projection_name",
+      "eng": "Kinematic Projection",
+      "chi": "动能投射",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_kinematic_projection_desc",
+      "eng": "Give a minion Blast. It can no longer move.",
+      "chi": "使一个随从获得轰炮和无法移动。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_lost_in_the_desert_name",
+      "eng": "Lost in the Desert",
+      "chi": "迷失沙暴",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_lost_in_the_desert_desc",
+      "eng": "Deal 5 damage to enemies that are not nearby another enemy.",
+      "chi": "对一个不与其他敌方单位相邻的敌方单位造成5点伤害。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_neurolink_name",
+      "eng": "Neurolink",
+      "chi": "思维共享",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_neurolink_desc",
+      "eng": "Your General gains all keywords of friendly minions this turn.",
+      "chi": "你的将领获得所有其他友方随从具有的关键词直到回合结束。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_monolithic_vision_name",
+      "eng": "Monolithic Vision",
+      "chi": "黑石预视",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_monolithic_vision_desc",
+      "eng": "Transform your action bar into six random Vetruvian cards that cost 4 less.",
+      "chi": "将你的准备栏变为6张随机的Vetruvian的牌，这些牌费用减少4点。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_artifact_staff_of_ykir_name",
+      "eng": "Staff Of Y'Kir",
+      "chi": "约基尔的权杖",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_artifact_staff_of_ykir_description",
+      "eng": "Your General gains +2 Attack.",
+      "chi": "你的将领具有 +2/+0。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_artifact_wildfire_ankh_name",
+      "eng": "Wildfire Ankh",
+      "chi": "野火十字章",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_artifact_wildfire_ankh_description",
+      "eng": "Your General gains Blast.",
+      "chi": "你的将领具有轰炮。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_artifact_hexblade_name",
+      "eng": "Hexblade",
+      "chi": "咒刃",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_artifact_hexblade_description",
+      "eng": "Your General gains +3 Attack. Whenever your General damages an enemy minion, its Attack becomes 1.",
+      "chi": "你的将领具有+3/+0。\n你的将领对随从造成伤害时，将该随从的攻击置为1。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_artifact_spinecleaver_name",
+      "eng": "Spinecleaver",
+      "chi": "断脊剑",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_artifact_spinecleaver_description",
+      "eng": "Your General gains +1 Attack. Enemy minions destroyed by your General summon a Bloodfire Totem on that space.",
+      "chi": "你的将领具有 +2/+0。\n每当你的将领摧毁一个敌方随从时，在该随从所在位置召唤一个由对手控制的血火图腾。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_artifact_thunderclap_name",
+      "eng": "Thunderclap",
+      "chi": "雷鸣剑",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_artifact_thunderclap_description",
+      "eng": "When your General destroys a minion, summon a copy of it nearby.",
+      "chi": "每当你的将领摧毁一个随从时，在该随从相邻位置召唤一个该随从的复制。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_artifact_oblivion_sickle_name",
+      "eng": "Oblivion Sickle",
+      "chi": "失落的圣镰",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_artifact_oblivion_sickle_description",
+      "eng": "Whenever your General destroys an enemy, turn that space into Exhuming Sand.",
+      "chi": "每当你的将领摧毁一个敌方单位时，将其所在位置变为流沙。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_artifact_iris_barrier_name",
+      "eng": "Iris Barrier",
+      "chi": "虹膜发生器",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_artifact_iris_barrier_description",
+      "eng": "Your General takes no damage during your turn.",
+      "chi": "你的将领在你的回合内不会受到伤害。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_zirix_name",
+      "eng": "Zirix Starstrider",
+      "chi": "踏星者 泽利克斯",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_zirix_desc",
+      "eng": "Bloodbound Spell: Summon a 2/2 Iron Dervish on a random space nearby your General.",
+      "chi": "血技：在你的将领相邻的随机位置召唤一个铁行僧(2/2)。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_sajj_name",
+      "eng": "Scioness Sajj",
+      "chi": "圣裔 萨姬",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_sajj_desc",
+      "eng": "Bloodbound Spell: Your General deals double damage to minions this turn.",
+      "chi": "血技：你的将领这回合对随从造成的伤害翻倍。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_ciphyron_name",
+      "eng": "Ciphyron Ascendant",
+      "chi": "升星者 西弗荣",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_ciphyron_desc",
+      "eng": "Bloodbound Spell: Give an enemy minion -2 Attack until your next turn.",
+      "chi": "血技：使一个敌方随从获得-2/-0直到你的下个回合开始。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_dunecaster_name",
+      "eng": "Dunecaster",
+      "chi": "沙丘召唤师",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_dunecaster_desc",
+      "eng": "Opening Gambit: Give +2/+2 to a friendly Dervish. If it is a Wind Dervish, it no longer disappears.",
+      "chi": "登场：使一个友方苦行僧获得 +2/+2。如果它是一个风行僧，则它不会消散。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_ethereal_obelysk_name",
+      "eng": "Ethereal Obelysk",
+      "chi": "空灵方尖碑",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_ethereal_obelysk_desc",
+      "eng": "Summon Dervish",
+      "chi": "苦行僧召集",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_pyromancer_name",
+      "eng": "Pyromancer",
+      "chi": "火占师",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_pyromancer_desc",
+      "eng": "Blast",
+      "chi": "轰炮",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_fireblaze_obelysk_name",
+      "eng": "Fireblaze Obelysk",
+      "chi": "火焰方尖碑",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_fireblaze_obelysk_desc",
+      "eng": "Summon Dervish\nYour dervishes have +1 Attack.",
+      "chi": "苦行僧召集\n友方苦行僧获得 +1/+0 。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_imperial_mechanyst_name",
+      "eng": "Imperial Mechanyst",
+      "chi": "帝国机械师",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_imperial_mechanyst_desc",
+      "eng": "Opening Gambit: Repair all of your artifacts to full durability.",
+      "chi": "登场：将你的将领装备的神器修复所有耐久。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_orb_weaver_name",
+      "eng": "Orb Weaver",
+      "chi": "灵珠织匠",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_orb_weaver_desc",
+      "eng": "Opening Gambit: Summon a copy of this minion on a nearby space.",
+      "chi": "登场：在相邻位置召唤一个此随从的复制。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_portal_guardian_name",
+      "eng": "Portal Guardian",
+      "chi": "城门护卫",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_portal_guardian_desc",
+      "eng": "Frenzy\nWhenever you summon a minion, this minion gains +1 Attack.",
+      "chi": "狂暴\n每当你召唤一个随从，此随从获得+1/+0。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_sand_howler_name",
+      "eng": "Sand Howler",
+      "chi": "啸沙僧",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_sand_howler_desc",
+      "eng": "Cannot be targeted by enemy spells.",
+      "chi": "无法成为敌方法术的目标。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_windstorm_obelysk_name",
+      "eng": "Windstorm Obelysk",
+      "chi": "风暴方尖碑",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_windstorm_obelysk_desc",
+      "eng": "Summon Dervish\nYour dervishes have +1 Health.",
+      "chi": "苦行僧召集\n友方苦行僧获得 +0/+1 。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_mirage_master_name",
+      "eng": "Mirage Master",
+      "chi": "幻变奇兽",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_mirage_master_desc",
+      "eng": "Opening Gambit: This minion transforms into a copy of an enemy minion.",
+      "chi": "登场：将此生物变形为一个敌方随从的复制。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_wind_shrike_name",
+      "eng": "Wind Shrike",
+      "chi": "风伯劳",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_wind_shrike_desc",
+      "eng": "Flying\nDying Wish: Draw a card.",
+      "chi": "飞行\n死愿：抽一张牌。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_starfire_scarab_name",
+      "eng": "Starfire Scarab",
+      "chi": "星火圣甲虫",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_starfire_scarab_desc",
+      "eng": "Blast",
+      "chi": "轰炮",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_aymara_healer_name",
+      "eng": "Aymara Healer",
+      "chi": "艾玛拉医师",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_aymara_healer_desc",
+      "eng": "Provoke\nDying Wish: Deal 5 damage to the enemy General. Restore 5 Health to your General.",
+      "chi": "嘲讽\n死愿：对敌方将领造成5点伤害。为你的将领治疗5点生命。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_oserix_name",
+      "eng": "Oserix",
+      "chi": "奥西里斯",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_oserix_desc",
+      "eng": "Flying\nDying Wish: Equip 2 random artifacts from your deck.",
+      "chi": "飞行\n死愿：从你的牌库中装备两件随机神器。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_dervish_name",
+      "eng": "Wind Dervish",
+      "chi": "风行僧",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_dervish_desc",
+      "eng": "Rush\nEphemeral",
+      "chi": "冲锋\n骤现",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_iron_dervish_name",
+      "eng": "Iron Dervish",
+      "chi": "铁行僧",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_falcius_name",
+      "eng": "Falcius",
+      "chi": "帝皇近卫",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_falcius_desc",
+      "eng": "Opening Gambit: Your General gains +2 Attack and takes no damage this turn.",
+      "chi": "登场：你的将领这回合获得+2/+0和不会受到伤害。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_rae_name",
+      "eng": "Rae",
+      "chi": "潜沙虫",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_rae_desc",
+      "eng": "Dying Wish: Dispel the nearest enemy minion.",
+      "chi": "死愿：驱散一个距离最近的敌方随从。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_wind_slicer_name",
+      "eng": "Wind Slicer",
+      "chi": "防风师",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_wind_slicer_desc",
+      "eng": "Opening Gambit: Lower the cost of all Structure minions in your action bar by 1.",
+      "chi": "登场：使你准备栏中所有的建筑费用减少1。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_pax_name",
+      "eng": "Pax",
+      "chi": "皇家猫",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_pax_desc",
+      "eng": "Dying Wish: Summon two 2/2 Iron Dervishes nearby.",
+      "chi": "死愿：在相邻位置召唤2个铁行僧(2/2)。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_pantheran_name",
+      "eng": "Pantheran",
+      "chi": "万神殿勇士",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_pantheran_desc",
+      "eng": "Costs 0 if you've cast all three Scion's Wish spells this game.",
+      "chi": "如果你使用过子嗣的初愿，次愿，终愿，则此随从的费用变为0。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_allomancer_name",
+      "eng": "Allomancer",
+      "chi": "建筑师",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_allomancer_desc",
+      "eng": "Dying Wish: Summon a random Obelysk on this space.",
+      "chi": "死愿：所在位置召唤一个随机的方尖碑。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_nimbus_name",
+      "eng": "Nimbus",
+      "chi": "光轮",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_nimbus_desc",
+      "eng": "Whenever this minion takes damage, summon a 0/4 Soulburn Obelysk nearby.",
+      "chi": "每当此随从受到伤害时，在相邻位置召唤一个燃魂方尖碑(0/4 苦行僧召集 摧毁对此随从造成伤害的敌方随从)。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_soulburn_obelysk_name",
+      "eng": "Soulburn Obelysk",
+      "chi": "燃魂方尖碑",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_soulburn_obelysk_desc",
+      "eng": "Summon Dervish\nEnemy minions that damage this are destroyed.",
+      "chi": "苦行僧召集\n摧毁对此随从造成伤害的敌方随从。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_bloodfire_totem_name",
+      "eng": "Bloodfire Totem",
+      "chi": "血火图腾",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_bloodfire_totem_desc",
+      "eng": "At end of turn, deal 1 damage to your General.",
+      "chi": "在每个回合结束时，对你的将领造成1点伤害。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_sand_sister_name",
+      "eng": "Sand Sister Saon",
+      "chi": "沙石姐妹 索娜",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_sand_sister_desc",
+      "eng": "Your General has +1 Attack.",
+      "chi": "你的将领具有 +1/+0。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_zephyr_name",
+      "eng": "Zephyr",
+      "chi": "微风",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_unit_zephyr_desc",
+      "eng": "Blood Surge: Your General gains Frenzy this turn.",
+      "chi": "血涌：你的将领获得狂暴直到回合结束。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    }
+  ]
+}

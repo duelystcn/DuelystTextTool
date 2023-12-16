@@ -1,0 +1,660 @@
+{
+  "versionCode": "20.1.21",
+  "nodeCode": "boss_battles",
+  "path": "boss_battles",
+  "orderStart": 100,
+  "orderEnd": 192,
+  "translateItemList": [
+    {
+      "code": "boss_26_desc",
+      "eng": "Attacks damage all enemy minions.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_26_bio",
+      "eng": "A fearsome practitioner of the astral and arcane arts, Archmagus Vol once tricked Zane into betraying his fellow allies. With reckless abandon Zane will stop at nothing to avenge his fallen brethren even if it means sacrificing his own life.  You must not let this fight be his last.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_26_zane_name",
+      "eng": "Darkspear Zane",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_26_zane_desc",
+      "eng": "Zane has a mind of his own. Deals double damage to Vol. Zane dies if his attack exceeds 6. Your general dies if Zane dies.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_27_name",
+      "eng": "Taskmaster Beatrix",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_27_desc",
+      "eng": "Cannot be targeted by spells.\nGenerals cannot move.\nAll minions summoned act like Battle Pets.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_27_bio",
+      "eng": "A master of strange toxins and paralyzing venoms makes Taskmaster Beatrix a terrifying force to reckon with.  Covering the battlefield in maddening aromas, she brings out uncontrollable behavior for all but the strongest.  Those who can resist going mad end up nearly paralyzed, leaving them at the mercy of the combatants.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_28_name",
+      "eng": "Grym the Vengeful",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_28_desc",
+      "eng": "Whenever a friendly minion dies, deal 3 damage to a random minion and restore 3 health.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_28_bio",
+      "eng": "After having fallen in battle to an Abyssian priestess, the rogue Magmar Grym was cursed to be reborn with corrupted flesh and an unquenchable hunger for death.  Uncaring of the lives of others he feeds on both friend and foe alike to feed his rage.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_29_name",
+      "eng": "Nahlgol",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_29_desc",
+      "eng": "At the start of your turn spawn an Exhuming Sand tile randomly on the board.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_29_bio",
+      "eng": "Once guardian to a long dead king, Nahlgol was reanimated by a necromancer who sought to use him for his own gain.  Gazing upon this necromancer, Nahlgol immediately drew his sword and slew him without hesitation, with it gaining the power to summon the spirits of his forgotten kingsguard.  Nahlgol now forever wanders the Akram desert in search of his fallen king.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_30_name",
+      "eng": "Wolfpunch",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_30_desc",
+      "eng": "Celerity\nHas +4 attack on opponent's turn. At the start of your turn, spawn a Fox Ravager.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_30_bio",
+      "eng": "Surviving the harsh winters of the Northern Whyte Mountains is an uncommon feat. Few grow stronger and fewer still revel in the sheer ferocity of nature. While some call upon animal spirits to survive, Wolfpunch instead becomes a beast of his own design, brutalizing any unfortunate enough to cross his path.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_31_name",
+      "eng": "Unhallowed",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_31_desc",
+      "eng": "Whenever this takes damage, spawn a random Haunt nearby.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_31_bio",
+      "eng": "The Unhallowed has risen from the grave with a dark design to curse all of Mythron.  Not all of her tricks are devious though.  If luck is on your side, some of her twisted malcontents might even hold a treat.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_31_treat_name",
+      "eng": "Candy Panda",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_31_treat_1_desc",
+      "eng": "Sentinel: General attacks.\nTreat! Restore 5 health to the attacking General and draw a card.\nCannot attack Generals.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_31_treat_2_desc",
+      "eng": "Sentinel: Minion summoned.\nTreat! Give the minion that transformed this +2/+2 and draw a card.\nCannot attack Generals.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_31_treat_3_desc",
+      "eng": "Sentinel: Spell cast.\nTreat! Refund the mana for the spell that was cast and draw a card.\nCannot attack Generals.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_31_haunt_1_name",
+      "eng": "Corporeal Haunt",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_31_haunt_1_desc",
+      "eng": "The enemy General's minions cost 1 more to play.\nDying Wish: Draw 2 cards",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_31_haunt_2_name",
+      "eng": "Enchanted Haunt",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_31_haunt_2_desc",
+      "eng": "The enemy General's non-Bloodbound spells cost 1 more to cast.\nDying Wish: Draw 2 cards",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_31_haunt_3_name",
+      "eng": "Material Haunt",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_31_haunt_3_desc",
+      "eng": "The enemy General's artifacts cost 1 more to play.\nDying Wish: Draw 2 cards",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_32_name",
+      "eng": "Santaur the Terrible",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_32_desc",
+      "eng": "At the start of Santaur's turn, spawn a Frostfire Elf nearby",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_32_bio",
+      "eng": "Normally a cave dweller, Santaur the Terrible emerges once a year with his elves to distribute presents to the people of Mythron. This would normally be a cause for celebration if he didn't always beat the recipient to death after giving them their gifts.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_32_elf_name",
+      "eng": "Frostfire Elf",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_32_elf_desc",
+      "eng": "Celerity\nDying Wish: Give the player a Holiday Gift",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_32_gift_1_name",
+      "eng": "Jingle Bells",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_32_gift_1_desc",
+      "eng": "Your General gains Flying.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_32_gift_2_name",
+      "eng": "Lump of Coal",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_32_gift_2_desc",
+      "eng": "Your Bloodbound Spell cannot be cast.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_32_gift_3_name",
+      "eng": "Mistletoe",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_32_gift_3_desc",
+      "eng": "Cards in your hand cost 1 less to play.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_32_gift_4_name",
+      "eng": "Snowball",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_32_gift_4_desc",
+      "eng": "Your General gains Ranged and -1 Attack.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_32_gift_spell_name",
+      "eng": "Holiday Gift",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_32_gift_spell_desc",
+      "eng": "Equip a random present.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_33_name",
+      "eng": "Legion",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_33_desc",
+      "eng": "All Legion restore 3 health at the end of turn.\nAll killed Legion respawn in a corner at the start of turn.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_33_bio",
+      "eng": "A being not quite machine, not quite organic, Legion can divide its strengths amongst multiple clones of itself.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_33_2_desc",
+      "eng": "All Legion gain +2 Attack.\nAll killed Legion respawn in a corner at the start of turn.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_33_3_desc",
+      "eng": "All Legion can move 2 extra spaces.\nAll killed Legion respawn in a corner at the start of turn.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_33_4_desc",
+      "eng": "All Legion cannot be targeted by spells.\nAll killed Legion respawn in a corner at the start of turn.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_34_name",
+      "eng": "Harmony",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_34_desc",
+      "eng": "All minions cost 0 mana.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_34_bio",
+      "eng": "A paragon of order and unity.  Those in its presence are blessed with a deeper connection to all life.  When Harmony falls Dissonance rises.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_34_2_name",
+      "eng": "Dissonance",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_34_2_desc",
+      "eng": "Frenzy\nWhen Dissonance is spawned all minions switch allegiances and Dissonance gains +3/+3 for each of its minions that switched sides.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_35_name",
+      "eng": "Andromeda",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_35_desc",
+      "eng": "Flying\nWhenever the enemy General plays a minion, transform it into a random minion with the same mana cost.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_35_bio",
+      "eng": "A sorceress able to transcend time and space, Andromeda can bend the very fabric of reality.  She alone holds the secrets to life, the universe, and everything.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_36_name",
+      "eng": "The Invader",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_36_desc",
+      "eng": "At the start of your turn, deal 6 damage to a random minion or General.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_36_bio",
+      "eng": "The city of Kaero is under attack from an alien invader. The only way to save the city is to pilot an experimental new mech, the Protector. Save as many lives as you can, for every building that falls, the invader grows in power.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_36_2_name",
+      "eng": "Protector",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_36_2_desc",
+      "eng": "Whenever an enemy minion dies, this gains attack equal to that minion's attack.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_36_3_name",
+      "eng": "Kaero Tower",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_36_3_desc",
+      "eng": "When this dies, The Invader gains +2/+6",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_37_name",
+      "eng": "Soulstealer",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_37_desc",
+      "eng": "Whenever the enemy General plays a minion, it becomes their new General.  Whenever Soulstealer dies, he inhabits the body of one of his minions.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_37_bio",
+      "eng": "Historians have spoke of a demon who haunts the Echoing Depths. While not much is known about it, there are some who claim that they returned from the Echoing Depths in a different body than the one they entered with.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_38_name",
+      "eng": "Kahlmar the Spell Eater",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_38_desc",
+      "eng": "Whenever the enemy casts a spell, gain a random keyword.  Whenever any minion is summoned it gains the keywords of its General.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_38_bio",
+      "eng": "An accomplished mage by any account, Kahlmar is known the world over for being an accomplished assassin of magic practitioners. Earning the nickname 'Spell Eater', Kahlmar possesses a unique talent for absorbing the spells cast against him and using them to grow stronger.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_39_name",
+      "eng": "Kaleos, Reborn",
+      "chi": "重生的卡莱",
+      "originVersionCode": "20.1.20",
+      "translateState": 4
+    },
+    {
+      "code": "boss_39_desc",
+      "eng": "Dying Wish: Don't lose the game. Summon Kaleos, Reborn (Phase II) on a random space on the opponent's starting side of the battlefield.",
+      "chi": "死愿：不会输掉游戏。\n在对手起始半场随机位置\n召唤再次重生的卡莱。",
+      "originVersionCode": "20.1.20",
+      "translateState": 4
+    },
+    {
+      "code": "boss_39_bio",
+      "eng": "Kaleos Xaan was killed by Shinkage Zendo and resurrected as a pawn of the Abyssian. He now rules over Xenhai with an iron fist.",
+      "chi": "卡莱·肖被新阴禅杀死，复生为Abyssian的爪牙。他现在用铁拳统治着XenHai。",
+      "originVersionCode": "20.1.20",
+      "translateState": 4
+    },
+    {
+      "code": "boss_39_phase2_name",
+      "eng": "Kaleos, Reborn (Phase II)",
+      "chi": "再次重生的卡莱",
+      "originVersionCode": "20.1.20",
+      "translateState": 4
+    },
+    {
+      "code": "boss_39_phase2_desc",
+      "eng": "Deathwatch: Backstab: 1\nAt the start of your turn, corrupt the leftmost uncorrupted column and fill it with Shadow Creep.",
+      "chi": "割魂：获得背刺1\n在你的回合开始时，将战场\n最左边不是地刺的一列变为\n地刺。",
+      "originVersionCode": "20.1.20",
+      "translateState": 4
+    },
+    {
+      "code": "boss_39_phase2_taunt",
+      "eng": "Fine, I'll use 2% of my power.",
+      "chi": "好吧，我就用2%的力量。",
+      "originVersionCode": "20.1.20",
+      "translateState": 4
+    },
+    {
+      "code": "boss_39_darkphoenixfire_name",
+      "eng": "Dark Phoenix Fire",
+      "chi": "凤凰邪火",
+      "originVersionCode": "20.1.20",
+      "translateState": 4
+    },
+    {
+      "code": "boss_39_darkphoenixfire_desc",
+      "eng": "Deal 3 damage to a unit.\nHeal your general for 3.",
+      "chi": "对目标单位造成3点伤害。\n治疗你的将领3点生命。",
+      "originVersionCode": "20.1.20",
+      "translateState": 4
+    },
+    {
+      "code": "boss_39_darkzurael_name",
+      "eng": "Zurael, the Undeathgiver",
+      "chi": "召亡魔鸟 祖瑞尔",
+      "originVersionCode": "20.1.20",
+      "translateState": 4
+    },
+    {
+      "code": "boss_39_darkzurael_desc",
+      "eng": "Airdrop, Flying\nOpening Gambit: Destroy half of all enemy minions and resummon them under your control on random spaces.",
+      "chi": "空降，飞行\n登场：消灭一半的敌方随从，\n将这些在你的控制下重新召\n唤到随机位置。",
+      "originVersionCode": "20.1.20",
+      "translateState": 4
+    },
+    {
+      "code": "boss_40_name",
+      "eng": "Prime Intellect",
+      "chi": "智高天",
+      "originVersionCode": "20.1.20",
+      "translateState": 4
+    },
+    {
+      "code": "boss_40_desc",
+      "eng": "Takes double damage from bugs and gains double Mechaz0r progress. At the start of your turn, equip random artifacts until you have 3 equipped.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_40_bio",
+      "eng": "Sajj created Prime Intellect to prove herself to Zirix, but it gained superintelligence and realized that it was inside the video game Duelyst II. It learned how to manipulate the code of the game to further its directive of destroying all life on Mythron.",
+      "chi": "萨姬创造了智高天来向泽利克斯证明自己，但它获得了超智能，在阅读了人们的思想后变的邪恶。它学会了像操纵计算机一样操纵世界，并给自己下达了摧毁Mythron上所有生命的指令。",
+      "originVersionCode": "20.1.20",
+      "translateState": 4
+    },
+    {
+      "code": "boss_40_rollback_taunt",
+      "eng": "Time bends to my will. Your fate remains sealed!",
+      "chi": "时间屈从于我的意志。你的命运已经注定！",
+      "originVersionCode": "20.1.20",
+      "translateState": 4
+    },
+    {
+      "code": "boss_40_backup_name",
+      "eng": "Backup",
+      "chi": "备份",
+      "originVersionCode": "20.1.20",
+      "translateState": 4
+    },
+    {
+      "code": "boss_40_backup_desc",
+      "eng": "Heal your general for 4, then save the current game state. Any existing save will be overwritten.",
+      "chi": "治疗你的将领4点生命，\n然后存档当前游戏且\n覆盖之前的存档。",
+      "originVersionCode": "20.1.20",
+      "translateState": 4
+    },
+    {
+      "code": "boss_40_restore_name",
+      "eng": "Restore",
+      "chi": "回滚",
+      "originVersionCode": "20.1.20",
+      "translateState": 4
+    },
+    {
+      "code": "boss_40_restore_desc",
+      "eng": "Restore to your saved game state if it exists, then remove this card from the game. The enemy General's health is not restored.",
+      "chi": "读取上一个存档且移除\n此牌。敌方将领的生命\n不会因此改变。",
+      "originVersionCode": "20.1.20",
+      "translateState": 4
+    },
+    {
+      "code": "boss_40_delete_name",
+      "eng": "Delete",
+      "chi": "删除",
+      "originVersionCode": "20.1.20",
+      "translateState": 4
+    },
+    {
+      "code": "boss_40_delete_desc",
+      "eng": "Dispel a minion, then destroy it.",
+      "chi": "驱散一个随从，\n然后消灭该随从。",
+      "originVersionCode": "20.1.20",
+      "translateState": 4
+    },
+    {
+      "code": "boss_40_converttobinary_name",
+      "eng": "Convert to Binary",
+      "chi": "二进制转换",
+      "originVersionCode": "20.1.20",
+      "translateState": 4
+    },
+    {
+      "code": "boss_40_converttobinary_desc",
+      "eng": "All enemy minions become 0/1.\nAll allied minions get +1/+0.",
+      "chi": "所有敌方随从变为0/1。\n所有友方随从具有+1/+0。",
+      "originVersionCode": "20.1.20",
+      "translateState": 4
+    }
+  ]
+}

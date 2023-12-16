@@ -1,0 +1,149 @@
+{
+  "versionCode": "20.1.11",
+  "nodeCode": "mystery_crates",
+  "path": "mystery_crates",
+  "orderStart": 0,
+  "orderEnd": 19,
+  "translateItemList": [
+    {
+      "code": "crate_type_label",
+      "eng": "{{crate_type}} Crate",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "mystery_crate_label",
+      "eng": "Mystery Crate",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "mystery_crate_name_plural",
+      "eng": "Mystery Crates",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "mystery_crate_screen_instructions",
+      "eng": "Select a crate to get started",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "unlock_button_label",
+      "eng": "Unlock",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "continue_button_label",
+      "eng": "Open",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "buy_button_label",
+      "eng": "Buy",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "get_keys_label",
+      "eng": "Get Keys",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "no_crates_of_type_warning",
+      "eng": "You don't have any {{crate_type}} Crates!",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "key_count_label",
+      "eng": "You have {{count}} {{crate_type}} Key",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "key_count_label_plural",
+      "eng": "You have {{count}} {{crate_type}} Keys",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "gift_crate_adjective",
+      "eng": "Gift",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "boss_crate_adjective",
+      "eng": "Boss",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "crate_expires_in_label",
+      "eng": "expires in",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "frostfire_adjective",
+      "eng": "Frostfire",
+      "chi": "霜火",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "frostfire_promo_text",
+      "eng": "1 Core Set Orb, Spirit,",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "frostfire_promo_text2",
+      "eng": "and a Frostfire cosmetic!",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "frostfire_premium_adjective",
+      "eng": "Premium Frostfire",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "frostfire_premium_promo_text",
+      "eng": "2 Immortal Orbs, Spirit,",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "frostfire_premium_promo_text2",
+      "eng": "and a Frostfire cosmetic!",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    }
+  ]
+}

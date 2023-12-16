@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.09",
+  "nodeCode": "cards",
+  "path": "cards",
+  "orderStart": 1800,
+  "orderEnd": 1899,
+  "translateItemList": [
+    {
+      "code": "faction_6_unit_ancient_grove_desc",
+      "eng": "Provoke\nOpening Gambit: Your minions gain \"Dying Wish: Summon a 1/1 Treant with Provoke\".",
+      "chi": "嘲讽\n登场：所有友方随从获得\\\"死愿：在当前位置召唤一个树人(1/1 嘲讽)\"。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_winter_maerid_name",
+      "eng": "Winter Maerid",
+      "chi": "冬妖",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_whyte_drake_name",
+      "eng": "Whyte Drake",
+      "chi": "白龙",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_whyte_drake_desc",
+      "eng": "Flying",
+      "chi": "飞行",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_seismic_elemental_name",
+      "eng": "Seismic Elemental",
+      "chi": "地动元素",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_fox_ravager_name",
+      "eng": "Fox Ravager",
+      "chi": "掠形狐",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_ghost_wolf_name",
+      "eng": "Ghost Wolf",
+      "chi": "妖狼",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_ice_drake_name",
+      "eng": "Ice Drake",
+      "chi": "冰龙",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_bonechill_barrier_name",
+      "eng": "Bonechill Barrier",
+      "chi": "刺骨栏栅",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_bonechill_barrier_desc",
+      "eng": "Wall\nMinions next to this minion that attack it are Stunned.",
+      "chi": "墙\n眩晕对此随从造成伤害且相邻的随从。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_blazing_spines_name",
+      "eng": "Blazing Spines",
+      "chi": "闪光冰锥",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_blazing_spines_desc",
+      "eng": "Wall",
+      "chi": "墙",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_gravity_well_name",
+      "eng": "Gravity Well",
+      "chi": "重力井",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_gravity_well_desc",
+      "eng": "Wall\nProvoke",
+      "chi": "墙\n嘲讽",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_treant_name",
+      "eng": "Treant",
+      "chi": "树人",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_treant_desc",
+      "eng": "Provoke",
+      "chi": "嘲讽",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_snow_rippler_name",
+      "eng": "Snow Rippler",
+      "chi": "戏雪精灵",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_snow_rippler_desc",
+      "eng": "Infiltrate: Whenever this minion damages a General, put a random Battle Pet into your action bar.",
+      "chi": "渗透：每当此随从对将领造成伤害时，在你的准备栏中放入一张随机战宠。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_icy_name",
+      "eng": "Icy",
+      "chi": "冰爪鼠",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_icy_desc",
+      "eng": "Opening Gambit: Stun a nearby enemy.",
+      "chi": "登场：眩晕一个相邻敌方单位。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_huldra_name",
+      "eng": "Huldra",
+      "chi": "幻妖",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_huldra_desc",
+      "eng": "Opening Gambit: Give a friendly Vespyr minion Celerity.",
+      "chi": "登场：使一个友方霜灵获得迅捷。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_bur_name",
+      "eng": "Bur",
+      "chi": "肥雪鸮",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_bur_desc",
+      "eng": "When this minion survives damage, transform it into a different Battle Pet.",
+      "chi": "当此随从受到伤害且存活时，将其变形为另一个随机的战宠。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_iceblade_dryad_name",
+      "eng": "Iceblade Dryad",
+      "chi": "冰镰树妖",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_iceblade_dryad_desc",
+      "eng": "Opening Gambit: Give a friendly Vespyr minion +1/+1 and Flying.",
+      "chi": "登场：使一个友方霜灵获得+1/+1和飞行。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_frostiva_name",
+      "eng": "Frostiva",
+      "chi": "霜冻大师",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_frostiva_desc",
+      "eng": "Forcefield\nWhenever this minion attacks or is attacked, summon a 3/3 Vespyr Night Howler nearby.",
+      "chi": "力场\n每当此随从攻击或被攻击时，在相邻位置召唤一个夜嚎狼(3/3 霜灵)。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_night_howler_name",
+      "eng": "Night Howler",
+      "chi": "夜嚎狼",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_wind_sister_name",
+      "eng": "Wind Sister Maia",
+      "chi": "寒风姐妹 玛娅",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_wind_sister_desc",
+      "eng": "Friendly minions with Infiltrate have +1/+1.",
+      "chi": "友方具有渗透的随从具有 +1/+1。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_myriad_name",
+      "eng": "Myriad",
+      "chi": "六尾妖鹿",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_myriad_desc",
+      "eng": "Blood Surge: Summon a random Wall nearby.",
+      "chi": "血涌：在相邻位置召唤一个随机的墙。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_sleet_dasher_name",
+      "eng": "Sleet Dasher",
+      "chi": "冰晶扑击兽",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_sleet_dasher_desc",
+      "eng": "Whenever this minion destroys an enemy, reactivate it.",
+      "chi": "每当此随从摧毁一个敌方单位时，激活此随从。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_grandmaster_embla_name",
+      "eng": "Grandmaster Embla",
+      "chi": "宗师 恩布拉",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_grandmaster_embla_desc",
+      "eng": "Opening Gambit: Surround the enemy General with random Walls.",
+      "chi": "登场：在与敌方将领相邻的所有位置召唤随机墙。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_kindred_hunter_name",
+      "eng": "Kindred Hunter",
+      "chi": "族群猎手",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_kindred_hunter_desc",
+      "eng": "Bond: Summon a 3/3 Night Howler on a random nearby space.",
+      "chi": "链接：在相邻随机位置召唤一个夜嚎狼(3/3 霜灵)。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_circulus_name",
+      "eng": "Circulus",
+      "chi": "冰环法师",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_circulus_desc",
+      "eng": "Whenever you cast a spell, add a 2/1 Illusion to your action bar.",
+      "chi": "每当你使用一张法术时，在你的准备栏放入一张幻象(2/1 奥术师)。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_ghost_seraphim_name",
+      "eng": "Ghost Seraphim",
+      "chi": "魂翼天使",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_ghost_seraphim_desc",
+      "eng": "The first spell you cast each turn costs 5 less.",
+      "chi": "你每回合使用的第一张法术减少5点费用。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_freeblade_name",
+      "eng": "Freeblade",
+      "chi": "游荡剑客",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_freeblade_desc",
+      "eng": "Sentinel: Minion summoned.\nThis switches positions with the minion that transformed it.",
+      "chi": "守望：对手召唤一个随从。\n此随从与触发守望的随从交换位置。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_crystal_arbiter_name",
+      "eng": "Crystal Arbiter",
+      "chi": "水晶仲裁者",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_crystal_arbiter_desc",
+      "eng": "This minion has +3 Attack on your opponent's turn.",
+      "chi": "在对手的回合此随从具有 +3/+0。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_drake_dowager_name",
+      "eng": "Drake Dowager",
+      "chi": "白龙遗孀",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_drake_dowager_desc",
+      "eng": "Sentinel: General attacks.\nRanged\nWhenever this attacks, summon a 4/4 Flying Drake nearby.",
+      "chi": "守望：敌方将领进行攻击。\n远程\n每当此随从进行攻击，在相邻位置召唤一个白龙(4/4 飞行)。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_moonlit_basilysk_name",
+      "eng": "Moonlit Basilysk",
+      "chi": "月耀毒龙",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_moonlit_basilysk_desc",
+      "eng": "Sentinel: Spell cast.\nWhenever your opponent casts a spell, this minion gains +3/+3.",
+      "chi": "守望：对手使用一张法术。\n每当你的对手使用一张法术时，此随从获得+3/+3。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_shivers_name",
+      "eng": "Shivers",
+      "chi": "寒毒蜂",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_shivers_desc",
+      "eng": "Flying\nInfiltrate: When this minion attacks, permanently gain 1 mana crystal.",
+      "chi": "飞行\n渗透：每当此随从攻击时，你获得一个法力水晶。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_matron_elveiti_name",
+      "eng": "Matron Elveiti",
+      "chi": "埃尔韦蒂夫人",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_matron_elveiti_desc",
+      "eng": "Minions cannot attack your General.",
+      "chi": "随从不能攻击你的将领。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_watchful_sentinel_name",
+      "eng": "Watchful Sentinel",
+      "chi": "守望哨兵",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_watchful_sentinel_desc",
+      "eng": "Sentinel: This transforms into a powerful minion if its hidden condition is met.",
+      "chi": "守望：当此随从的隐秘条件被满足时，将会变成一个强大的随从。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_luminous_charge_name",
+      "eng": "Luminous Charge",
+      "chi": "溢电流光",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_luminous_charge_desc",
+      "eng": "Dying Wish: Deal 2 damage to nearby enemies.",
+      "chi": "死愿：对相邻的敌方单位造成2点伤害。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_cryoblade_name",
+      "eng": "Cryoblade",
+      "chi": "霜冻剑客",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_cryoblade_desc",
+      "eng": "Deals double damage to Stunned enemies.",
+      "chi": "对被眩晕的随从造成双倍伤害。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_protosensor_name",
+      "eng": "Protosensor",
+      "chi": "极地原住民",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_protosensor_desc",
+      "eng": "Build: (1).\nAirdrop",
+      "chi": "生产(1)\n空降",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_echo_deliverant_name",
+      "eng": "Echo Deliverant",
+      "chi": "回音制造机",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_echo_deliverant_desc",
+      "eng": "Whenever you summon another Mech, summon a copy of it nearby.",
+      "chi": "每当你召唤一个其他的机兵时，在相邻位置召唤一个该机兵的复制。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_hydrogarm_name",
+      "eng": "Hydrogarm",
+      "chi": "避水晶角兽",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_hydrogarm_desc",
+      "eng": "Blood Surge: Deal 1 damage to enemy minions in this row and Stun them.",
+      "chi": "血涌：对所在行的所有敌方随从造成1点伤害并眩晕。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_denadoro_name",
+      "eng": "Denadoro",
+      "chi": "德纳多罗",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_denadoro_desc",
+      "eng": "Your minions are always infiltrated.",
+      "chi": "你的随从始终处于渗透状态。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_draugar_eyolith_name",
+      "eng": "Draugar Eyolith",
+      "chi": "远古化身",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_draugar_eyolith_desc",
+      "eng": "Build: (2).\nWhile this is building or on the battlefield, enemy minions and Generals can only move 1 space.",
+      "chi": "生产(2)\n当此随从被产生时或此随从在战场上时，敌方单位只能移动一格。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_ursaplomb_name",
+      "eng": "Ursaplomb",
+      "chi": "大懒熊",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_ursaplomb_desc",
+      "eng": "Will not counterattack.",
+      "chi": "不会反击。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_bloodtear_alchemist_name",
+      "eng": "Bloodtear Alchemist",
+      "chi": "血泪炼金术士",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_bloodtear_alchemist_desc",
+      "eng": "Opening Gambit: Deal 1 damage to an enemy.",
+      "chi": "登场：对一个敌方单位造成1点伤害。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_dragonlark_name",
+      "eng": "Dragonlark",
+      "chi": "龙雀",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_dragonlark_desc",
+      "eng": "Flying",
+      "chi": "飞行",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_dreamgazer_name",
+      "eng": "Dreamgazer",
+      "chi": "窥梦灵",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_dreamgazer_desc",
+      "eng": "When you replace this card, summon it on a random nearby space. Your General takes 2 damage.",
+      "chi": "当你替换此牌时，将其召唤在你的将领相邻的随机位置，并对你的将领造成2点伤害。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_helm_of_mechaz0r_name",
+      "eng": "Helm of MECHAZ0R",
+      "chi": "原型机的中枢",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_helm_of_mechaz0r_desc",
+      "eng": "Opening Gambit: Progresses MECHAZ0R build by +20%.",
+      "chi": "登场：使你的决战兵器组装进度提高20%。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_komodo_charger_name",
+      "eng": "Komodo Charger",
+      "chi": "鲁莽科摩多",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_planar_scout_name",
+      "eng": "Planar Scout",
+      "chi": "相位斥候",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_planar_scout_desc",
+      "eng": "Airdrop",
+      "chi": "空降",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_prophet_of_the_white_palm_name",
+      "eng": "Prophet of the White Palm",
+      "chi": "白掌先知",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_prophet_of_the_white_palm_desc",
+      "eng": "Opening Gambit: Prevent ALL spell damage until your next turn.",
+      "chi": "登场：防止所有法术造成的伤害直到你的下个回合开始。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_swamp_entangler_name",
+      "eng": "Swamp Entangler",
+      "chi": "沼泽缠须兽",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_swamp_entangler_desc",
+      "eng": "Provoke",
+      "chi": "嘲讽",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_zyx_name",
+      "eng": "Zyx",
+      "chi": "鬼灵精",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_zyx_desc",
+      "eng": "Opening Gambit: Summon a copy of this minion on a random nearby space.",
+      "chi": "登场：在相邻随机位置召唤一个此随从的复制。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_aethermaster_name",
+      "eng": "Aethermaster",
+      "chi": "以太法师",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_aethermaster_desc",
+      "eng": "You may replace an additional card each turn.",
+      "chi": "你每回合可以额外替换一张牌。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_araki_headhunter_name",
+      "eng": "Araki Headhunter",
+      "chi": "荒谷猎头者",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_araki_headhunter_desc",
+      "eng": "Whenever you summon a minion with Opening Gambit from your action bar, gain +2 Attack.",
+      "chi": "每当你召唤一个具有登场异能的随从时，此随从获得+2/+0。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_azure_herald_name",
+      "eng": "Azure Herald",
+      "chi": "蔚蓝先知",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_azure_herald_desc",
+      "eng": "Opening Gambit: Restore 3 Health to your General.",
+      "chi": "登场：为你的将领治疗3点生命。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_azure_horn_shaman_name",
+      "eng": "Azure Horn Shaman",
+      "chi": "蔚蓝尖角萨满",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_azure_horn_shaman_desc",
+      "eng": "Dying Wish: Give +4 Health to friendly minions around it.",
+      "chi": "死愿：使相邻的友方随从获得 +0/+4。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_bluetip_scorpion_name",
+      "eng": "Bluetip Scorpion",
+      "chi": "蓝勾蝎",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_bluetip_scorpion_desc",
+      "eng": "Deals double damage to minions.",
+      "chi": "此随从对随从造成的伤害翻倍。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    }
+  ]
+}

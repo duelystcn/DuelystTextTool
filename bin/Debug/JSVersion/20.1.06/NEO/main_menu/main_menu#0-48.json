@@ -1,0 +1,352 @@
+{
+  "versionCode": "20.1.06",
+  "nodeCode": "main_menu",
+  "path": "main_menu",
+  "orderStart": 0,
+  "orderEnd": 48,
+  "translateItemList": [
+    {
+      "code": "menu_item_play",
+      "eng": "Play",
+      "chi": "战斗",
+      "originVersionCode": "20.1.05",
+      "translateState": 4
+    },
+    {
+      "code": "menu_item_watch",
+      "eng": "Watch",
+      "chi": "观看",
+      "originVersionCode": "20.1.05",
+      "translateState": 4
+    },
+    {
+      "code": "menu_item_watch_tooltip",
+      "eng": "Watch top matches across each division.",
+      "chi": "观看每个段位的比赛。",
+      "originVersionCode": "20.1.05",
+      "translateState": 4
+    },
+    {
+      "code": "menu_item_collection",
+      "eng": "Collection",
+      "chi": "收藏",
+      "originVersionCode": "20.1.05",
+      "translateState": 4
+    },
+    {
+      "code": "menu_item_collection_tooltip",
+      "eng": "View your cards or build a deck.",
+      "chi": "查看你的牌和创建牌组。",
+      "originVersionCode": "20.1.05",
+      "translateState": 4
+    },
+    {
+      "code": "menu_item_crates",
+      "eng": "Mystery Crates",
+      "chi": "",
+      "originVersionCode": "20.1.06",
+      "translateState": 0
+    },
+    {
+      "code": "menu_item_crates_tooltip",
+      "eng": "View and unlock your crates.",
+      "chi": "",
+      "originVersionCode": "20.1.06",
+      "translateState": 0
+    },
+    {
+      "code": "menu_item_crates_can_open_badge",
+      "eng": "Open your {{crate_name}} Crate!",
+      "chi": "",
+      "originVersionCode": "20.1.06",
+      "translateState": 0
+    },
+    {
+      "code": "menu_item_codex",
+      "eng": "Codex",
+      "chi": "典籍",
+      "originVersionCode": "20.1.05",
+      "translateState": 4
+    },
+    {
+      "code": "menu_item_codex_tooltip",
+      "eng": "Explore the lore and world of Duelyst.",
+      "chi": "探索 Duelyst 的传说和世界。",
+      "originVersionCode": "20.1.05",
+      "translateState": 4
+    },
+    {
+      "code": "menu_item_quests",
+      "eng": "Quests",
+      "chi": "任务",
+      "originVersionCode": "20.1.05",
+      "translateState": 4
+    },
+    {
+      "code": "menu_item_shop",
+      "eng": "Shop",
+      "chi": "商店",
+      "originVersionCode": "20.1.05",
+      "translateState": 4
+    },
+    {
+      "code": "menu_item_shop_tooltip",
+      "eng": "Purchase cosmetics for your collection!",
+      "chi": "",
+      "originVersionCode": "20.1.06",
+      "translateState": 0
+    },
+    {
+      "code": "menu_item_profile",
+      "eng": "Profile",
+      "chi": "历程",
+      "originVersionCode": "20.1.05",
+      "translateState": 4
+    },
+    {
+      "code": "menu_item_profile_tooltip",
+      "eng": "Check out your profile",
+      "chi": "",
+      "originVersionCode": "20.1.06",
+      "translateState": 0
+    },
+    {
+      "code": "menu_item_buddy_list",
+      "eng": "Friends",
+      "chi": "好友",
+      "originVersionCode": "20.1.05",
+      "translateState": 4
+    },
+    {
+      "code": "menu_item_settings",
+      "eng": "Settings",
+      "chi": "设置",
+      "originVersionCode": "20.1.05",
+      "translateState": 4
+    },
+    {
+      "code": "gold_currency_indicator_tooptip",
+      "eng": "Buy Spirit Orbs with gold.",
+      "chi": "使用金币购买卡包。",
+      "originVersionCode": "20.1.05",
+      "translateState": 4
+    },
+    {
+      "code": "premium_currency_indicator_tooltip",
+      "eng": "Buy anything in the Shop with Shards.",
+      "chi": "",
+      "originVersionCode": "20.1.06",
+      "translateState": 0
+    },
+    {
+      "code": "new_shop_special_available_popover",
+      "eng": "New Special",
+      "chi": "新特价",
+      "originVersionCode": "20.1.05",
+      "translateState": 4
+    },
+    {
+      "code": "play_mode_practice_name",
+      "eng": "Practice",
+      "chi": "练习模式",
+      "originVersionCode": "20.1.05",
+      "translateState": 4
+    },
+    {
+      "code": "play_mode_practice_description",
+      "eng": "Hone your skills against computer controlled opponents.",
+      "chi": "和AI敌人战斗来磨练你的技巧。",
+      "originVersionCode": "20.1.05",
+      "translateState": 4
+    },
+    {
+      "code": "play_mode_ranked_name",
+      "eng": "Season Ladder",
+      "chi": "天梯模式",
+      "originVersionCode": "20.1.05",
+      "translateState": 4
+    },
+    {
+      "code": "play_mode_ranked_description",
+      "eng": "Rank up each month to earn prizes at the end of the season!",
+      "chi": "每个月度赛季中，排名越靠前奖励越丰厚！",
+      "originVersionCode": "20.1.05",
+      "translateState": 4
+    },
+    {
+      "code": "play_mode_solo_challenges_name",
+      "eng": "Solo Challenges",
+      "chi": "单人挑战",
+      "originVersionCode": "20.1.05",
+      "translateState": 4
+    },
+    {
+      "code": "play_mode_solo_challenges_description",
+      "eng": "Learn mechanics, and earn rewards!",
+      "chi": "学习技巧，获取奖励！",
+      "originVersionCode": "20.1.05",
+      "translateState": 4
+    },
+    {
+      "code": "play_mode_gauntlet_name",
+      "eng": "The Gauntlet",
+      "chi": "竞技场",
+      "originVersionCode": "20.1.05",
+      "translateState": 4
+    },
+    {
+      "code": "play_mode_gauntlet_description",
+      "eng": "Compete in Draft Mode. The longer you last, the better the rewards!",
+      "chi": "选择卡牌来完成牌组，你坚持的越久奖励越多！",
+      "originVersionCode": "20.1.05",
+      "translateState": 4
+    },
+    {
+      "code": "play_mode_rift_name",
+      "eng": "The Rift",
+      "chi": "裂隙之战",
+      "originVersionCode": "20.1.05",
+      "translateState": 4
+    },
+    {
+      "code": "play_mode_rift_description",
+      "eng": "Compete with cross-faction decks you can upgrade and evolve!",
+      "chi": "可以升级和进化的跨阵营套牌！",
+      "originVersionCode": "20.1.05",
+      "translateState": 4
+    },
+    {
+      "code": "play_mode_festive_name",
+      "eng": "Frostfire Mode",
+      "chi": "霜火之战",
+      "originVersionCode": "20.1.05",
+      "translateState": 4
+    },
+    {
+      "code": "play_mode_festive_description",
+      "eng": "A special game mode for the Frostfire Festival!",
+      "chi": "霜火祭的特殊游戏模式！",
+      "originVersionCode": "20.1.05",
+      "translateState": 4
+    },
+    {
+      "code": "deck_select_tab_starters",
+      "eng": "Starter Decks",
+      "chi": "新手牌组",
+      "originVersionCode": "20.1.05",
+      "translateState": 4
+    },
+    {
+      "code": "deck_select_tab_custom_decks",
+      "eng": "Custom Decks",
+      "chi": "自建牌组",
+      "originVersionCode": "20.1.05",
+      "translateState": 4
+    },
+    {
+      "code": "deck_select_tab_legacy_decks",
+      "eng": "Legacy Decks",
+      "chi": "传奇牌组",
+      "originVersionCode": "20.1.05",
+      "translateState": 4
+    },
+    {
+      "code": "deck_select_tab_rift_decks",
+      "eng": "Rift Decks",
+      "chi": "裂隙牌组",
+      "originVersionCode": "20.1.05",
+      "translateState": 4
+    },
+    {
+      "code": "deck_select_tab_gauntlet_decks",
+      "eng": "Gauntlet Decks",
+      "chi": "竞技场牌组",
+      "originVersionCode": "20.1.05",
+      "translateState": 4
+    },
+    {
+      "code": "select_battle_map_button_label",
+      "eng": "Select Battle Map",
+      "chi": "设置战场",
+      "originVersionCode": "20.1.05",
+      "translateState": 4
+    },
+    {
+      "code": "deck_select_play_ranked_button_label",
+      "eng": "Play",
+      "chi": "战斗",
+      "originVersionCode": "20.1.05",
+      "translateState": 4
+    },
+    {
+      "code": "deck_select_play_unranked_button_label",
+      "eng": "Play Unranked",
+      "chi": "娱乐模式",
+      "originVersionCode": "20.1.05",
+      "translateState": 4
+    },
+    {
+      "code": "deck_select_play_friendly_button_label",
+      "eng": "Play Friendly",
+      "chi": "友情切磋",
+      "originVersionCode": "20.1.05",
+      "translateState": 4
+    },
+    {
+      "code": "deck_select_play_practice_button_label",
+      "eng": "Play Practice",
+      "chi": "练习模式",
+      "originVersionCode": "20.1.05",
+      "translateState": 4
+    },
+    {
+      "code": "deck_select_empty_message",
+      "eng": "No Custom Decks Found",
+      "chi": "找不到自建牌组",
+      "originVersionCode": "20.1.05",
+      "translateState": 4
+    },
+    {
+      "code": "deck_select_empty_instructions",
+      "eng": "To create a custom deck, head over to your \"Collection\" on the main menu.",
+      "chi": "要创建自定义牌组，请在主菜单的收藏里创建。",
+      "originVersionCode": "20.1.05",
+      "translateState": 4
+    },
+    {
+      "code": "deck_select_faction_locked",
+      "eng": "LOCKED - defeat in practice!",
+      "chi": "锁定-在练习中失败！",
+      "originVersionCode": "20.1.05",
+      "translateState": 4
+    },
+    {
+      "code": "practice_mode_choose_opponent",
+      "eng": "Choose Your Opponent",
+      "chi": "选择你的对手",
+      "originVersionCode": "20.1.05",
+      "translateState": 4
+    },
+    {
+      "code": "practice_mode_recommended_opponent",
+      "eng": "",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 4
+    },
+    {
+      "code": "booster_opening_open_all_orbs_button_label",
+      "eng": "Open All Orbs",
+      "chi": "打开所有卡包",
+      "originVersionCode": "20.1.05",
+      "translateState": 4
+    },
+    {
+      "code": "booster_opening_get_more_orbs_button_label",
+      "eng": "Get More Orbs",
+      "chi": "获取更多卡包",
+      "originVersionCode": "20.1.05",
+      "translateState": 4
+    }
+  ]
+}

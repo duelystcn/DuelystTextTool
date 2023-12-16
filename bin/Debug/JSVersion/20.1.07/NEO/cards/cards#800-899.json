@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.07",
+  "nodeCode": "cards",
+  "path": "cards",
+  "orderStart": 800,
+  "orderEnd": 899,
+  "translateItemList": [
+    {
+      "code": "faction_1_spell_call_to_arms_name",
+      "eng": "Call to Arms",
+      "chi": "武装集结",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_call_to_arms_desc",
+      "eng": "Your General gains, \"Minions you summon nearby gain +3/+3.\"",
+      "chi": "你的将领获得\"你召唤在此将领相邻位置的随从获得 +3/+3\"。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_conscript_name",
+      "eng": "Conscript",
+      "chi": "征召",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_conscript_desc",
+      "eng": "Summon a 1/2 Crestfallen with Zeal: Provoke in front of your General.",
+      "chi": "在你的将领正前方召唤一个新兵(1/2 热诚：嘲讽)。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_artifact_skywind_glaives_name",
+      "eng": "Skywind Glaives",
+      "chi": "天风环刃",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_artifact_skywind_glaives_description",
+      "eng": "Friendly minions nearby your General gain +2 Attack.",
+      "chi": "与你将领相邻的友方随从具有+2/+0。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_artifact_sunstone_bracers_name",
+      "eng": "Sunstone Bracers",
+      "chi": "阳石护腕",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_artifact_sunstone_bracers_description",
+      "eng": "Your General gains +1 Attack.",
+      "chi": "你的将领具有 +1/+0。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_artifact_arclyte_regalia_name",
+      "eng": "Arclyte Regalia",
+      "chi": "阿克莱盛装",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_artifact_arclyte_regalia_description",
+      "eng": "Your General gains +2 Attack. The first time your General takes damage each turn, prevent 2 of it.",
+      "chi": "你的将领具有 +2/+0。你的将领每回合第一次受到伤害时减免2点。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_artifact_dawns_eye_name",
+      "eng": "Dawn's Eye",
+      "chi": "破晓之眼",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_artifact_dawns_eye_description",
+      "eng": "Your General gains +4 Attack. At the end of your turn, repair all of your artifacts to full durability.",
+      "chi": "你的将领具有 +4/+0。\n在你的回合结束时，使你装备的神器修复全部耐久。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_artifact_gold_vitriol_name",
+      "eng": "Gold Vitriol",
+      "chi": "金液",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_artifact_gold_vitriol_description",
+      "eng": "Whenever anything is healed, deal 2 damage to a random enemy.",
+      "chi": "每当一个单位治疗时，对一个随机敌方单位造成2点伤害。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_artifact_halo_bulwark_name",
+      "eng": "Halo Bulwark",
+      "chi": "光环壁盾",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_artifact_halo_bulwark_desc",
+      "eng": "Friendly minions nearby your General have Forcefield.",
+      "chi": "与你将领相邻的友方随从具有力场。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_artifact_sunbond_pavise_name",
+      "eng": "Sunbond Pavise",
+      "chi": "旭日巨盾",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_artifact_sunbond_pavise_desc",
+      "eng": "Friendly minions directly above and below your General gain +2 Attack and Provoke.",
+      "chi": "位于你的将领正上方和正下方的友方随从获得 +2/+0 和嘲讽。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_argeon_name",
+      "eng": "Argeon Highmayne",
+      "chi": "阿吉恩·金鬃",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_argeon_desc",
+      "eng": "Bloodbound Spell: Give a friendly minion nearby your General +2 Attack.",
+      "chi": "血技：使一个与你将领相邻的友方随从获得 +2/+0。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_ziran_name",
+      "eng": "Zir'An Sunforge",
+      "chi": "泽尔安·铸阳",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_ziran_desc",
+      "eng": "Bloodbound Spell: Restore 3 Health to any Minion.",
+      "chi": "血技：治疗一个随从3点生命。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_brome_name",
+      "eng": "Brome Warcrest",
+      "chi": "布罗姆·战首",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_brome_desc",
+      "eng": "Bloodbound Spell: Summon a 1/2 Crestfallen with Zeal: Provoke in front of your General.",
+      "chi": "血技：在你的将领正前方召唤一个新兵(1/2 热诚：嘲讽)。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_silverguard_squire_name",
+      "eng": "Silverguard Squire",
+      "chi": "银卫侍从",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_windblade_adept_name",
+      "eng": "Windblade Adept",
+      "chi": "风刃精兵",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_windblade_adept_desc",
+      "eng": "Zeal: Gains +1 Attack",
+      "chi": "热诚：获得+1/+0。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_second_sun_name",
+      "eng": "Second Sun",
+      "chi": "伴日卫士",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_second_sun_desc",
+      "eng": "Zeal: Gains +8 Attack",
+      "chi": "热诚：获得+8/+0。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_lightchaser_name",
+      "eng": "Lightchaser",
+      "chi": "逐日鼓手",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_lightchaser_desc",
+      "eng": "Whenever anything is healed, this minion gains +1/+1.",
+      "chi": "每当一个单位被治疗时，此随从获得+2/+0。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_silverguard_knight_name",
+      "eng": "Silverguard Knight",
+      "chi": "银卫骑士",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_silverguard_knight_desc",
+      "eng": "Provoke\nZeal: Gains +2 Attack",
+      "chi": "嘲讽\n热诚：获得+2/+0。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_ironcliffe_guardian_name",
+      "eng": "Ironcliffe Guardian",
+      "chi": "铁壁守护者",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_ironcliffe_guardian_desc",
+      "eng": "Airdrop\nProvoke",
+      "chi": "空降\n嘲讽",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_elyx_name",
+      "eng": "Elyx Stormblade",
+      "chi": "风暴之刃 爱丽克斯",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_elyx_desc",
+      "eng": "Provoke\nYour minions and General may move an additional space",
+      "chi": "嘲讽\n所有友方单位可以额外移动一格。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_sunriser_name",
+      "eng": "Sunriser",
+      "chi": "唤日者",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_sunriser_desc",
+      "eng": "Whenever anything is healed, deal 2 damage to all nearby enemies.",
+      "chi": "每当一个单位被治疗时，对此随从相邻的敌方单位造成2点伤害。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_suntide_maiden_name",
+      "eng": "Suntide Maiden",
+      "chi": "日潮侍女",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_suntide_maiden_desc",
+      "eng": "Zeal: At the end of your turn, fully heal this minion.",
+      "chi": "热诚：在你的回合结束时，治愈此随从。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_arclyte_sentinel_name",
+      "eng": "Arclyte Sentinel",
+      "chi": "阿克莱哨兵",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_arclyte_sentinel_desc",
+      "eng": "Opening Gambit: Give ANY nearby minion +2 Attack, but -2 Health",
+      "chi": "登场：使目标相邻的随从获得 +2/-2。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_lysian_brawler_name",
+      "eng": "Lysian Brawler",
+      "chi": "吕西安格斗家",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_lysian_brawler_desc",
+      "eng": "Celerity",
+      "chi": "迅捷",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_sunstone_templar_name",
+      "eng": "Sunstone Templar",
+      "chi": "阳石圣殿武士",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_sunstone_templar_desc",
+      "eng": "Whenever this attacks or counterattacks, it dispels that enemy",
+      "chi": "每当此随从攻击或反击时，驱散交战的敌方单位。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_azurite_lion_name",
+      "eng": "Azurite Lion",
+      "chi": "石青狮",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_azurite_lion_desc",
+      "eng": "Celerity",
+      "chi": "迅捷",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_grandmaster_zir_name",
+      "eng": "Grandmaster Z'ir",
+      "chi": "宗师泽尔",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_grandmaster_zir_desc",
+      "eng": "When your General dies, Grandmaster Z'ir becomes your General.",
+      "chi": "当你的将领被摧毁时，长老泽尔成为你的将领。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_slo_name",
+      "eng": "Slo",
+      "chi": "光跃鼠",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_slo_desc",
+      "eng": "Provoke",
+      "chi": "嘲讽",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_sun_wisp_name",
+      "eng": "Sun Wisp",
+      "chi": "辉灵",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_sun_wisp_desc",
+      "eng": "Opening Gambit: Draw a card.",
+      "chi": "登场：抽一张牌。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_radiant_dragoon_name",
+      "eng": "Radiant Dragoon",
+      "chi": "辉光重装兵",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_radiant_dragoon_desc",
+      "eng": "At the end of your turn, give a friendly minion +1 Health.",
+      "chi": "在你的回合结束时，是一个友方随从获得 +0/+1。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_fiz_name",
+      "eng": "Fiz",
+      "chi": "幼青狮",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_fiz_desc",
+      "eng": "Opening Gambit: Restore 2 Health to anything.",
+      "chi": "登场：治疗任意单位2点生命。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_sunforge_lancer_name",
+      "eng": "Sunforge Lancer",
+      "chi": "铸阳枪兵",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_sunforge_lancer_desc",
+      "eng": "Whenever anything is healed, give your General +1 Attack.",
+      "chi": "每当一个单位被治疗时，使你的将领获得 +1/+0。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_solarius_name",
+      "eng": "Solarius",
+      "chi": "烈阳化身",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_solarius_desc",
+      "eng": "Zeal: Draw 2 additional cards at the end of your turn.",
+      "chi": "热诚：在你的回合结束时额外抽取2张牌。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_sun_sister_name",
+      "eng": "Sun Sister Sterope",
+      "chi": "烈阳姐妹 斯忒洛珀",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_sun_sister_desc",
+      "eng": "Whenever anything is healed, put a True Strike into your action bar.",
+      "chi": "每当一个单位被治疗时，在你的准备栏放入一张至真一击。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_scintilla_name",
+      "eng": "Scintilla",
+      "chi": "闪耀拳师",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_scintilla_desc",
+      "eng": "Blood Surge: Restore 3 Health to your General.",
+      "chi": "血涌：治疗你的将领3点生命。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_sunbreaker_name",
+      "eng": "Sunbreaker",
+      "chi": "烈阳碎击兵",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_sunbreaker_desc",
+      "eng": "Forcefield. Your Bloodbound Spell is Tempest.",
+      "chi": "力场\n你的血技变为风暴。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_excelsious_name",
+      "eng": "Excelsious",
+      "chi": "断钢剑圣",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_excelsious_desc",
+      "eng": "Provoke\nCelerity\nThis minion gains +1/+1 for each time you healed anything this game.",
+      "chi": "嘲讽\n迅捷\n本局游戏你每治疗一次单位，此随从就获得 +1/+1。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_warblade_name",
+      "eng": "Warblade",
+      "chi": "战刃魔像",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_warblade_desc",
+      "eng": "Bond: Other friendly minions gain +1/+1.",
+      "chi": "链接：其他友方随从获得+1/+1。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_sol_pontiff_name",
+      "eng": "Sol Pontiff",
+      "chi": "烈阳主教",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_sol_pontiff_desc",
+      "eng": "Zeal: Your Golems have +2 Attack.",
+      "chi": "热诚：你的魔像获得 +2/+0。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_peacekeeper_name",
+      "eng": "Peacekeeper",
+      "chi": "和平护卫",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_peacekeeper_desc",
+      "eng": "Airdrop, Forcefield, Frenzy, Provoke, Celerity",
+      "chi": "空降，力场，狂暴，嘲讽，迅捷",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_alabaster_titan_name",
+      "eng": "Alabaster Titan",
+      "chi": "圣洁泰坦",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_alabaster_titan_desc",
+      "eng": "Opening Gambit: If you have no spells in your deck, equip a full set of equipment.",
+      "chi": "登场：如果你的牌库里没有法术，则使你的将领装备一套神器。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_pureblade_enforcer_name",
+      "eng": "Pureblade Enforcer",
+      "chi": "光刃执法者",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_pureblade_enforcer_desc",
+      "eng": "Whenever your opponent casts a spell, this minion gains +1/+1.",
+      "chi": "每当你的对手使用一张法术，此随从获得 +1/+1。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_sunrise_cleric_name",
+      "eng": "Sunrise Cleric",
+      "chi": "唤日牧师",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_sunrise_cleric_desc",
+      "eng": "Opening Gambit: Turn a nearby space into Hallowed Ground.",
+      "chi": "登场：将此随从相邻的一个格子变为圣地。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_solpiercer_name",
+      "eng": "Solpiercer",
+      "chi": "烈阳神射手",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_solpiercer_desc",
+      "eng": "Zeal: Ranged",
+      "chi": "热诚：远程",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_auroara_name",
+      "eng": "Auroara",
+      "chi": "辉光狮鹫",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_auroara_desc",
+      "eng": "Whenever you summon a minion with 2 or less Attack, this minion gains +2 Attack.",
+      "chi": "每当你召唤一个攻击小于等于2的随从时，此随从获得 +2/+0。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_war_judicator_name",
+      "eng": "War Judicator",
+      "chi": "随军执法官",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_war_judicator_desc",
+      "eng": "Nearby friendly minions cannot be targeted by enemy spells.",
+      "chi": "相邻的友方随从不能成为敌方法术的目标。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_decorated_enlistee_name",
+      "eng": "Decorated Enlistee",
+      "chi": "常胜老兵",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_decorated_enlistee_desc",
+      "eng": "While at full Health, this minion has +3 Attack.",
+      "chi": "如果此随从未受伤，则具有+3/+0。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_vigilator_name",
+      "eng": "Vigilator",
+      "chi": "监察官",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_vigilator_desc",
+      "eng": "Build: (1).\nWhen this minion is built, give nearby friendly minions +3 Health.",
+      "chi": "生产(1)\n当此随从被产出时，使相邻的友方随从获得 +0/+3。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_oakenheart_name",
+      "eng": "Oakenheart",
+      "chi": "坚实核心",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_oakenheart_desc",
+      "eng": "Opening Gambit: Progresses MECHAZ0R build by +20%.\nYour other Mech minions have +1/+1.",
+      "chi": "登场：使你的决战兵器组装进度提高20%。\n你的其他机兵具有 +1/+1。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_prominence_name",
+      "eng": "Prominence",
+      "chi": "日珥",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_prominence_desc",
+      "eng": "Blood Surge: Summon a Silverguard Knight nearby your General.",
+      "chi": "血涌：在你的将领相邻位置召唤一个银卫骑士(1/5，嘲讽，热诚：获得+2/+0)。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_ironcliffe_monument_name",
+      "eng": "Ironcliffe Monument",
+      "chi": "铁壁雕像",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_ironcliffe_monument_desc",
+      "eng": "Build: (2).\nWhenever you summon a minion nearby this, transform that minion into an Ironcliffe Guardian.",
+      "chi": "生产(2)\n当你在此随从相邻位置召唤一个随从时，将该随从变形为铁壁守护者(3/10 空降 嘲讽)。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_unit_surgeforger_name",
+      "eng": "Surgeforger",
+      "chi": "励战导师",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    }
+  ]
+}

@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.05",
+  "nodeCode": "cosmetics",
+  "path": "cosmetics",
+  "orderStart": 200,
+  "orderEnd": 299,
+  "translateItemList": [
+    {
+      "code": "icon_phalanxar_desc",
+      "eng": "'I'd hate to be the nail to that hammer.'",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_silithar_elder_name",
+      "eng": "Silithar Elder",
+      "chi": "完全体西里萨",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "icon_silithar_elder_desc",
+      "eng": "Carrying untold generations with each new birth.",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_starhorn_1_name",
+      "eng": "Starhorn the Seeker",
+      "chi": "求知的星角",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "icon_starhorn_1_desc",
+      "eng": "'There can only One.'",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_starhorn_2_name",
+      "eng": "Starhorn the Seeker",
+      "chi": "求知的星角",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "icon_starhorn_2_desc",
+      "eng": "The Seventh Star foretold by the prophecy.",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_taygete_name",
+      "eng": "Earth Sister",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_taygete_desc",
+      "eng": "The Wish of Integrity.",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_vaath_name",
+      "eng": "Vaath the Immortal",
+      "chi": "不朽的瓦斯",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "icon_vaath_desc",
+      "eng": "Tamer of the wild Makantor beasts.",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_vaath_mk2_name",
+      "eng": "Vaath the Immortal II",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_vaath_mk2_desc",
+      "eng": "Creator of the first Kolossi.",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_veteran_silithar_name",
+      "eng": "Veteran Silithar",
+      "chi": "成熟期西利萨",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "icon_veteran_silithar_desc",
+      "eng": "Fearless of death.",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_young_silithar_name",
+      "eng": "Young Silithar",
+      "chi": "幼年期西里萨",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "icon_young_silithar_desc",
+      "eng": "Measuring age not in years, but in lives.",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_beastmaster_name",
+      "eng": "Beastmaster",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_beastmaster_desc",
+      "eng": "Shim'zar Beastmaster.",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_cannon_mech_name",
+      "eng": "Cannon of Mechaz0r",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_cannon_mech_desc",
+      "eng": "'Acquiring target...'",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_chassis_mech_name",
+      "eng": "Chassis of Mechaz0r",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_chassis_mech_desc",
+      "eng": "'Stabilizing energy output...'",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_gnasher_name",
+      "eng": "Gnasher",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_gnasher_desc",
+      "eng": "Shim'zar Gnasher.",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_golden_mantella_name",
+      "eng": "Golden Mantella",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_golden_mantella_desc",
+      "eng": "Shim'zar Golden Mantella.",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_grincher_name",
+      "eng": "Grincher",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_grincher_desc",
+      "eng": "Military advisor to the many Houses of Mythron.",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_helm_mech_name",
+      "eng": "Helm of Mechaz0r",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_helm_mech_desc",
+      "eng": "A good head on its shoulders.",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_hydrax_name",
+      "eng": "Hydrax",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_hydrax_desc",
+      "eng": "Two heads are better than one.",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_hydrax_2_name",
+      "eng": "Hydrax II",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_hydrax_2_desc",
+      "eng": "Five heads are better than two.",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_ion_name",
+      "eng": "ION",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_ion_desc",
+      "eng": "Holding in its heart a sword that shoots pure energy.",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_lady_locke_name",
+      "eng": "Lady Locke",
+      "chi": "链锁女士",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "icon_lady_locke_desc",
+      "eng": "'Lock and loaded.'",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_sworn_sister_name",
+      "eng": "Sworn Sister",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_sworn_sister_desc",
+      "eng": "'Yes, my name is Nikhma.'",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_mechaz0r_name",
+      "eng": "MECHAZ0R",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_mechaz0r_desc",
+      "eng": "GG no RE.",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_dex_name",
+      "eng": "DEX",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_dex_desc",
+      "eng": "Shim'zar Battle Pet Dex.",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_rawr_name",
+      "eng": "RAWR",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_rawr_desc",
+      "eng": "Simply bigger than a 3-letter pet.",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_rok_name",
+      "eng": "ROK",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_rok_desc",
+      "eng": "Made of crystal, not ice.",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_rook_name",
+      "eng": "Rook",
+      "chi": "战车",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "icon_rook_desc",
+      "eng": "'I should be valued at five pawns.'",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_silverbeak_name",
+      "eng": "Silverbeak",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_silverbeak_desc",
+      "eng": "First allies to the Senerai.",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_soboro_name",
+      "eng": "Soboro",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_soboro_desc",
+      "eng": "'Mmmm, Soboro-Don.'",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_sword_mech_name",
+      "eng": "Sword of Mechaz0r",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_sword_mech_desc",
+      "eng": "'Killing Spree!'",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_wings_mech_name",
+      "eng": "Wings of Mechaz0r",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_wings_mech_desc",
+      "eng": "'Analyzing approach...'",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_z0r_name",
+      "eng": "Z0R",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_z0r_desc",
+      "eng": "'Put MECHA in front of my name!'",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_zukong_name",
+      "eng": "Zukong",
+      "chi": "悟空",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "icon_zukong_desc",
+      "eng": "Shim'zar Zukong.",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_storm_sister_name",
+      "eng": "Storm Sister",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_storm_sister_desc",
+      "eng": "The Wish of Truth.",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_songhai_crest_name",
+      "eng": "Songhai Crest",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_songhai_crest_desc",
+      "eng": "'Anything is possible, in the shadow of the infinite.'",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_gorehorn_name",
+      "eng": "Gorehorn",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_gorehorn_desc",
+      "eng": "The unseen attack is death's gate opened.",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_zendo_name",
+      "eng": "Grandmaster Zendo",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_zendo_desc",
+      "eng": "'Empty your mind, and you are ready for anything.'",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_heartseeker_name",
+      "eng": "Heartseeker",
+      "chi": "猎心者",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "icon_heartseeker_desc",
+      "eng": "Finding a way into your heart, be it a kiss or blade.",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_kaido_assassin_name",
+      "eng": "Kaido Assassin",
+      "chi": "凯多刺客",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "icon_kaido_assassin_desc",
+      "eng": "'The blade is my brush, blood my ink.'",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_kaleos_name",
+      "eng": "Kaleos Xaan",
+      "chi": "卡莱·肖",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "icon_kaleos_desc",
+      "eng": "'When our mind is compassionate, it is boundless.'",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_reva_name",
+      "eng": "Reva Eventide",
+      "chi": "暮色 雷伊",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "icon_reva_desc",
+      "eng": "'We do not exist for the sake of something else.'",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_reva_mk2_name",
+      "eng": "Reva Eventide II",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_reva_mk2_desc",
+      "eng": "'We exist for the sake of ourselves.'",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_scarlet_viper_name",
+      "eng": "Scarlet Viper",
+      "chi": "猩红毒蛇",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "icon_scarlet_viper_desc",
+      "eng": "The viper's tongue will slay you.",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_tusk_boar_name",
+      "eng": "Tusk Boar",
+      "chi": "利牙野猪",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "icon_tusk_boar_desc",
+      "eng": "'We die, and we do not die.'",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_widowmaker_name",
+      "eng": "Widowmaker",
+      "chi": "寡妇制造者",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "icon_widowmaker_desc",
+      "eng": "It's never the blade you see coming.",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_arctic_displacer_name",
+      "eng": "Arctic Displacer",
+      "chi": "极地幻兽",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "icon_arctic_displacer_desc",
+      "eng": "As sudden as a blizzard, as numbing as snow.",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_vanar_crest_name",
+      "eng": "Vanar Crest",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_vanar_crest_desc",
+      "eng": "Protectors of Aperion.",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_draugar_lord_name",
+      "eng": "Draugar Lord",
+      "chi": "冰龙领主",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "icon_draugar_lord_desc",
+      "eng": "Draconian in spirit, ebullient in life.",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_warbird_name",
+      "eng": "Bloodwing Warbird",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_warbird_desc",
+      "eng": "Detects a single drop of blood in the wounded sky.",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_faie_name",
+      "eng": "Faie Bloodwing",
+      "chi": "血翼 费伊",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "icon_faie_desc",
+      "eng": "From a hawkwolf, transformed by Aperion.",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_faie_mk2_name",
+      "eng": "Faie Bloodwing II",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_faie_mk2_desc",
+      "eng": "The first generation of the Aperion Bloodbound.",
+      "chi": "",
+      "originVersionCode": "20.1.05",
+      "translateState": 0
+    },
+    {
+      "code": "icon_glacial_elemental_name",
+      "eng": "Glacial Elemental",
+      "chi": "冰川元素",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    }
+  ]
+}

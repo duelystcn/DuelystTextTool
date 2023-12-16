@@ -1,0 +1,534 @@
+{
+  "versionCode": "20.1.04",
+  "nodeCode": "cosmetics",
+  "path": "cosmetics",
+  "orderStart": 700,
+  "orderEnd": 774,
+  "translateItemList": [
+    {
+      "code": "emote_ilena_sunglasses_name",
+      "eng": "Cool Ilena",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_ilena_sunglasses_desc",
+      "eng": "Sunglasses",
+      "chi": "太阳镜",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "emote_ilena_confused_name",
+      "eng": "Confused Ilena",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_ilena_confused_desc",
+      "eng": "Confused",
+      "chi": "困惑",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "emote_ilena_love_name",
+      "eng": "Kissing Ilena",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_ilena_love_desc",
+      "eng": "Kiss",
+      "chi": "吻",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "emote_argeon_name",
+      "eng": "Argeon",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_ziran_name",
+      "eng": "Zir'An",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_brome_name",
+      "eng": "Brome",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_kaleos_name",
+      "eng": "Kaleos",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_reva_name",
+      "eng": "Reva",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_zirix_name",
+      "eng": "Zirix",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_scioness_name",
+      "eng": "Scioness",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_ciphron_name",
+      "eng": "Ciphyron",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_lilithe_name",
+      "eng": "Lilithe",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_cassyva_name",
+      "eng": "Cassyva",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_maehv_name",
+      "eng": "Maehv",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_vaath_name",
+      "eng": "Vaath",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_starhorn_name",
+      "eng": "Starhorn",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_ragnora_name",
+      "eng": "Ragnora",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_faie_name",
+      "eng": "Faie",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_kara_name",
+      "eng": "Kara",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_ilena_name",
+      "eng": "Ilena",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_cool_name",
+      "eng": "Cool",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_bowing_name",
+      "eng": "Bowing",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_sleepy_name",
+      "eng": "Sleepy",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_winking_name",
+      "eng": "Winking",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_frustrated_name",
+      "eng": "Frustrated",
+      "chi": "沮丧",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "emote_confused_name",
+      "eng": "Confused",
+      "chi": "困惑",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "emote_sad_name",
+      "eng": "Sad",
+      "chi": "悲伤",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "emote_surprised_name",
+      "eng": "Surprised",
+      "chi": "惊讶",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "emote_happy_name",
+      "eng": "Happy",
+      "chi": "开心",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "emote_loving_name",
+      "eng": "Loving",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_angry_name",
+      "eng": "Angry",
+      "chi": "生气",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "emote_anger",
+      "eng": "anger",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_respect",
+      "eng": "respect",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_confusion",
+      "eng": "confusion",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_frustration",
+      "eng": "frustration",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_happiness",
+      "eng": "happiness",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_sadness",
+      "eng": "sadness",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_impatience",
+      "eng": "impatience",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_style",
+      "eng": "style",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_surprise",
+      "eng": "surprise",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_confidence",
+      "eng": "confidence",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_love",
+      "eng": "love",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_emotion",
+      "eng": "emotion",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_argeon",
+      "eng": " as Argeon Highmayne",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_ziran",
+      "eng": " as Zir'An Sunforge",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_brome",
+      "eng": " as Brome Warcrest",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_kaleos",
+      "eng": " as Kaleos Xaan",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_reva",
+      "eng": " as Reva Eventide",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_shidai",
+      "eng": " as Shidai Stormblossom",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_zirix",
+      "eng": " as Zirix Starstrider",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_sajj",
+      "eng": " as Scioness Sajj",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_ciphyron",
+      "eng": " as Ciphyron Ascendant",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_lilithe",
+      "eng": " as Lilithe Blightchaser",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_cassyva",
+      "eng": " as Cassyva Soulreaper",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_maehv",
+      "eng": " as Maehv Skinsolder",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_vaath",
+      "eng": " as Vaath the Immortal",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_starhorn",
+      "eng": " as Starhorn the Seeker",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_ragnora",
+      "eng": " as Ragnora the Relentless",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_faie",
+      "eng": " as Faie Bloodwing",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_kara",
+      "eng": " as Kara Winterblade",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_ilena",
+      "eng": " as Ilena Cryobyte",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote",
+      "eng": "Express your {{emote}} in game {{general}}",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "battlemap_magmar_name",
+      "eng": "Shim'zar Canopy",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "battlemap_magmar_desc",
+      "eng": "The Shim'zar Canopy is a lush jungle paradise where ancient trees tower overhead, their branches forming a natural arena. Featuring the battle music \"Grimrock\" by Archaeologist.",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "battlemap_abyssian_name",
+      "eng": "Sharian Altar",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "battlemap_abyssian_desc",
+      "eng": "The Sharian Altar is a treacherous arena of molten lava and ash, where warriors battle amidst the fiery depths of a volcanic crater. Featuring the battle music \"Blood Echoes\" by Archaeologist.",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "battlemap_redrock_name",
+      "eng": "Red Rock",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "battlemap_redrock_desc",
+      "eng": "The Red Rock is a majestic and treacherous peak, where warriors clash in brutal combat atop towering red mountains. Featuring the battle music \"Lightchaser\" by Archaeologist.",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "battlemap_vanar_name",
+      "eng": "Frosthorn Summit",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "battlemap_vanar_desc",
+      "eng": "Only the bravest and most skilled warriors dare to enter the Frosthorn Summit, where victory can mean glory and defeat can mean a lonely death in the frozen wilderness. Featuring the battle music \"Frostburn\" by Archaeologist.",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "cosmetic_crafting_error_msg",
+      "eng": "There was a problem crafting this item.",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "cosmetic_chest_duplicate",
+      "eng": "(duplicate)",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    }
+  ]
+}

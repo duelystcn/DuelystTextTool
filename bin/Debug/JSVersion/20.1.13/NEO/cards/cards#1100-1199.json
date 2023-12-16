@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.13",
+  "nodeCode": "cards",
+  "path": "cards",
+  "orderStart": 1100,
+  "orderEnd": 1199,
+  "translateItemList": [
+    {
+      "code": "faction_2_unit_onyx_jaguar_desc",
+      "eng": "Whenever a friendly unit is moved for any reason, it gains +1/+1.",
+      "chi": "每当一个友方随从的位置发生变化，该随从获得+1/+1 。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_grandmaster_zendo_name",
+      "eng": "Grandmaster Zendo",
+      "chi": "宗师 禅",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_grandmaster_zendo_desc",
+      "eng": "The enemy General moves and attacks automatically.",
+      "chi": "敌方将领自动进行攻击和移动。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_lightning_sister_name",
+      "eng": "Storm Sister Alkyone",
+      "chi": "疾风姐妹 阿耳刻悠妮",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_lightning_sister_desc",
+      "eng": "Spells you cast that deal damage deal +1 damage.",
+      "chi": "你使用的法术造成的伤害增加1点。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_whiplash_name",
+      "eng": "Whiplash",
+      "chi": "甩鞭客",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_whiplash_desc",
+      "eng": "Blood Surge: Deal 2 damage to the enemy General.",
+      "chi": "血涌：对敌方将领造成2点伤害。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_geomancer_name",
+      "eng": "Geomancer",
+      "chi": "风水师",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_geomancer_desc",
+      "eng": "Opening Gambit: Your Bloodbound Spell is Phoenix Fire.",
+      "chi": "登场：你的血技变为凤凰火。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_twilight_fox_name",
+      "eng": "Twilight Fox",
+      "chi": "暮光狐",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_twilight_fox_desc",
+      "eng": "Blood Surge: Teleport a random enemy to the space behind your General.",
+      "chi": "血涌：将一个随从敌方单位传送至你将领的身后。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_sparrowhawk_name",
+      "eng": "Sparrowhawk",
+      "chi": "雀鹰",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_sparrowhawk_desc",
+      "eng": "Bond: Put a Mist Dragon Seal into your action bar.",
+      "chi": "链接：将一张雾龙印放入你的准备栏。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_kindling_name",
+      "eng": "Kindling",
+      "chi": "戏火师",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_kindling_desc",
+      "eng": "Whenever you cast a spell, your Arcanyst minions gain +1 Attack.",
+      "chi": "每当你使用一张法术时，你所有的奥术师获得 +1/+0 。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_calligrapher_name",
+      "eng": "Calligrapher",
+      "chi": "书法家",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_calligrapher_desc",
+      "eng": "Rush\nWhenever this minion attacks, put three Songhai spells into your action bar.",
+      "chi": "冲锋\n每当此随从攻击时，在你的准备栏放入三张随机Songhai法术。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_flamewreath_name",
+      "eng": "Flamewreath",
+      "chi": "环火兽",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_flamewreath_desc",
+      "eng": "Whenever this minion is moved for any reason, it deals 2 damage to all enemies around it.",
+      "chi": "每当此随从位置发生变化后，对相邻的敌人造成2点伤害。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_scroll_bandit_name",
+      "eng": "Scroll Bandit",
+      "chi": "翻天盗",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_scroll_bandit_desc",
+      "eng": "Backstab: (1).\nWhenever this backstabs, steal a spell from your opponent's deck.",
+      "chi": "背刺1\n每当此随从进行背刺时，从你对手的牌库中抽取一张法术。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_eternity_painter_name",
+      "eng": "Eternity Painter",
+      "chi": "绘魂画师",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_eternity_painter_desc",
+      "eng": "At the end of your turn, transform all nearby enemy minions into 0/2 Panddos that cannot be attacked.",
+      "chi": "在你的回合结束时，将所有相邻的敌方随从变形为胖多(0/2 不能被攻击)。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_watchful_sentinel_name",
+      "eng": "Watchful Sentinel",
+      "chi": "守望哨兵",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_watchful_sentinel_desc",
+      "eng": "Sentinel: This transforms into a powerful minion if its hidden condition is met.",
+      "chi": "守望：当此随从的隐秘条件被满足时，将会变成一个强大的随从。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_hundred_hand_name",
+      "eng": "Hundred-Handed Rakushi",
+      "chi": "百手力士",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_hundred_hand_desc",
+      "eng": "Sentinel: Minion summoned.\nDeal 2 damage to the minion that transformed this.",
+      "chi": "守望：对手召唤一个随从。\n对触发守望的随从造成2点伤害。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_mizuchi_name",
+      "eng": "Mizuchi",
+      "chi": "天狗",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_mizuchi_desc",
+      "eng": "Sentinel: General attacks.\nFlying\nBackstab: (2).",
+      "chi": "守望：敌方将领进行攻击。\n飞行\n背刺2",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_mind_cage_oni_name",
+      "eng": "Mind-Cage Oni",
+      "chi": "囚心魔",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_mind_cage_oni_desc",
+      "eng": "Sentinel: Spell cast.\nWhenever your opponent casts a spell, put a copy of that spell into your action bar.",
+      "chi": "守望：对手使用一张法术。\n每当你的对手使用法术时，复制一张该法术并放入你的准备栏。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_suzumebachi_name",
+      "eng": "Suzumebachi",
+      "chi": "雀蜂",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_suzumebachi_desc",
+      "eng": "Whenever you cast a spell, this minion gains +1 Attack until your next turn.",
+      "chi": "每当你使用一张法术，此随从获得 +1/+0 直到你的下个回合开始。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_manakite_drifter_name",
+      "eng": "Manakite Drifter",
+      "chi": "瑙石悬浮客",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_manakite_drifter_desc",
+      "eng": "Build: (2).\nWhen this minion is built, gain +2 mana this turn.",
+      "chi": "生产(2)\n当此随从被产出时，你获得2点法力。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_dusk_rigger_name",
+      "eng": "Dusk Rigger",
+      "chi": "暮色整备师",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_dusk_rigger_desc",
+      "eng": "Backstab: (2).\nWhenever this backstabs, put a MECHAZ0R Progression into your action bar.",
+      "chi": "背刺2\n每当此随从进行背刺时，放置一张组装展开在你的准备栏。(0费 使你的决战兵器组装进度提高20%。)",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_wildfire_tenketsu_name",
+      "eng": "Wildfire Tenketsu",
+      "chi": "野火 天杰",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_wildfire_tenketsu_desc",
+      "eng": "Blood Surge: Put an Eight Gates into your action bar.",
+      "chi": "血涌：将一张八门放入你的准备栏。(2费 这个回合内，你使用法术造成的伤害增加2点。)",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_penumbraxx_name",
+      "eng": "Penumbraxx",
+      "chi": "匿影刺客",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_penumbraxx_desc",
+      "eng": "Build: (2).\nBackstab: (2).\nWhenever this backstabs, transform it into a building with Build (1).",
+      "chi": "生产(2)\n背刺2\n每当此随从进行背刺时，将其变形为生产状态且生产进度为1。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_second_sword_sarugi_name",
+      "eng": "Second-sword Sarugi",
+      "chi": "二剑一心",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_2_unit_second_sword_sarugi_desc",
+      "eng": "Your spells cost 2 less.",
+      "chi": "你使用法术时费用减少2点。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_iron_shroud_name",
+      "eng": "Iron Shroud",
+      "chi": "铁棺",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_iron_shroud_description",
+      "eng": "Summon a 2/2 Iron Dervish on a random space nearby your General.",
+      "chi": "在你的将领相邻的随机位置召唤一个铁行僧(2/2)。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_psionic_strike_name",
+      "eng": "Psionic Strike",
+      "chi": "魂击",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_psionic_strike_description",
+      "eng": "Your General deals double damage to minions this turn.",
+      "chi": "你的将领这回合对随从造成的伤害翻倍。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_dominate_will_name",
+      "eng": "Dominate Will",
+      "chi": "支配意志",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_dominate_will_description",
+      "eng": "Take control of an enemy minion nearby your General.",
+      "chi": "获得一个与你的将领相邻的敌方随从的控制权。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_siphon_energy_name",
+      "eng": "Siphon Energy",
+      "chi": "虹吸能量",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_siphon_energy_description",
+      "eng": "Dispel an enemy minion nearby your General.",
+      "chi": "驱散一个与你将领相邻的敌方随从。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_cosmic_flesh_name",
+      "eng": "Cosmic Flesh",
+      "chi": "星辰塑体",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_cosmic_flesh_description",
+      "eng": "Give a friendly minion +1/+3 and Provoke.",
+      "chi": "使一个友方随从获得+1/+3和嘲讽。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_blindscorch_name",
+      "eng": "Blindscorch",
+      "chi": "炫目灼烧",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_blindscorch_description",
+      "eng": "Lower a minion's Attack to 0 until your next turn.",
+      "chi": "直到你的下回合，将一个随从的攻击力置为0。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_astral_phasing_name",
+      "eng": "Astral Phasing",
+      "chi": "星体相位",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_astral_phasing_description",
+      "eng": "Give a friendly minion +5 Health and Flying.",
+      "chi": "使一个友方随从获得+0/+5和飞行。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_auroras_tears_name",
+      "eng": "Auroras Tears",
+      "chi": "极光之泪",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_auroras_tears_description",
+      "eng": "This turn, your General gains +2 Attack for every equipped artifact.",
+      "chi": "你的将领每装备一个神器，便获得+2/+0直到回合结束。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_entropic_decay_name",
+      "eng": "Entropic Decay",
+      "chi": "熵衰减",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_entropic_decay_description",
+      "eng": "Destroy an enemy minion nearby your General.",
+      "chi": "摧毁与你的将领相邻的一个敌方随从。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_time_maelstrom_name",
+      "eng": "Time Maelstrom",
+      "chi": "时间漩涡",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_time_maelstrom_description",
+      "eng": "Reactivate your General.",
+      "chi": "激活你的将领。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_sand_trap_name",
+      "eng": "Sand Trap",
+      "chi": "流沙陷阱",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_sand_trap_description",
+      "eng": "Choose an enemy minion.  It can no longer move.",
+      "chi": "使一个敌方随从获得\"无法移动\"。抽一张牌。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_scions_first_wish_name",
+      "eng": "Scion's First Wish",
+      "chi": "子嗣的初愿",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_scions_first_wish_description",
+      "eng": "Give a friendly minion +1/+1. Draw a card.",
+      "chi": "使一个友方随从获得+1/+1。抽一张牌。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_scions_second_wish_name",
+      "eng": "Scion's Second Wish",
+      "chi": "子嗣的次愿",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_scions_second_wish_description",
+      "eng": "Give a friendly minion +2/+2. It takes no damage from Generals.",
+      "chi": "使一个个友方随从获得+2/+2 和不会受到源自将领的伤害。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_scions_third_wish_name",
+      "eng": "Scion's Third Wish",
+      "chi": "子嗣的终愿",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_scions_third_wish_description",
+      "eng": "Give a friendly Dervish minion +3/+3 and Flying.",
+      "chi": "使一个个友方苦行僧获得+3/+3 和飞行。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_rashas_curse_name",
+      "eng": "Rasha's Curse",
+      "chi": "拉夏的诅咒",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_rashas_curse_description",
+      "eng": "Destroy a random artifact on the enemy General. Summon a Wind Dervish with Rush near them.",
+      "chi": "随机摧毁敌方将领装备的一个神器。在其附近召唤一个风行僧(2/2 冲锋 骤现)。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_rashas_curse_followup_name",
+      "eng": "Rasha's Curse",
+      "chi": "拉夏的诅咒",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_rashas_curse_followup_description",
+      "eng": "Destroy a random artifact on the enemy General. Summon a 2/2 Wind Dervish with Rush nearby the enemy General.",
+      "chi": "随机摧毁敌方将领装备的一个神器。在其附近召唤一个风行僧(2/2 冲锋 骤现)。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_stars_fury_name",
+      "eng": "Star's Fury",
+      "chi": "星怒",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_stars_fury_description",
+      "eng": "Summon a Wind Dervish with Rush in front of each enemy minion and General.",
+      "chi": "在每个敌方单位正前方召唤一个风行僧(2/2 冲锋 骤现)。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_bone_swarm_name",
+      "eng": "Bone Swarm",
+      "chi": "碎骨雨",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_bone_swarm_description",
+      "eng": "Deal 2 damage to the enemy General and all enemy minions around them.",
+      "chi": "对敌方将领和与其相邻的敌方随从造成2点伤害。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_fountain_of_youth_name",
+      "eng": "Fountain of Youth",
+      "chi": "不老泉",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_fountain_of_youth_description",
+      "eng": "Fully heal all friendly minions.",
+      "chi": "治愈所有己方随从。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_inner_oasis_name",
+      "eng": "Inner Oasis",
+      "chi": "内心绿洲",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_inner_oasis_description",
+      "eng": "Give all friendly minions +3 Health. Draw a card.",
+      "chi": "使一个友方随从获得+0/+3。抽一张牌。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_astral_flood_name",
+      "eng": "Astral Flood",
+      "chi": "星光投射",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_astral_flood_description",
+      "eng": "Put 3 random Battle Pets into your action bar.",
+      "chi": "在你的准备栏放入三张随机战宠。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_whisper_of_the_sands_name",
+      "eng": "Whisper of the Sands",
+      "chi": "流沙低语",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_whisper_of_the_sands_description",
+      "eng": "Summon a Wind Dervish nearby each friendly Obelysk.",
+      "chi": "在每个友方方尖碑的相邻位置召唤一个风行僧(2/2 冲锋 骤现)。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_psychic_conduit_name",
+      "eng": "Psychic Conduit",
+      "chi": "思维连接",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_psychic_conduit_description",
+      "eng": "Reactivate and take control of an enemy minion with 2 or less Attack until end of turn.",
+      "chi": "获得一个攻击小于等于2的敌方随从的控制权直到回合结束，激活该随从。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_corpse_combustion_name",
+      "eng": "Corpse Combustion",
+      "chi": "燃我残躯",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_corpse_combustion_description",
+      "eng": "Summon all friendly minions with Dying Wish destroyed since your last turn on random spaces.",
+      "chi": "在随机位置召唤所有从你的上个回合到现在被摧毁的具有死愿的友方随从。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_circle_of_desiccation_name",
+      "eng": "Circle of Desiccation",
+      "chi": "尘归尘",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_circle_of_desiccation_description",
+      "eng": "Destroy ALL non-Structure minions.",
+      "chi": "消灭所有不是建筑的随从。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_divine_spark_name",
+      "eng": "Divine Spark",
+      "chi": "崇高心火",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_divine_spark_desc",
+      "eng": "Draw two cards.",
+      "chi": "抽两张牌。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_stone_to_spears_name",
+      "eng": "Stone to Spears",
+      "chi": "化石为矛",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_stone_to_spears_desc",
+      "eng": "A friendly Obelysk gains +3 Attack and may move and attack this turn if able.",
+      "chi": "所有友方方尖碑获得 +3/+0 和本回合可以移动与攻击。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_autarchs_gifts_name",
+      "eng": "Autarch's Gifts",
+      "chi": "帝皇恩赐",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_autarchs_gifts_desc",
+      "eng": "Equip 2 random Vetruvian artifacts.",
+      "chi": "装备两件随机的Vetruvian神器。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "faction_3_spell_blood_of_air_name",
+      "eng": "Blood of Air",
+      "chi": "化血为气",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    }
+  ]
+}

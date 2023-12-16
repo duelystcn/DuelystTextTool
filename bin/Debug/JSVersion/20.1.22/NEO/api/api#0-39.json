@@ -1,0 +1,289 @@
+{
+  "versionCode": "20.1.22",
+  "nodeCode": "api",
+  "path": "api",
+  "orderStart": 0,
+  "orderEnd": 39,
+  "translateItemList": [
+    {
+      "code": "contact_support_disclaimer",
+      "eng": "If the error persists, you can contact our support team at",
+      "chi": "",
+      "originVersionCode": "20.1.22",
+      "translateState": 0
+    },
+    {
+      "code": "footer_disclaimer",
+      "eng": "Copyright © Dream Sloth LLC, All rights reserved.",
+      "chi": "",
+      "originVersionCode": "20.1.22",
+      "translateState": 0
+    },
+    {
+      "code": "input_password_validation_message",
+      "eng": "Must contain at least 8 characters",
+      "chi": "",
+      "originVersionCode": "20.1.22",
+      "translateState": 0
+    },
+    {
+      "code": "label_button_submit",
+      "eng": "Submit",
+      "chi": "",
+      "originVersionCode": "20.1.22",
+      "translateState": 0
+    },
+    {
+      "code": "message_bad_request",
+      "eng": "Invalid data submitted.",
+      "chi": "",
+      "originVersionCode": "20.1.22",
+      "translateState": 0
+    },
+    {
+      "code": "message_email_change_completed",
+      "eng": "Your email has been updated.",
+      "chi": "",
+      "originVersionCode": "20.1.22",
+      "translateState": 0
+    },
+    {
+      "code": "message_go_back_to",
+      "eng": "Go back to",
+      "chi": "",
+      "originVersionCode": "20.1.22",
+      "translateState": 0
+    },
+    {
+      "code": "message_instructions_sent",
+      "eng": "If the email address provided is associated with an account, you will receive an email with instructions shortly.",
+      "chi": "",
+      "originVersionCode": "20.1.22",
+      "translateState": 0
+    },
+    {
+      "code": "message_invalid_token",
+      "eng": "Invalid Token.",
+      "chi": "",
+      "originVersionCode": "20.1.22",
+      "translateState": 0
+    },
+    {
+      "code": "message_reset_email_input_label",
+      "eng": "Enter your email address to reset your password.",
+      "chi": "",
+      "originVersionCode": "20.1.22",
+      "translateState": 0
+    },
+    {
+      "code": "message_reset_error",
+      "eng": "You can make another email change request by logging into game, openning settings menu and selecting Change email.",
+      "chi": "",
+      "originVersionCode": "20.1.22",
+      "translateState": 0
+    },
+    {
+      "code": "message_reset_new",
+      "eng": "Enter a new password with a minimum of 8 characters.",
+      "chi": "",
+      "originVersionCode": "20.1.22",
+      "translateState": 0
+    },
+    {
+      "code": "message_reset_password_changed",
+      "eng": "Your password has been changed. You will receive an email confirmation.",
+      "chi": "",
+      "originVersionCode": "20.1.22",
+      "translateState": 0
+    },
+    {
+      "code": "message_sing_in_to",
+      "eng": "Sign in to",
+      "chi": "",
+      "originVersionCode": "20.1.22",
+      "translateState": 0
+    },
+    {
+      "code": "message_token_not_associated_to_active_user",
+      "eng": "Could not associate token with any active user.",
+      "chi": "",
+      "originVersionCode": "20.1.22",
+      "translateState": 0
+    },
+    {
+      "code": "message_verification_completed",
+      "eng": "Your account has been verified.",
+      "chi": "",
+      "originVersionCode": "20.1.22",
+      "translateState": 0
+    },
+    {
+      "code": "message_verification_email_input_label",
+      "eng": "Enter your email address to receive verification email.",
+      "chi": "",
+      "originVersionCode": "20.1.22",
+      "translateState": 0
+    },
+    {
+      "code": "message_verification_retry",
+      "eng": "You can make another verification email by clicking here:",
+      "chi": "",
+      "originVersionCode": "20.1.22",
+      "translateState": 0
+    },
+    {
+      "code": "placeholder_input_email",
+      "eng": "Enter email",
+      "chi": "",
+      "originVersionCode": "20.1.22",
+      "translateState": 0
+    },
+    {
+      "code": "placeholder_input_password",
+      "eng": "New password",
+      "chi": "",
+      "originVersionCode": "20.1.22",
+      "translateState": 0
+    },
+    {
+      "code": "title_email_change_completed",
+      "eng": "Email changed",
+      "chi": "",
+      "originVersionCode": "20.1.22",
+      "translateState": 0
+    },
+    {
+      "code": "title_email_change_error",
+      "eng": "Email Change Error",
+      "chi": "",
+      "originVersionCode": "20.1.22",
+      "translateState": 0
+    },
+    {
+      "code": "title_email_change_link_expired",
+      "eng": "Email Change Link Expired",
+      "chi": "",
+      "originVersionCode": "20.1.22",
+      "translateState": 0
+    },
+    {
+      "code": "title_email_change_link_invalid",
+      "eng": "Invalid Email Change Link",
+      "chi": "",
+      "originVersionCode": "20.1.22",
+      "translateState": 0
+    },
+    {
+      "code": "title_forgot_link_expired",
+      "eng": "Reset Link Expired",
+      "chi": "",
+      "originVersionCode": "20.1.22",
+      "translateState": 0
+    },
+    {
+      "code": "title_forgot_link_invalid",
+      "eng": "Invalid Reset Link",
+      "chi": "",
+      "originVersionCode": "20.1.22",
+      "translateState": 0
+    },
+    {
+      "code": "title_forgot_link_sent",
+      "eng": "Reset Link Sent",
+      "chi": "",
+      "originVersionCode": "20.1.22",
+      "translateState": 0
+    },
+    {
+      "code": "title_forgot_reset",
+      "eng": "Reset Password",
+      "chi": "",
+      "originVersionCode": "20.1.22",
+      "translateState": 0
+    },
+    {
+      "code": "title_forgot_reset_changed",
+      "eng": "Password Changed",
+      "chi": "",
+      "originVersionCode": "20.1.22",
+      "translateState": 0
+    },
+    {
+      "code": "title_forgot_reset_error",
+      "eng": "Password Reset Error",
+      "chi": "",
+      "originVersionCode": "20.1.22",
+      "translateState": 0
+    },
+    {
+      "code": "title_forgot_reset_new",
+      "eng": "Choose New Password",
+      "chi": "",
+      "originVersionCode": "20.1.22",
+      "translateState": 0
+    },
+    {
+      "code": "title_forgot_reset_password_invalid",
+      "eng": "Invalid password",
+      "chi": "",
+      "originVersionCode": "20.1.22",
+      "translateState": 0
+    },
+    {
+      "code": "title_forgot_request",
+      "eng": "Forgot Password",
+      "chi": "",
+      "originVersionCode": "20.1.22",
+      "translateState": 0
+    },
+    {
+      "code": "title_verification",
+      "eng": "Email Verification",
+      "chi": "",
+      "originVersionCode": "20.1.22",
+      "translateState": 0
+    },
+    {
+      "code": "title_verification_completed",
+      "eng": "Account Verified",
+      "chi": "",
+      "originVersionCode": "20.1.22",
+      "translateState": 0
+    },
+    {
+      "code": "title_verification_link_expired",
+      "eng": "Verification Link Expired",
+      "chi": "",
+      "originVersionCode": "20.1.22",
+      "translateState": 0
+    },
+    {
+      "code": "title_verification_link_invalid",
+      "eng": "Invalid Verification Link",
+      "chi": "",
+      "originVersionCode": "20.1.22",
+      "translateState": 0
+    },
+    {
+      "code": "title_verification_link_sent",
+      "eng": "Verification Link Sent",
+      "chi": "",
+      "originVersionCode": "20.1.22",
+      "translateState": 0
+    },
+    {
+      "code": "title_verification_request",
+      "eng": "Verification Link Request",
+      "chi": "",
+      "originVersionCode": "20.1.22",
+      "translateState": 0
+    },
+    {
+      "code": "title_verification_request_error",
+      "eng": "Verification Link Request Error",
+      "chi": "",
+      "originVersionCode": "20.1.22",
+      "translateState": 0
+    }
+  ]
+}

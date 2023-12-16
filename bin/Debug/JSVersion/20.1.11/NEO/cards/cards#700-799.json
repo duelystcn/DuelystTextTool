@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.11",
+  "nodeCode": "cards",
+  "path": "cards",
+  "orderStart": 700,
+  "orderEnd": 799,
+  "translateItemList": [
+    {
+      "code": "d2_neutral_dioltas_tombstone_name",
+      "eng": "Tombstone",
+      "chi": "墓碑",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_dioltas_tombstone_desc",
+      "eng": "Provoke",
+      "chi": "嘲讽",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_minijax_name",
+      "eng": "Mini-Jax",
+      "chi": "小杰斯",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_minijax_desc",
+      "eng": "Ranged",
+      "chi": "远程",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_pandora_frenzy_name",
+      "eng": "Rage",
+      "chi": "狂心幻兽",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_pandora_frenzy_desc",
+      "eng": "Frenzy",
+      "chi": "狂暴",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_pandora_ranged_name",
+      "eng": "Envy",
+      "chi": "妒心幻兽",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_pandora_ranged_desc",
+      "eng": "Ranged",
+      "chi": "远程",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_pandora_flying_name",
+      "eng": "Serenity",
+      "chi": "宁心幻兽",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_pandora_flying_desc",
+      "eng": "Flying",
+      "chi": "飞行",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_pandora_celerity_name",
+      "eng": "Wrath",
+      "chi": "怒心幻兽",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_pandora_celerity_desc",
+      "eng": "Celerity",
+      "chi": "迅捷",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_pandora_provoke_name",
+      "eng": "Fear",
+      "chi": "惧心幻兽",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_pandora_provoke_desc",
+      "eng": "Provoke",
+      "chi": "嘲讽",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_mechaz0r_name",
+      "eng": "MECHAZ0R!!",
+      "chi": "决战兵器原型机！！",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_mechaz0r_desc",
+      "eng": "Airdrop, Frenzy, Ranged, Veil",
+      "chi": "空降，狂暴，远程，帷幕",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_frostfire_imp_name",
+      "eng": "Frostfire Imp",
+      "chi": "霜火精灵",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_frostfire_snowchser_name",
+      "eng": "Frostfire Snowchaser",
+      "chi": "霜火寻雪精灵",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_frostfire_tiger_name",
+      "eng": "Frostfire Tiger",
+      "chi": "霜火虎",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "building_name",
+      "eng": "Building",
+      "chi": "生产中",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_roar_name",
+      "eng": "Roar",
+      "chi": "战吼",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_roar_description",
+      "eng": "Give a friendly minion nearby your General +2 Attack.",
+      "chi": "使与你将领相邻的一个友方\n随从获得 +2/+0。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_afterglow_name",
+      "eng": "Afterglow",
+      "chi": "余辉",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_afterglow_description",
+      "eng": "Restore 3 Health to any Minion.",
+      "chi": "治疗一个随从3点生命。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_sundrop_elixir_name",
+      "eng": "Sundrop Elixir",
+      "chi": "落日灵药",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_sundrop_elixir_description",
+      "eng": "Restore 5 Health to anything.",
+      "chi": "治疗一个单位5点生命。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_tempest_name",
+      "eng": "Tempest",
+      "chi": "风暴",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_tempest_description",
+      "eng": "Deal 2 damage to everything.",
+      "chi": "对所有单位造成2点伤害。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_decimate_name",
+      "eng": "Decimate",
+      "chi": "灭杀",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_decimate_description",
+      "eng": "Destroy ALL minions that are not nearby any General.",
+      "chi": "摧毁所有不与将领相邻的随从。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_auryn_nexus_name",
+      "eng": "Auryn Nexus",
+      "chi": "护符联结",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_auryn_nexus_description",
+      "eng": "Give a friendly minion +3 Health.",
+      "chi": "使一个随从获得 +0/+3。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_lasting_judgement_name",
+      "eng": "Lasting Judgement",
+      "chi": "永恒审判",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_lasting_judgement_description",
+      "eng": "Give ANY minion +3 Attack, but -3 Health.",
+      "chi": "使一个随从获得+3/-3。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_martyrdom_name",
+      "eng": "Martyrdom",
+      "chi": "牺牲",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_martyrdom_description",
+      "eng": "Destroy ANY minion. Restore that minion's Health to its General.",
+      "chi": "摧毁任意一个随从，为其将军治疗等同于该随从生命值的生命。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_war_surge_name",
+      "eng": "War Surge",
+      "chi": "战意涌动",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_war_surge_description",
+      "eng": "Give all friendly minions +1/+1.",
+      "chi": "使所有友方随从获得+1/+1。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_lionheart_blessing_name",
+      "eng": "Lionheart Blessing",
+      "chi": "狮心祝福",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_lionheart_blessing_description",
+      "eng": "Give a friendly minion, \"Zeal: Whenever this minion deals damage, draw a card.\"",
+      "chi": "使一个友方随从获得\"热诚：每当此随从造成伤害，抽1张牌\"。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_sun_bloom_name",
+      "eng": "Sun Bloom",
+      "chi": "烈日怒放",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_sun_bloom_description",
+      "eng": "Dispel a 2x2 area.",
+      "chi": "驱散战场2x2区域。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_true_strike_name",
+      "eng": "True Strike",
+      "chi": "至真一击",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_true_strike_description",
+      "eng": "Deal 2 damage to a minion.",
+      "chi": "对目标随从造成2点伤害。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_circle_of_life_name",
+      "eng": "Circle of Life",
+      "chi": "生命循环",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_circle_of_life_description",
+      "eng": "Deal 5 damage to an enemy minion. Restore 5 Health to your General.",
+      "chi": "对一个随从造成5点伤害，为你的将领治疗5点生命。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_beam_shock_name",
+      "eng": "Beam Shock",
+      "chi": "震荡波",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_beam_shock_description",
+      "eng": "Stun an enemy.",
+      "chi": "眩晕目标敌方单位。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_holy_immolation_name",
+      "eng": "Holy Immolation",
+      "chi": "圣祭",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_holy_immolation_description",
+      "eng": "Restore 4 Health to a friendly minion. Deal 4 damage to enemies around it.",
+      "chi": "治疗目标友方随从4点生命，对其相邻的敌方单位造成4点伤害。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_divine_bond_name",
+      "eng": "Divine Bond",
+      "chi": "神圣纽带",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_divine_bond_description",
+      "eng": "Give a minion +Attack equal to its Health.",
+      "chi": "使一个随从获得等同其生命的攻击。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_aegis_barrier_name",
+      "eng": "Aegis Barrier",
+      "chi": "宙斯盾屏障",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_aegis_barrier_description",
+      "eng": "Choose a friendly minion. It can't be targeted by enemy spells. Draw a card.",
+      "chi": "使一个友方随从无法成为敌方法术的目标，抽一张牌。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_aerial_rift_name",
+      "eng": "Aerial Rift",
+      "chi": "时空裂隙",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_aerial_rift_description",
+      "eng": "Give your minions Airdrop this turn.  Draw a card.",
+      "chi": "你本回合使用的随从具有空降，抽一张牌。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_magnetize_name",
+      "eng": "Magnetize",
+      "chi": "吸引",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_magnetize_description",
+      "eng": "Pull ANY minion to the space in front of your General.",
+      "chi": "将一个随从传送至你的将领的正前方。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_ironcliffe_heart_name",
+      "eng": "Ironcliffe Heart",
+      "chi": "铁壁之心",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_ironcliffe_heart_description",
+      "eng": "Transform a friendly minion into an Ironcliffe Guardian.",
+      "chi": "将一个友方随从变形为铁壁守护者(3/10 空降 嘲讽)。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_sky_burial_name",
+      "eng": "Sky Burial",
+      "chi": "天葬",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_sky_burial_description",
+      "eng": "Destroy a minion that is not nearby any General.",
+      "chi": "摧毁目标不与将领相邻的随从。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_afterblaze_name",
+      "eng": "Afterblaze",
+      "chi": "热情高涨",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_afterblaze_description",
+      "eng": "Give a friendly minion +2/+4. If that minion has Zeal, draw a card.",
+      "chi": "使一个友方随从获得 +2/+4，如果该随从具有热诚则抽一张牌。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_fighting_spirit_name",
+      "eng": "Fighting Spirit",
+      "chi": "斗志",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_fighting_spirit_description",
+      "eng": "Give all friendly minions +1 Health. Put a random Battle Pet into your action bar.",
+      "chi": "使所有友方随从获得 +1/+0。在你的准备栏放置一张随机战宠。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_lucent_beam_name",
+      "eng": "Lucent Beam",
+      "chi": "明光照射",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_lucent_beam_description",
+      "eng": "Deal 2 damage to an enemy. If anything was healed this turn, deal 4 damage instead.",
+      "chi": "对一个敌方单位造成2点伤害。如果本回合曾有过治疗，则改为4点伤害。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_sky_phalanx_name",
+      "eng": "Sky Phalanx",
+      "chi": "天降奇兵",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_sky_phalanx_description",
+      "eng": "Summon three Silverguard Knights nearby your General.",
+      "chi": "在你的将领相邻格子召唤三个银卫骑士(1/5，嘲讽，热诚：获得+2/+0)。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_draining_wave_name",
+      "eng": "Draining Wave",
+      "chi": "喷射波",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_draining_wave_desc",
+      "eng": "Deal 4 damage to a minion AND your General.",
+      "chi": "对一个随从造成4伤害，对你的将领造成4点伤害。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_prism_barrier_name",
+      "eng": "Prism Barrier",
+      "chi": "棱镜屏障",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_prism_barrier_desc",
+      "eng": "Give a friendly minion Forcefield.",
+      "chi": "使一个随从获得力场。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_trinity_oath_name",
+      "eng": "Trinity Oath",
+      "chi": "圣三一誓言",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_trinity_oath_desc",
+      "eng": "Draw 3 cards and restore 3 Health to your General.",
+      "chi": "抽三张牌，治疗你的将领3点生命。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_life_coil_name",
+      "eng": "Life Coil",
+      "chi": "生机环绕",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_life_coil_desc",
+      "eng": "Double a minion's Health.",
+      "chi": "使一个随从的生命翻倍。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_empyreal_congregation_name",
+      "eng": "Empyreal Congregation",
+      "chi": "神圣集会",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_empyreal_congregation_desc",
+      "eng": "Give friendly minions in a 2x2 area +2/+2.",
+      "chi": "使目标2x2区域内的友方随从获得 +2/+2。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_sanctify_name",
+      "eng": "Sanctify",
+      "chi": "神化",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_sanctify_desc",
+      "eng": "Give a friendly minion +1/+1 and turn its space into Hallowed Ground.",
+      "chi": "使一个友方随从获得 +1/+1，将其所在位置变为圣地。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_channeled_breath_name",
+      "eng": "Channeled Breath",
+      "chi": "同袍同泽",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_channeled_breath_desc",
+      "eng": "Restore 2 Health to your General for each friendly minion.",
+      "chi": "每存在一个友方随从就治疗你的将领2点生命。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_aperions_claim_name",
+      "eng": "Aperion's Claim",
+      "chi": "圣树的宣示",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_aperions_claim_desc",
+      "eng": "Destroy ALL minions in a 3x3 area and turn their spaces into Hallowed Ground.",
+      "chi": "消灭目标3x3区域内的所有友方随从，并将这个区域内的格子变为圣地。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_vale_ascension_name",
+      "eng": "Vale Ascension",
+      "chi": "溪谷赐福",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_vale_ascension_desc",
+      "eng": "Summon a friendly non-token minion destroyed this game onto friendly Hallowed Ground.",
+      "chi": "在目标友方圣地上召唤一个被摧毁的非衍生己方随从。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_fortified_assault_name",
+      "eng": "Fortified Assault",
+      "chi": "合力一击",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_fortified_assault_desc",
+      "eng": "Turn an enemy minion's space into Hallowed Ground. Deal it 1 damage for each friendly Hallowed Ground.",
+      "chi": "将目标敌方随从所在位置变为圣地，然后每有一个圣地就对目标造成1点伤害。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_steadfast_formation_name",
+      "eng": "Steadfast Formation",
+      "chi": "变阵御敌",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_steadfast_formation_desc",
+      "eng": "Give friendly minions in a 2x2 area Provoke.",
+      "chi": "使目标2x2区域内的友方随从获得嘲讽。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_dauntless_advance_name",
+      "eng": "Dauntless Advance",
+      "chi": "无畏进军",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_dauntless_advance_desc",
+      "eng": "Your General and nearby friendly minions gain, \"Takes no damage this turn.\"",
+      "chi": "你的将领和将领相邻的随从直到回合结束不会受到伤害。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_fealty_name",
+      "eng": "Fealty",
+      "chi": "忠诚",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_fealty_desc",
+      "eng": "Draw a card for each friendly minion nearby your General.",
+      "chi": "你的将领每有一个相邻的己方随从就使你抽一张牌。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_sunstrike_name",
+      "eng": "Sunstrike",
+      "chi": "晖击",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_sunstrike_desc",
+      "eng": "Deal 3 damage to enemies and restore 3 Health to friendly minions and Generals in a row.",
+      "chi": "选择战场上的一行，对该行上所有敌方单位造成3点伤害，所有友方单位治疗3点生命。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_invincible_name",
+      "eng": "Invincible",
+      "chi": "万夫莫敌",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_invincible_desc",
+      "eng": "Give a friendly minion with full Health +4/+4.",
+      "chi": "治愈一个友方随从并使其获得 +4/+4。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    }
+  ]
+}

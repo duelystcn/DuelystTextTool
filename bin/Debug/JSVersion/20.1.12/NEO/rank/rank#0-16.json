@@ -1,0 +1,128 @@
+{
+  "versionCode": "20.1.12",
+  "nodeCode": "rank",
+  "path": "rank",
+  "orderStart": 0,
+  "orderEnd": 16,
+  "translateItemList": [
+    {
+      "code": "rank",
+      "eng": "Rank",
+      "chi": "天梯",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "division",
+      "eng": "Division",
+      "chi": "段位",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "season",
+      "eng": "Season",
+      "chi": "赛季",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "win_streak_message",
+      "eng": "{{win_count}} wins in a row! +1 BONUS CHEVRON",
+      "chi": "{{win_count}} 连胜中! +1天梯胜点",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "next_division_message",
+      "eng": "You will reach {{division_name}} at Rank {{rank}}",
+      "chi": "在天梯等级{{rank}}后你将到达{{division_name}} ",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "bronze_division_name",
+      "eng": "Bronze",
+      "chi": "青铜",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "silver_division_name",
+      "eng": "Silver",
+      "chi": "白银",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "gold_division_name",
+      "eng": "Gold",
+      "chi": "黄金",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "diamond_division_name",
+      "eng": "Diamond",
+      "chi": "钻石",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "elite_division_name",
+      "eng": "S-Rank",
+      "chi": "S级榜单",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "end_of_ranked_season_title",
+      "eng": "RANKED SEASON REWARD",
+      "chi": "天梯赛季奖励",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "current_rank_message",
+      "eng": "RANK {{rank}}",
+      "chi": "天梯{{rank}}",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "current_division_message",
+      "eng": "{{division}} DIVISION",
+      "chi": "{{division}}段位",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "month_year_season_message",
+      "eng": "{{month}} {{year}}",
+      "chi": "{{year}} {{month}}",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "last_season_ranked_earned_message",
+      "eng": "Your rank from last season earned you",
+      "chi": "你上赛季的排名为你赢得了",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "bonus_chevrons_message",
+      "eng": "BONUS CHEVRONS",
+      "chi": "天梯胜点",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "season_has_begun_message",
+      "eng": "The {{month}} Season {{year}} has begun!",
+      "chi": "{{year}}年{{month}}月的赛季现在开始！",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    }
+  ]
+}

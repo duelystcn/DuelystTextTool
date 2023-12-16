@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.18",
+  "nodeCode": "cards",
+  "path": "cards",
+  "orderStart": 700,
+  "orderEnd": 799,
+  "translateItemList": [
+    {
+      "code": "d2_neutral_dioltas_tombstone_name",
+      "eng": "Tombstone",
+      "chi": "墓碑",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_dioltas_tombstone_desc",
+      "eng": "Provoke",
+      "chi": "嘲讽",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_minijax_name",
+      "eng": "Mini-Jax",
+      "chi": "小杰斯",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_minijax_desc",
+      "eng": "Ranged",
+      "chi": "远程",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_pandora_frenzy_name",
+      "eng": "Rage",
+      "chi": "狂心幻兽",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_pandora_frenzy_desc",
+      "eng": "Frenzy",
+      "chi": "狂暴",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_pandora_ranged_name",
+      "eng": "Envy",
+      "chi": "妒心幻兽",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_pandora_ranged_desc",
+      "eng": "Ranged",
+      "chi": "远程",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_pandora_flying_name",
+      "eng": "Serenity",
+      "chi": "宁心幻兽",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_pandora_flying_desc",
+      "eng": "Flying",
+      "chi": "飞行",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_pandora_celerity_name",
+      "eng": "Wrath",
+      "chi": "怒心幻兽",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_pandora_celerity_desc",
+      "eng": "Celerity",
+      "chi": "迅捷",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_pandora_provoke_name",
+      "eng": "Fear",
+      "chi": "惧心幻兽",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_pandora_provoke_desc",
+      "eng": "Provoke",
+      "chi": "嘲讽",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_mechaz0r_name",
+      "eng": "MECHAZ0R!!",
+      "chi": "决战兵器原型机！！",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_mechaz0r_desc",
+      "eng": "Airdrop, Frenzy, Ranged, Veil",
+      "chi": "空降，狂暴，远程，帷幕",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "d2_frostfire_imp_name",
+      "eng": "Frostfire Imp",
+      "chi": "霜火精灵",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "d2_frostfire_snowchser_name",
+      "eng": "Frostfire Snowchaser",
+      "chi": "霜火寻雪精灵",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "d2_frostfire_tiger_name",
+      "eng": "Frostfire Tiger",
+      "chi": "霜火虎",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_aer_pridebeak_name",
+      "eng": "Owlbeast Adept",
+      "chi": "枭兽精英",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_aer_pridebeak_desc",
+      "eng": "When you play a spell, this gains +0/+1. When your opponent plays a spell, this gains +1/+0.",
+      "chi": "当你使用一张法术时，\n此随从获得+0/+1。\n当对手使用一张法术时，\n此随从获得+1/+0。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_alter_rexx_name",
+      "eng": "Chewey",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_alter_rexx_desc",
+      "eng": "After this destroys a minion, it gains attack equal to the attack that minion had, and the ability of that minion.",
+      "chi": "当此随从摧毁一个随从后，\n获得该随从的攻击与效果。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_riftwalker_name",
+      "eng": "Riftwalker",
+      "chi": "裂隙行者",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_riftwalker_desc",
+      "eng": "Airdrop\nOpening Gambit: Deal 2 damage to the nearest unit in front, behind, above, and below this.",
+      "chi": "空降\n登场：对此随从前方，\n上方，后方，下方最近的\n单位造成2点伤害。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_worldcore_golem_name",
+      "eng": "Worldcore Golem",
+      "chi": "地核魔像",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_worldcore_golem_desc",
+      "eng": "This card costs 1 less for each enemy minion and 1 more for each allied minion.",
+      "chi": "每有一个敌方随从费用减1，\n每有一个友方随从费用加1。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_matter_shaper_name",
+      "eng": "Mana Artificer",
+      "chi": "魔能技工",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_matter_shaper_desc",
+      "eng": "Dying Wish: Create a Mana Spring tile on this space.",
+      "chi": "死愿：在所在位置创造\n一个魔泉。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_capricious_marauder_name",
+      "eng": "Capricious Marauder",
+      "chi": "任性掠夺者",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_capricious_marauder_desc",
+      "eng": "After this attacks an enemy, destroy enemy minions diagonal from that enemy.",
+      "chi": "此随从攻击后，消灭被攻击\n单位对角线方向的所有敌方\n随从。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_sinister_silhouette_name",
+      "eng": "Sinister Silhouette",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_sinister_silhouette_desc",
+      "eng": "Backer Design: Khoa",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_theobule_name",
+      "eng": "Dezark",
+      "chi": "德扎克",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_theobule_desc",
+      "eng": "At the end of your turn, draw an additional card.",
+      "chi": "在你的回合结束时，\n额外抽一张牌。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_boulder_breacher_name",
+      "eng": "Boulder Breacher",
+      "chi": "碎岩魔像",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_boulder_breacher_desc",
+      "eng": "Opening Gambit: Deal 3 damage to other allied Golems and all units nearby them.",
+      "chi": "登场：对其他友方魔像\n及与这些魔像相邻的单\n位造成3点伤害。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_rawr_name",
+      "eng": "R.A.W.R",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_rawr_desc",
+      "eng": "Ranged\nAfter this attacks an enemy, it teleports to the space directly behind that enemy.",
+      "chi": "当此随从攻击敌方单位后，\n将此随从传送到该敌方单\n位正后方。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_metaltooth_name",
+      "eng": "Metaltooth",
+      "chi": "钢牙",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_metaltooth_desc",
+      "eng": "Frenzy\nThis has Rush if you control another Mech.",
+      "chi": "狂暴\n当你控制其他机兵时\n此随从具有冲锋。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_carcynus_name",
+      "eng": "Decapotheosis",
+      "chi": "十足蟹",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_carcynus_desc",
+      "eng": "Veil\nAfter this takes damage, summon an exact copy of it nearby.",
+      "chi": "帷幕\n当此随从受到伤害后，\n在相邻位置召唤一个\n此随从的精准复制。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_bloodbound_mentor_name",
+      "eng": "Bloodbound Mentor",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_bloodbound_mentor_desc",
+      "eng": "Opening Gambit: If you played a spell this turn, deal 2 damage to a unit.",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_adrian_name",
+      "eng": "Fault Designer Adiran",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_adrian_desc",
+      "eng": "When you replace a card or play a spell, deal 1 damage to enemies in the same column as this.",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_nimbusXII_name",
+      "eng": "Nebula",
+      "chi": "星云魔像",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_nimbusXII_desc",
+      "eng": "Airdrop\nThis has Rush if you control another Golem.",
+      "chi": "空降\n当你控制其他魔像时\n此随从具有冲锋。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_calvin_name",
+      "eng": "Double Agent",
+      "chi": "双料特工",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_calvin_desc",
+      "eng": "Opening Gambit: Draw a card from your opponent's deck and reveal it.\nDying Wish: Shuffle this into your opponent's deck.",
+      "chi": "登场：从对手的牌库中\n抽一张牌并展示。\n死愿：将此随从洗入\n对手牌库。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_eric_name",
+      "eng": "Isbee's Monument",
+      "chi": "伊斯比纪念碑",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_eric_desc",
+      "eng": "At the end of each turn, this gains -0/-2 and heals both Generals for 2.",
+      "chi": "在每个回合结束时，\n此随从获得 -0/-2，\n治疗所有将领2点生命。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_fate_name",
+      "eng": "Temporal Sage, Lily",
+      "chi": "时空贤者 百合",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_fate_desc",
+      "eng": "Opening Gambit: Teleport the minion in front of this back 1 space. If a unit occupies that space, deal 2 damage to both instead.",
+      "chi": "登场：将此随从正前方的\n随从向后传送一格，若目\n标位置被占据，则对两者\n各造成2点伤害。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_khoa_name",
+      "eng": "Khoa",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_khoa_desc",
+      "eng": "Backer New Card: Khoa",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_krazed_name",
+      "eng": "Krazed",
+      "chi": "克拉泽德",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_krazed_desc",
+      "eng": "This has Veil and Frenzy if you have 9+ mana crystals.",
+      "chi": "当你拥有9+法力水晶时，\n此随从具有帷幕和狂暴。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_dreamsloth_name",
+      "eng": "Slothguard Letharus",
+      "chi": "树懒守卫 莱萨鲁斯",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_dreamsloth_desc",
+      "eng": "Provoke\nOpening Gambit: Create a Ruby Aura, Emerald Aura, and Sapphire Aura nearby.",
+      "chi": "嘲讽\n登场：在相邻位置创造红\n宝石光环，绿宝石光环，\n蓝宝石光环各一个（地形）",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "building_name",
+      "eng": "Building",
+      "chi": "生产中",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_roar_name",
+      "eng": "Roar",
+      "chi": "战吼",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_roar_description",
+      "eng": "Give a friendly minion nearby your General +2 Attack.",
+      "chi": "使与你将领相邻的一个友方\n随从获得 +2/+0。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_afterglow_name",
+      "eng": "Afterglow",
+      "chi": "余辉",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_afterglow_description",
+      "eng": "Restore 3 Health to any Minion.",
+      "chi": "治疗一个随从3点生命。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_sundrop_elixir_name",
+      "eng": "Sundrop Elixir",
+      "chi": "落日灵药",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_sundrop_elixir_description",
+      "eng": "Restore 5 Health to anything.",
+      "chi": "治疗一个单位5点生命。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_tempest_name",
+      "eng": "Tempest",
+      "chi": "风暴",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_tempest_description",
+      "eng": "Deal 2 damage to everything.",
+      "chi": "对所有单位造成2点伤害。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_decimate_name",
+      "eng": "Decimate",
+      "chi": "灭杀",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_decimate_description",
+      "eng": "Destroy ALL minions that are not nearby any General.",
+      "chi": "摧毁所有不与将领相邻的随从。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_auryn_nexus_name",
+      "eng": "Auryn Nexus",
+      "chi": "护符联结",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_auryn_nexus_description",
+      "eng": "Give a friendly minion +3 Health.",
+      "chi": "使一个随从获得 +0/+3。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_lasting_judgement_name",
+      "eng": "Lasting Judgement",
+      "chi": "永恒审判",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_lasting_judgement_description",
+      "eng": "Give ANY minion +3 Attack, but -3 Health.",
+      "chi": "使一个随从获得+3/-3。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_martyrdom_name",
+      "eng": "Martyrdom",
+      "chi": "牺牲",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_martyrdom_description",
+      "eng": "Destroy ANY minion. Restore that minion's Health to its General.",
+      "chi": "摧毁任意一个随从，为其将军治疗等同于该随从生命值的生命。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_war_surge_name",
+      "eng": "War Surge",
+      "chi": "战意涌动",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_war_surge_description",
+      "eng": "Give all friendly minions +1/+1.",
+      "chi": "使所有友方随从获得+1/+1。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_lionheart_blessing_name",
+      "eng": "Lionheart Blessing",
+      "chi": "狮心祝福",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_lionheart_blessing_description",
+      "eng": "Give a friendly minion, \"Zeal: Whenever this minion deals damage, draw a card.\"",
+      "chi": "使一个友方随从获得\"热诚：每当此随从造成伤害，抽1张牌\"。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_sun_bloom_name",
+      "eng": "Sun Bloom",
+      "chi": "烈日怒放",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_sun_bloom_description",
+      "eng": "Dispel a 2x2 area.",
+      "chi": "驱散战场2x2区域。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_true_strike_name",
+      "eng": "True Strike",
+      "chi": "至真一击",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_true_strike_description",
+      "eng": "Deal 2 damage to a minion.",
+      "chi": "对目标随从造成2点伤害。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_circle_of_life_name",
+      "eng": "Circle of Life",
+      "chi": "生命循环",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_circle_of_life_description",
+      "eng": "Deal 5 damage to an enemy minion. Restore 5 Health to your General.",
+      "chi": "对一个随从造成5点伤害，为你的将领治疗5点生命。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_beam_shock_name",
+      "eng": "Beam Shock",
+      "chi": "震荡波",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_beam_shock_description",
+      "eng": "Stun an enemy.",
+      "chi": "眩晕目标敌方单位。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_holy_immolation_name",
+      "eng": "Holy Immolation",
+      "chi": "圣祭",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_holy_immolation_description",
+      "eng": "Restore 4 Health to a friendly minion. Deal 4 damage to enemies around it.",
+      "chi": "治疗目标友方随从4点生命，对其相邻的敌方单位造成4点伤害。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_divine_bond_name",
+      "eng": "Divine Bond",
+      "chi": "神圣纽带",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_divine_bond_description",
+      "eng": "Give a minion +Attack equal to its Health.",
+      "chi": "使一个随从获得等同其生命的攻击。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_aegis_barrier_name",
+      "eng": "Aegis Barrier",
+      "chi": "宙斯盾屏障",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_aegis_barrier_description",
+      "eng": "Choose a friendly minion. It can't be targeted by enemy spells. Draw a card.",
+      "chi": "使一个友方随从无法成为敌方法术的目标，抽一张牌。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_aerial_rift_name",
+      "eng": "Aerial Rift",
+      "chi": "时空裂隙",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_aerial_rift_description",
+      "eng": "Give your minions Airdrop this turn.  Draw a card.",
+      "chi": "你本回合使用的随从具有空降，抽一张牌。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_magnetize_name",
+      "eng": "Magnetize",
+      "chi": "吸引",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "faction_1_spell_magnetize_description",
+      "eng": "Pull ANY minion to the space in front of your General.",
+      "chi": "将一个随从传送至你的将领的正前方。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    }
+  ]
+}

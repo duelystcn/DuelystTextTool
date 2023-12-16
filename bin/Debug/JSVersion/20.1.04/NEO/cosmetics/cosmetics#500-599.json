@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.04",
+  "nodeCode": "cosmetics",
+  "path": "cosmetics",
+  "orderStart": 500,
+  "orderEnd": 599,
+  "translateItemList": [
+    {
+      "code": "emote_reva_sleep_name",
+      "eng": "Sleepy Reva",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_reva_sleep_desc",
+      "eng": "Going to pass out.",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_reva_sunglasses_name",
+      "eng": "Fun Reva",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_reva_sunglasses_desc",
+      "eng": "Need a break from Killing Edge.",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_reva_angry_name",
+      "eng": "Angry Reva",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_reva_angry_desc",
+      "eng": "Grrrr...",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_reva_love_name",
+      "eng": "<3 Reva",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_reva_love_desc",
+      "eng": "A kiss for you!",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_shidai_wink_name",
+      "eng": "Winking Shidai",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_shidai_wink_desc",
+      "eng": "Wink",
+      "chi": "Wink",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "emote_shidai_happy_name",
+      "eng": "Happy Shidai",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_shidai_happy_desc",
+      "eng": "Happy",
+      "chi": "开心",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "emote_shidai_confused_name",
+      "eng": "Confused Shidai",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_shidai_confused_desc",
+      "eng": "Confused",
+      "chi": "困惑",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "emote_shidai_sad_name",
+      "eng": "Sad Shidai",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_shidai_sad_desc",
+      "eng": "Sad",
+      "chi": "悲伤",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "emote_shidai_frustrated_name",
+      "eng": "Frustrated Shidai",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_shidai_frustrated_desc",
+      "eng": "Frustrated",
+      "chi": "沮丧",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "emote_shidai_surprised_name",
+      "eng": "Surprised Shidai",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_shidai_surprised_desc",
+      "eng": "Surprised",
+      "chi": "惊讶",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "emote_shidai_bow_name",
+      "eng": "Bowing Shidai",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_shidai_bow_desc",
+      "eng": "Bow",
+      "chi": "鞠躬",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "emote_shidai_sleep_name",
+      "eng": "Sleepy Shidai",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_shidai_sleep_desc",
+      "eng": "Sleep",
+      "chi": "困乏",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "emote_shidai_sunglasses_name",
+      "eng": "Sunglasses Shidai",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_shidai_sunglasses_desc",
+      "eng": "Sunglasses",
+      "chi": "太阳镜",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "emote_shidai_angry_name",
+      "eng": "Angry Shidai",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_shidai_angry_desc",
+      "eng": "Angry",
+      "chi": "生气",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "emote_shidai_love_name",
+      "eng": "Kiss Shidai",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_shidai_love_desc",
+      "eng": "Kiss",
+      "chi": "吻",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "emote_sajj_wink_name",
+      "eng": "Winking Scioness",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_sajj_wink_desc",
+      "eng": "Wink wink!",
+      "chi": "Wink wink!",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "emote_sajj_happy_name",
+      "eng": "Happy Scioness",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_sajj_happy_desc",
+      "eng": "W00t!",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_sajj_angry_name",
+      "eng": "Upset Scioness",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_sajj_angry_desc",
+      "eng": "Not a happy Scioness.",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_sajj_sad_name",
+      "eng": "Sad Scioness",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_sajj_sad_desc",
+      "eng": "Even I can cry.",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_sajj_frustrated_name",
+      "eng": "Frustrated Scioness",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_sajj_frustrated_desc",
+      "eng": "I learned this from Zirix.",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_sajj_surprised_name",
+      "eng": "Surprised Scioness",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_sajj_surprised_desc",
+      "eng": "How did that happen?",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_sajj_bow_name",
+      "eng": "Bowing Scioness",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_sajj_bow_desc",
+      "eng": "I honor you.",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_sajj_sleep_name",
+      "eng": "Sleepy Scioness",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_sajj_sleep_desc",
+      "eng": "I need to recharge.",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_sajj_sunglasses_name",
+      "eng": "Sunglasses Scioness",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_sajj_sunglasses_desc",
+      "eng": "Helps in the blistering heat of Akram.",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_sajj_confused_name",
+      "eng": "Confused Scioness",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_sajj_confused_desc",
+      "eng": "'Does not compute.'",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_sajj_love_name",
+      "eng": "Kissing Scioness",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_sajj_love_desc",
+      "eng": "I <3 you.",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_ciphyron_wink_name",
+      "eng": "Winking Ciphyron",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_ciphyron_wink_desc",
+      "eng": "Wink",
+      "chi": "Wink",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "emote_ciphyron_happy_name",
+      "eng": "Happy Ciphyron",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_ciphyron_happy_desc",
+      "eng": "Happy",
+      "chi": "开心",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "emote_ciphyron_angry_name",
+      "eng": "Angry Ciphyron",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_ciphyron_angry_desc",
+      "eng": "Angry",
+      "chi": "生气",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "emote_ciphyron_sad_name",
+      "eng": "Sad Ciphyron",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_ciphyron_sad_desc",
+      "eng": "Sad",
+      "chi": "悲伤",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "emote_ciphyron_frustrated_name",
+      "eng": "Frustrated Ciphyron",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_ciphyron_frustrated_desc",
+      "eng": "Frustrated",
+      "chi": "沮丧",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "emote_ciphyron_surprised_name",
+      "eng": "Surprised Ciphyron",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_ciphyron_surprised_desc",
+      "eng": "Surprised",
+      "chi": "惊讶",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "emote_ciphyron_bow_name",
+      "eng": "Bowing Ciphyron",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_ciphyron_bow_desc",
+      "eng": "Bow",
+      "chi": "鞠躬",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "emote_ciphyron_sleep_name",
+      "eng": "Sleepy Ciphyron",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_ciphyron_sleep_desc",
+      "eng": "Sleep",
+      "chi": "困乏",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "emote_ciphyron_sunglasses_name",
+      "eng": "Sunglasses Ciphyron",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_ciphyron_sunglasses_desc",
+      "eng": "Sunglasses",
+      "chi": "太阳镜",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "emote_ciphyron_confused_name",
+      "eng": "Confused Ciphyron",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_ciphyron_confused_desc",
+      "eng": "'Confused'",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_ciphyron_love_name",
+      "eng": "Kissing Ciphyron",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_ciphyron_love_desc",
+      "eng": "Kiss",
+      "chi": "吻",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "emote_cassyva_wink_name",
+      "eng": "Winking Cassyva",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_cassyva_wink_desc",
+      "eng": "Winky wink!",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_cassyva_happy_name",
+      "eng": "Happy Cassyva",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_cassyva_happy_desc",
+      "eng": "Happy Happy Joy Joy.",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_cassyva_angry_name",
+      "eng": "Angry Cassyva",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_cassyva_angry_desc",
+      "eng": "Do you want another Shadow Nova?",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_cassyva_sad_name",
+      "eng": "Sad Cassyva",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_cassyva_sad_desc",
+      "eng": "My heart is soulshattered.",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_cassyva_frustrated_name",
+      "eng": "Frustrated Cassyva",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_cassyva_frustrated_desc",
+      "eng": "Grasp of Agony!",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_cassyva_surprised_name",
+      "eng": "Surprised Cassyva",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_cassyva_surprised_desc",
+      "eng": "Wow...",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_cassyva_bow_name",
+      "eng": "Bowing Cassyva",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_cassyva_bow_desc",
+      "eng": "I honor you.",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_cassyva_sleep_name",
+      "eng": "Sleepy Cassyva",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_cassyva_sleep_desc",
+      "eng": "Sleep my little Wraithlings...",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_cassyva_sunglasses_name",
+      "eng": "Sunglasses Cassyva",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_cassyva_sunglasses_desc",
+      "eng": "Harder to see in the dark...",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_cassyva_confused_name",
+      "eng": "Confused Cassyva",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_cassyva_confused_desc",
+      "eng": "Not sure what happened.",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_cassyva_love_name",
+      "eng": "Kissing Cassyva",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_cassyva_love_desc",
+      "eng": "My own Daemonic Lure!",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_maehv_wink_name",
+      "eng": "Winking Maehv",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_maehv_wink_desc",
+      "eng": "Wink",
+      "chi": "Wink",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    },
+    {
+      "code": "emote_maehv_happy_name",
+      "eng": "Happy Maehv",
+      "chi": "",
+      "originVersionCode": "20.1.04",
+      "translateState": 0
+    },
+    {
+      "code": "emote_maehv_happy_desc",
+      "eng": "Happy",
+      "chi": "开心",
+      "originVersionCode": "20.1.03",
+      "translateState": 4
+    }
+  ]
+}

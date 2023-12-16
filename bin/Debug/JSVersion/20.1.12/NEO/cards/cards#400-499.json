@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.12",
+  "nodeCode": "cards",
+  "path": "cards",
+  "orderStart": 400,
+  "orderEnd": 499,
+  "translateItemList": [
+    {
+      "code": "d2_faction_6_spell_mesmerize_description",
+      "eng": "Deal 3 damage to enemy minions on a column and Stun them.",
+      "chi": "对战场一列上的敌方随从\n造成3点伤害并眩晕。",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_spell_mark_of_solitude_name",
+      "eng": "Mark of Solitude",
+      "chi": "孤独印记",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_spell_mark_of_solitude_description",
+      "eng": "Give a minion \"This cannot attack Generals\". It becomes 5/5.",
+      "chi": "使一个随从变成5/5，\n该随从获得\"无法攻击将领\"。",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_spell_aspect_of_the_fox_name",
+      "eng": "Aspect of the Fox",
+      "chi": "狐之形",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_spell_aspect_of_the_fox_description",
+      "eng": "Transform a minion into a Fox Ravager.",
+      "chi": "将一个随从变形为掠形狐(3/3)。",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_spell_aspect_of_the_drake_name",
+      "eng": "Aspect of the Wyrm",
+      "chi": "龙之形",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_spell_aspect_of_the_drake_description",
+      "eng": "Transform a minion into a Whyte Wyrm and give allied minions nearby it Flying.",
+      "chi": "将一个随从变形为白龙(4/4 \n飞行)，使相邻的友方随从\n获得飞行。",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_spell_aspect_of_the_mountains_name",
+      "eng": "Aspect of the Mountains",
+      "chi": "山之形",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_spell_aspect_of_the_mountains_description",
+      "eng": "Transform a minion into a Seismic Elemental and deal 5 damage to enemy minions nearby it.",
+      "chi": "将一个随从变形为地动元\n素(5/5)，对其相邻的敌\n方随从造成5点伤害。",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_spell_polarity_name",
+      "eng": "Polarity",
+      "chi": "两极反转",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_spell_polarity_description",
+      "eng": "Swap a minion's Attack and Health.",
+      "chi": "交换一个随从的生命和攻击。",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_spell_hailstone_prison_name",
+      "eng": "Hailstone Prison",
+      "chi": "冰砖监牢",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_spell_hailstone_prison_description",
+      "eng": "Return a minion to its owner's action bar.",
+      "chi": "将一个随从返回其\n所有者的准备栏。",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_spell_spirit_of_the_wild_name",
+      "eng": "Spirit of the Wild",
+      "chi": "野性之魂",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_spell_spirit_of_the_wild_description",
+      "eng": "Activate allied units on your opponent's starting side of the battlefield.",
+      "chi": "激活所有位于你对手\n半场的友方单位。",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_spell_cryogenesis_name",
+      "eng": "Cryogenesis",
+      "chi": "制冷术",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_spell_cryogenesis_description",
+      "eng": "Deal 4 damage to a minion. Draw a Vespyr.",
+      "chi": "对一个随从造成4点伤害。\n抽取一张霜灵。",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_artifact_snowpiercer_name",
+      "eng": "Snowpiercer",
+      "chi": "贯雪箭",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_artifact_snowpiercer_description",
+      "eng": "Your General has +3/+0.\nWhen your General attacks a minion, deal 1 damage to the enemy General.",
+      "chi": "你的将领具有 +3/+0。\n每当你的将领攻击一个随从，\n对敌方将领造成1点伤害。",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_artifact_coldbiter_name",
+      "eng": "Coldbiter",
+      "chi": "冰咬",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_artifact_coldbiter_description",
+      "eng": "At the end of your turn, your General deals 2 damage to nearby enemy minions.",
+      "chi": "在你的回合结束时，你的将\n领对其相邻的所有敌方随从\n造成2点伤害。",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_artifact_winterblade_name",
+      "eng": "Winterblade",
+      "chi": "冻刃剑",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_artifact_winterblade_description",
+      "eng": "Your General has +1/+0.\nWhen this is destroyed, give your General \"This takes no damage\" until your next turn.",
+      "chi": "你的将领具有 +1/+0。\n当此神器被摧毁时，你的将\n领直到你的下个回合开始不\n会受到伤害。",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_unit_faie_name",
+      "eng": "Faie Bloodwing",
+      "chi": "血翼 费伊",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_unit_faie_desc",
+      "eng": "",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_unit_kara_name",
+      "eng": "Kara Winterblade",
+      "chi": "冻刃 卡拉",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_unit_kara_desc",
+      "eng": "",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_unit_ilena_name",
+      "eng": "Ilena Cryobyte",
+      "chi": "冰晶 伊莲娜",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_unit_ilena_desc",
+      "eng": "",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_unit_snow_chaser_name",
+      "eng": "Snow Chaser",
+      "chi": "寻雪精灵",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_unit_snow_chaser_desc",
+      "eng": "Infiltrate: Dying Wish: Put a copy of this into your action bar.",
+      "chi": "渗透：死愿：复制此随从\n并置入你的准备栏。",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_unit_borean_bear_name",
+      "eng": "Borean Bear",
+      "chi": "寒风熊",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_unit_borean_bear_desc",
+      "eng": "This has +1/+0 for each allied Wall.",
+      "chi": "每存在一个友方墙，此随从\n具有 +1/+0。",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_unit_crystal_cloaker_name",
+      "eng": "Crystal Cloaker",
+      "chi": "冰晶拟态虫",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_unit_crystal_cloaker_desc",
+      "eng": "Infiltrate: +2/+0.",
+      "chi": "渗透：获得+2/+0。",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_unit_crystal_wisp_name",
+      "eng": "Crystal Wisp",
+      "chi": "冰晶灵",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_unit_crystal_wisp_desc",
+      "eng": "Dying Wish: Gain a mana crystal.",
+      "chi": "死愿：获得一个法力水晶。",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_unit_hearth_sister_name",
+      "eng": "Hearth-Sister",
+      "chi": "炉石修女",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_unit_hearth_sister_desc",
+      "eng": "Opening Gambit: This switches positions with another minion.",
+      "chi": "登场：与一个随从交换位置。",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_unit_fenrir_warmaster_name",
+      "eng": "Fenrir Warmaster",
+      "chi": "善战驯狼人",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_unit_fenrir_warmaster_desc",
+      "eng": "Dying Wish: Summon a Ghost Wolf on this space.",
+      "chi": "死愿：所在位置召唤\n一个妖狼(3/2)。",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_unit_glacial_elemental_name",
+      "eng": "Glacial Elemental",
+      "chi": "冰川元素",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_unit_glacial_elemental_desc",
+      "eng": "Infiltrate: When you summon a Vespyr, deal 2 damage to a random enemy minion.",
+      "chi": "渗透：每当你召唤一个\n霜灵，对一个随机的敌\n方随从造成2点伤害。",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_unit_wolfraven_name",
+      "eng": "Wolfraven",
+      "chi": "狼鸦",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_unit_wolfraven_desc",
+      "eng": "Flying\nThis takes no damage from units with 3 or more Attack.",
+      "chi": "飞行\n此随从不会受到攻击大于\n等于3点的单位造成的伤害\n（包括非战斗伤害）。",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_unit_razorback_name",
+      "eng": "Razorback",
+      "chi": "刀背兽",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_unit_razorback_desc",
+      "eng": "Opening Gambit: Give other allied minions +2/+0.",
+      "chi": "登场：所有友方其他随从\n获得 +2/+0。",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_unit_voice_of_the_wind_name",
+      "eng": "Voice of the Wind",
+      "chi": "风之声",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_unit_voice_of_the_wind_desc",
+      "eng": "When you play a minion, summon a Winter Maerid on a random nearby space.",
+      "chi": "每当你使用一张随从时，\n在相邻位置召唤一个\n冬妖(2/2 霜灵)。",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_unit_arctic_displacer_name",
+      "eng": "Arctic Displacer",
+      "chi": "极地幻兽",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_unit_arctic_displacer_desc",
+      "eng": "Airdrop",
+      "chi": "空降",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_unit_frosthorn_rhyno_name",
+      "eng": "Frosthorn Rhyno",
+      "chi": "霜角犀",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_unit_frosthorn_rhyno_desc",
+      "eng": "Infiltrate: +1/+0 and Celerity.",
+      "chi": "渗透：获得 +1/+0 和迅捷。",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_unit_draugar_lord_name",
+      "eng": "Draugar Lord",
+      "chi": "冰龙领主",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_unit_draugar_lord_desc",
+      "eng": "Opening Gambit: Transform allied Vespyrs into Ice Drakes until your next turn.",
+      "chi": "登场：将所有友方霜灵变形\n为冰龙(2/7)直到你的下个\n回合开始。",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_unit_ancient_grove_name",
+      "eng": "Ancient Grove",
+      "chi": "远古树精",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_unit_ancient_grove_desc",
+      "eng": "Provoke\nOpening Gambit: Give other allied minions \"Dying Wish: Summon a Treant on this space\".",
+      "chi": "嘲讽\n登场：其他友方随从获得\n\"死愿：在当前位置召唤一\n个树人(1/1 嘲讽)\"。",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_unit_winter_maerid_name",
+      "eng": "Winter Maerid",
+      "chi": "冬妖",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_unit_whyte_drake_name",
+      "eng": "Whyte Wyrm",
+      "chi": "白龙",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_unit_whyte_drake_desc",
+      "eng": "Flying",
+      "chi": "飞行",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_unit_seismic_elemental_name",
+      "eng": "Seismic Elemental",
+      "chi": "地动元素",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_unit_fox_ravager_name",
+      "eng": "Fox Ravager",
+      "chi": "掠形狐",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_unit_ghost_wolf_name",
+      "eng": "Ghost Wolf",
+      "chi": "妖狼",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_unit_ice_drake_name",
+      "eng": "Ice Drake",
+      "chi": "冰龙",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_unit_bonechill_barrier_name",
+      "eng": "Ice Barrier",
+      "chi": "冰栅",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_unit_bonechill_barrier_desc",
+      "eng": "Wall\nWhen a nearby minion damages this, Stun that minion.",
+      "chi": "墙\n眩晕对此随从造成伤害\n且相邻的随从。",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_unit_blazing_spines_name",
+      "eng": "Frigid Spines",
+      "chi": "冰锥",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_unit_blazing_spines_desc",
+      "eng": "Wall",
+      "chi": "墙",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_unit_gravity_well_name",
+      "eng": "Frost Well",
+      "chi": "霜冻井",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_unit_gravity_well_desc",
+      "eng": "Provoke\nWall",
+      "chi": "嘲讽\n墙",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_unit_treant_name",
+      "eng": "Treant",
+      "chi": "树人",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_unit_treant_desc",
+      "eng": "Provoke",
+      "chi": "嘲讽",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_bloodtear_alchemist_name",
+      "eng": "Bloodtear Alchemist",
+      "chi": "血泪炼金术士",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_bloodtear_alchemist_desc",
+      "eng": "Opening Gambit: Deal 1 damage to another unit.",
+      "chi": "登场：对一个其他单位\n造成1点伤害。",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_dragonlark_name",
+      "eng": "Dragonlark",
+      "chi": "龙雀",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_dragonlark_desc",
+      "eng": "Flying",
+      "chi": "飞行",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_dreamgazer_name",
+      "eng": "Dreamgazer",
+      "chi": "窥梦灵",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_dreamgazer_desc",
+      "eng": "When you replace this card, summon it on the space behind your General and deal 2 damage to your General.",
+      "chi": "当你替换此牌时，将其召唤\n在你的将领正后方，并对你\n的将领造成2点伤害。",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_helm_of_mechaz0r_name",
+      "eng": "Helm of MECHAZ0R",
+      "chi": "原型机的中枢",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_helm_of_mechaz0r_desc",
+      "eng": "Dying Wish: Progress your Mechaz0r build by 20%.",
+      "chi": "死愿：使你的决战兵器组装\n进度提高20%。",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_komodo_charger_name",
+      "eng": "Komodo Scavenger",
+      "chi": "食腐科莫多",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_komodo_charger_desc",
+      "eng": "This gains Attack equal to the cost of the next artifact you equip.",
+      "chi": "当你装备下一张神器时，此\n随从获得等同于该神器费用\n的攻击。",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_planar_scout_name",
+      "eng": "Planar Scout",
+      "chi": "相位斥候",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_planar_scout_desc",
+      "eng": "Airdrop",
+      "chi": "空降",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_prophet_of_the_white_palm_name",
+      "eng": "Prophet of the White Palm",
+      "chi": "白掌先知",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_prophet_of_the_white_palm_desc",
+      "eng": "Opening Gambit: Give all units \"This takes no damage from spells.\" until your next turn.",
+      "chi": "登场：使所有单位获得\n\"不会受到法术造成的伤害\"\n直到你的下个回合开始。",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_swamp_entangler_name",
+      "eng": "Swamp Entangler",
+      "chi": "沼泽缠须兽",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_swamp_entangler_desc",
+      "eng": "Provoke",
+      "chi": "嘲讽",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_aethermaster_name",
+      "eng": "Aethermaster",
+      "chi": "以太法师",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_aethermaster_desc",
+      "eng": "You can replace an additional card each turn.",
+      "chi": "你每回合可以额外\n替换一张牌。",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_araki_headhunter_name",
+      "eng": "Araki Headhunter",
+      "chi": "荒谷猎头者",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_araki_headhunter_desc",
+      "eng": "When you play a minion with Opening Gambit, this gains +2/+0.",
+      "chi": "每当你使用一张具有登场\n异能的随从时，此随从\n获得+2/+0。",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_azure_horn_shaman_name",
+      "eng": "Azure Horn Shaman",
+      "chi": "蔚蓝尖角萨满",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_azure_horn_shaman_desc",
+      "eng": "Dying Wish: Give nearby allied minions +0/+4.",
+      "chi": "死愿：使相邻的友方随从\n获得 +0/+4。",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_bluetip_scorpion_name",
+      "eng": "Bluetip Scorpion",
+      "chi": "蓝勾蝎",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_bluetip_scorpion_desc",
+      "eng": "This deals double damage to minions.",
+      "chi": "此随从对随从造成的伤害翻倍。",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_ephemeral_shroud_name",
+      "eng": "Ephemeral Shroud",
+      "chi": "诡秘蜉蝣",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_ephemeral_shroud_desc",
+      "eng": "Opening Gambit: Dispel a nearby space.",
+      "chi": "登场：驱散一个相邻的格子。",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_flameblood_warlock_name",
+      "eng": "Flameblood Warlock",
+      "chi": "燃血邪术师",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_flameblood_warlock_desc",
+      "eng": "Opening Gambit: Deal 3 damage to both Generals.",
+      "chi": "登场：对双方将领造成3点伤害。",
+      "originVersionCode": "20.1.11",
+      "translateState": 4
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "versionCode": "20.1.21",
+  "nodeCode": "custom_scenarios",
+  "path": "custom_scenarios",
+  "orderStart": 0,
+  "orderEnd": 6,
+  "translateItemList": [
+    {
+      "code": "scenario_saved_successfully",
+      "eng": "Custom puzzle successfully saved.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "error_new_scenario_metadata_exists",
+      "eng": "Could not save the scenario. An entry for this scenario already exist.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "error_update_url_changed",
+      "eng": "An error ocurred while updating scenario. Missmatch in file path metadata.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "error_parsing_bucket_file",
+      "eng": "User submitted scenario file is corrupted.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "errors_scenario_not_found",
+      "eng": "Could not find requested scenario.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "error_user_not_author",
+      "eng": "You are not the author of this scenario.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "error_update_no_metadata",
+      "eng": "Could not find metadata associated to the scenario submitted for an update.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    }
+  ]
+}

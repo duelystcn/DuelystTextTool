@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.11",
+  "nodeCode": "cards",
+  "path": "cards",
+  "orderStart": 1700,
+  "orderEnd": 1799,
+  "translateItemList": [
+    {
+      "code": "faction_6_spell_polarity_description",
+      "eng": "Switch ANY minion's Attack and Health.",
+      "chi": "交换一个随从的生命和攻击。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_hailstone_prison_name",
+      "eng": "Hailstone Prison",
+      "chi": "冰砖监牢",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_hailstone_prison_description",
+      "eng": "Return ANY minion to its action bar.",
+      "chi": "将一个随从返回其所有者的准备栏。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_spirit_of_the_wild_name",
+      "eng": "Spirit of the Wild",
+      "chi": "野性之魂",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_spirit_of_the_wild_description",
+      "eng": "Reactivate friendly minions on your opponent's starting side of the battlefield.",
+      "chi": "激活所有位于你对手半场的友方随从。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_cryogenesis_name",
+      "eng": "Cryogenesis",
+      "chi": "制冷术",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_cryogenesis_description",
+      "eng": "Deal 4 damage to an enemy minion. Draw a Vespyr minion from your deck.",
+      "chi": "对一个随从造成4点伤害。抽取一张霜灵。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_frostburn_name",
+      "eng": "Frostburn",
+      "chi": "霜爆",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_frostburn_description",
+      "eng": "Deal 3 damage to all enemy minions.",
+      "chi": "对所有敌方随从造成3点伤害。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_wailing_overdrive_name",
+      "eng": "Wailing Overdrive",
+      "chi": "悲嚎",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_wailing_overdrive_description",
+      "eng": "Give a friendly minion on your opponent's starting side of the battlefield +5/+5.",
+      "chi": "使一个位于对手半场的友方随从获得 +5/+5。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_vespyric_call_name",
+      "eng": "Vespyric Call",
+      "chi": "霜灵召集",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_vespyric_call_description",
+      "eng": "Put a random Vespyr minion into your action bar. It costs 1 less and has +1/+1.",
+      "chi": "在你的准备栏放入一张随机的霜灵，该霜灵费用降低1点并获得+1/+1。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_lightning_blitz_name",
+      "eng": "Lightning Blitz",
+      "chi": "闪电战",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_lightning_blitz_description",
+      "eng": "Give all friendly minions +1/+1 and randomly teleport them to your opponent's starting side of the battlefield.",
+      "chi": "使所有友方随从获得+1/+1，将所有友方随从传送到对手半场的随机位置。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_winters_wake_name",
+      "eng": "Winter's Wake",
+      "chi": "凛冬已至",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_winters_wake_description",
+      "eng": "Give all friendly Wall minions +4/+4. Those minions can now move.",
+      "chi": "使所有友方墙获得 +4/+4 和 可以移动。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_altered_beast_name",
+      "eng": "Aspect of Shim'Zar",
+      "chi": "狰之形",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_altered_beast_description",
+      "eng": "Transform ANY minion into a random Battle Pet.",
+      "chi": "将一个随从变形为一个随机战宠。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_frigid_corona_name",
+      "eng": "Frigid Corona",
+      "chi": "冰环束缚",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_frigid_corona_desc",
+      "eng": "Stun an enemy minion. Draw a card.",
+      "chi": "眩晕一个敌方随从，抽一张牌。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_concealing_shroud_name",
+      "eng": "Concealing Shroud",
+      "chi": "隐身斗篷",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_concealing_shroud_desc",
+      "eng": "Your General takes no damage until your next turn.",
+      "chi": "你的将领直到你的下个回合开始不会受到伤害。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_enfeeble_name",
+      "eng": "Enfeeble",
+      "chi": "衰弱诅咒",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_enfeeble_desc",
+      "eng": "All minions become 1/1.",
+      "chi": "所有随从变为1/1。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_mana_deathgrip_name",
+      "eng": "Mana Deathgrip",
+      "chi": "灭法之握",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_mana_deathgrip_desc",
+      "eng": "Deal 1 damage to an enemy minion. If it dies this turn, permanently gain 1 mana crystal.",
+      "chi": "对一个随从造成1点伤害。如果该随从这回合死去，获得一个法力水晶。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_vespyrian_might_name",
+      "eng": "Vespyrian Might",
+      "chi": "霜灵之威",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_vespyrian_might_desc",
+      "eng": "Give a Vespyr minion +2/+2 for each friendly Vespyr.",
+      "chi": "每有一个友方霜灵就使目标霜灵获得+2/+2。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_blinding_snowstorm_name",
+      "eng": "Blinding Snowstorm",
+      "chi": "炫目暴风雪",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_blinding_snowstorm_desc",
+      "eng": "Deal 1 damage to all enemies. Those enemies can only move 1 space next turn.",
+      "chi": "对所有敌方单位造成1点伤害，这些敌方单位下个回合只能移动1格。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_luminous_charge_name",
+      "eng": "Luminous Charge",
+      "chi": "溢电流光",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_luminous_charge_desc",
+      "eng": "Summon five joined 0/1 Walls that deal 2 damage to nearby enemies when destroyed.",
+      "chi": "召唤5个相邻的溢电墙(0/1 被摧毁时对相邻的敌方单位造成2点伤害)。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_glacial_fissure_name",
+      "eng": "Glacial Fissure",
+      "chi": "冰川裂缝",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_glacial_fissure_desc",
+      "eng": "Deal 8 damage to EVERYTHING in the center column.",
+      "chi": "对位于中线的所有单位造成8点伤害。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_icebreak_ambush_name",
+      "eng": "Icebreak Ambush",
+      "chi": "破冰突击",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_icebreak_ambush_desc",
+      "eng": "Summon an ambush of Infiltrate minions on your opponent's starting side of the battlefield.",
+      "chi": "在对手半场召唤一支具有渗透的随从小队。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_flawless_reflection_name",
+      "eng": "Flawless Reflection",
+      "chi": "无暇映影",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_flawless_reflection_desc",
+      "eng": "Choose a minion. Transform ALL nearby minions into copies of it.",
+      "chi": "选择一个随从，将该随从相邻的所有随从变为该随从的复制。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_crystallize_name",
+      "eng": "Crystallize",
+      "chi": "结晶化",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_crystallize_desc",
+      "eng": "Stun a nearby enemy minion.",
+      "chi": "眩晕一个相邻的敌方随从。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_aspect_of_the_bear_name",
+      "eng": "Aspect of the Bear",
+      "chi": "熊之形",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_aspect_of_the_bear_desc",
+      "eng": "Transform ANY minion into a 4/5 Ursaplomb that will not counterattack.",
+      "chi": "将一个随从变形为大懒熊(4/5 不会反击)。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_shatter_name",
+      "eng": "Shatter",
+      "chi": "碎冰",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_shatter_desc",
+      "eng": "Destroy a Stunned enemy minion.",
+      "chi": "摧毁一个被眩晕的敌方随从。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_essence_sculpt_name",
+      "eng": "Essence Sculpt",
+      "chi": "雕心刻魂",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_essence_sculpt_desc",
+      "eng": "Choose a Stunned minion. Put a copy of that card into your action bar.",
+      "chi": "选择一个被眩晕的随从，在你的准备栏放入一张该随从的复制。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_crystalline_reinforcement_name",
+      "eng": "Crystalline Reinforcement",
+      "chi": "结晶增强",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_crystalline_reinforcement_desc",
+      "eng": "Double the Attack and Health buffs of friendly minions.",
+      "chi": "使友方随从获得的攻防Buff数值翻倍。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_wintertide_name",
+      "eng": "Wintertide",
+      "chi": "冬潮",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_wintertide_desc",
+      "eng": "Summon three 2/2 Vespyr Winter Maerids on any column.",
+      "chi": "在目标列上召唤3个冬妖(2/2)。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_auroraboros_name",
+      "eng": "Auroraboros",
+      "chi": "极光沐身",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_auroraboros_desc",
+      "eng": "Give friendly minions \"Dying Wish: Re-summon this minion on this space.\"",
+      "chi": "使友方随从获得\"死愿：在所在位置重新召唤此随从\"。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_artifact_snowpiercer_name",
+      "eng": "Snowpiercer",
+      "chi": "贯雪箭",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_artifact_snowpiercer_description",
+      "eng": "Your General gains +3 Attack.",
+      "chi": "你的将领具有 +3/+0。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_artifact_coldbiter_name",
+      "eng": "Coldbiter",
+      "chi": "冰咬",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_artifact_coldbiter_description",
+      "eng": "At the end of your turn, your General deals 2 damage to each enemy minion around them.",
+      "chi": "在你的回合结束时，你的将领对其相邻的所有敌方随从造成2点伤害。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_artifact_winterblade_name",
+      "eng": "Winterblade",
+      "chi": "冻刃剑",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_artifact_winterblade_description",
+      "eng": "Your General gains +2 Attack. Enemy minions damaged by your General are Stunned.",
+      "chi": "你的将领具有 +2/+0。\n受到你将领造成的伤害的敌方随从将被眩晕。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_artifact_white_asp_name",
+      "eng": "White Asp",
+      "chi": "白蝰",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_artifact_white_asp_description",
+      "eng": "Your General gains +3 Attack. Whenever your General destroys a minion, summon a 3/3 Blazing Spine Wall on that space.",
+      "chi": "你的将领具有 +3/+0。\n每当你的将领摧毁一个随从，在该随从所在位置召唤一个冰锥(3/3)。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_artifact_iceshatter_gauntlet_name",
+      "eng": "Iceshatter Gauntlet",
+      "chi": "碎冰拳套",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_artifact_iceshatter_gauntlet_description",
+      "eng": "Whenever your General attacks a Stunned minion, destroy it instantly.",
+      "chi": "每当你的将领对一个被眩晕的随从发起攻击时，直接消灭该随从。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_artifact_the_dredger_name",
+      "eng": "The Dredger",
+      "chi": "破冰撞角",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_artifact_the_dredger_desc",
+      "eng": "Whenever your General damages an enemy, randomly teleport them to your starting side of the battlefield.",
+      "chi": "每当你的将领对一个敌方单位造成伤害时，将其传送到你的起始半场的随机位置。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_artifact_animus_plate_name",
+      "eng": "Animus Plate",
+      "chi": "原心板甲",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_artifact_animus_plate_desc",
+      "eng": "Your General gains +2 Attack.\nWhenever your General attacks or counterattacks, give all friendly Vespyr minions +2/+2.",
+      "chi": "你的将领具有 +2/+0。\n每当你的将领攻击或反击时，使所有友方霜灵获得+2/+2。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_faie_name",
+      "eng": "Faie Bloodwing",
+      "chi": "血翼 费伊",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_faie_desc",
+      "eng": "Bloodbound Spell: Deal 2 damage to all enemies in the enemy General's Column.",
+      "chi": "血技：对敌方将领所在列的所有敌方单位造成2点伤害。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_kara_name",
+      "eng": "Kara Winterblade",
+      "chi": "冻刃 卡拉",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_kara_desc",
+      "eng": "Bloodbound Spell: Friendly minions summoned this turn gain +1/+1.",
+      "chi": "血技：使所有本回合召唤的随从获得 +1/+1。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_ilena_name",
+      "eng": "Ilena Cryobyte",
+      "chi": "冰晶 伊莲娜",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_ilena_desc",
+      "eng": "Bloodbound Spell: Stun a nearby enemy minion.",
+      "chi": "血技：眩晕一个相邻的敌方随从。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_snow_chaser_name",
+      "eng": "Snow Chaser",
+      "chi": "寻雪精灵",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_snow_chaser_desc",
+      "eng": "Infiltrate:  When this minion dies, return it to your action bar.",
+      "chi": "渗透：死愿：将此随从返回你的准备栏。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_borean_bear_name",
+      "eng": "Borean Bear",
+      "chi": "寒风熊",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_borean_bear_desc",
+      "eng": "Whenever you summon a Vespyr minion, this minion gains +1 Attack.",
+      "chi": "每当你召唤一个霜灵，此随从获得 +1/+0。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_crystal_cloaker_name",
+      "eng": "Crystal Cloaker",
+      "chi": "冰晶拟态虫",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_crystal_cloaker_desc",
+      "eng": "Infiltrate: Gain +2 Attack.",
+      "chi": "渗透：具有+2/+0。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_crystal_wisp_name",
+      "eng": "Crystal Wisp",
+      "chi": "冰晶灵",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_crystal_wisp_desc",
+      "eng": "Dying Wish: Permanently gain 1 mana crystal.",
+      "chi": "死愿：获得一个法力水晶。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_hearth_sister_name",
+      "eng": "Hearth-Sister",
+      "chi": "炉石修女",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_hearth_sister_desc",
+      "eng": "Opening Gambit: Switch positions with ANY other minion.",
+      "chi": "登场：与一个随从交换位置。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_fenrir_warmaster_name",
+      "eng": "Fenrir Warmaster",
+      "chi": "善战驯狼人",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_fenrir_warmaster_desc",
+      "eng": "Dying Wish: Summon a 3/2 Ghost Wolf on this space.",
+      "chi": "死愿：所在位置召唤一个妖狼(3/2)。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_glacial_elemental_name",
+      "eng": "Glacial Elemental",
+      "chi": "冰川元素",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_glacial_elemental_desc",
+      "eng": "Whenever you summon a Vespyr minion, deal 2 damage to a random enemy minion.",
+      "chi": "每当你召唤一个霜灵，对一个随机的敌方随从造成2点伤害。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_wolfraven_name",
+      "eng": "Wolfraven",
+      "chi": "狼鸦",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_wolfraven_desc",
+      "eng": "Flying\nInfiltrate: Gain +3 Attack.",
+      "chi": "飞行\n渗透：具有+3/+0。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_razorback_name",
+      "eng": "Razorback",
+      "chi": "刀背兽",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_razorback_desc",
+      "eng": "Opening Gambit: Give all friendly minions +2 Attack this turn.",
+      "chi": "登场：所有友方随从获得 +2/+0 直到回合结束。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_voice_of_the_wind_name",
+      "eng": "Voice of the Wind",
+      "chi": "风之声",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_voice_of_the_wind_desc",
+      "eng": "Whenever you summon a minion from your action bar, summon a 2/2 Vespyr Winter Maerid nearby.",
+      "chi": "每当你从准备栏使用一张随从时，在相邻位置召唤一个冬妖(2/2)。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_arctic_displacer_name",
+      "eng": "Arctic Displacer",
+      "chi": "极地幻兽",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_arctic_displacer_desc",
+      "eng": "Airdrop",
+      "chi": "空降",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_frosthorn_rhyno_name",
+      "eng": "Frosthorn Rhyno",
+      "chi": "霜角犀",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_frosthorn_rhyno_desc",
+      "eng": "Infiltrate: Gain +1 Attack and Celerity.",
+      "chi": "渗透：具有 +1/+0 和迅捷。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_draugar_lord_name",
+      "eng": "Draugar Lord",
+      "chi": "冰龙领主",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_draugar_lord_desc",
+      "eng": "Dying Wish: Summon a 4/8 Ice Drake on this space.",
+      "chi": "死愿：所在位置召唤一个冰龙(4/8)。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_unit_ancient_grove_name",
+      "eng": "Ancient Grove",
+      "chi": "远古树精",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "versionCode": "20.1.07",
+  "nodeCode": "profile",
+  "path": "profile",
+  "orderStart": 0,
+  "orderEnd": 38,
+  "translateItemList": [
+    {
+      "code": "category_summary_label",
+      "eng": "Summary",
+      "chi": "摘要",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "category_faction_levels_label",
+      "eng": "Faction Levels",
+      "chi": "阵营等级",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "category_rank_history_label",
+      "eng": "Rank History",
+      "chi": "天梯历史",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "category_match_history_label",
+      "eng": "Match History",
+      "chi": "战斗记录",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "category_leaderboard_label",
+      "eng": "S Rank",
+      "chi": "S级榜单",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "category_rift_label",
+      "eng": "Rift",
+      "chi": "",
+      "originVersionCode": "20.1.07",
+      "translateState": 0
+    },
+    {
+      "code": "summary_current_rank",
+      "eng": "Current Rank",
+      "chi": "当前天梯",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "summary_current_win_streak",
+      "eng": "Current Win Streak",
+      "chi": "当前连胜",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "summary_current_ranked_wins",
+      "eng": "Ranked Wins",
+      "chi": "天梯胜场",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "summary_top_rank",
+      "eng": "Top Rank",
+      "chi": "最佳天梯",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "summary_top_win_streak",
+      "eng": "Top Win Streak",
+      "chi": "最佳连胜",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "summary_total_ranked_wins",
+      "eng": "Total Ranked Wins",
+      "chi": "合计天梯胜场",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "summary_gauntlet",
+      "eng": "Best Gauntlet Run",
+      "chi": "最佳竞技场",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "summary_gauntlet_total_wins",
+      "eng": "Total Gauntlet Wins",
+      "chi": "竞技场胜场",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "summary_battle_ribbons_label",
+      "eng": "Battle Ribbons",
+      "chi": "战斗徽章",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "match_history_faction",
+      "eng": "faction",
+      "chi": "阵营",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "match_history_game_type",
+      "eng": "game type",
+      "chi": "模式",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "match_history_win_loss",
+      "eng": "win/loss",
+      "chi": "胜负",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "match_history_duration",
+      "eng": "time",
+      "chi": "时间",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "match_history_replay",
+      "eng": "replay",
+      "chi": "回放",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "match_history_next_page",
+      "eng": "next",
+      "chi": "下一页",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "match_history_prev_page",
+      "eng": "previous",
+      "chi": "上一页",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "srank_summary_rank",
+      "eng": "rank",
+      "chi": "天梯",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "srank_summary_player",
+      "eng": "player",
+      "chi": "玩家",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "srank_num_top_players",
+      "eng": "Top {{num_leaderboard_players}}",
+      "chi": "",
+      "originVersionCode": "20.1.07",
+      "translateState": 0
+    },
+    {
+      "code": "share_replay_title",
+      "eng": "Share Replay",
+      "chi": "分享回放",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "share_replay_message",
+      "eng": "Send this link to anyone:",
+      "chi": "发送这个链接：",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "share_replay_button_label",
+      "eng": "COPY LINK",
+      "chi": "复制链接",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "change_username_title",
+      "eng": "Change Username",
+      "chi": "修改用户名",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "change_username_free_message",
+      "eng": "You can change your username only <strong>once per month</strong>, and your FIRST username change is FREE. Changing your username afterwards will cost 100 GOLD.",
+      "chi": "你每月只能更改用户名<strong>一次</strong>，第一次更改用户名是免费的。之后更改用户名将花费100金币。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "change_username_message",
+      "eng": "You can change your username only <strong>once per month</strong>, and will cost 100 GOLD.",
+      "chi": "您每月只能更改用户名<strong>一次</strong>，费用为100金币。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "username_placeholder",
+      "eng": "New Username",
+      "chi": "新用户名",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "change_username_max_per_month_error",
+      "eng": "You have already changed your username the maximum allowed times this month.",
+      "chi": "你本月修改用户名的次数已达上限。",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "change_username_success",
+      "eng": "Your username has been updated!",
+      "chi": "你的用户名已变更",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "change_avatar",
+      "eng": "Change Avatar",
+      "chi": "修改头像",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "click_to_unlock",
+      "eng": "Click to unlock.",
+      "chi": "点击解锁",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "percent_off",
+      "eng": "{{discount}}% Off!",
+      "chi": "{{discount}}%折扣!",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "avatar_update_success_msg",
+      "eng": "Your avatar has been updated!",
+      "chi": "你的头像已变更",
+      "originVersionCode": "20.1.06",
+      "translateState": 4
+    },
+    {
+      "code": "season_played_label",
+      "eng": "Played for {{season_count}} seasons.",
+      "chi": "",
+      "originVersionCode": "20.1.07",
+      "translateState": 0
+    }
+  ]
+}

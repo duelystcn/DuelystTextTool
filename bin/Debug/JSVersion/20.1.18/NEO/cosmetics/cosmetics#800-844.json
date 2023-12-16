@@ -1,0 +1,324 @@
+{
+  "versionCode": "20.1.18",
+  "nodeCode": "cosmetics",
+  "path": "cosmetics",
+  "orderStart": 800,
+  "orderEnd": 844,
+  "translateItemList": [
+    {
+      "code": "emote_emotion",
+      "eng": "emotion",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "emote_cassyva_shocked_name",
+      "eng": "Terrified",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "emote_cassyva_shocked_desc",
+      "eng": "Aiyeeeee! (Designed by krackocloud)",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "emote_kaleos_fluoride_stare_name",
+      "eng": "Stare",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "emote_kaleos_fluoride_stare_desc",
+      "eng": "When you spent 30 minutes adding minions to a deck and they hit you with that Songhai stare (Designed by Laguz)",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "emote_argeon_gigachad_name",
+      "eng": "Confident",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "emote_argeon_gigachad_desc",
+      "eng": "Average Argeon Enjoyer (Designed by krackocloud)",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "emote_doubleagent_tip_name",
+      "eng": "Tip of the Hat",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "emote_doubleagent_tip_desc",
+      "eng": "M'aevh. (Designed by calvin and krackocloud)",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "emote_krazed_kringe_name",
+      "eng": "Kringe",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "emote_krazed_kringe_desc",
+      "eng": "You're so cringe for playing that. (Designed by Krazed and krackocloud)",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_argeon",
+      "eng": " as Argeon Highmayne",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_ziran",
+      "eng": " as Zir'An Sunforge",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_brome",
+      "eng": " as Brome Warcrest",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_kaleos",
+      "eng": " as Kaleos Xaan",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_reva",
+      "eng": " as Reva Eventide",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_shidai",
+      "eng": " as Shidai Stormblossom",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_zirix",
+      "eng": " as Zirix Starstrider",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_sajj",
+      "eng": " as Scioness Sajj",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_ciphyron",
+      "eng": " as Ciphyron Ascendant",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_lilithe",
+      "eng": " as Lilithe Blightchaser",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_cassyva",
+      "eng": " as Cassyva Soulreaper",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_maehv",
+      "eng": " as Maehv Skinsolder",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_vaath",
+      "eng": " as Vaath the Immortal",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_starhorn",
+      "eng": " as Starhorn the Seeker",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_ragnora",
+      "eng": " as Ragnora the Relentless",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_faie",
+      "eng": " as Faie Bloodwing",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_kara",
+      "eng": " as Kara Winterblade",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote_ilena",
+      "eng": " as Ilena Cryobyte",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "shop_emote",
+      "eng": "Express your {{emote}} in game {{general}}",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "battlemap_magmar_name",
+      "eng": "Shim'zar Canopy",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "battlemap_magmar_desc",
+      "eng": "The Shim'zar Canopy is a lush jungle paradise where ancient trees tower overhead, their branches forming a natural arena. Featuring the battle music \"Grimrock\" by Archaeologist.",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "battlemap_abyssian_name",
+      "eng": "Sharian Altar",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "battlemap_abyssian_desc",
+      "eng": "The Sharian Altar is a treacherous arena of molten lava and ash, where warriors battle amidst the fiery depths of a volcanic crater. Featuring the battle music \"Blood Echoes\" by Archaeologist.",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "battlemap_redrock_name",
+      "eng": "Red Rock",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "battlemap_redrock_desc",
+      "eng": "The Red Rock is a majestic and treacherous peak, where warriors clash in brutal combat atop towering red mountains. Featuring the battle music \"Lightchaser\" by Archaeologist.",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "battlemap_vanar_name",
+      "eng": "Frosthorn Summit",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "battlemap_vanar_desc",
+      "eng": "Only the bravest and most skilled warriors dare to enter the Frosthorn Summit, where victory can mean glory and defeat can mean a lonely death in the frozen wilderness. Featuring the battle music \"Frostburn\" by Archaeologist.",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "cosmetic_crafting_error_msg",
+      "eng": "There was a problem crafting this item.",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "cosmetic_chest_duplicate",
+      "eng": "(duplicate)",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "title_rock_solid",
+      "eng": "Rock Solid",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "title_bug_vet_boss",
+      "eng": "Bug Vet Boss",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "title_boss_servant_of_abyss",
+      "eng": "Servant of the Abyss",
+      "chi": "暗影爪牙",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "title_boss_doom_of_xenhai",
+      "eng": "Doom of Xenhai",
+      "chi": "Xenhai的灾厄",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "title_boss_superintelligence",
+      "eng": "Superintelligence",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    }
+  ]
+}

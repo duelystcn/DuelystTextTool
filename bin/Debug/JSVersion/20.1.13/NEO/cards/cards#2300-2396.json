@@ -1,0 +1,688 @@
+{
+  "versionCode": "20.1.13",
+  "nodeCode": "cards",
+  "path": "cards",
+  "orderStart": 2300,
+  "orderEnd": 2396,
+  "translateItemList": [
+    {
+      "code": "neutral_lesson_of_power_desc",
+      "eng": "Deal 2 damage to anything.",
+      "chi": "对一个单位造成2点伤害。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_lesson_of_wisdom_name",
+      "eng": "Lesson of Wisdom",
+      "chi": "智慧之音",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_lesson_of_wisdom_desc",
+      "eng": "Restore 3 Health to anything.",
+      "chi": "治疗一个单位3点生命。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_lesson_of_courage_name",
+      "eng": "Lesson of Courage",
+      "chi": "勇气之音",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_lesson_of_courage_desc",
+      "eng": "Give your General +1 Attack.",
+      "chi": "使你的将领获得 +1/+0。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_carcynus_name",
+      "eng": "Carcynus",
+      "chi": "海岸青蟹",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_wild_tahr_name",
+      "eng": "Wild Tahr",
+      "chi": "蛮荒野猪",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_wild_tahr_desc",
+      "eng": "Frenzy\nWhenever an enemy attacks, this minion gains +3 Attack until the end of your turn.",
+      "chi": "狂暴\n每当一个敌方单位攻击时，此随从获得+3/+0 直到你的回合结束。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_razorcrag_golem_name",
+      "eng": "Razorcrag Golem",
+      "chi": "剃刀魔像",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_komodo_hunter_name",
+      "eng": "Komodo Hunter",
+      "chi": "猎食科莫多",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_komodo_hunter_desc",
+      "eng": "Opening Gambit: Your opponent summons two Komodo Chargers nearby their General.",
+      "chi": "登场：在敌方将领相邻位置召唤两个由对手操控的鲁莽科莫多。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_rokadoptera_name",
+      "eng": "Rokadoptera",
+      "chi": "石球蜣螂",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_rokadoptera_desc",
+      "eng": "Opening Gambit: Put a Boulder Hurl into your action bar.",
+      "chi": "登场：在你的准备栏放入一张投掷巨石。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_boulder_hurl_name",
+      "eng": "Boulder Hurl",
+      "chi": "投掷巨石",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_boulder_hurl_desc",
+      "eng": "Deal 1 damage to an enemy.",
+      "chi": "对一个敌方单位造成1点伤害。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_emberwyrm_name",
+      "eng": "Emberwyrm",
+      "chi": "终灭火翼",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_emberwyrm_desc",
+      "eng": "Flying",
+      "chi": "飞行",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_sinister_silhouette_name",
+      "eng": "Sinister Silhouette",
+      "chi": "凶兆剪影",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_sinister_silhouette_desc",
+      "eng": "Cannot be attacked.",
+      "chi": "不能被攻击。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_quahog_name",
+      "eng": "Quahog",
+      "chi": "圆蛤",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_quahog_desc",
+      "eng": "Enemy minions destroyed by this are returned to their action bar.",
+      "chi": "被此随从摧毁的敌方随从将返回其控制者的准备栏。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_matter_shaper_name",
+      "eng": "Matter Shaper",
+      "chi": "塑金大师",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_matter_shaper_desc",
+      "eng": "Opening Gambit: Destroy an enemy artifact to put a random artifact from your faction into your action bar.",
+      "chi": "登场：摧毁一个敌方神器，然后在你的准备栏中放入一张你所属阵营的神器。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_thunderhorn_name",
+      "eng": "Thunderhorn",
+      "chi": "雷霆怒角",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_thunderhorn_desc",
+      "eng": "Whenever this minion damages an enemy, it also damages all joined enemies.",
+      "chi": "当此随从对一个敌方单位造成伤害时，对与该随从相连的所有敌方单位造成等量伤害。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_spriggin_name",
+      "eng": "Spriggin",
+      "chi": "斯普里金",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_spriggin_desc",
+      "eng": "Provoke\nOpening Gambit: Each player summons three Spriggin Kin nearby their General.",
+      "chi": "嘲讽\n登场：双方玩家在其将领相邻位置召唤三个斯普里金的小精灵。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_bloodsworn_gambler_name",
+      "eng": "Bloodsworn Gambler",
+      "chi": "血咒赌徒",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_bloodsworn_gambler_desc",
+      "eng": "Ranged\nEach time this minion attacks, it has a 50% chance to attack again, attacking a random enemy.",
+      "chi": "远程\n此随从每次攻击时，有一半的概率可以再发动一次攻击，目标为随机敌方单位。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_theobule_name",
+      "eng": "Theobule",
+      "chi": "蓝西奥",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_theobule_desc",
+      "eng": "Opening Gambit: Replace each card in your action bar.",
+      "chi": "登场：替换你准备栏中所有牌。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_letigress_name",
+      "eng": "Letigress",
+      "chi": "饲虎少女",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_letigress_desc",
+      "eng": "Ranged\nWhenever your General attacks, a cub joins the pack.",
+      "chi": "远程\n每当你的将领攻击时，在相邻位置召唤一个剑虎崽(2/1 冲锋)。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_magesworn_name",
+      "eng": "Magesworn",
+      "chi": "誓言法师",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_magesworn_desc",
+      "eng": "BOTH players cannot cast spells that cost 2 or less.",
+      "chi": "双方玩家不能使用费用小于等于2的法术。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_dagona_name",
+      "eng": "Dagona",
+      "chi": "大衮",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_dagona_desc",
+      "eng": "Opening Gambit: Devour ANY minion, anywhere.\nDying Wish: Spit out the devoured minion on this space.",
+      "chi": "登场：吞噬一个随从。\n死愿：将吞噬的随从释放在所在位置。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_glub_name",
+      "eng": "Glub",
+      "chi": "康波丸",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_glub_desc",
+      "eng": "Whenever a Spriggin is destroyed, this minion gains +3/+3.",
+      "chi": "当一个斯普里金被摧毁时，此随从获得 +3/+3。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_binky_name",
+      "eng": "Binky",
+      "chi": "宾基鼠",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_binky_desc",
+      "eng": "Flying\nWhenever this damages a minion, restore 2 Health to your General.",
+      "chi": "飞行\n每当此随从对一个随从造成伤害时，为你的将领治疗2点生命。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_zetta_name",
+      "eng": "Zetta",
+      "chi": "泽塔鼠",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_zetta_desc",
+      "eng": "Frenzy",
+      "chi": "狂暴",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_moro_name",
+      "eng": "Moro",
+      "chi": "摩罗兔",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_moro_desc",
+      "eng": "As long as there is a Spriggin, this minion has +3 Attack.",
+      "chi": "只要战场上存在一个斯普里金，此随从便具有+3/+0。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_saberspine_cub_name",
+      "eng": "Saberspine Cub",
+      "chi": "剑虎崽",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_saberspine_cub_desc",
+      "eng": "Rush",
+      "chi": "冲锋",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_replicant_name",
+      "eng": "Replicant",
+      "chi": "量产型机兵",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_replicant_desc",
+      "eng": "Opening Gambit: Draw another Replicant from your deck.",
+      "chi": "登场：从你的牌库中抽取其他的量产型机兵。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_metaltooth_name",
+      "eng": "Metaltooth",
+      "chi": "突击型机兵",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_metaltooth_desc",
+      "eng": "If you have another Mech minion, this minion has Rush.",
+      "chi": "如果你控制有其他机兵，此随从具有冲锋。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_recombobulus_name",
+      "eng": "Recombobulus",
+      "chi": "红拳套",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_recombobulus_desc",
+      "eng": "Opening Gambit: Teleport ANY minion one space randomly.",
+      "chi": "登场：传送一个随从随机一格。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_rescuerx_name",
+      "eng": "Rescue-RX",
+      "chi": "搜救员",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_rescuerx_desc",
+      "eng": "Build: (2).\nWhen this minion is built, restore 5 Health to your General.",
+      "chi": "生产(2)\n当此随从被产出时，为你的将领治疗5点生命。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_redsteel_minos_name",
+      "eng": "Redsteel Minos",
+      "chi": "红盔牛头怪",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_redsteel_minos_desc",
+      "eng": "Blood Surge: Gains +2/+2.",
+      "chi": "血涌：此随从获得+2/+2。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_timekeeper_name",
+      "eng": "Timekeeper",
+      "chi": "计时人",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_timekeeper_desc",
+      "eng": "Opening Gambit: Your buildings progress by 1 turn.",
+      "chi": "登场：你生产中的随从生产进度+1。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_capricious_marauder_name",
+      "eng": "Capricious Marauder",
+      "chi": "放纵掠夺者",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_capricious_marauder_desc",
+      "eng": "Whenever a friendly minion is destroyed, your opponent takes control of this minion.",
+      "chi": "每当一个友方随从被摧毁时，你的对手获得此随从的控制权。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_impervious_giago_name",
+      "eng": "Impervious Giago",
+      "chi": "密甲护卫",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_impervious_giago_desc",
+      "eng": "Provoke\nWhenever this minion is attacked, it gains +2 Attack.",
+      "chi": "嘲讽\n每当此随从攻击后，此随从获得+2/+0。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_lost_artificer_name",
+      "eng": "Lost Artificer",
+      "chi": "遗迹神器师",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_lost_artificer_desc",
+      "eng": "The first artifact you equip each turn costs 1 less.",
+      "chi": "你每回合使用的第一件神器费用减少1点。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_architectt2k5_name",
+      "eng": "Architect-T2K5",
+      "chi": "设计师T2K5",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_architectt2k5_desc",
+      "eng": "Build: (1).\nWhenever this or another friendly minion is built, draw a card.",
+      "chi": "生产(1)\n当此随从或其他友方随从被产出时，抽一张牌。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_bloodbound_mentor_name",
+      "eng": "Bloodbound Mentor",
+      "chi": "血缚导师",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_bloodbound_mentor_desc",
+      "eng": "Blood Surge: Put a copy of your Bloodbound Spell into your action bar.",
+      "chi": "血涌：在你的准备栏放入一张你的血技的复制。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_deceptibot_name",
+      "eng": "DECEPTIB0T",
+      "chi": "霸天机",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_deceptibot_desc",
+      "eng": "Whenever this minion destroys an enemy, summon a different Mech minion from your deck nearby.",
+      "chi": "当此随从摧毁一个敌方单位时，从你的牌库中召唤一个机兵在此随从相邻位置(不会召唤与此随从同名的)。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_qorrhlmaa_name",
+      "eng": "Q'orrhlma'a",
+      "chi": "囚·欧斯玛·阿",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_qorrhlmaa_desc",
+      "eng": "Opening Gambit: Remove all minions that cost 2 or less from each player's deck.",
+      "chi": "登场：从双方玩家牌库中移除所有费用小于等于2的随从。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_silver_name",
+      "eng": "S.I.L.V.E.R.",
+      "chi": "银白",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_silver_desc",
+      "eng": "Whenever you summon this or another Mech, friendly Mechs gain all keywords of other friendly Mechs.",
+      "chi": "当你召唤此随从或其他机兵时，友方机兵获得其他友方机兵具有的关键词异能。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_project_omega_name",
+      "eng": "Project Ω",
+      "chi": "欧米伽实验品",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_project_omega_desc",
+      "eng": "This minion gains +2/+2 for each other Mech minion you summoned this game.",
+      "chi": "这局游戏你每召唤一次其他机兵，此随从就获得+2/+2。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_reliquarian_name",
+      "eng": "Reliquarian",
+      "chi": "圣物铸造师",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_reliquarian_desc",
+      "eng": "Opening Gambit: Forge a friendly minion into a Faction artifact with equal Attack.",
+      "chi": "登场：将一个友方随从铸造为所属阵营的特殊神器并装备，该神器的效果数值等于该随从的攻击。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_empty_relic_name",
+      "eng": "Empty Relic",
+      "chi": "空遗物",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_shining_relic_name",
+      "eng": "Shining Relic",
+      "chi": "闪耀遗物",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_blazing_relic_name",
+      "eng": "Blazing Relic",
+      "chi": "炽热遗物",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_void_relic_name",
+      "eng": "Void Relic",
+      "chi": "虚空遗物",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_barren_relic_name",
+      "eng": "Barren Relic",
+      "chi": "荒芜遗物",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_primal_relic_name",
+      "eng": "Primal Relic",
+      "chi": "原始遗物",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_howling_relic_name",
+      "eng": "Howling Relic",
+      "chi": "呼啸遗物",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_forge_artifact_name",
+      "eng": "Forge Artifact",
+      "chi": "锻造神器",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_forge_artifact_desc",
+      "eng": "Forge a friendly minion into an artifact.",
+      "chi": "将一个友方随从锻造为神器",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_gauntletspecial_fortuneshaper_name",
+      "eng": "Fortuneshaper",
+      "chi": "运气塑造者",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_gauntletspecial_fortuneshaper_desc",
+      "eng": "Your next Gauntlet card choices will be Epic cards.",
+      "chi": "你下一次选择将会是史诗卡。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_gauntletspecial_futureshaker_name",
+      "eng": "Futureshaker",
+      "chi": "未来改变者",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_gauntletspecial_futureshaker_desc",
+      "eng": "Your next Gauntlet card choices will be Legendary Neutral cards.",
+      "chi": "你下一次选择将会是中立的传奇卡。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_gauntletspecial_fatesealer_name",
+      "eng": "Fatesealer",
+      "chi": "命运封印者",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_gauntletspecial_fatesealer_desc",
+      "eng": "Your next Gauntlet card choices will be Legendary Faction cards.",
+      "chi": "你下一次选择将会是所属阵营的传奇卡。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "frostfire_imp_name",
+      "eng": "Frostfire Imp",
+      "chi": "霜火精灵",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "frostfire_snowchser_name",
+      "eng": "Frostfire Snowchaser",
+      "chi": "霜火寻雪精灵",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "frostfire_tiger_name",
+      "eng": "Frostfire Tiger",
+      "chi": "霜火虎",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    }
+  ]
+}

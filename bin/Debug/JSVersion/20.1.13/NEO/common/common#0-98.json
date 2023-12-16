@@ -1,0 +1,702 @@
+{
+  "versionCode": "20.1.13",
+  "nodeCode": "common",
+  "path": "common",
+  "orderStart": 0,
+  "orderEnd": 98,
+  "translateItemList": [
+    {
+      "code": "loading_dialog_one_moment_label",
+      "eng": "One moment...",
+      "chi": "请稍等...",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "success_title",
+      "eng": "SUCCESS!",
+      "chi": "成功！",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "error_occurred_title",
+      "eng": "Uh-oh!",
+      "chi": "噢！",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "generic_invalid_input_message",
+      "eng": "Invalid input",
+      "chi": "输入无效",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "default_error_dialog_title",
+      "eng": "We hit a snag!",
+      "chi": "运行遇到了问题！",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "default_error_dialog_button_label",
+      "eng": "OK",
+      "chi": "确认",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "default_confirm_dialog_button_continue_label",
+      "eng": "OK",
+      "chi": "确认",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "default_confirm_dialog_button_cancel_label",
+      "eng": "Cancel",
+      "chi": "取消",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "start_error_message_generic_please_retry",
+      "eng": "Oops... there was a problem processing your request. Please try again.",
+      "chi": "你的请求出了一个问题，请再试一次。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "generic_not_available_message",
+      "eng": "Not Available",
+      "chi": "无法使用",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "generic_complete_message",
+      "eng": "Complete",
+      "chi": "完成",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "search_input_label",
+      "eng": "Search",
+      "chi": "查找",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "help_button_label",
+      "eng": "Help",
+      "chi": "帮助",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "next_button_label",
+      "eng": "NEXT",
+      "chi": "下一步",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "done_button_label",
+      "eng": "DONE",
+      "chi": "完成",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "mute_button_label",
+      "eng": "Mute",
+      "chi": "静音",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "send_button_label",
+      "eng": "Send",
+      "chi": "",
+      "originVersionCode": "20.1.13",
+      "translateState": 0
+    },
+    {
+      "code": "claim_label",
+      "eng": "Claim",
+      "chi": "获取",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "play_button_label",
+      "eng": "PLAY",
+      "chi": "战斗",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "confirm_button_label",
+      "eng": "Confirm",
+      "chi": "确认",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "esc_menu_more_settings_label",
+      "eng": "Settings",
+      "chi": "设置",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "esc_menu_logout_label",
+      "eng": "Logout",
+      "chi": "登出",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "esc_menu_quit_label",
+      "eng": "Quit",
+      "chi": "离开",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "acknowledge_dismiss_button_label",
+      "eng": "Got it!",
+      "chi": "了解",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "press_anywhere_to_continue_label",
+      "eng": "Press anywhere to continue",
+      "chi": "点击任意位置继续",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "no_decks_found_message",
+      "eng": "No decks found",
+      "chi": "找不到牌组",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "minimum_deck_size_reached",
+      "eng": "Minimum deck size reached!",
+      "chi": "",
+      "originVersionCode": "20.1.13",
+      "translateState": 0
+    },
+    {
+      "code": "spirit_orb",
+      "eng": "Spirit Orb",
+      "chi": "卡包",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "spirit_orb_plural",
+      "eng": "Spirit Orbs",
+      "chi": "卡包",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "currency_gold",
+      "eng": "Gold",
+      "chi": "金币",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "currency_spirit",
+      "eng": "Spirit",
+      "chi": "精魄",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "currency_premium",
+      "eng": "Shard",
+      "chi": "碎钻",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "currency_premium_plural",
+      "eng": "Shards",
+      "chi": "碎钻",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "currency_premium_emphasized",
+      "eng": "SHARD",
+      "chi": "碎钻",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "currency_premium_emphasized_plural",
+      "eng": "SHARDS",
+      "chi": "碎钻",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "xp_level",
+      "eng": "Level",
+      "chi": "等级",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "key_blade",
+      "eng": "Key Blade",
+      "chi": "钥匙",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "win",
+      "eng": "Win",
+      "chi": "胜场",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "win_plural",
+      "eng": "Wins",
+      "chi": "胜场",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "reward",
+      "eng": "Reward",
+      "chi": "奖励",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "reward_plural",
+      "eng": "Rewards",
+      "chi": "奖励",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "next_reward",
+      "eng": "Next Reward",
+      "chi": "",
+      "originVersionCode": "20.1.13",
+      "translateState": 0
+    },
+    {
+      "code": "gained_reward",
+      "eng": "Gained Reward",
+      "chi": "",
+      "originVersionCode": "20.1.13",
+      "translateState": 0
+    },
+    {
+      "code": "general_label",
+      "eng": "General",
+      "chi": "将领",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "general_label_plural",
+      "eng": "Generals",
+      "chi": "将领",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "unit_label",
+      "eng": "Minion",
+      "chi": "随从",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "unit_label_plural",
+      "eng": "Minions",
+      "chi": "随从",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "actually_unit_label",
+      "eng": "Unit",
+      "chi": "单位",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "actually_unit_label_plural",
+      "eng": "Units",
+      "chi": "单位",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "spell_label",
+      "eng": "Spell",
+      "chi": "法术",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "spell_label_plural",
+      "eng": "Spells",
+      "chi": "法术",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "artifact_label",
+      "eng": "Artifact",
+      "chi": "神器",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "artifact_label_plural",
+      "eng": "Artifacts",
+      "chi": "神器",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "card_label",
+      "eng": "Card",
+      "chi": "卡牌",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "card_label_plural",
+      "eng": "Cards",
+      "chi": "卡牌",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "tile_label",
+      "eng": "Tile",
+      "chi": "地形",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "rarity_label",
+      "eng": "Rarity",
+      "chi": "品质",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "your_opponent_label",
+      "eng": "Your Opponent",
+      "chi": "你的对手",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "reward_available_label",
+      "eng": "Reward Available",
+      "chi": "奖励可用",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "defeated_label",
+      "eng": "Defeated",
+      "chi": "击败",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "gift_code_reward_quantity",
+      "eng": "Quantity",
+      "chi": "数量",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "gift_code_reward_type",
+      "eng": "Type",
+      "chi": "类型",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "gift_code_reward_description",
+      "eng": "Description",
+      "chi": "描述",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "total_label",
+      "eng": "Total",
+      "chi": "合计",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "game_type_ranked",
+      "eng": "ranked",
+      "chi": "天梯",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "game_type_unranked",
+      "eng": "unranked",
+      "chi": "休闲",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "game_type_legacy",
+      "eng": "legacy",
+      "chi": "传奇",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "game_type_friendly",
+      "eng": "friendly",
+      "chi": "切磋",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "game_type_friendly_legacy",
+      "eng": "legacy friendly",
+      "chi": "传奇切磋",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "game_type_casual",
+      "eng": "casual",
+      "chi": "",
+      "originVersionCode": "20.1.13",
+      "translateState": 0
+    },
+    {
+      "code": "game_type_gauntlet",
+      "eng": "gauntlet",
+      "chi": "竞技场",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "game_type_practice",
+      "eng": "practice",
+      "chi": "练习",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "game_type_single_player",
+      "eng": "practice",
+      "chi": "练习",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "game_type_boss_battle",
+      "eng": "boss battle",
+      "chi": "Boss战",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "time_hour",
+      "eng": "Hour",
+      "chi": "小时",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "time_hour_plural",
+      "eng": "Hours",
+      "chi": "小时",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "time_minute",
+      "eng": "Minute",
+      "chi": "分",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "time_minute_plural",
+      "eng": "Minutes",
+      "chi": "分",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "time_second",
+      "eng": "Second",
+      "chi": "秒",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "time_second_plural",
+      "eng": "Seconds",
+      "chi": "秒",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "coming_soon_label",
+      "eng": "Coming Soon",
+      "chi": "即将到来",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "available_for_duration_label",
+      "eng": "Available for: {{duration}}",
+      "chi": "",
+      "originVersionCode": "20.1.13",
+      "translateState": 0
+    },
+    {
+      "code": "available_in_duration_label",
+      "eng": "Available in: {{duration}}",
+      "chi": "",
+      "originVersionCode": "20.1.13",
+      "translateState": 0
+    },
+    {
+      "code": "abbreviated_level_label",
+      "eng": "lvl",
+      "chi": "lvl",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "month_0",
+      "eng": "January",
+      "chi": "一月",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "month_1",
+      "eng": "February",
+      "chi": "二月",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "month_2",
+      "eng": "March",
+      "chi": "三月",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "month_3",
+      "eng": "April",
+      "chi": "四月",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "month_4",
+      "eng": "May",
+      "chi": "五月",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "month_5",
+      "eng": "June",
+      "chi": "六月",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "month_6",
+      "eng": "July",
+      "chi": "七月",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "month_7",
+      "eng": "August",
+      "chi": "八月",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "month_8",
+      "eng": "September",
+      "chi": "九月",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "month_9",
+      "eng": "October",
+      "chi": "十月",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "month_10",
+      "eng": "November",
+      "chi": "十一月",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "month_11",
+      "eng": "December",
+      "chi": "十二月",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "click_to_unlock",
+      "eng": "Click to unlock",
+      "chi": "点击解锁",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "loading",
+      "eng": "Loading...",
+      "chi": "加载中",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "update",
+      "eng": "Update",
+      "chi": "",
+      "originVersionCode": "20.1.13",
+      "translateState": 0
+    }
+  ]
+}

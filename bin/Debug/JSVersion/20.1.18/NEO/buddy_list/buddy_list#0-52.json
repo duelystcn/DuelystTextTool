@@ -1,0 +1,380 @@
+{
+  "versionCode": "20.1.18",
+  "nodeCode": "buddy_list",
+  "path": "buddy_list",
+  "orderStart": 0,
+  "orderEnd": 52,
+  "translateItemList": [
+    {
+      "code": "referral_program_callout_title",
+      "eng": "Earn Rewards for Inviting your Friends",
+      "chi": "邀请好友可获得奖励",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "referral_program_callout_message",
+      "eng": "Your friends start with bonus gold and you earn rewards as they battle.",
+      "chi": "你的朋友会获得金币，而你会在段位提升后获得奖励。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "referral_program_button_label",
+      "eng": "Referral Program",
+      "chi": "推荐计划",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "referral_program_redeem_button_label",
+      "eng": "claim a friend's referral code",
+      "chi": "索取朋友的推荐码",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "your_referral_code_msg",
+      "eng": "Your referral CODE is",
+      "chi": "你的邀请码是",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "click_to_copy",
+      "eng": "click to copy.",
+      "chi": "点击来复制",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "your_friends_referral_instructions",
+      "eng": "Your friends have to use your code before playing a ranked game.",
+      "chi": "你的好友在进行天梯比赛前可以使用你的邀请码",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "referral_learn_more",
+      "eng": "learn more",
+      "chi": "学习更多",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "referrals",
+      "eng": "REFERRALS",
+      "chi": "邀请",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "referral_beginner_instructions",
+      "eng": "Every friend that uses your CODE starts with +100 GOLD",
+      "chi": "每位使用你的邀请码的好友会获得100金币",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "silver",
+      "eng": "SILVER",
+      "chi": "白银",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "referral_silver_instructions",
+      "eng": "For every friend that reaches SILVER DIVISION you gain +1 SPIRIT ORB",
+      "chi": "每位到达白银段位的好友会让你获得一个卡包",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "gold",
+      "eng": "GOLD",
+      "chi": "黄金",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "referral_gold_instructions",
+      "eng": "For every friend that reaches GOLD DIVISION you gain +200 GOLD",
+      "chi": "每位到达黄金段位的好友会让你获得200金币",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "rewards_label",
+      "eng": "Available Rewards:",
+      "chi": "可用奖励：",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "rewards_claim_all",
+      "eng": "CLAIM ALL",
+      "chi": "领取所有",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "rewards_claimed_success",
+      "eng": "rewards claimed",
+      "chi": "奖励已领取",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "claim_rewards_instructions",
+      "eng": "Claim your rewards here as they become available.",
+      "chi": "当奖励可用时，请在此处领取奖励。",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "details",
+      "eng": "details",
+      "chi": "详情",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "referral_player",
+      "eng": "player",
+      "chi": "玩家",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "referral_level_reached",
+      "eng": "level reached",
+      "chi": "已到达等级",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "referral_time_ago",
+      "eng": "time ago",
+      "chi": "之前",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "action_add_buddy",
+      "eng": "Add Buddy",
+      "chi": "添加好友",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "action_do_not_disturb",
+      "eng": "Do Not Disturb",
+      "chi": "请勿打扰",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "last_opponent",
+      "eng": "Last Opponent",
+      "chi": "上一个对手",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "add_buddy_instructions",
+      "eng": "Enter friend's username",
+      "chi": "输入好友的名称",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "action_spectate",
+      "eng": "Spectate",
+      "chi": "观战",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "action_challenge",
+      "eng": "Challenge",
+      "chi": "挑战",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "player_one_side",
+      "eng": "PLAYER ONE",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "player_two_side",
+      "eng": "PLAYER TWO",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "player_random_side",
+      "eng": "RANDOM",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "player_one_indicator_message",
+      "eng": "You are Player 1",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "player_two_indicator_message",
+      "eng": "You are Player 2",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "game_mode",
+      "eng": "GAME MODE:",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "play_as",
+      "eng": "PLAY AS:",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "can_play_legacy_status_message",
+      "eng": "Buddy is not able to play Legacy games.",
+      "chi": "",
+      "originVersionCode": "20.1.18",
+      "translateState": 0
+    },
+    {
+      "code": "message_input_instructions",
+      "eng": "Type your message",
+      "chi": "输入你的消息",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "action_send_message",
+      "eng": "Send",
+      "chi": "发送",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "action_share_replay",
+      "eng": "Share Last Replay",
+      "chi": "共享上局录像",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "challenge_received_title",
+      "eng": "You've been challenged to a game by:",
+      "chi": "你被挑战了，来自：",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "challenge_sent_title",
+      "eng": "Waiting for challenge to be accepted by:",
+      "chi": "等待接受挑战：",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "message_rejected_game_invite",
+      "eng": "Your opponent rejected the invite.",
+      "chi": "你的对手拒绝了这次挑战",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "message_cancelled_game_invite",
+      "eng": "Your opponent cancelled the invite.",
+      "chi": "你的对手取消了这次挑战",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "accept_invite_button_label",
+      "eng": "Accept",
+      "chi": "接受",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "decline_invite_button_label",
+      "eng": "Decline",
+      "chi": "拒绝",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "status_loading",
+      "eng": "loading",
+      "chi": "读取中",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "status_online",
+      "eng": "online",
+      "chi": "在线",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "status_away",
+      "eng": "away",
+      "chi": "离开",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "status_queue",
+      "eng": "queue",
+      "chi": "匹配中",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "status_game",
+      "eng": "game",
+      "chi": "游戏中",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "status_watching",
+      "eng": "watching",
+      "chi": "观战中",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "status_challenge",
+      "eng": "challenge",
+      "chi": "切磋",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    },
+    {
+      "code": "status_offline",
+      "eng": "offline",
+      "chi": "离线",
+      "originVersionCode": "20.1.17",
+      "translateState": 4
+    }
+  ]
+}

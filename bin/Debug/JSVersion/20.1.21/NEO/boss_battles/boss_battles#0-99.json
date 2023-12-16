@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.21",
+  "nodeCode": "boss_battles",
+  "path": "boss_battles",
+  "orderStart": 0,
+  "orderEnd": 99,
+  "translateItemList": [
+    {
+      "code": "instructions",
+      "eng": "Defeat AI controlled Boss Decks for special rewards.",
+      "chi": "击败AI控制的Boss牌组获得特殊奖励。",
+      "originVersionCode": "20.1.20",
+      "translateState": 4
+    },
+    {
+      "code": "boss_battle_available",
+      "eng": "Boss Battle Available",
+      "chi": "Boss战可用",
+      "originVersionCode": "20.1.20",
+      "translateState": 4
+    },
+    {
+      "code": "boss_battle_upcoming",
+      "eng": "Upcoming Boss Battle",
+      "chi": "Boss战即将到来",
+      "originVersionCode": "20.1.20",
+      "translateState": 4
+    },
+    {
+      "code": "defeated",
+      "eng": "Defeated",
+      "chi": "击败",
+      "originVersionCode": "20.1.20",
+      "translateState": 4
+    },
+    {
+      "code": "play_button_label",
+      "eng": "Battle",
+      "chi": "战斗",
+      "originVersionCode": "20.1.20",
+      "translateState": 4
+    },
+    {
+      "code": "boss_1_name",
+      "eng": "Boreal Juggernaut",
+      "chi": "极地巨兽",
+      "originVersionCode": "20.1.20",
+      "translateState": 4
+    },
+    {
+      "code": "boss_1_desc",
+      "eng": "Frenzy\nWhenever this damages an enemy minion, it is stunned.",
+      "chi": "狂暴\n每当此单位对敌方随从造成伤害时，眩晕该随从。",
+      "originVersionCode": "20.1.20",
+      "translateState": 4
+    },
+    {
+      "code": "boss_1_bio",
+      "eng": "A walking mountain of ice and fury that can not be contained.",
+      "chi": "一座无法阻挡的狂暴冰山。",
+      "originVersionCode": "20.1.20",
+      "translateState": 4
+    },
+    {
+      "code": "boss_2_name",
+      "eng": "Umbra",
+      "chi": "幽影",
+      "originVersionCode": "20.1.20",
+      "translateState": 4
+    },
+    {
+      "code": "boss_2_desc",
+      "eng": "Whenever an enemy summons a minion, summon a 1 health clone nearby your General.",
+      "chi": "每当一个对手召唤一个随从时，在你的将领相邻位置召唤一个1点生命的该随从的复制。",
+      "originVersionCode": "20.1.20",
+      "translateState": 4
+    },
+    {
+      "code": "boss_2_bio",
+      "eng": "From the shadows come a twisted visage.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_3_name",
+      "eng": "CALIBERO 2.0",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_3_desc",
+      "eng": "Forcefield\nAt the start of your turn, equip a random artifact.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_3_bio",
+      "eng": "Face the power of his unlimited arsenal.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_4_name",
+      "eng": "Cade the Desolator",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_4_desc",
+      "eng": "Frenzy\nWhenever an enemy damages or takes damage from this, teleport that enemy to a random location.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_4_bio",
+      "eng": "An ancient being that knows only madness.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_5_name",
+      "eng": "Shinkage Zendo",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_5_desc",
+      "eng": "The enemy General moves and attacks as if they are a Battle Pet.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_5_bio",
+      "eng": "He has walked the path to oblivion and now so shall you.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_6_name",
+      "eng": "D3C",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_6_desc",
+      "eng": "Provoke\nCannot be damaged while other D3cepticle parts live.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_6_bio",
+      "eng": "A perfectly engineered weapon designed to destroy Mechaz0r and all those who would protect it.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_6_part1_name",
+      "eng": "Thrusters of D3cepticle",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_6_part1_desc",
+      "eng": "Flying",
+      "chi": "飞行",
+      "originVersionCode": "20.1.20",
+      "translateState": 4
+    },
+    {
+      "code": "boss_6_part2_name",
+      "eng": "Core of D3cepticle",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_6_part2_desc",
+      "eng": "Forcefield",
+      "chi": "力场",
+      "originVersionCode": "20.1.20",
+      "translateState": 4
+    },
+    {
+      "code": "boss_6_part3_name",
+      "eng": "Blade of D3cepticle",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_6_part3_desc",
+      "eng": "Backstab: (2)",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_6_part4_name",
+      "eng": "Reticle of D3cepticle",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_6_part4_desc",
+      "eng": "Celerity",
+      "chi": "迅捷",
+      "originVersionCode": "20.1.20",
+      "translateState": 4
+    },
+    {
+      "code": "boss_6_prime_name",
+      "eng": "D3cepticle",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_6_prime_desc",
+      "eng": "Flying, Forcefield, Provoke, Backstab: (2), Celerity",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_7_name",
+      "eng": "CALIBERO",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_7_desc",
+      "eng": "At the start of your second turn and every turn thereafter, equip a random artifact.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_7_bio",
+      "eng": "Face the power of his unlimited arsenal.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_7_artifact_name",
+      "eng": "Cyclone Generator",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_7_artifact_desc",
+      "eng": "Your General gains Celerity.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_8_name",
+      "eng": "Monolith Guardian",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_8_desc",
+      "eng": "Whenever Monolith Guardian destroys an enemy, it assimilates them.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_8_bio",
+      "eng": "Can you prove yourself worthy of entry into the Monolith?",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_9_name",
+      "eng": "Wu'jin the Trickster",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_9_desc",
+      "eng": "Flying.\nWhenever this attacks or is attacked, summon a decoy nearby.  At the end of turn, teleport to a random corner.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_9_bio",
+      "eng": "A master of cunning and deception, Wu'jin has journeyed far in search of a worth adversary.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_9_clone_name",
+      "eng": "Decoy",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_10_name",
+      "eng": "Solfist",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_10_desc",
+      "eng": "Whenever Solfist destroys a minion, reactivate it. At the end of Solfist's turn, deal increasing damage to himself and all nearby enemies.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_10_bio",
+      "eng": "As the Eternal Flame consumes him he has plans to take you with him.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_11_name",
+      "eng": "Automaton 8",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_11_desc",
+      "eng": "Ranged.\nAttacks hit the target and all enemies around that target. Take damage equal to the total damage dealt",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_11_bio",
+      "eng": "Its core fractured. Its purpose diminished. It shall share its pain with those who dare face it.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_12_name",
+      "eng": "Orias the Heretic",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_12_desc",
+      "eng": "Whenever Orias damages an enemy, he gains +1 Attack.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_12_bio",
+      "eng": "A thaumaturge so dangerous, even The Crimson Flame had to cast him out.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_12_idol_name",
+      "eng": "Idol of Invigoration",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_12_idol_desc",
+      "eng": "ANY minion summoned nearby this minion gains Rush.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_13_name",
+      "eng": "Malyk",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_13_desc",
+      "eng": "Ranged.\nWhenever your opponent summons a minion, they draw a card. Whenever your opponent overdraws, summon a 3/3 Ooz",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_13_bio",
+      "eng": "Cursed with boundless ambition this master of the dark arts is willing to share its power to see if you can handle what lies in the shadows of your potential.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_14_name",
+      "eng": "Archonis",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_14_desc",
+      "eng": "At the end of each turn, deal damage to the player equal to their remaining mana.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_14_bio",
+      "eng": "A being composed of pure energy, his original visage no longer recognizable. They once craved the power to defeat the darkness and thus became the light.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_15_name",
+      "eng": "Paragon of Light",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_15_desc",
+      "eng": "Gains new keyword abilities as health decreases.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_15_bio",
+      "eng": "To stand before the Paragon is to face absolute retribution. The closer it comes to defeat the more terrifying its power becomes. Light shall sear across the land to abolish all darkness before it.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_16_name",
+      "eng": "Scion of the Void",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_16_desc",
+      "eng": "Flying.\nDeals double damage on counter attacks. Whenever this deals damage, restore that much Health to it.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_16_bio",
+      "eng": "Where there is light there must be shadow and in that void he draws strength. Capable of ripping the very essence from his foes, his spite unleashes a terrible price upon those foolish enough to face him. Strike him hard or he will hit you harder.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_17_name",
+      "eng": "High Templar Kron",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_17_desc",
+      "eng": "Whenever an enemy minion dies, summon a prisoner on their space.\nKron's spells cost 2 less to cast.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_17_bio",
+      "eng": "Before his descent into madness, Kron was once the most revered templar within The Crimson Flames. Not content on simply eliminating heretics, Kron had an unusual talent for subjugating his enemies and breaking their wills until they were under his complete control.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_18_name",
+      "eng": "Megapenti",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_18_desc",
+      "eng": "Minions summoned from Megapenti's action bar gain Rebirth: Serpenti.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_18_bio",
+      "eng": "Tired of nobody taking it seriously, it decided to hit the gym and bulk up so it could unleash a future that is Serpenti.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_19_name",
+      "eng": "Rin the Shadowsworn",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_19_desc",
+      "eng": "Rin's minions have Grow +1/+1. Whenever Rin takes damage, summon that many wraithlings.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_19_bio",
+      "eng": "This accursed tome cannot be read but instead the power locked inside bleeds from the pages as the wielders own twisted soul is laid bare. These dark creatures hunger for the very same power as the one who holds the book, and when sated become nightmares.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_20_name",
+      "eng": "Skyfall Tyrant",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_20_desc",
+      "eng": "Ranged.\nCan't move.\nAt the start of your turn, equip a Frost Armor artifact.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_20_bio",
+      "eng": "Frozen and ageless the Frost Tyrant abides in its glacial fortress. The titan has survived generations in the cold, kept timeless by the frigid conditions, waiting for a worthy adversary to wake it from its slumber.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_20_artifact_name",
+      "eng": "Frost Armor",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_20_artifact_desc",
+      "eng": "The first time your General takes damage each turn, prevent 1 of it.  Enemies who damage your General take 1 damage.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_21_name",
+      "eng": "Cindera",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_21_desc",
+      "eng": "Frenzy.\nYour minions have \"Dying Wish: Deal 2 damage to all nearby enemies.\" At the start of your turn, teleport to a random location.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_21_bio",
+      "eng": "The Flameblood Trials unlock the full potential of the user causing their own blood to become volatile and destructive. They channel this fury and anger into the energy surrounding them to devastating results. Be wary of her explosive potential.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_22_name",
+      "eng": "Crystalline Champion",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_22_desc",
+      "eng": "Forcefield\nAll minions summoned from the action bar gain +2 Attack, but -2 Health.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_22_bio",
+      "eng": "A noble warrior bestowed with armor fashioned from depleted mana crystals, the Crystalline Champion shows his opponents their true mettle. The power that emanates from him cripples the weak and fuels aggression, making the fight as razor edge as his glaive.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_23_name",
+      "eng": "Xel",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_23_desc",
+      "eng": "At the start of your turn, damage the enemy General equal to the amount of minions they own.\nDeathwatch: Restore 1 health and deal 1 damage to the enemy General",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_23_bio",
+      "eng": "Born among the Magmar where strength was heralded as prominence, Xel took his pursuit of perfect evolution one step further as he transcended even his own kind.  Feeding off the death of lesser beings, Xel sets his eyes upon you next.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_24_name",
+      "eng": "Skurge",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_24_desc",
+      "eng": "Ranged\nAt the start of your turn, take 3 damage but gain +1 Attack.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_24_bio",
+      "eng": "One of the most dangerous mercenaries known across the land. He is as ruthless as he is fearless in pursuing his marks. Underestimate him and his crew will rain punishment from the skies above. Be wary as his brother is always watching.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_24_valiant_name",
+      "eng": "Valiant",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_24_valiant_desc",
+      "eng": "Provoke\nRanged attackers must attack this minion first.\nCan move 2 additional spaces.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_25_name",
+      "eng": "Shadow Lord",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_25_desc",
+      "eng": "Whenever an enemy minion is moved for any reason, summon a Kaido Asasssin behind them. Whenever a friendly minion is moved for any reason, give it +1/+1.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_25_bio",
+      "eng": "No one knows if anyone resides beneath the armor of the Shadow Lord. He silently leads his agents on the field in his deadly game of shadows. His quiet rage fuels his actions to bring a swift end to his victims. Do not make haste and watch your back or you may find a knife stuck in it.",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    },
+    {
+      "code": "boss_26_name",
+      "eng": "Archmagus Vol",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 0
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "versionCode": "20.1.08",
+  "nodeCode": "rarity",
+  "path": "rarity",
+  "orderStart": 0,
+  "orderEnd": 4,
+  "translateItemList": [
+    {
+      "code": "rarity_basic",
+      "eng": "Basic",
+      "chi": "基础",
+      "originVersionCode": "20.1.07",
+      "translateState": 4
+    },
+    {
+      "code": "rarity_common",
+      "eng": "Common",
+      "chi": "普通",
+      "originVersionCode": "20.1.07",
+      "translateState": 4
+    },
+    {
+      "code": "rarity_rare",
+      "eng": "Rare",
+      "chi": "稀有",
+      "originVersionCode": "20.1.07",
+      "translateState": 4
+    },
+    {
+      "code": "rarity_epic",
+      "eng": "Epic",
+      "chi": "史诗",
+      "originVersionCode": "20.1.07",
+      "translateState": 4
+    },
+    {
+      "code": "rarity_legendary",
+      "eng": "Legendary",
+      "chi": "传奇",
+      "originVersionCode": "20.1.07",
+      "translateState": 4
+    }
+  ]
+}

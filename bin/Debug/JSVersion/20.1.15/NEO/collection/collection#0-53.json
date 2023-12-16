@@ -1,0 +1,387 @@
+{
+  "versionCode": "20.1.15",
+  "nodeCode": "collection",
+  "path": "collection",
+  "orderStart": 0,
+  "orderEnd": 53,
+  "translateItemList": [
+    {
+      "code": "new_deck_button_label",
+      "eng": "New Deck",
+      "chi": "新牌组",
+      "originVersionCode": "20.1.14",
+      "translateState": 4
+    },
+    {
+      "code": "crafting_button_label",
+      "eng": "Crafting",
+      "chi": "制作",
+      "originVersionCode": "20.1.14",
+      "translateState": 4
+    },
+    {
+      "code": "crafting_instructions",
+      "eng": "Select or drag a card here to start crafting or disenchanting.",
+      "chi": "在这里选择或拖动一张卡片，开始制作或分解。",
+      "originVersionCode": "20.1.14",
+      "translateState": 4
+    },
+    {
+      "code": "crafting_disenchant_duplicates_button_label",
+      "eng": "Disenchant Extras",
+      "chi": "分解多余",
+      "originVersionCode": "20.1.14",
+      "translateState": 4
+    },
+    {
+      "code": "crafting_disenchant_duplicates_instructions",
+      "eng": "any duplicate with more than 3x cards",
+      "chi": "分解所有超过3张的卡牌",
+      "originVersionCode": "20.1.14",
+      "translateState": 4
+    },
+    {
+      "code": "craft_card_button_label",
+      "eng": "Craft",
+      "chi": "制作",
+      "originVersionCode": "20.1.14",
+      "translateState": 4
+    },
+    {
+      "code": "disenchant_card_button_label",
+      "eng": "Disenchant",
+      "chi": "分解",
+      "originVersionCode": "20.1.14",
+      "translateState": 4
+    },
+    {
+      "code": "confirm_card_crafting_message",
+      "eng": "Are you sure you want to craft +1 {{card_name}}?",
+      "chi": "你确定你要制作一张{{card_name}}吗?",
+      "originVersionCode": "20.1.14",
+      "translateState": 4
+    },
+    {
+      "code": "confirm_card_disenchanting_message",
+      "eng": "Are you sure you want to DISENCHANT (-1) {{card_name}}",
+      "chi": "你确定你要分解一张{{card_name}}吗?",
+      "originVersionCode": "20.1.14",
+      "translateState": 4
+    },
+    {
+      "code": "confirm_card_disenchant_all_message",
+      "eng": "Are you sure you want to Disenchant Extras?",
+      "chi": "你确定你要分解多余的卡牌吗?",
+      "originVersionCode": "20.1.14",
+      "translateState": 4
+    },
+    {
+      "code": "deck_save_button_label",
+      "eng": "Save",
+      "chi": "保存",
+      "originVersionCode": "20.1.14",
+      "translateState": 4
+    },
+    {
+      "code": "back_button_label",
+      "eng": "Back",
+      "chi": "返回",
+      "originVersionCode": "20.1.14",
+      "translateState": 4
+    },
+    {
+      "code": "crafting_rewards_title",
+      "eng": "Crafting Rewards",
+      "chi": "制作奖励",
+      "originVersionCode": "20.1.14",
+      "translateState": 4
+    },
+    {
+      "code": "seven_sisters_unlock_message",
+      "eng": "To earn, unlock 3x of any six {{faction_name}} Rares.",
+      "chi": "要获得奖励，请解锁任意六个{{faction_name}}的稀有卡。",
+      "originVersionCode": "20.1.14",
+      "translateState": 4
+    },
+    {
+      "code": "action_filter_all_cards",
+      "eng": "All Cards",
+      "chi": "所有卡牌",
+      "originVersionCode": "20.1.14",
+      "translateState": 4
+    },
+    {
+      "code": "action_filter_standard_cards",
+      "eng": "Standard Cards",
+      "chi": "标准模式卡牌",
+      "originVersionCode": "20.1.14",
+      "translateState": 4
+    },
+    {
+      "code": "action_filter_lore",
+      "eng": "Lore Notifications",
+      "chi": "卡牌故事提示",
+      "originVersionCode": "20.1.14",
+      "translateState": 4
+    },
+    {
+      "code": "action_filter_card_skins",
+      "eng": "Card Skins",
+      "chi": "卡牌样式",
+      "originVersionCode": "20.1.14",
+      "translateState": 4
+    },
+    {
+      "code": "action_filter_prismatic_crafting",
+      "eng": "Prismatic Crafting",
+      "chi": "闪卡制作",
+      "originVersionCode": "20.1.14",
+      "translateState": 4
+    },
+    {
+      "code": "action_filter_prismatics",
+      "eng": "Prismatics",
+      "chi": "闪卡",
+      "originVersionCode": "20.1.14",
+      "translateState": 4
+    },
+    {
+      "code": "action_dismiss_all_new",
+      "eng": "Dismiss New",
+      "chi": "清除获得提示",
+      "originVersionCode": "20.1.14",
+      "translateState": 4
+    },
+    {
+      "code": "unlock_prismatic_crafting_by_normal_unlock_msg",
+      "eng": "Unlock prismatic crafting by unlocking the normal version of this card.",
+      "chi": "通过解锁这张卡的普通版本来解锁闪卡版本。",
+      "originVersionCode": "20.1.14",
+      "translateState": 4
+    },
+    {
+      "code": "unlock_prismatic_crafting_by_leveling_faction_msg",
+      "eng": "Unlock prismatic by reaching {{faction_name}} level {{unlocksAtLevel}}.",
+      "chi": "通过{{faction_name}}等级到达{{unlocksAtLevel}}级来解锁闪卡版本。",
+      "originVersionCode": "20.1.14",
+      "translateState": 4
+    },
+    {
+      "code": "unlock_general_by_leveling_msg",
+      "eng": "Unlock 1 copy by reaching {{faction_name}} level {{level}}.",
+      "chi": "通过{{faction_name}}到达{{level}}级来解锁1张。",
+      "originVersionCode": "20.1.14",
+      "translateState": 4
+    },
+    {
+      "code": "unlock_card_by_leveling_msg",
+      "eng": "Unlock 3 copies by reaching {{faction_name}} level {{level}}.",
+      "chi": "通过{{faction_name}}到达{{level}}级来解锁3张。",
+      "originVersionCode": "20.1.14",
+      "translateState": 4
+    },
+    {
+      "code": "unlock_through_spirit_orbs_msg",
+      "eng": "Unlockable only through {{card_set_name}} Spirit Orbs.",
+      "chi": "只能通过{{card_set_name}}的卡包来解锁。",
+      "originVersionCode": "20.1.14",
+      "translateState": 4
+    },
+    {
+      "code": "unlock_faction_msg",
+      "eng": "Unlock {{faction_name}} by defeating them in a Practice Game.",
+      "chi": "在练习模式中击败{{faction_name}}来解锁这个阵营。",
+      "originVersionCode": "20.1.14",
+      "translateState": 4
+    },
+    {
+      "code": "cannot_craft_prismatic_achievement_cards_yet_msg",
+      "eng": "You cannot craft or disenchant prismatic achievement cards until you've earned the achievement.",
+      "chi": "在获得这个成就之前，你不能制造或分解它的闪卡版本。",
+      "originVersionCode": "20.1.14",
+      "translateState": 4
+    },
+    {
+      "code": "cannot_craft_achievement_cards_msg",
+      "eng": "You cannot craft or disenchant achievement cards.",
+      "chi": "你不能制造或分解成就卡牌。",
+      "originVersionCode": "20.1.14",
+      "translateState": 4
+    },
+    {
+      "code": "cannot_craft_progression_cards_msg",
+      "eng": "You cannot craft or disenchant progression cards.",
+      "chi": "你不能制造或分解进程卡牌。",
+      "originVersionCode": "20.1.14",
+      "translateState": 4
+    },
+    {
+      "code": "cannot_craft_prismatic_of_unlockable_set_msg",
+      "eng": "You cannot craft or disenchant prismatic {{cardSetName}} cards until you've unlocked the normal version of this card.",
+      "chi": "你不能制作和分解{{cardSetName}}的闪卡版本，直到你解锁了它的普通版本。",
+      "originVersionCode": "20.1.14",
+      "translateState": 4
+    },
+    {
+      "code": "cannot_craft_cards_of_unlockable_set_msg",
+      "eng": "You cannot craft or disenchant the normal version of {{cardSetName}} cards.",
+      "chi": "你不能制造或分解{{cardSetName}}的普通版本卡牌。",
+      "originVersionCode": "20.1.14",
+      "translateState": 4
+    },
+    {
+      "code": "cannot_craft_basic_cards_msg",
+      "eng": "You cannot craft or disenchant Generals.",
+      "chi": "你不能制造或分解基础将领卡。",
+      "originVersionCode": "20.1.14",
+      "translateState": 4
+    },
+    {
+      "code": "cannot_craft_legacy_cards_msg",
+      "eng": "You cannot craft or disenchant Legacy cards.",
+      "chi": "你不能制造或分解传奇模式卡牌。",
+      "originVersionCode": "20.1.14",
+      "translateState": 4
+    },
+    {
+      "code": "duplicate_cards_msg",
+      "eng": "You have duplicate cards",
+      "chi": "你有重复的卡牌",
+      "originVersionCode": "20.1.14",
+      "translateState": 4
+    },
+    {
+      "code": "new_card_popover_msg",
+      "eng": "NEW",
+      "chi": "新",
+      "originVersionCode": "20.1.14",
+      "translateState": 4
+    },
+    {
+      "code": "import_deck",
+      "eng": "Import Deck",
+      "chi": "导入牌组",
+      "originVersionCode": "20.1.14",
+      "translateState": 4
+    },
+    {
+      "code": "export_deck",
+      "eng": "Export Deck",
+      "chi": "导出牌组",
+      "originVersionCode": "20.1.14",
+      "translateState": 4
+    },
+    {
+      "code": "must_select_general_error",
+      "eng": "You must select a General first!",
+      "chi": "你必须先选择一个将领！",
+      "originVersionCode": "20.1.14",
+      "translateState": 4
+    },
+    {
+      "code": "default_deck_name",
+      "eng": "Deck Name",
+      "chi": "牌组名称",
+      "originVersionCode": "20.1.14",
+      "translateState": 4
+    },
+    {
+      "code": "default_deck_desc",
+      "eng": "this deck",
+      "chi": "这个牌组",
+      "originVersionCode": "20.1.14",
+      "translateState": 4
+    },
+    {
+      "code": "deck_change_cancel_msg",
+      "eng": "Are you sure you want to cancel changes made to {{deckName}}?",
+      "chi": "你确定你要放弃修改牌组{{deckName}}吗?",
+      "originVersionCode": "20.1.14",
+      "translateState": 4
+    },
+    {
+      "code": "deck_delete_confirm_msg",
+      "eng": "Are you sure you want to delete {{deckName}}?",
+      "chi": "你确定你要删除牌组{{deckName}}吗?",
+      "originVersionCode": "20.1.14",
+      "translateState": 4
+    },
+    {
+      "code": "deck_save_error_msg",
+      "eng": "There was a problem saving your deck. Please try again.",
+      "chi": "保存牌组时出了问题，请再试一次。",
+      "originVersionCode": "20.1.14",
+      "translateState": 4
+    },
+    {
+      "code": "deck_save_no_general_error_msg",
+      "eng": "You cannot save a deck without a General.",
+      "chi": "你不能保存一套没有将领的牌组。",
+      "originVersionCode": "20.1.14",
+      "translateState": 4
+    },
+    {
+      "code": "max_copies_added_to_deck",
+      "eng": "Max copies added to deck.",
+      "chi": "已到达牌组可添加数量上限",
+      "originVersionCode": "20.1.14",
+      "translateState": 4
+    },
+    {
+      "code": "version_d2",
+      "eng": "Duelyst II",
+      "chi": "Duelyst II",
+      "originVersionCode": "20.1.14",
+      "translateState": 4
+    },
+    {
+      "code": "version_d2_gauntlet",
+      "eng": "Gauntlet",
+      "chi": "",
+      "originVersionCode": "20.1.15",
+      "translateState": 0
+    },
+    {
+      "code": "version_d1",
+      "eng": "Legacy",
+      "chi": "传奇模式",
+      "originVersionCode": "20.1.14",
+      "translateState": 4
+    },
+    {
+      "code": "artifact_desc",
+      "eng": "Artifacts are equipped to your General to grant Attack bonuses and special abilities. A General may have up to 3 artifacts equipped at once. Artifacts remain active until replaced or destroyed.",
+      "chi": "神器会使你的将领获得攻击加成和特殊效果。一个将领同时最多装备3件神器。神器在被摧毁后将会失效。",
+      "originVersionCode": "20.1.14",
+      "translateState": 4
+    },
+    {
+      "code": "general_desc",
+      "eng": "Generals are powerful units that start the game on their respective side of the battlefield. Destroy the enemy general to win the game!",
+      "chi": "将领是游戏开始时就存在于战场上的强大单位，摧毁敌方将领来赢得战斗。",
+      "originVersionCode": "20.1.14",
+      "translateState": 4
+    },
+    {
+      "code": "minion_desc",
+      "eng": "Minions are units that may be played to the battlefield nearby another allied unit. Minions begin their first turn exhausted, but may move and attack at least once on each subsequent turn.",
+      "chi": "随从是可以在友军相邻位置被召唤的单位，在被召唤的第一回合将会进入力竭状态，在之后的回合里将可以至少移动和攻击1次。",
+      "originVersionCode": "20.1.14",
+      "translateState": 4
+    },
+    {
+      "code": "spell_desc",
+      "eng": "Spells are one-time effects that are activated when played.",
+      "chi": "法术在被使用时将会释放一次效果。",
+      "originVersionCode": "20.1.14",
+      "translateState": 4
+    },
+    {
+      "code": "copies_label",
+      "eng": "Copies: ",
+      "chi": "数量:",
+      "originVersionCode": "20.1.14",
+      "translateState": 4
+    }
+  ]
+}

@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.09",
+  "nodeCode": "cards",
+  "path": "cards",
+  "orderStart": 1600,
+  "orderEnd": 1699,
+  "translateItemList": [
+    {
+      "code": "faction_5_unit_veteran_silithar_name",
+      "eng": "Veteran Silithar",
+      "chi": "成熟期西利萨",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_veteran_silithar_desc",
+      "eng": "Rebirth",
+      "chi": "重生",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_kolossus_name",
+      "eng": "Kolossus",
+      "chi": "巍峨巨像",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_kolossus_desc",
+      "eng": "Grow: +4/+4",
+      "chi": "成长：+4/+4",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_spirit_harvester_name",
+      "eng": "Spirit Harvester",
+      "chi": "收割者",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_spirit_harvester_desc",
+      "eng": "At the end of your turn, deal 1 damage to ALL other minions.",
+      "chi": "在你的回合结束时，对所有其他随从造成1点伤害。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_makantor_warbeast_name",
+      "eng": "Makantor Warbeast",
+      "chi": "纷争制造者",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_makantor_warbeast_desc",
+      "eng": "Frenzy\nRush",
+      "chi": "狂暴\n冲锋",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_silithar_elder_name",
+      "eng": "Silithar Elder",
+      "chi": "完全体西里萨",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_silithar_elder_desc",
+      "eng": "Rebirth\nAt the end of your turn, summon a Silithar Elder Egg nearby.",
+      "chi": "重生\n在你的回合结束时，在随机相邻位置召唤一个此随从的蛋。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_unstable_leviathan_name",
+      "eng": "Unstable Leviathan",
+      "chi": "不稳定的利维坦",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_unstable_leviathan_desc",
+      "eng": "At the start of your turn, deal 4 damage to a random minion or General.",
+      "chi": "在你的回合结束时，对一个随机单位造成4点伤害。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_egg_name",
+      "eng": "Chrysalis Egg",
+      "chi": "蛹蛋",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_magma_name",
+      "eng": "Magma",
+      "chi": "小石块",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_wild_inceptor_name",
+      "eng": "Wild Inceptor",
+      "chi": "离群窃蛋蜥",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_wild_inceptor_desc",
+      "eng": "Opening Gambit: Hatch a friendly Egg.",
+      "chi": "登场：孵化一个友方蛋。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_rex_name",
+      "eng": "Rex",
+      "chi": "幼霸蜥",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_rex_desc",
+      "eng": "Rebirth",
+      "chi": "重生",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_gro_name",
+      "eng": "Gro",
+      "chi": "基岩龟",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_gro_desc",
+      "eng": "Grow: +1/+1",
+      "chi": "成长：+1/+1",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_mandrake_name",
+      "eng": "Mandrake",
+      "chi": "曼德拉",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_mandrake_desc",
+      "eng": "Costs 1 less for each minion summoned from ANY player's action bar this game.",
+      "chi": "本局游戏每有一名玩家从准备栏召唤一个随从，此随从费用就减少1点。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_visionar_name",
+      "eng": "Visionar",
+      "chi": "记录者",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_visionar_desc",
+      "eng": "Whenever ANY player draws a card, this minion gains +1/+1.",
+      "chi": "每当一名玩家抽一张牌时，此随从获得 +1/+1。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_moloki_huntress_name",
+      "eng": "Moloki Huntress",
+      "chi": "莫洛克女猎手",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_moloki_huntress_desc",
+      "eng": "Grow: +1/+1\nFriendly minions grow at the start of BOTH player's turns.",
+      "chi": "成长：+1/+1\n友方随从将会在双方玩家的回合开始时触发成长。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_dreadnought_name",
+      "eng": "Dreadnought",
+      "chi": "无畏巨兽",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_dreadnought_desc",
+      "eng": "Rebirth\nEgg minions you summon gain +2/+2.",
+      "chi": "重生\n你召唤的蛋获得 +2/+2。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_kin_name",
+      "eng": "Kin",
+      "chi": "兔小队",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_earth_sister_name",
+      "eng": "Earth Sister Taygete",
+      "chi": "大地姐妹 泰革塔",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_earth_sister_desc",
+      "eng": "Whenever this minion takes damage, deal that much damage to all nearby enemies.",
+      "chi": "每当此随从受到伤害，对相邻的敌方单位造成等量的伤害。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_thraex_name",
+      "eng": "Thraex",
+      "chi": "角斗者",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_thraex_desc",
+      "eng": "Blood Surge: All friendly minions gain +1 Attack (including itself).",
+      "chi": "血涌：所有友方随从获得 +1/+0。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_rancour_name",
+      "eng": "Rancour",
+      "chi": "记恨者",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_rancour_desc",
+      "eng": "Whenever your General takes damage, this minion gains that much attack.",
+      "chi": "每当你的将领受到伤害时，此随从获得+X/+0，X为此次伤害值。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_drogon_name",
+      "eng": "Drogon",
+      "chi": "卓尔贡",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_drogon_desc",
+      "eng": "Blood Surge: Double your General's Attack this turn.",
+      "chi": "血涌：使你的将领攻击翻倍直到回合结束。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_valknu_spirit_name",
+      "eng": "Spirit of Valknu",
+      "chi": "瓦尔克努的魂魄",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_ragebinder_name",
+      "eng": "Ragebinder",
+      "chi": "聚恨魔像",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_ragebinder_desc",
+      "eng": "Rebirth\nBond: Restore 3 Health to your General.",
+      "chi": "重生\n链接：为你的将领治疗3点生命。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_lavaslasher_name",
+      "eng": "Lavaslasher",
+      "chi": "熔岩抹杀者",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_lavaslasher_desc",
+      "eng": "Opening Gambit: This minion fights a nearby enemy minion.",
+      "chi": "登场：此随从与相邻的敌方随从进行战斗。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_juggernaut_name",
+      "eng": "Juggernaut",
+      "chi": "山崩",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_juggernaut_desc",
+      "eng": "Grow: +5/+5\nWhenever this minion takes damage, summon that many random Golem Eggs nearby.",
+      "chi": "成长：+5/+5\n每当此随从受到伤害时，在相邻位置召唤X个随机魔像的蛋，X为此次伤害值。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_terradon_name",
+      "eng": "Terradon",
+      "chi": "棘蜥",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_catalyst_quillbeast_name",
+      "eng": "Catalyst Quillbeast",
+      "chi": "躁动炎冠蜥",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_catalyst_quillbeast_desc",
+      "eng": "Whenever you cast a spell, deal 1 damage to ALL minions.",
+      "chi": "每当你使用一张法术，对所有随从造成1点伤害。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_omniseer_name",
+      "eng": "Omniseer",
+      "chi": "全知者",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_omniseer_desc",
+      "eng": "Opening Gambit: Turn a nearby space into Primal Flourish.",
+      "chi": "登场：将一个相邻位置变为茂林。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_warpup_name",
+      "eng": "Warpup",
+      "chi": "纷争幼崽",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_warpup_desc",
+      "eng": "Forcefield, Frenzy",
+      "chi": "力场，狂暴",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_rizen_name",
+      "eng": "Rizen",
+      "chi": "瑞曾",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_rizen_desc",
+      "eng": "Whenever your opponent summons a minion, this minion summons an Egg of itself nearby.",
+      "chi": "每当你的对手召唤一个随从时，在此随从相邻位置召唤一个该随从的蛋。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_grandmaster_kraigon_name",
+      "eng": "Grandmaster Kraigon",
+      "chi": "宗师 克莱贡",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_grandmaster_kraigon_desc",
+      "eng": "Forcefield, Frenzy, Grow: +7/+7.\nYour General has:\nForcefield, Frenzy, Grow: +7/+7.",
+      "chi": "力场，狂暴，成长：+7/+7\n你的将领具有\"力场，狂暴，成长：+7/+7\"。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_ripper_name",
+      "eng": "Ripper",
+      "chi": "恐爪蜥",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_ripper_desc",
+      "eng": "Rebirth, Celerity",
+      "chi": "重生，迅捷",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_erratic_raptyr_name",
+      "eng": "Erratic Raptyr",
+      "chi": "幻变掠蜥",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_erratic_raptyr_desc",
+      "eng": "Rebirth\nAfter this minion attacks or counterattacks, turn it into an Egg.",
+      "chi": "重生\n在此随从攻击或反击后，将此随从变为一个蛋。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_biomimetic_hulk_name",
+      "eng": "Biomimetic Hulk",
+      "chi": "仿生绿泰坦",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_biomimetic_hulk_desc",
+      "eng": "Build: (3).",
+      "chi": "生产(3)",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_seismoid_name",
+      "eng": "Seismoid",
+      "chi": "震地机兵",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_seismoid_desc",
+      "eng": "Whenever you summon a Mech minion from your action bar, both players draw a card.",
+      "chi": "每当你从准备栏召唤一个机兵，双方玩家抽一张牌。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_armada_name",
+      "eng": "Armada",
+      "chi": "无敌巨蜥",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_armada_desc",
+      "eng": "Blood Surge: Deal 5 damage to the closest enemy.",
+      "chi": "血涌：对距离此随从最近的敌人造成5点伤害。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_progenitor_name",
+      "eng": "Progenitor",
+      "chi": "原体",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_progenitor_desc",
+      "eng": "Opening Gambit: Each of your other non-Egg minions summon an Egg of itself behind itself.",
+      "chi": "登场：每个其他的不是蛋的友方随从在其正后方召唤一个该随从的蛋。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_gigaloth_name",
+      "eng": "Gigaloth",
+      "chi": "千重山",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_unit_gigaloth_desc",
+      "eng": "Build: (2).\nWhenever this minion attacks, other friendly minions gain +3/+3.",
+      "chi": "生产(2)\n每当此随从攻击时，其他友方随从获得+3/+3。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_kinetic_surge_name",
+      "eng": "Kinetic Surge",
+      "chi": "暴战翻腾",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_kinetic_surge_description",
+      "eng": "Friendly minions summoned this turn gain +1/+1.",
+      "chi": "使所有本回合召唤的随从获得 +1/+1。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_warbird_name",
+      "eng": "Warbird",
+      "chi": "战鹰",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_warbird_description",
+      "eng": "Deal 2 damage to all enemies in the enemy General's Column.",
+      "chi": "对敌方将领所在列的所有敌方单位造成2点伤害。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_gravity_well_name",
+      "eng": "Gravity Well",
+      "chi": "重力井",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_gravity_well_description",
+      "eng": "Summon four joined 0/1 Walls with Provoke.",
+      "chi": "召唤四个相邻的霜冻井(0/1 嘲讽)。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_bonechill_barrier_name",
+      "eng": "Bonechill Barrier",
+      "chi": "刺骨栏栅",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_bonechill_barrier_description",
+      "eng": "Summon three joined 0/2 Vespyr Walls.  Minions that attack these walls are Stunned.",
+      "chi": "召唤三个相邻的冰栅(0/2 眩晕对此随从造成伤害且相邻的随从)。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_blazing_spines_name",
+      "eng": "Blazing Spines",
+      "chi": "闪光冰锥",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_blazing_spines_description",
+      "eng": "Summon two joined 3/3 Walls that can attack.",
+      "chi": "召唤两个相邻的冰锥(3/3)。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_chromatic_cold_name",
+      "eng": "Chromatic Cold",
+      "chi": "折射寒光",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_chromatic_cold_description",
+      "eng": "Dispel a space. If there is an enemy on that space, deal it 1 damage.",
+      "chi": "驱散一个格子并对其上的敌方单位造成1点伤害。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_flash_freeze_name",
+      "eng": "Flash Freeze",
+      "chi": "速冻术",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_flash_freeze_description",
+      "eng": "Deal 1 damage to a minion and Stun it.",
+      "chi": "对一个随从造成1点伤害并眩晕它。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_frostfire_name",
+      "eng": "Frostfire",
+      "chi": "霜火",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_frostfire_description",
+      "eng": "Give a friendly minion +3 Attack. If it is Vespyr, also give it +3 Health.",
+      "chi": "使一个随从获得 +3/+0，如果该随从是霜灵，改为使其获得 +3/+3。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_avalanche_name",
+      "eng": "Avalanche",
+      "chi": "雪崩术",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_avalanche_description",
+      "eng": "Deal 4 damage to everything on your starting side of the battlefield and Stun them.",
+      "chi": "对所有处于你的半场的单位造成4点伤害并眩晕。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_boundless_courage_name",
+      "eng": "Boundless Courage",
+      "chi": "无尽勇气",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_boundless_courage_description",
+      "eng": "Give a friendly minion +2 Attack. It takes no damage this turn.",
+      "chi": "使一个友方随从获得 +2/+0，这个回合内，该随从不会受到伤害。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_mesmerize_name",
+      "eng": "Mesmerize",
+      "chi": "催眠术",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_mesmerize_description",
+      "eng": "Teleport an enemy one space.",
+      "chi": "将一个敌方单位传送1格。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_mark_of_solitude_name",
+      "eng": "Mark of Solitude",
+      "chi": "孤独印记",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_mark_of_solitude_description",
+      "eng": "One minion becomes 5/5. It can no longer attack Generals.",
+      "chi": "使一个随从变成5/5，该随从获得\"无法攻击将领\"。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_aspect_of_the_fox_name",
+      "eng": "Aspect of the Ravager",
+      "chi": "狐之形",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_aspect_of_the_fox_description",
+      "eng": "Transform ANY minion into a 3/3 Ravager with no abilities.",
+      "chi": "将一个随从变形为掠形狐(3/3)。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_aspect_of_the_drake_name",
+      "eng": "Aspect of the Wyrm",
+      "chi": "龙之形",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_aspect_of_the_drake_description",
+      "eng": "Transform ANY minion into a 4/4 Whyte Drake with Flying. Nearby friendly minions gain Flying.",
+      "chi": "将一个随从变形为白龙(4/4 飞行)，使相邻的友方随从获得飞行。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_aspect_of_the_mountains_name",
+      "eng": "Aspect of the Mountains",
+      "chi": "山之形",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_aspect_of_the_mountains_description",
+      "eng": "Transform ANY minion into a 5/5 Seismic Elemental. Deal 5 damage to enemy minions around it.",
+      "chi": "将一个随从变形为地动元素(5/5)，对其相邻的敌方随从造成5点伤害。",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_spell_polarity_name",
+      "eng": "Polarity",
+      "chi": "两极反转",
+      "originVersionCode": "20.1.08",
+      "translateState": 4
+    }
+  ]
+}

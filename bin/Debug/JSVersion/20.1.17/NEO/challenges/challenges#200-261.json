@@ -1,0 +1,443 @@
+{
+  "versionCode": "20.1.17",
+  "nodeCode": "challenges",
+  "path": "challenges",
+  "orderStart": 200,
+  "orderEnd": 261,
+  "translateItemList": [
+    {
+      "code": "beginner_vanar_2_fail",
+      "eng": "Hint: It often takes two attacks to take out a Shieldmaster!",
+      "chi": "提示：需要两次攻击才能摧毁至高盾卫！",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_vanar_2_taunt",
+      "eng": "Feel your life end as the snow melts!",
+      "chi": "当雪融化时，感受你的生命终结！",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_vanar_3_title",
+      "eng": "Vanar: Final Whispers",
+      "chi": "Vanar：最后的低语",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_vanar_3_description",
+      "eng": "Use the Mana tile to destroy the enemy General in one turn.",
+      "chi": "使用魔泉地形在一个回合内击败敌方将领。",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_vanar_3_start",
+      "eng": "Use the Mana tile to destroy the enemy General in one turn.",
+      "chi": "使用魔泉地形在一个回合内击败敌方将领。",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_vanar_3_fail",
+      "eng": "Use the Mana tile to destroy the enemy General in one turn.",
+      "chi": "使用魔泉地形在一个回合内击败敌方将领。",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_vanar_3_taunt",
+      "eng": "Feel your life end as the snow melts!",
+      "chi": "当雪融化时，感受你的生命终结！",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_vanar_4_title",
+      "eng": "Vanar: Approaching Cold",
+      "chi": "Vanar：凛冬将至",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_vanar_4_description",
+      "eng": "Use Rush to destroy the enemy General in one turn.",
+      "chi": "使用冲锋在一个回合内击败敌方将领。",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_vanar_4_start",
+      "eng": "Use Rush to destroy the enemy General in one turn.",
+      "chi": "使用冲锋在一个回合内击败敌方将领。",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_vanar_4_fail",
+      "eng": "Use Rush to destroy the enemy General in one turn.",
+      "chi": "使用冲锋在一个回合内击败敌方将领。",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_vanar_4_taunt",
+      "eng": "Perish and melt like snow!",
+      "chi": "像雪一样融化！",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_vanar_5_title",
+      "eng": "Vanar: Behind Enemy Lines",
+      "chi": "Vanar: 深入敌后",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_vanar_5_description",
+      "eng": "Use Infiltrate and Celerity to destroy the enemy General in one turn.",
+      "chi": "使用渗透和迅捷在一个回合内击败敌方将领。",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_vanar_5_start",
+      "eng": "Use Infiltrate and Celerity to destroy the enemy General in one turn.",
+      "chi": "使用渗透和迅捷在一个回合内击败敌方将领。",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_vanar_5_fail",
+      "eng": "Use Infiltrate and Celerity to destroy the enemy General in one turn.",
+      "chi": "使用渗透和迅捷在一个回合内击败敌方将领。",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_vanar_5_taunt",
+      "eng": "Perish and melt like snow!",
+      "chi": "像雪一样融化！",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "advanced_vetruvian_1_title",
+      "eng": "Vetruvian: Patience",
+      "chi": "Vetruvian: 耐心",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "advanced_vetruvian_1_description",
+      "eng": "Defeat the Abyssian General in ONE turn.",
+      "chi": "在一个回合内击败Abyssian将领。",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "advanced_vetruvian_1_start",
+      "eng": "Finish off the Abyssian General in ONE turn.",
+      "chi": "在一个回合内击败Abyssian将领。",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "advanced_vetruvian_1_fail",
+      "eng": "Hint: Take control of the Mana Forger and consider your draws carefully.",
+      "chi": "提示：控制魔能伪造师然后仔细规划你的操作。",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "advanced_vetruvian_1_taunt",
+      "eng": "Burn in fire!",
+      "chi": "烧成灰烬！",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "advanced_vetruvian_2_title",
+      "eng": "Vetruvian: Precision Strike",
+      "chi": "Vetruvian: 精确打击",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "advanced_vetruvian_2_description",
+      "eng": "Test your skills and destroy the enemy General in one turn.",
+      "chi": "尝试在一个回合内击败敌方将领。",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "advanced_vetruvian_2_start",
+      "eng": "Test your skills and destroy the enemy General in one turn.",
+      "chi": "尝试在一个回合内击败敌方将领。",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "advanced_vetruvian_2_fail",
+      "eng": "Test your skills and destroy the enemy General in one turn.",
+      "chi": "尝试在一个回合内击败敌方将领。",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "advanced_vetruvian_2_taunt",
+      "eng": "Feel the grasp of death!",
+      "chi": "感受死亡的缠绕吧！",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_vetruvian_1_title",
+      "eng": "Vetruvian: Ready for a Blast",
+      "chi": "Vetruvian: 准备炮轰",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_vetruvian_1_description",
+      "eng": "Use Blast to destroy the enemy General in one turn.",
+      "chi": "使用轰炮在一个回合内击败敌方将领。",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_vetruvian_1_start",
+      "eng": "Use Blast to destroy the enemy General in one turn.",
+      "chi": "使用轰炮在一个回合内击败敌方将领。",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_vetruvian_1_fail",
+      "eng": "Use Blast to destroy the enemy General in one turn.",
+      "chi": "使用轰炮在一个回合内击败敌方将领。",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_vetruvian_1_taunt",
+      "eng": "Burn in fire!",
+      "chi": "烧成灰烬！",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_vetruvian_2_title",
+      "eng": "Vetruvian: Relics Reclaimed",
+      "chi": "Vetruvian: 发掘圣物",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_vetruvian_2_description",
+      "eng": "Defeat the Songhai General in ONE turn.",
+      "chi": "在一个回合内击败Songhai将领。",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_vetruvian_2_start",
+      "eng": "Finish off the Songhai General in ONE turn!",
+      "chi": "一个回合内终结Songhai将领！",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_vetruvian_2_fail",
+      "eng": "Hint: The Windshrike must fall to claim its reward.",
+      "chi": "",
+      "originVersionCode": "20.1.17",
+      "translateState": 0
+    },
+    {
+      "code": "beginner_vetruvian_2_taunt",
+      "eng": "Burn in fire!",
+      "chi": "烧成灰烬！",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_vetruvian_3_title",
+      "eng": "Vetruvian: Call to Action",
+      "chi": "Vetruvian：行动号召",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_vetruvian_3_description",
+      "eng": "Use OPENING GAMBIT to defeat the Abyssian General in ONE turn.",
+      "chi": "使用登场在一个回合内击败Abyssian将领。",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_vetruvian_3_start",
+      "eng": "Finish off the Abyssian General in ONE turn!",
+      "chi": "一个回合内终结Abyssian将领！",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_vetruvian_3_fail",
+      "eng": "Hint: Use your Opening Gambits to Dispel the shadows.",
+      "chi": "提示：使用你的登场异能来驱散暗影。",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_vetruvian_3_taunt",
+      "eng": "Consumed in darkfire!",
+      "chi": "在渊火中燃烧！",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_vetruvian_4_title",
+      "eng": "Vetruvian: Leave No Trace",
+      "chi": "Vetruvian: 不留痕迹",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_vetruvian_4_description",
+      "eng": "Power up and strike to destroy the enemy General in one turn.",
+      "chi": "尝试在一个回合内击败敌方将领。",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_vetruvian_4_start",
+      "eng": "Power up and strike to destroy the enemy General in one turn.",
+      "chi": "尝试在一个回合内击败敌方将领。",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_vetruvian_4_fail",
+      "eng": "Power up and strike to destroy the enemy General in one turn.",
+      "chi": "尝试在一个回合内击败敌方将领。",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_vetruvian_4_taunt",
+      "eng": "Your time is over!",
+      "chi": "你的时间结束了！",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_vetruvian_5_title",
+      "eng": "Vetruvian: Ties that Bind",
+      "chi": "Vetruvian: 精神纽带",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_vetruvian_5_description",
+      "eng": "Use an Opening Gambit and Dispel to destroy the enemy General in one turn.",
+      "chi": "使用登场和驱散在一个回合内击败敌方将领。",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_vetruvian_5_start",
+      "eng": "Use an Opening Gambit and Dispel to destroy the enemy General in one turn.",
+      "chi": "使用登场和驱散在一个回合内击败敌方将领。",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_vetruvian_5_fail",
+      "eng": "Use an Opening Gambit and Dispel to destroy the enemy General in one turn.",
+      "chi": "使用登场和驱散在一个回合内击败敌方将领。",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_vetruvian_5_taunt",
+      "eng": "Your time is over!",
+      "chi": "你的时间结束了！",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "medium_vetruvian_1_title",
+      "eng": "Vetruvian: Knowledge of the Scions",
+      "chi": "Vetruvian: 圣裔的才识",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "medium_vetruvian_1_description",
+      "eng": "Defeat the Abyssian General in ONE turn.",
+      "chi": "在一个回合内击败Abyssian将领。",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "medium_vetruvian_1_start",
+      "eng": "Finish off the Abyssian General in ONE turn!",
+      "chi": "一个回合内终结Abyssian将领！",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "medium_vetruvian_1_fail",
+      "eng": "Hint: Make space for Dervishes.",
+      "chi": "提示：为苦行僧创造空格。",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "medium_vetruvian_1_taunt",
+      "eng": "Burn in fire!",
+      "chi": "烧成灰烬！",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "medium_vetruvian_2_title",
+      "eng": "Vetruvian: Sabotage",
+      "chi": "Vetruvian: 损毁",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "medium_vetruvian_2_description",
+      "eng": "Test your skills and destroy the enemy General in one turn.",
+      "chi": "尝试在一个回合内击败敌方将领。",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "medium_vetruvian_2_start",
+      "eng": "Test your skills and destroy the enemy General in one turn.",
+      "chi": "尝试在一个回合内击败敌方将领。",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "medium_vetruvian_2_fail",
+      "eng": "Test your skills and destroy the enemy General in one turn.",
+      "chi": "尝试在一个回合内击败敌方将领。",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "medium_vetruvian_2_taunt",
+      "eng": "Burn in fire!",
+      "chi": "烧成灰烬！",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    }
+  ]
+}

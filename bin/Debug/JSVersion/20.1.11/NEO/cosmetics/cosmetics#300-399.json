@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.11",
+  "nodeCode": "cosmetics",
+  "path": "cosmetics",
+  "orderStart": 300,
+  "orderEnd": 399,
+  "translateItemList": [
+    {
+      "code": "icon_reva_desc",
+      "eng": "'We do not exist for the sake of something else.'",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_reva_mk2_name",
+      "eng": "Reva Eventide II",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_reva_mk2_desc",
+      "eng": "'We exist for the sake of ourselves.'",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_scarlet_viper_name",
+      "eng": "Scarlet Viper",
+      "chi": "猩红毒蛇",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "icon_scarlet_viper_desc",
+      "eng": "The viper's tongue will slay you.",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_tusk_boar_name",
+      "eng": "Tusk Boar",
+      "chi": "利牙野猪",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "icon_tusk_boar_desc",
+      "eng": "'We die, and we do not die.'",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_widowmaker_name",
+      "eng": "Widowmaker",
+      "chi": "寡妇制造者",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "icon_widowmaker_desc",
+      "eng": "It's never the blade you see coming.",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_arctic_displacer_name",
+      "eng": "Arctic Displacer",
+      "chi": "极地幻兽",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "icon_arctic_displacer_desc",
+      "eng": "As sudden as a blizzard, as numbing as snow.",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_vanar_crest_name",
+      "eng": "Vanar Crest",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_vanar_crest_desc",
+      "eng": "Protectors of Aperion.",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_draugar_lord_name",
+      "eng": "Draugar Lord",
+      "chi": "冰龙领主",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "icon_draugar_lord_desc",
+      "eng": "Draconian in spirit, ebullient in life.",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_warbird_name",
+      "eng": "Bloodwing Warbird",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_warbird_desc",
+      "eng": "Detects a single drop of blood in the wounded sky.",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_faie_name",
+      "eng": "Faie Bloodwing",
+      "chi": "血翼 费伊",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "icon_faie_desc",
+      "eng": "From a hawkwolf, transformed by Aperion.",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_faie_mk2_name",
+      "eng": "Faie Bloodwing II",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_faie_mk2_desc",
+      "eng": "The first generation of the Aperion Bloodbound.",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_glacial_elemental_name",
+      "eng": "Glacial Elemental",
+      "chi": "冰川元素",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "icon_glacial_elemental_desc",
+      "eng": "The deadliest blizzard begins with a snowflake.",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_hearth_sister_name",
+      "eng": "Hearth-Sister",
+      "chi": "炉石姐妹",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "icon_hearth_sister_desc",
+      "eng": "The female-only Seidir.",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_iceblade_dryad_name",
+      "eng": "Iceblade Dryad",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_iceblade_dryad_desc",
+      "eng": "We strike as the heart of the forest.",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_kara_name",
+      "eng": "Kara Winterblade",
+      "chi": "冻刃 卡拉",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "icon_kara_desc",
+      "eng": "Keeper of Swordmaster Zwei's Winterblade.",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_kara_mk2_name",
+      "eng": "Kara Winterblade II",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_kara_mk2_desc",
+      "eng": "Imbued with Songweaver Eurielle’s secret.",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_wind_sister_name",
+      "eng": "Wind Sister",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_wind_sister_desc",
+      "eng": "The Wish of Rebirth.",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_razorback_name",
+      "eng": "Razorback",
+      "chi": "刀背兽",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "icon_razorback_desc",
+      "eng": "'From carnage to blood ash.'",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_snowchaser_name",
+      "eng": "Snowchaser",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_snowchaser_desc",
+      "eng": "Each as varied as an individual snowflake.",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_wolfraven_name",
+      "eng": "Wolfraven",
+      "chi": "狼鸦",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "icon_wolfraven_desc",
+      "eng": "'Earth is my refuge, the sky my home.'",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_vetruvian_crest_name",
+      "eng": "Vetruvian Crest",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_vetruvian_crest_desc",
+      "eng": "'We are the Remade Man.'",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_mirage_master_name",
+      "eng": "Mirage Master",
+      "chi": "幻变奇兽",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "icon_mirage_master_desc",
+      "eng": "None have survived to see its true face.",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_pax_name",
+      "eng": "PAX",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_pax_desc",
+      "eng": "Shim'zar Battle Pet Pax.",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_pyromancer_name",
+      "eng": "Pyromancer",
+      "chi": "火占师",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "icon_pyromancer_desc",
+      "eng": "'We create to destroy.'",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_rae_name",
+      "eng": "RAE",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_rae_desc",
+      "eng": "Shim'zar Battle Pet Rae.",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_sand_sister_name",
+      "eng": "Sand Sister",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_sand_sister_desc",
+      "eng": "The Wish of Belief.",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_sajj_name",
+      "eng": "Scioness Sajj",
+      "chi": "圣裔 萨姬",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "icon_sajj_desc",
+      "eng": "Created by Zirix. The first true scion in centuries.",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_starfire_scarab_name",
+      "eng": "Starfire Scarab",
+      "chi": "星火圣甲虫",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "icon_starfire_scarab_desc",
+      "eng": "Devours the star dust of the night sky.",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_windshrike_name",
+      "eng": "Windshrike",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_windshrike_desc",
+      "eng": "Atar Starstrider's final masterpiece.",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_zirix_name",
+      "eng": "Zirix Starstrider",
+      "chi": "踏星者 泽利克斯",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "icon_zirix_desc",
+      "eng": "'Aestaria will never set foot on Vetruvian soil again.'",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_zirix_mk2_name",
+      "eng": "Zirix Starstrider II",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_zirix_mk2_desc",
+      "eng": "'Everything is transformed.'",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_bloodmoon_ruins_name",
+      "eng": "Bloodmoon Ruins",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_bloodmoon_ruins_desc",
+      "eng": "Under the blood-dimmed night.",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_crystal_caverns_name",
+      "eng": "Crystal Caverns",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_crystal_caverns_desc",
+      "eng": "Mirrors of ice.",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_kaero_name",
+      "eng": "Kaero",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_kaero_desc",
+      "eng": "Stronghold of Vetruvia.",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_whistling_blades_name",
+      "eng": "Whistling Blades",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_whistling_blades_desc",
+      "eng": "The creature, the place.",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_obsidian_woods_name",
+      "eng": "Obsidian Woods",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_obsidian_woods_desc",
+      "eng": "Broken, thus strengthened.",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_rashas_tomb_name",
+      "eng": "Rashas Tomb",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_rashas_tomb_desc",
+      "eng": "To burn for eternity.",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_grandmaster_name",
+      "eng": "Grandmaster",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_grandmaster_desc",
+      "eng": "Grandmaster tournament qualifier.",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_dawn_of_duelysts_s1_name",
+      "eng": "Dawn of the Duelysts S1",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_dawn_of_duelysts_s1_desc",
+      "eng": "Dawn of the Duelysts Season 1.",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_dawn_of_duelysts_s2_name",
+      "eng": "Dawn of the Duelysts S2",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_dawn_of_duelysts_s2_desc",
+      "eng": "Dawn of the Duelysts Season 2.",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_brome_name",
+      "eng": "Brome Warcrest",
+      "chi": "布罗姆·战首",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "icon_brome_desc",
+      "eng": "Lyonar Immortal Vanguard General",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_ragnora_name",
+      "eng": "Ragnora the Relentless",
+      "chi": "无情的拉格诺拉",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "icon_ragnora_desc",
+      "eng": "Magmar Immortal Vanguard General",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_shidai_name",
+      "eng": "Shidai Stormblossom",
+      "chi": "剑芒 石黛",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "icon_shidai_desc",
+      "eng": "Songhai Immortal Vanguard General",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_maehv_name",
+      "eng": "Maehv Skinsolder",
+      "chi": "处刑人 玛赫",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "icon_maehv_desc",
+      "eng": "Abyssian Immortal Vanguard General",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_ilena_name",
+      "eng": "Ilena Cryobyte",
+      "chi": "冰晶 伊莲娜",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "icon_ilena_desc",
+      "eng": "Vanar Immortal Vanguard General",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "icon_ciphyron_name",
+      "eng": "Ciphyron Ascendant",
+      "chi": "升星者 西弗荣",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "icon_ciphyron_desc",
+      "eng": "Vetruvian Immortal Vanguard General",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "emote_hello_name",
+      "eng": "Hello",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "emote_glhf_name",
+      "eng": "GLHF",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "emote_well_played_name",
+      "eng": "Well Played",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "emote_oops_name",
+      "eng": "Oops",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "emote_hm_happy_name",
+      "eng": "Happy Healing Mystic",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "emote_hm_happy_desc",
+      "eng": "Let your joy bubble to the surface!",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "emote_hm_sad_name",
+      "eng": "Sad Healing Mystic",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "emote_hm_sad_desc",
+      "eng": "So sad...",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    },
+    {
+      "code": "emote_hm_thumbs_up_name",
+      "eng": "Thumbs Up Healing Mystic",
+      "chi": "",
+      "originVersionCode": "20.1.11",
+      "translateState": 0
+    }
+  ]
+}

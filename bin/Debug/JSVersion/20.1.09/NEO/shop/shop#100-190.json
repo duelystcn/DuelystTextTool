@@ -1,0 +1,646 @@
+{
+  "versionCode": "20.1.09",
+  "nodeCode": "shop",
+  "path": "shop",
+  "orderStart": 100,
+  "orderEnd": 190,
+  "translateItemList": [
+    {
+      "code": "F1_F5_STARTER_SPECIAL_name",
+      "eng": "Lyonar and Magmar Starter",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "F1_F5_STARTER_SPECIAL_description",
+      "eng": "4 Epic, 8 Rare cards, and 2 emotes for Lyonar and Magmar. Plus a card back.",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "F2_F4_STARTER_SPECIAL_name",
+      "eng": "Songhai and Abyssian Starter",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "F2_F4_STARTER_SPECIAL_description",
+      "eng": "4 Epic, 8 Rare cards, and 2 emotes for Songhai and Abyssian. Plus a card back.",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "F3_F6_STARTER_SPECIAL_name",
+      "eng": "Vetruvian and Vanar Starter",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "F3_F6_STARTER_SPECIAL_description",
+      "eng": "4 Epic, 8 Rare cards, and 2 emotes for Vetruvian and Vanar. Plus a card back.",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "ALL_FACTIONS_STARTER_SPECIAL_name",
+      "eng": "All Factions Mega Bundle",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "ALL_FACTIONS_STARTER_SPECIAL_description",
+      "eng": "12 Epic, 24 Rare cards, and 6 emotes for all factions! Plus a card back.",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "new_product_available_title",
+      "eng": "You've unlocked a new Shop Product",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "Common_Chest_Key_name",
+      "eng": "Common Mystery Crate Key",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "Common_Chest_Key_name_plural",
+      "eng": "{{count}} Common Mystery Crate Keys",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "Common_Chest_Key_description",
+      "eng": "Use this key to unlock a Common Mystery Crate.",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "Rare_Chest_Key_name",
+      "eng": "Rare Mystery Crate Key",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "Rare_Chest_Key_name_plural",
+      "eng": "{{count}} Rare Mystery Crate Keys",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "Rare_Chest_Key_description",
+      "eng": "Use this key to unlock a Rare Mystery Crate.",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "Epic_Chest_Key_name",
+      "eng": "Epic Mystery Crate Key",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "Epic_Chest_Key_name_plural",
+      "eng": "{{count}} Epic Mystery Crate Keys",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "Epic_Chest_Key_description",
+      "eng": "Use this key to unlock a Epic Mystery Crate.",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "Boss_Chest_Key_name",
+      "eng": "Boss Crate Key",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "Boss_Chest_Key_name_plural",
+      "eng": "{{count}} Boss Crate Keys",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "Boss_Chest_Key_description",
+      "eng": "Use this key to unlock a Boss Mystery Crate.",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "frostfire_2017_name",
+      "eng": "Frostfire Crate",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "frostfire_2017_name_plural",
+      "eng": "{{count}} Frostfire Crates",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "frostfire_2017_description",
+      "eng": "Contains one exclusive festive cosmetic, a bundle of Spirit, and one Core Set Spirit Orb. (Duplicate cosmetics will be turned into extra Spirit)",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "frostfire_premium_2017_name",
+      "eng": "Premium Frostfire Crate",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "frostfire_premium_2017_name_plural",
+      "eng": "{{count}} Frostfire Crates",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "frostfire_premium_2017_description",
+      "eng": "Contains one exclusive festive cosmetic, a bundle of Spirit, and two Immortal Vanguard Spirit Orbs. (Duplicate cosmetics will be turned into extra Spirit)",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "gauntlet_ticket_name",
+      "eng": "Gauntlet Ticket",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "gauntlet_ticket_description",
+      "eng": "Use the Gauntlet Ticket to start a Gauntlet Draft run.",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "emote_bundle_argeon_name",
+      "eng": "Argeon Emotes Bundle",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "emote_bundle_argeon_description",
+      "eng": "Get ALL 11 Emotes for Argeon Highmayne. Duplicates will be disenchanted for Spirit.",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "emote_bundle_ziran_name",
+      "eng": "Zir'an Emotes Bundle",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "emote_bundle_ziran_description",
+      "eng": "Get ALL 11 Emotes for Zir'an Sunforge. Duplicates will be disenchanted for Spirit.",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "emote_bundle_brome_name",
+      "eng": "Brome Emotes Bundle",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "emote_bundle_brome_description",
+      "eng": "Get ALL 11 Emotes for Brome Warcrest. Duplicates will be disenchanted for Spirit.",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "emote_bundle_kaleos_name",
+      "eng": "Kaleos Emotes Bundle",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "emote_bundle_kaleos_description",
+      "eng": "Get ALL 11 Emotes for Kaleos Xaan. Duplicates will be disenchanted for Spirit.",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "emote_bundle_reva_name",
+      "eng": "Reva Emotes Bundle",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "emote_bundle_reva_description",
+      "eng": "Get ALL 11 Emotes for Reva Eventide. Duplicates will be disenchanted for Spirit.",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "emote_bundle_shidai_name",
+      "eng": "Shidai Emotes Bundle",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "emote_bundle_shidai_description",
+      "eng": "Get ALL 11 Emotes for Shidai Stormblossom. Duplicates will be disenchanted for Spirit.",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "emote_bundle_zirix_name",
+      "eng": "Zirix Emotes Bundle",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "emote_bundle_zirix_description",
+      "eng": "Get ALL 11 Emotes for Zirix Starstrider. Duplicates will be disenchanted for Spirit.",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "emote_bundle_sajj_name",
+      "eng": "Sajj Emotes Bundle",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "emote_bundle_sajj_description",
+      "eng": "Get ALL 11 Emotes for Scioness Sajj. Duplicates will be disenchanted for Spirit.",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "emote_bundle_ciphyron_name",
+      "eng": "Ciphyron Emotes Bundle",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "emote_bundle_ciphyron_description",
+      "eng": "Get ALL 11 Emotes for Ciphyron Ascendant. Duplicates will be disenchanted for Spirit.",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "emote_bundle_lilithe_name",
+      "eng": "Lilithe Emotes Bundle",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "emote_bundle_lilithe_description",
+      "eng": "Get ALL 11 Emotes for Lilithe Blightchaser. Duplicates will be disenchanted for Spirit.",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "emote_bundle_cassyva_name",
+      "eng": "Cassyva Emotes Bundle",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "emote_bundle_cassyva_description",
+      "eng": "Get ALL 11 Emotes for Cassyva Soulreaper. Duplicates will be disenchanted for Spirit.",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "emote_bundle_maehv_name",
+      "eng": "Maehv Emotes Bundle",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "emote_bundle_maehv_description",
+      "eng": "Get ALL 11 Emotes for Maehv Skinsolder. Duplicates will be disenchanted for Spirit.",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "emote_bundle_vaath_name",
+      "eng": "Vaath Emotes Bundle",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "emote_bundle_vaath_description",
+      "eng": "Get ALL 11 Emotes for Vaath the Immortal. Duplicates will be disenchanted for Spirit.",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "emote_bundle_starhorn_name",
+      "eng": "Starhorn Emotes Bundle",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "emote_bundle_starhorn_description",
+      "eng": "Get ALL 11 Emotes for Starhorn the Seeker. Duplicates will be disenchanted for Spirit.",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "emote_bundle_ragnora_name",
+      "eng": "Ragnora Emotes Bundle",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "emote_bundle_ragnora_description",
+      "eng": "Get ALL 11 Emotes for Ragnora the Relentless. Duplicates will be disenchanted for Spirit.",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "emote_bundle_faie_name",
+      "eng": "Faie Emotes Bundle",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "emote_bundle_faie_description",
+      "eng": "Get ALL 11 Emotes for Faie Bloodwing. Duplicates will be disenchanted for Spirit.",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "emote_bundle_kara_name",
+      "eng": "Kara Emotes Bundle",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "emote_bundle_kara_description",
+      "eng": "Get ALL 11 Emotes for Kara Winterblade. Duplicates will be disenchanted for Spirit.",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "emote_bundle_ilena_name",
+      "eng": "Ilena Emotes Bundle",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "emote_bundle_ilena_description",
+      "eng": "Get ALL 11 Emotes for Ilena Cryobyte. Duplicates will be disenchanted for Spirit.",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "emote_bundle_healing_mystic_name",
+      "eng": "Healing Mystic Emotes Bundle",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "emote_bundle_healing_mystic_description",
+      "eng": "Get ALL 5 Emotes for the Healing Mystic. Duplicates will be disenchanted for Spirit.",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "emote_bundle_mechaz0r_name",
+      "eng": "Mechaz0r Emotes Bundle",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "emote_bundle_mechaz0r_description",
+      "eng": "Get ALL 6 Emotes, including Mechaz0r! Duplicates will be disenchanted for Spirit.",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "skin_bundle_silver_lyonar_name",
+      "eng": "Noble Lyonar Skin Bundle",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "skin_bundle_silver_lyonar_description",
+      "eng": "The Lyonar Kingdoms - Noble collection! Includes Noble skins for Lyonar's 3 Generals and 14 Core Set minions.",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "skin_bundle_void_songhai_name",
+      "eng": "Umbral Songhai Skin Bundle",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "skin_bundle_void_songhai_description",
+      "eng": "The Songhai Empire - Umbral collection! Includes Umbral skins for Songhai's 3 Generals and 14 Core Set minions.",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "skin_bundle_ancient_vetruvian_name",
+      "eng": "Ancient Vetruvian Skin Bundle",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "skin_bundle_ancient_vetruvian_description",
+      "eng": "The Vetruvian Imperium - Ancient collection! Includes Ancient skins for Vetruvian's 3 Generals and 14 Core Set minions.",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "skin_bundle_ghost_abyssian_name",
+      "eng": "Undead Abyssian Skin Bundle",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "skin_bundle_ghost_abyssian_description",
+      "eng": "The Abyssian Host - Undead collection! Includes Undead skins for Abyssian's 3 Generals and 14 Core Set minions.",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "skin_bundle_ash_magmar_name",
+      "eng": "Volcanic Magmar Skin Bundle",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "skin_bundle_ash_magmar_description",
+      "eng": "The Magmar Aspects - Volcanic collection! Includes Volcanic skins for Magmar's 3 Generals and 14 Core Set minions.",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "skin_bundle_boreal_vanar_name",
+      "eng": "Boreal Vanar Skin Bundle",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "skin_bundle_boreal_vanar_description",
+      "eng": "The Vanar Kindred - Boreal collection! Includes Boreal skins for Vanar's 3 Generals and 14 Core Set minions.",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "rift_ticket_name",
+      "eng": "Rift Ticket",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "rift_ticket_description",
+      "eng": "Use the Rift Ticket to start a Rift run.",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "premium_refill_needed_msg",
+      "eng": "You need {{premium_needed}} Shards to purchase, click Refill Shards to open payment options and refill your Shards.",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "view_cards_in_set",
+      "eng": "View all cards in {{setName}} Set",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "product_owned",
+      "eng": "Owned",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "orb_title_header",
+      "eng": "This orb brought to you by:\n{{name}}",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "individual_product_cost",
+      "eng": "Individual product costs",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "individual_product_code_cost",
+      "eng": "When purchasing gift code each product costs",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "bundle_discount",
+      "eng": "Discount based on currently owned products",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    },
+    {
+      "code": "gift_code_user_discount",
+      "eng": "User discount ({{discount}}%)",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 0
+    }
+  ]
+}

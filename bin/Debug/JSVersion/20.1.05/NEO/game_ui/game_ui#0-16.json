@@ -1,0 +1,128 @@
+{
+  "versionCode": "20.1.05",
+  "nodeCode": "game_ui",
+  "path": "game_ui",
+  "orderStart": 0,
+  "orderEnd": 16,
+  "translateItemList": [
+    {
+      "code": "exhausted_message",
+      "eng": "[Exhausted] - cannot move or attack.",
+      "chi": "[力竭] - 无法移动和攻击.",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "battlepet_message",
+      "eng": "[Battle Pet] - has a mind of its own!",
+      "chi": "[战宠] - 有它们自己的想法!",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "stunned_message",
+      "eng": "[Stunned] - cannot move or attack.",
+      "chi": "[被眩晕] - 无法移动和攻击。",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "replace_bloodborn_message",
+      "eng": "[Bloodbound Spell] - cannot be replaced.",
+      "chi": "[血技] - 无法被替换。",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "out_of_mulligan_message",
+      "eng": "Can only replace {{count}} card.",
+      "chi": "只能替换{{count}}张牌。",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "out_of_mulligan_message_plural",
+      "eng": "Can only replace {{count}} cards.",
+      "chi": "只能替换{{count}}张牌。",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "hand_is_full_message",
+      "eng": "My hand is full!",
+      "chi": "我的准备栏已满！",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "out_of_cards_message",
+      "eng": "I'm out of cards!",
+      "chi": "牌库里没牌了！",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "my_bloodborn_refresh_message",
+      "eng": "Your [Bloodbound Spell] refreshes on your next turn.",
+      "chi": "你的[血技]将在你的\n下个回合刷新。",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "my_bloodborn_refresh_message_plural",
+      "eng": "Your [Bloodbound Spell] refreshes in {{count}} turns.",
+      "chi": "你的[血技]将在\n{{count}}回合后刷新。",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "opponent_bloodborn_refresh_message",
+      "eng": "Your opponent's [Bloodbound Spell] refreshes on their next turn.",
+      "chi": "你对手的[血技]将在\n对手的下个回合刷新。",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "opponent_bloodborn_refresh_message_plural",
+      "eng": "Your opponent's [Bloodbound Spell] refreshes in {{count}} turns.",
+      "chi": "你对手的[血技]将在\n{{count}}回合后刷新。",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "connected_label",
+      "eng": "connected",
+      "chi": "connected",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "disconnected_label",
+      "eng": "disconnected",
+      "chi": "disconnected",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "label_your_turn",
+      "eng": "YOUR TURN",
+      "chi": "你的回合",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "label_enemy_turn",
+      "eng": "ENEMY TURN",
+      "chi": "对手的回合",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    },
+    {
+      "code": "label_automatic_moves",
+      "eng": "AUTOMATIC MOVES",
+      "chi": "自动行进",
+      "originVersionCode": "20.1.04",
+      "translateState": 4
+    }
+  ]
+}

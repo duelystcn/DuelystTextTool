@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.11",
+  "nodeCode": "cards",
+  "path": "cards",
+  "orderStart": 0,
+  "orderEnd": 99,
+  "translateItemList": [
+    {
+      "code": "d2_building_name",
+      "eng": "Building",
+      "chi": "生产中",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_spell_sundrop_elixir_name",
+      "eng": "Sundrop Elixir",
+      "chi": "落日灵药",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_spell_sundrop_elixir_description",
+      "eng": "Heal a unit for 4.",
+      "chi": "治疗目标单位4点生命。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_spell_tempest_name",
+      "eng": "Tempest",
+      "chi": "风暴",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_spell_tempest_description",
+      "eng": "Deal 2 damage to all units.",
+      "chi": "对所有单位造成2点伤害。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_spell_decimate_name",
+      "eng": "Decimate",
+      "chi": "灭杀",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_spell_decimate_description",
+      "eng": "Destroy minions that are not nearby a General.",
+      "chi": "摧毁所有不与将领相邻\n的随从。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_spell_auryn_nexus_name",
+      "eng": "Auryn Nexus",
+      "chi": "护符联结",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_spell_auryn_nexus_description",
+      "eng": "Give a minion +0/+4.",
+      "chi": "使一个随从获得 +0/+4。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_spell_lasting_judgement_name",
+      "eng": "Lasting Judgement",
+      "chi": "永恒审判",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_spell_lasting_judgement_description",
+      "eng": "Give a minion +3/-3.",
+      "chi": "使目标随从获得+3/-3。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_spell_martyrdom_name",
+      "eng": "Martyrdom",
+      "chi": "牺牲",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_spell_martyrdom_description",
+      "eng": "Destroy a minion and heal its owner's General for the amount of Health that minion had.",
+      "chi": "摧毁任意一个随从，为其\n将军治疗等同于该随从生\n命值的生命。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_spell_war_surge_name",
+      "eng": "War Surge",
+      "chi": "战意涌动",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_spell_war_surge_description",
+      "eng": "Give allied minions +1/+1.",
+      "chi": "使所有友方随从获得+1/+1。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_spell_lionheart_blessing_name",
+      "eng": "Lionheart Blessing",
+      "chi": "狮心祝福",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_spell_lionheart_blessing_description",
+      "eng": "Give an allied minion \"Zeal: When this deals damage, draw a card\".",
+      "chi": "使一个友方随从获得\n\"热诚：每当此随从造成\n伤害，抽1张牌\"。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_spell_sun_bloom_name",
+      "eng": "Sun Bloom",
+      "chi": "烈日怒放",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_spell_sun_bloom_description",
+      "eng": "Dispel spaces in a 2x2 area.",
+      "chi": "驱散战场2x2区域。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_spell_true_strike_name",
+      "eng": "True Strike",
+      "chi": "至真一击",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_spell_true_strike_description",
+      "eng": "Deal 2 damage to a minion.",
+      "chi": "对目标随从造成2点伤害。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_spell_circle_of_life_name",
+      "eng": "Circle of Life",
+      "chi": "生命循环",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_spell_circle_of_life_description",
+      "eng": "Deal 5 damage to a minion and heal your General for 5.",
+      "chi": "对一个随从造成5点伤害，\n为你的将领治疗5点生命。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_spell_beam_shock_name",
+      "eng": "Beam Shock",
+      "chi": "震荡波",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_spell_beam_shock_description",
+      "eng": "Stun a unit.",
+      "chi": "眩晕目标单位。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_spell_holy_immolation_name",
+      "eng": "Holy Immolation",
+      "chi": "圣祭",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_spell_holy_immolation_description",
+      "eng": "Heal an allied minion for 4 and deal 4 damage to enemies nearby it.",
+      "chi": "治疗目标友方随从4点生命，\n对其相邻的敌方单位造成\n4点伤害。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_spell_divine_bond_name",
+      "eng": "Divine Bond",
+      "chi": "神圣纽带",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_spell_divine_bond_description",
+      "eng": "Set a minion's Attack equal to its Health.",
+      "chi": "使一个随从的攻击等同于其生命。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_spell_aegis_barrier_name",
+      "eng": "Aegis Barrier",
+      "chi": "宙斯盾屏障",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_spell_aegis_barrier_description",
+      "eng": "Give an allied minion \"This has Veil during your opponent's turn\".",
+      "chi": "使一个友方随从获得\"此随\n从在对手的回合具有帷幕\"。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_spell_aegis_barrier_modifier_description",
+      "eng": "This has Veil during your opponent's turn.",
+      "chi": "此随从在对手的回合具有帷幕。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_spell_aerial_rift_name",
+      "eng": "Aerial Rift",
+      "chi": "时空裂隙",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_spell_aerial_rift_description",
+      "eng": "Shuffle a copy of the last spell you played into your deck. Draw a card.",
+      "chi": "复制一张你最后使用的法术\n洗入你的牌库。抽一张牌。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_spell_magnetize_name",
+      "eng": "Magnetize",
+      "chi": "吸引",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_spell_magnetize_description",
+      "eng": "Teleport a minion to the space in front of your General.",
+      "chi": "将一个随从传送至你的将领\n的正前方。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_artifact_skywind_glaives_name",
+      "eng": "Skywind Glaives",
+      "chi": "天风环刃",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_artifact_skywind_glaives_description",
+      "eng": "Your General has +1/+0.\nAllied minions nearby your General have +2/+0.",
+      "chi": "你的将领具有 +1/+0。\n与你的将领相邻的友方随从\n具有 +2/+0.",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_artifact_sunstone_bracers_name",
+      "eng": "Sunstone Bracers",
+      "chi": "阳石护腕",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_artifact_sunstone_bracers_description",
+      "eng": "Your General has +1/+0.",
+      "chi": "你的将领具有 +1/+0。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_artifact_arclyte_regalia_name",
+      "eng": "Arclyte Regalia",
+      "chi": "阿克莱盛装",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_artifact_arclyte_regalia_description",
+      "eng": "Your General has +2/+0.\nThe first time your General takes damage with this equipped each turn, reduce that damage by 2.",
+      "chi": "你的将领具有 +2/+0。\n你的将领每回合第一次受到\n伤害时减免2点。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_unit_argeon_name",
+      "eng": "Argeon Highmayne",
+      "chi": "阿吉恩·金鬃",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_unit_argeon_desc",
+      "eng": "",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_unit_ziran_name",
+      "eng": "Zir'An Sunforge",
+      "chi": "泽尔安·铸阳",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_unit_ziran_desc",
+      "eng": "",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_unit_brome_name",
+      "eng": "Brome Warcrest",
+      "chi": "布罗姆·战首",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_unit_brome_desc",
+      "eng": "",
+      "chi": "",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_unit_silverguard_squire_name",
+      "eng": "Silverguard Squire",
+      "chi": "银卫侍从",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_unit_windblade_adept_name",
+      "eng": "Windblade Adept",
+      "chi": "风刃精兵",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_unit_windblade_adept_desc",
+      "eng": "Zeal: +2/+0.",
+      "chi": "热诚：获得+2/+0。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_unit_second_sun_name",
+      "eng": "Second Sun",
+      "chi": "伴日卫士",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_unit_second_sun_desc",
+      "eng": "Zeal: +8/+0.",
+      "chi": "热诚：获得+8/+0。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_unit_lightchaser_name",
+      "eng": "Lightchaser",
+      "chi": "逐日鼓手",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_unit_lightchaser_desc",
+      "eng": "When a unit is healed, this gains +2/+0.",
+      "chi": "每当一个单位被治疗时，\n此随从获得+2/+0。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_unit_silverguard_knight_name",
+      "eng": "Silverguard Knight",
+      "chi": "银卫骑士",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_unit_silverguard_knight_desc",
+      "eng": "Provoke\nZeal: +2/+0.",
+      "chi": "嘲讽\n热诚：获得+2/+0。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_unit_ironcliffe_guardian_name",
+      "eng": "Ironcliffe Guardian",
+      "chi": "铁壁守护者",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_unit_ironcliffe_guardian_desc",
+      "eng": "Airdrop, Provoke",
+      "chi": "空降，嘲讽",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_unit_elyx_name",
+      "eng": "Elyx Stormblade",
+      "chi": "风暴之刃 爱丽克斯",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_unit_elyx_desc",
+      "eng": "Provoke\nAllies can move an additional space.",
+      "chi": "嘲讽\n所有友方单位可以额外\n移动一格。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_unit_sunriser_name",
+      "eng": "Sunriser",
+      "chi": "唤日者",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_unit_sunriser_desc",
+      "eng": "After a unit is healed, deal 2 damage to nearby enemies.",
+      "chi": "当一个单位被治疗后，\n对此随从相邻的敌方单位\n造成2点伤害。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_unit_suntide_maiden_name",
+      "eng": "Suntide Maiden",
+      "chi": "日潮侍女",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_unit_suntide_maiden_desc",
+      "eng": "Zeal: At the end of your turn, this fully heals.",
+      "chi": "热诚：在你的回合结束时，\n治愈此随从。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_unit_arclyte_sentinel_name",
+      "eng": "Arclyte Sentinel",
+      "chi": "阿克莱哨兵",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_unit_arclyte_sentinel_desc",
+      "eng": "Opening Gambit: Give a nearby minion +2/-2.",
+      "chi": "登场：使目标相邻的\n随从获得 +2/-2。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_unit_lysian_brawler_name",
+      "eng": "Lysian Brawler",
+      "chi": "吕西安格斗家",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_unit_lysian_brawler_desc",
+      "eng": "Airdrop, Celerity",
+      "chi": "空降，迅捷",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_unit_sunstone_templar_name",
+      "eng": "Sunstone Templar",
+      "chi": "阳石圣殿武士",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_unit_sunstone_templar_desc",
+      "eng": "Airdrop\nAllied minions have Airdrop when played.",
+      "chi": "空降\n你使用的随从具有空降。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_unit_azurite_lion_name",
+      "eng": "Azurite Lion",
+      "chi": "石青狮",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_unit_azurite_lion_desc",
+      "eng": "Celerity",
+      "chi": "迅捷",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_unit_grandmaster_zir_name",
+      "eng": "Grandmaster Z'ir",
+      "chi": "宗师泽尔",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_1_unit_grandmaster_zir_desc",
+      "eng": "When your General is destroyed, this becomes your General.",
+      "chi": "当你的将领被摧毁时，\n宗师泽尔成为你的将领。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_saberspine_seal_name",
+      "eng": "Saberspine Seal",
+      "chi": "剑虎印",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_saberspine_seal_description",
+      "eng": "Give a unit +3/+0 this turn.",
+      "chi": "使一个单位获得 +3/+0\n直到回合结束。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_mist_dragon_seal_name",
+      "eng": "Mist Dragon Seal",
+      "chi": "雾龙印",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_mist_dragon_seal_description",
+      "eng": "Give an allied minion +1/+1 and teleport it to any space.",
+      "chi": "使一个友方随从获得 +1/+1 \n并将其转送到任意位置。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_phoenix_fire_name",
+      "eng": "Phoenix Fire",
+      "chi": "凤凰火",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_phoenix_fire_description",
+      "eng": "Deal 3 damage to a unit.",
+      "chi": "对一个单位造成3点伤害。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_kage_lightning_name",
+      "eng": "Kage Lightning",
+      "chi": "赤影闪电",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_kage_lightning_description",
+      "eng": "Deal 6 damage to a minion.",
+      "chi": "对一个随从造成6点伤害。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_twin_strike_name",
+      "eng": "Twin Strike",
+      "chi": "双龙击",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_twin_strike_description",
+      "eng": "Deal 2 damage to exactly two enemy minions. Draw a card at the end of your turn.",
+      "chi": "选择两个敌方随从，各造\n成2点伤害。在你的回合\n结束时抽一张牌。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_eight_gates_name",
+      "eng": "Eight Gates",
+      "chi": "八门",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_eight_gates_description",
+      "eng": "Spells you play this turn that deal damage deal +2 damage.",
+      "chi": "这个回合内，你使用法术\n造成的伤害增加2点。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_spiral_technique_name",
+      "eng": "Spiral Technique",
+      "chi": "极意螺旋",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_spiral_technique_description",
+      "eng": "Deal 8 damage to a unit.",
+      "chi": "对一个单位造成8点伤害。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_mana_vortex_name",
+      "eng": "Mana Vortex",
+      "chi": "蓄气",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_mana_vortex_description",
+      "eng": "The next spell you play this turn costs 1 less. Draw a card at the end of your turn.",
+      "chi": "这个回合你使用的下一张\n法术费用减少1点。在你的\n回合结束时抽一张牌。\n",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_inner_focus_name",
+      "eng": "Inner Focus",
+      "chi": "凝神静气",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_inner_focus_description",
+      "eng": "Activate an allied minion with 3 or less Attack.",
+      "chi": "激活一个攻击小于等于3的\n友方随从。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_onyx_bear_seal_name",
+      "eng": "Onyx Bear Seal",
+      "chi": "墨熊印",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_onyx_bear_seal_description",
+      "eng": "Transform a minion into a Panddo.",
+      "chi": "将一个随从变形为胖多(0/2 \n不能被攻击)。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_ghost_lightning_name",
+      "eng": "Ghost Lightning",
+      "chi": "闪灵一击",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_ghost_lightning_description",
+      "eng": "Deal 1 damage to enemy minions.",
+      "chi": "对所有敌方随从造成1点伤害。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_deathstrike_seal_name",
+      "eng": "Deathstrike Seal",
+      "chi": "触蛇印",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_deathstrike_seal_description",
+      "eng": "Give an allied minion \"After this damages an enemy minion, destroy that minion\".",
+      "chi": "使一个友方随从获得\"对敌\n方随从造成伤害后，摧毁\n该随从。\"。",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_2_spell_ancestral_divination_name",
+      "eng": "Ancestral Divination",
+      "chi": "卜算",
+      "originVersionCode": "20.1.09",
+      "translateState": 4
+    }
+  ]
+}

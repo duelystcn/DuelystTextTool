@@ -1,0 +1,142 @@
+{
+  "versionCode": "20.1.17",
+  "nodeCode": "card_sets",
+  "path": "card_sets",
+  "orderStart": 0,
+  "orderEnd": 18,
+  "translateItemList": [
+    {
+      "code": "core_set_name_short",
+      "eng": "Core",
+      "chi": "",
+      "originVersionCode": "20.1.17",
+      "translateState": 0
+    },
+    {
+      "code": "core_set_name",
+      "eng": "Core Set",
+      "chi": "",
+      "originVersionCode": "20.1.17",
+      "translateState": 0
+    },
+    {
+      "code": "shimzar_set_name_short",
+      "eng": "ShimZar",
+      "chi": "",
+      "originVersionCode": "20.1.17",
+      "translateState": 0
+    },
+    {
+      "code": "shimzar_set_name",
+      "eng": "Denizens of Shim'Zar",
+      "chi": "",
+      "originVersionCode": "20.1.17",
+      "translateState": 0
+    },
+    {
+      "code": "bloodborn_set_name_short",
+      "eng": "Bloodbound",
+      "chi": "",
+      "originVersionCode": "20.1.17",
+      "translateState": 0
+    },
+    {
+      "code": "bloodborn_set_name",
+      "eng": "Rise of the Bloodbound",
+      "chi": "",
+      "originVersionCode": "20.1.17",
+      "translateState": 0
+    },
+    {
+      "code": "ancient_bonds_set_name_short",
+      "eng": "Ancient",
+      "chi": "",
+      "originVersionCode": "20.1.17",
+      "translateState": 0
+    },
+    {
+      "code": "ancient_bonds_set_name",
+      "eng": "Ancient Bonds",
+      "chi": "",
+      "originVersionCode": "20.1.17",
+      "translateState": 0
+    },
+    {
+      "code": "gauntlet_specials_set_name",
+      "eng": "Gauntlet Specials",
+      "chi": "",
+      "originVersionCode": "20.1.17",
+      "translateState": 0
+    },
+    {
+      "code": "firstwatch_set_name_short",
+      "eng": "Unearthed",
+      "chi": "",
+      "originVersionCode": "20.1.17",
+      "translateState": 0
+    },
+    {
+      "code": "firstwatch_set_name",
+      "eng": "Unearthed Prophecy",
+      "chi": "",
+      "originVersionCode": "20.1.17",
+      "translateState": 0
+    },
+    {
+      "code": "wartech_set_name_short",
+      "eng": "Immortal",
+      "chi": "",
+      "originVersionCode": "20.1.17",
+      "translateState": 0
+    },
+    {
+      "code": "wartech_set_name",
+      "eng": "Immortal Vanguard",
+      "chi": "",
+      "originVersionCode": "20.1.17",
+      "translateState": 0
+    },
+    {
+      "code": "combined_unlockables_set_name_short",
+      "eng": "Ancients",
+      "chi": "",
+      "originVersionCode": "20.1.17",
+      "translateState": 0
+    },
+    {
+      "code": "combined_unlockables_set_name",
+      "eng": "Bloodbound Ancients",
+      "chi": "",
+      "originVersionCode": "20.1.17",
+      "translateState": 0
+    },
+    {
+      "code": "fate_set_name_short",
+      "eng": "Mythron",
+      "chi": "",
+      "originVersionCode": "20.1.17",
+      "translateState": 0
+    },
+    {
+      "code": "fate_set_name",
+      "eng": "Trials of Mythron",
+      "chi": "",
+      "originVersionCode": "20.1.17",
+      "translateState": 0
+    },
+    {
+      "code": "d2_core_set_name_short",
+      "eng": "Core",
+      "chi": "核心",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "d2_core_set_name",
+      "eng": "Core Set",
+      "chi": "核心包",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    }
+  ]
+}

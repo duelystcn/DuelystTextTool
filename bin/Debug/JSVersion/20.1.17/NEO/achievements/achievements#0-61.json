@@ -1,0 +1,443 @@
+{
+  "versionCode": "20.1.17",
+  "nodeCode": "achievements",
+  "path": "achievements",
+  "orderStart": 0,
+  "orderEnd": 61,
+  "translateItemList": [
+    {
+      "code": "bronze_starter_bundle_title",
+      "eng": "Bronze Division Starter Bundle",
+      "chi": "青铜新手礼包",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "bronze_starter_bundle_desc",
+      "eng": "3 Neutral Legendaries for your Collection",
+      "chi": "为你的收藏增加3张中立传奇卡",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "gold_starter_bundle_title",
+      "eng": "Gold Division Starter Bundle",
+      "chi": "黄金新手礼包",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "gold_starter_bundle_desc",
+      "eng": "3 Faction Legendaries for your Collection",
+      "chi": "为你的收藏增加3张阵营传奇卡",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "namaste_title",
+      "eng": "Namaste",
+      "chi": "",
+      "originVersionCode": "20.1.17",
+      "translateState": 0
+    },
+    {
+      "code": "namaste_desc",
+      "eng": "An exclusive Snowchaser EMOTE for purchasing from THE ARMORY!",
+      "chi": "",
+      "originVersionCode": "20.1.17",
+      "translateState": 0
+    },
+    {
+      "code": "silver_starter_bundle_title",
+      "eng": "Silver Division Starter Bundle",
+      "chi": "白银新手礼包",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "silver_starter_bundle_desc",
+      "eng": "3 Neutral Epics for your Collection",
+      "chi": "为你的收藏增加3张中立史诗卡",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "welcome_to_crafting_title",
+      "eng": "Welcome to the Craft",
+      "chi": "欢迎来制造",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "welcome_to_crafting_desc",
+      "eng": "Bonus Spirit for disenchanting your first card! You can craft a Rare card for 100 Spirit.",
+      "chi": "你分解了你的第一张卡！作为奖励你可以只用100精魄制作一张史诗卡！",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "bloodborn_title",
+      "eng": "Bloodbound",
+      "chi": "血脉流传",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "bloodborn_desc",
+      "eng": "You've unlocked all the Basic cards for one Faction! Enjoy this one-time bonus Spirit Orb!",
+      "chi": "恭喜你解锁了一个阵营的所有基础卡！只此一次，赠送你一个卡包！",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "world_explorer_title",
+      "eng": "World Explorer",
+      "chi": "世界探索者",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "world_explorer_desc",
+      "eng": "Congratulations on playing 1 game with each Faction! Enjoy this hard-to-get LEGENDARY rarity Faction card to bolster your Collection!",
+      "chi": "恭喜你使用每个阵营都完成了一局比赛！收下这张传奇阵营卡来增加你的收藏！",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "best_of_friends_title",
+      "eng": "Best of Friends",
+      "chi": "最好的朋友",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "best_of_friends_desc",
+      "eng": "DUELYST II is more fun with friends!",
+      "chi": "和朋友一起玩DUELYST II更有趣！",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "entering_gauntlet_title",
+      "eng": "Entering The Gauntlet",
+      "chi": "迈入竞技场",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "entering_gauntlet_desc",
+      "eng": "Congratulations on your first 20 ranked games! You've received a special free invitation to enter The Gauntlet!",
+      "chi": "恭喜你到达了天梯20，你获得了一张进入竞技场的免费门票！",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "helping_hand_title",
+      "eng": "Helping Hand",
+      "chi": "援助之手",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "helping_hand_desc",
+      "eng": "Congratulations on your first 10 games! A special gift just for you!",
+      "chi": "祝贺你完成10场比赛！送给你一份特殊的礼物！",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "art_of_war_title",
+      "eng": "The Art of War",
+      "chi": "战争艺术",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "art_of_war_desc",
+      "eng": "Congratulations on your first 50 games! A humble gift on your path to greatness!",
+      "chi": "祝贺你完成50场比赛！在你走向伟大的道路前，献上一份卑微的礼物！",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "collector_supreme_title",
+      "eng": "Collector Supreme",
+      "chi": "高级收藏家",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "collector_supreme_desc",
+      "eng": "Congratulations on collecting all Core set Common cards! A RARE and an EPIC card to help you collect the rest!",
+      "chi": "恭喜你收集了所有核心包的普通卡！奖励一张稀有卡和一张史诗卡，帮助你收集剩下的！",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "earth_sister_title",
+      "eng": "Earth Sister",
+      "chi": "",
+      "originVersionCode": "20.1.17",
+      "translateState": 0
+    },
+    {
+      "code": "earth_sister_desc",
+      "eng": "By earning 3 copies of six Magmar Rare Cards, you've unlocked the Earth Sister!",
+      "chi": "",
+      "originVersionCode": "20.1.17",
+      "translateState": 0
+    },
+    {
+      "code": "key_mythron_title",
+      "eng": "Key to Mythron",
+      "chi": "",
+      "originVersionCode": "20.1.17",
+      "translateState": 0
+    },
+    {
+      "code": "key_mythron_desc",
+      "eng": "You've received your first Mystery Crate full of cosmetics! Here's a free key to open it!",
+      "chi": "",
+      "originVersionCode": "20.1.17",
+      "translateState": 0
+    },
+    {
+      "code": "storm_sister_title",
+      "eng": "Storm Sister",
+      "chi": "",
+      "originVersionCode": "20.1.17",
+      "translateState": 0
+    },
+    {
+      "code": "storm_sister_desc",
+      "eng": "By earning 3 copies of six Songhai Rare Cards, you've unlocked the Storm Sister!",
+      "chi": "",
+      "originVersionCode": "20.1.17",
+      "translateState": 0
+    },
+    {
+      "code": "sand_sister_title",
+      "eng": "Sand Sister",
+      "chi": "",
+      "originVersionCode": "20.1.17",
+      "translateState": 0
+    },
+    {
+      "code": "sand_sister_desc",
+      "eng": "By earning 3 copies of six Vetruvian Rare Cards, you've unlocked the Sand Sister!",
+      "chi": "",
+      "originVersionCode": "20.1.17",
+      "translateState": 0
+    },
+    {
+      "code": "shadow_sister_title",
+      "eng": "Shadow Sister",
+      "chi": "",
+      "originVersionCode": "20.1.17",
+      "translateState": 0
+    },
+    {
+      "code": "shadow_sister_desc",
+      "eng": "By earning 3 copies of six Abyssian Rare Cards, you've unlocked the Shadow Sister!",
+      "chi": "",
+      "originVersionCode": "20.1.17",
+      "translateState": 0
+    },
+    {
+      "code": "sun_sister_title",
+      "eng": "Sun Sister",
+      "chi": "",
+      "originVersionCode": "20.1.17",
+      "translateState": 0
+    },
+    {
+      "code": "sun_sister_desc",
+      "eng": "By earning 3 copies of six Lyonar Rare Cards, you've unlocked the Sun Sister!",
+      "chi": "",
+      "originVersionCode": "20.1.17",
+      "translateState": 0
+    },
+    {
+      "code": "sworn_sister_title",
+      "eng": "Sworn Sister",
+      "chi": "",
+      "originVersionCode": "20.1.17",
+      "translateState": 0
+    },
+    {
+      "code": "sworn_sister_desc",
+      "eng": "By earning 3 copies of six Neutral Rare Cards, you've unlocked the Sworn Sister!",
+      "chi": "",
+      "originVersionCode": "20.1.17",
+      "translateState": 0
+    },
+    {
+      "code": "wind_sister_title",
+      "eng": "Wind Sister",
+      "chi": "",
+      "originVersionCode": "20.1.17",
+      "translateState": 0
+    },
+    {
+      "code": "wind_sister_desc",
+      "eng": "By earning 3 copies of six Vanar Rare Cards, you've unlocked the Wind Sister!",
+      "chi": "",
+      "originVersionCode": "20.1.17",
+      "translateState": 0
+    },
+    {
+      "code": "epic_questor_title",
+      "eng": "Epic Questor",
+      "chi": "",
+      "originVersionCode": "20.1.17",
+      "translateState": 0
+    },
+    {
+      "code": "epic_questor_desc",
+      "eng": "Epic! Enjoy your awesome hard-to-get EPIC rarity card. You've earned it!",
+      "chi": "",
+      "originVersionCode": "20.1.17",
+      "translateState": 0
+    },
+    {
+      "code": "indomitable_spirit_title",
+      "eng": "Indomitable Spirit",
+      "chi": "百折不挠",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "indomitable_spirit_desc",
+      "eng": "Exalted Questor! Bonus 100 Gold as we honor your dedication and indomitable spirit!",
+      "chi": "奖励100金，因为我们尊重您的奉献精神和不屈不挠的精神！",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "journeyman_questor_title",
+      "eng": "Journeyman Questor",
+      "chi": "熟练冒险家",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "journeyman_questor_desc",
+      "eng": "Congratulations on completing your first Quest! Enjoy this amazing EPIC rarity card to boost your Collection!",
+      "chi": "恭喜你完成了第一个任务！赠送你一张史诗卡来提升你的收藏！",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "legendary_questor_title",
+      "eng": "Legendary Questor",
+      "chi": "传奇冒险家",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "legendary_questor_desc",
+      "eng": "Legendary! Enjoy your amazing hard-to-get LEGENDARY rarity card. You've earned it!",
+      "chi": "传奇！赠送你一张难以获得的传奇卡，这是你应得的！",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "silver_division_title",
+      "eng": "Welcome to Silver Division",
+      "chi": "欢迎到达白银",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "silver_division_desc",
+      "eng": "Now comes the next challenge -- climbing the ladder to Gold Division! A bonus Spirit Orb to help you on your way!",
+      "chi": "现在，下一个挑战来了，爬上通往黄金赛区的阶梯！一个卡包礼物将帮助你前进！",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "referral_title",
+      "eng": "Exclusive Referral Emote",
+      "chi": "",
+      "originVersionCode": "20.1.16",
+      "translateState": 4
+    },
+    {
+      "code": "referral_desc",
+      "eng": "One of your referred friends just made a purchase!",
+      "chi": "",
+      "originVersionCode": "20.1.17",
+      "translateState": 0
+    },
+    {
+      "code": "wartech_general_achievement_title",
+      "eng": "{{faction_name}} Immortal Vanguard",
+      "chi": "",
+      "originVersionCode": "20.1.17",
+      "translateState": 0
+    },
+    {
+      "code": "wartech_general_achievement_desc",
+      "eng": "Congratulations on unlocking the {{faction_name}} Immortal Vanguard General!",
+      "chi": "",
+      "originVersionCode": "20.1.17",
+      "translateState": 0
+    },
+    {
+      "code": "early_feb_2018_login_achievement_title",
+      "eng": "Celebrate Valentine's Day with Duelyst <3",
+      "chi": "",
+      "originVersionCode": "20.1.17",
+      "translateState": 0
+    },
+    {
+      "code": "early_feb_2018_login_achievement_desc",
+      "eng": "A special gift because we love you!",
+      "chi": "",
+      "originVersionCode": "20.1.17",
+      "translateState": 0
+    },
+    {
+      "code": "letharus_login_achievement_title",
+      "eng": "A Legendary Sloth (Sapphire)",
+      "chi": "",
+      "originVersionCode": "20.1.17",
+      "translateState": 0
+    },
+    {
+      "code": "letharus_login_achievement_desc",
+      "eng": "Thank you for supporting Duelyst II! Letharus is sworn to support you in your adventures in Mythron!",
+      "chi": "",
+      "originVersionCode": "20.1.17",
+      "translateState": 0
+    },
+    {
+      "code": "letharus_ranked_achievement_title",
+      "eng": "A Legendary Sloth (Ruby)",
+      "chi": "",
+      "originVersionCode": "20.1.17",
+      "translateState": 0
+    },
+    {
+      "code": "letharus_ranked_achievement_desc",
+      "eng": "Thank you for supporting Duelyst II! Letharus is sworn to help you climb the ranks!",
+      "chi": "",
+      "originVersionCode": "20.1.17",
+      "translateState": 0
+    },
+    {
+      "code": "letharus_gauntlet_achievement_title",
+      "eng": "A Legendary Sloth (Emerald)",
+      "chi": "",
+      "originVersionCode": "20.1.17",
+      "translateState": 0
+    },
+    {
+      "code": "letharus_gauntlet_achievement_desc",
+      "eng": "Thank you for supporting Duelyst II! Letharus is sworn to help you draft your way to the top!",
+      "chi": "",
+      "originVersionCode": "20.1.17",
+      "translateState": 0
+    }
+  ]
+}

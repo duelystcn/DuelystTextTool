@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.22",
+  "nodeCode": "cards",
+  "path": "cards",
+  "orderStart": 200,
+  "orderEnd": 299,
+  "translateItemList": [
+    {
+      "code": "d2_faction_3_spell_siphon_energy_description",
+      "eng": "Dispel a minion.",
+      "chi": "驱散一个随从。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_spell_cosmic_flesh_name",
+      "eng": "Syzygy",
+      "chi": "朔望",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_spell_cosmic_flesh_description",
+      "eng": "Give an allied minion +3/+0, another +0/+3, and another Blast this turn.",
+      "chi": "使一个友方随从获得+3/+0，\n另一个友方随从获得+0/+3，\n另一个友方随从获得轰炮直\n到回合结束。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_spell_blindscorch_name",
+      "eng": "Blindscorch",
+      "chi": "炫目灼烧",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_spell_blindscorch_description",
+      "eng": "Set a minion's Attack to 0 until your next turn.",
+      "chi": "直到你的下回合，将一个\n随从的攻击力置为0。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_spell_astral_phasing_name",
+      "eng": "Astral Phasing",
+      "chi": "星体相位",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_spell_astral_phasing_description",
+      "eng": "Give a minion +0/+6 and Flying.",
+      "chi": "使一个随从获得+0/+6和飞行。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_spell_auroras_tears_name",
+      "eng": "Aurora's Tears",
+      "chi": "极光之泪",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_spell_auroras_tears_description",
+      "eng": "For each artifact equipped to your General, give your General +2/+0 this turn.",
+      "chi": "你的将领每装备一个神器，\n便获得+2/+0直到回合结束。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_spell_entropic_decay_name",
+      "eng": "Entropic Decay",
+      "chi": "熵衰减",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_spell_entropic_decay_description",
+      "eng": "Destroy all minions on the same row as your General.",
+      "chi": "摧毁与你将领在同一行的所有随从。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_spell_time_maelstrom_name",
+      "eng": "Time Maelstrom",
+      "chi": "时间漩涡",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_spell_time_maelstrom_description",
+      "eng": "Take another turn after this one.",
+      "chi": "在这个回合之后执行\n一个额外的回合。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_spell_sand_trap_name",
+      "eng": "Sand Trap",
+      "chi": "流沙陷阱",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_spell_sand_trap_description",
+      "eng": "Give a minion \"This cannot move\". Draw a card.",
+      "chi": "使一个随从获得\"无法移动\"。\n抽一张牌。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_spell_scions_first_wish_name",
+      "eng": "Scion's First Wish",
+      "chi": "子嗣的初愿",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_spell_scions_first_wish_description",
+      "eng": "Give a minion +1/+1. Draw a card.",
+      "chi": "使一个随从获得+1/+1。\n抽一张牌。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_spell_scions_second_wish_name",
+      "eng": "Scion's Second Wish",
+      "chi": "子嗣的次愿",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_spell_scions_second_wish_description",
+      "eng": "Heal your General for 2. Draw two cards.",
+      "chi": "为你的将领治疗2点生命，\n抽两张牌。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_spell_scions_third_wish_name",
+      "eng": "Scion's Third Wish",
+      "chi": "子嗣的终愿",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_spell_scions_third_wish_description",
+      "eng": "This turn, give your General +3/+0 and \"This can move up to 3 spaces. Reduce damage this takes by 3\".",
+      "chi": "本回合使你的将领获得+3/+0\n和\"可以移动至多三格。 \n将受到的伤害降低3点\"。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_spell_rashas_curse_name",
+      "eng": "Rasha's Curse",
+      "chi": "拉夏的诅咒",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_spell_rashas_curse_description",
+      "eng": "Destroy a random artifact equipped to the enemy General. Summon a Wind Dervish nearby them.",
+      "chi": "随机摧毁敌方将领装备的一\n个神器。在其附近召唤一个\n风行僧(2/2 冲锋 骤现)。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_spell_rashas_curse_followup_name",
+      "eng": "Rasha's Curse",
+      "chi": "拉夏的诅咒",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_spell_rashas_curse_followup_description",
+      "eng": "Destroy a random artifact equipped to the enemy General. Summon a Wind Dervish nearby them.",
+      "chi": "随机摧毁敌方将领装备的一\n个神器。在其附近召唤一\n个风行僧(2/2 冲锋 骤现)。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_spell_stars_fury_name",
+      "eng": "Star's Fury",
+      "chi": "星怒",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_spell_stars_fury_description",
+      "eng": "Summon a Wind Dervish on the space in front of each enemy.",
+      "chi": "在每个敌方单位正前方召唤\n一个风行僧(2/2 冲锋 骤现)。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_spell_bone_swarm_name",
+      "eng": "Bone Swarm",
+      "chi": "碎骨雨",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_spell_bone_swarm_description",
+      "eng": "Deal 2 damage to the enemy General and enemy minions nearby them.",
+      "chi": "对敌方将领和与其相邻的敌\n方随从造成2点伤害。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_spell_fountain_of_youth_name",
+      "eng": "Fountain of Youth",
+      "chi": "不老泉",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_spell_fountain_of_youth_description",
+      "eng": "Transform a minion into a copy of itself.",
+      "chi": "将一个随从变形为\n其自身的复制。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_spell_inner_oasis_name",
+      "eng": "Inner Oasis",
+      "chi": "内心绿洲",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_spell_inner_oasis_description",
+      "eng": "Give allied minions +0/+3. Draw a Card.",
+      "chi": "使所有友方随从获得+0/+3。\n抽一张牌。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_spell_more_to_say_name",
+      "eng": "More to Say",
+      "chi": "咏唱",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_spell_more_to_say_desc",
+      "eng": "Ephemeral\nGive a minion -1/-0 and \"Dying Wish: At the start of your turn, put a More to Say into your action bar.\"",
+      "chi": "骤现\n使一个随从获得-1/-0和\"\n死愿：在你的回合开始时，\n将一张咏唱置入你的准备栏。\n",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_spell_wither_eon_name",
+      "eng": "Wither Eon",
+      "chi": "凋零时代",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_spell_wither_eon_desc",
+      "eng": "Put two copies of More to Say into your action bar for each enemy minion.",
+      "chi": "每有一个敌方随从就将2张\n咏唱置入你的准备栏。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_spell_mirror_image_name",
+      "eng": "Mirror Image",
+      "chi": "镜像",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_spell_mirror_image_desc",
+      "eng": "Summon an exact copy of your General that disappears at the start of your turn nearby your General, then teleport your General to any nearby space.",
+      "chi": "在你的将领相邻位置召唤一\n个在你回合开始时会消散的\n将领精准复制，然后传送你\n的将领到相邻的任意位置。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_artifact_staff_of_ykir_name",
+      "eng": "Staff Of Y'kir",
+      "chi": "耶基尔的权杖",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_artifact_staff_of_ykir_description",
+      "eng": "Your General has +2/+0.\nWhen this is destroyed, shuffle a copy of it into your deck.",
+      "chi": "你的将领具有+2/+0。\n当此神器被摧毁时，复制一\n张此神器并洗入你的牌库。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_artifact_wildfire_ankh_name",
+      "eng": "Wildfire Ankh",
+      "chi": "野火十字章",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_artifact_wildfire_ankh_description",
+      "eng": "Your General has Blast.",
+      "chi": "你的将领具有轰炮。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_artifact_hexblade_name",
+      "eng": "Hexblade",
+      "chi": "咒刃",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_artifact_hexblade_description",
+      "eng": "Your General has +3/+0.\nWhen your General damages an enemy, set that enemy's Attack to 1 until your next turn.",
+      "chi": "你的将领具有+3/+0。\n你的将领对敌方单位造成\n伤害时，将其攻击置为1\n直到你的下个回合开始。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_artifact_mercurian_pendant_name",
+      "eng": "Mercurian Pendant",
+      "chi": "水星吊坠",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_artifact_mercurian_pendant_desc",
+      "eng": "If this has 3 durability, your General has Provoke. If this has 2 durability, your General has Flying. If this has 1 durability, your General has Celerity.",
+      "chi": "3耐久时你的将领具有嘲讽。\n2耐久时你的将领具有飞行。\n1耐久时你的将领具有迅捷。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_artifact_pocket_sand_name",
+      "eng": "Pocket Sand",
+      "chi": "储沙囊",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_artifact_pocket_sand_desc",
+      "eng": "Timeless\nOpening Gambit and at the start of your turn: Summon Wind Dervishes above and below your General.",
+      "chi": "永恒\n登场及在你的回合开始时：\n在你的将领上方和下方召\n唤风行僧。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_unit_zirix_name",
+      "eng": "Zirix Starstrider",
+      "chi": "踏星者 泽利克斯",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_unit_zirix_desc",
+      "eng": "",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_unit_sajj_name",
+      "eng": "Scioness Sajj",
+      "chi": "圣裔 萨姬",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_unit_sajj_desc",
+      "eng": "",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_unit_ciphyron_name",
+      "eng": "Ciphyron Ascendant",
+      "chi": "升星者 西弗荣",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_unit_ciphyron_desc",
+      "eng": "",
+      "chi": "",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_unit_dunecaster_name",
+      "eng": "Dunecaster",
+      "chi": "沙丘召唤师",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_unit_dunecaster_desc",
+      "eng": "Opening Gambit: Give another Dervish +2/+2 and \"This does not disappear at the end of your turn\".",
+      "chi": "登场：使一个友方苦行僧获\n得 +2/+2 和在你的回合结\n束时不会消散。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_unit_ethereal_obelysk_name",
+      "eng": "Ethereal Obelysk",
+      "chi": "空灵方尖碑",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_unit_ethereal_obelysk_desc",
+      "eng": "Gateway",
+      "chi": "通道",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_unit_pyromancer_name",
+      "eng": "Pyromancer",
+      "chi": "火占师",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_unit_pyromancer_desc",
+      "eng": "Blast",
+      "chi": "轰炮",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_unit_fireblaze_obelysk_name",
+      "eng": "Fireblaze Obelysk",
+      "chi": "火焰方尖碑",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_unit_fireblaze_obelysk_desc",
+      "eng": "Gateway\nAllied Dervishes have +1/+0.",
+      "chi": "通道\n友方苦行僧获得 +1/+0 。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_unit_imperial_mechanyst_name",
+      "eng": "Imperial Saboteur",
+      "chi": "帝国机械师",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_unit_imperial_mechanyst_desc",
+      "eng": "Opening Gambit: Give a nearby minion -2/-0 until your next turn.",
+      "chi": "登场：使一个相邻随从获得\n-2/-0直到你的下个回合开始。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_unit_orb_weaver_name",
+      "eng": "Orb Weaver",
+      "chi": "灵珠织匠",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_unit_orb_weaver_desc",
+      "eng": "Opening Gambit: Summon an exact copy of this nearby.",
+      "chi": "登场：在相邻位置召唤一个\n此随从的复制。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_unit_portal_guardian_name",
+      "eng": "Portal Guardian",
+      "chi": "城门护卫",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_unit_portal_guardian_desc",
+      "eng": "Frenzy\nWhen you summon a minion, this gains +1/+0.",
+      "chi": "狂暴\n每当你召唤一个随从，\n此随从获得+1/+0。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_unit_sand_howler_name",
+      "eng": "Sand Howler",
+      "chi": "啸沙僧",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_unit_sand_howler_desc",
+      "eng": "Nearby enemies have -1/-0.",
+      "chi": "相邻的敌方单位具有 -1/-0 。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_unit_windstorm_obelysk_name",
+      "eng": "Windstorm Obelysk",
+      "chi": "风暴方尖碑",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_unit_windstorm_obelysk_desc",
+      "eng": "Gateway\nAllied Dervishes can move an additional space.",
+      "chi": "通道\n友方苦行僧可以额外移动一格。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_unit_mirage_master_name",
+      "eng": "Mirage Master",
+      "chi": "幻变奇兽",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_unit_mirage_master_desc",
+      "eng": "Opening Gambit: This transforms into an exact copy of another minion.",
+      "chi": "登场：将此生物变形为一个\n其他随从的精准复制。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_unit_wind_shrike_name",
+      "eng": "Wind Shrike",
+      "chi": "风伯劳",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_unit_wind_shrike_desc",
+      "eng": "Flying\nDying Wish: Equip a Staff Of Y'Kir to your General.",
+      "chi": "飞行\n死愿：为你的将领装备一个\n耶基尔的权杖。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_unit_starfire_scarab_name",
+      "eng": "Starfire Scarab",
+      "chi": "星火圣甲虫",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_unit_starfire_scarab_desc",
+      "eng": "Blast",
+      "chi": "轰炮",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_unit_aymara_healer_name",
+      "eng": "Aymara Healer",
+      "chi": "艾玛拉医师",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_unit_aymara_healer_desc",
+      "eng": "Provoke\nDying Wish: Deal 5 damage to the enemy General and heal your General for 5.",
+      "chi": "嘲讽\n死愿：\n对敌方将领造成5点伤害。\n为你的将领治疗5点生命。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_unit_oserix_name",
+      "eng": "Oserix",
+      "chi": "奥西里斯",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_unit_oserix_desc",
+      "eng": "Blast\nYour General deals double damage.",
+      "chi": "轰炮\n你的将领造成的伤害翻倍。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_unit_dervish_name",
+      "eng": "Wind Dervish",
+      "chi": "风行僧",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_unit_dervish_desc",
+      "eng": "Rush\nAt the end of your turn, this disappears.",
+      "chi": "冲锋\n在你的回合结束时，\n此随从消散。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_unit_iron_dervish_name",
+      "eng": "Iron Dervish",
+      "chi": "铁行僧",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_unit_chronomancer_name",
+      "eng": "Chronomancer",
+      "chi": "时空占卜师",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_unit_chronomancer_desc",
+      "eng": "Opening Gambit: The next spell you play this turn costs 2 less.",
+      "chi": "登场：这个回合你使用的\n下一张法术费用减少2点。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_unit_lingering_soul_name",
+      "eng": "Lingering Soul",
+      "chi": "徘徊灵魂",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_unit_lingering_soul_desc",
+      "eng": "Dying Wish: Summon a Wind Dervish on this space.",
+      "chi": "死愿：所在位置召唤一个\n风行僧。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_unit_karaoke_name",
+      "eng": "Karaoke",
+      "chi": "伴唱师",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_unit_karaoke_desc",
+      "eng": "Allies have \"Dying Wish: Put a More to Say into your action bar\".",
+      "chi": "所有友方单位具有\"死愿：\n将一张咏唱置入你的准备\n栏。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_unit_enthalbeast_name",
+      "eng": "Enthalbeast",
+      "chi": "焓变巨兽",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_3_unit_enthalbeast_desc",
+      "eng": "Opening Gambit: Put three copies of More to Say into your action bar. Stat buffs and debuffs are reversed.",
+      "chi": "登场：将3张咏唱置入你的准备\n栏。但具有相反的加成？-0/-1？",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_4_spell_wraithling_fury_name",
+      "eng": "Wraithling Fury",
+      "chi": "激怒小鬼",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_4_spell_wraithling_fury_description",
+      "eng": "Give a Wraithling +4/+4 and Flying.",
+      "chi": "使一个幽冥小鬼获得\n+4/+4 和飞行。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_4_spell_daemonic_lure_name",
+      "eng": "Daemonic Lure",
+      "chi": "恶魔的诱惑",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_4_spell_daemonic_lure_description",
+      "eng": "Deal 1 damage to an enemy minion and teleport it to any space.",
+      "chi": "对一个敌方随从造成1点伤害\n并将其传送到任意位置。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_4_spell_nether_summoning_name",
+      "eng": "Nether Summoning",
+      "chi": "虚空召集",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_4_spell_nether_summoning_description",
+      "eng": "Summon non-token minions that were destroyed this turn on random spaces nearby your General.",
+      "chi": "在你的将领相邻位置召唤这\n个回合被摧毁的不是衍生物\n的随从。",
+      "originVersionCode": "20.1.21",
+      "translateState": 4
+    }
+  ]
+}

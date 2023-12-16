@@ -1,0 +1,387 @@
+{
+  "versionCode": "20.1.13",
+  "nodeCode": "settings",
+  "path": "settings",
+  "orderStart": 0,
+  "orderEnd": 53,
+  "translateItemList": [
+    {
+      "code": "category_visual_label",
+      "eng": "Visual",
+      "chi": "显示",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "category_game_label",
+      "eng": "Game",
+      "chi": "游戏",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "category_audio_label",
+      "eng": "Audio",
+      "chi": "声音",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "category_account_label",
+      "eng": "Account",
+      "chi": "账户",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "audio_volume_master_label",
+      "eng": "Master",
+      "chi": "主控",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "audio_volume_music_label",
+      "eng": "Music",
+      "chi": "音乐",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "audio_volume_voice_label",
+      "eng": "Voice",
+      "chi": "语音",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "audio_volume_effects_label",
+      "eng": "Effects",
+      "chi": "音效",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "account_change_password_button_label",
+      "eng": "Change Password",
+      "chi": "修改密码",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "viewport_not_supported",
+      "eng": "(not supported at your screen size)",
+      "chi": "（你的屏幕大小不支持）",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "best_fit",
+      "eng": "Best Fit (recommended)",
+      "chi": "最佳适配（推荐）",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "tightest_fit",
+      "eng": "Tightest Fit",
+      "chi": "紧密适配",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "pixel_perfect",
+      "eng": "Pixel Perfect",
+      "chi": "完美像素",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "settings_button_low",
+      "eng": "LOW",
+      "chi": "低",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "settings_button_medium",
+      "eng": "MED",
+      "chi": "中",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "settings_button_high",
+      "eng": "HIGH",
+      "chi": "高",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "hiDPI_tooltip",
+      "eng": "HiDPI mode for monitors with high pixel density. Warning - enabling this may cause Duelyst to run slowly!",
+      "chi": "显示屏使用高像素密度模式。警告-启用此选项可能会导致Duelyst运行缓慢！",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "hiDPI_name",
+      "eng": "HiDPI Mode",
+      "chi": "HiDPI模式",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "lighting_quality",
+      "eng": "Lighting Quality",
+      "chi": "光照质量",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "shadow_quality",
+      "eng": "Shadow Quality",
+      "chi": "阴影质量",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "board_quality",
+      "eng": "Board Quality",
+      "chi": "",
+      "originVersionCode": "20.1.13",
+      "translateState": 0
+    },
+    {
+      "code": "bloom_tooltip",
+      "eng": "Adjust the intensity and brightness of the bloom visual effect.",
+      "chi": "",
+      "originVersionCode": "20.1.13",
+      "translateState": 0
+    },
+    {
+      "code": "bloom_label",
+      "eng": "Bloom",
+      "chi": "发光特效",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "master_volume_label",
+      "eng": "Master Volume",
+      "chi": "主音量",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "music_volume_label",
+      "eng": "Music Volume",
+      "chi": "音乐音量",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "voice_volume_label",
+      "eng": "Voice Volume",
+      "chi": "语音音量",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "effects_volume_label",
+      "eng": "Effects Volume",
+      "chi": "音效音量",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "always_show_stats",
+      "eng": "Always Show Stats",
+      "chi": "",
+      "originVersionCode": "20.1.13",
+      "translateState": 0
+    },
+    {
+      "code": "show_tips_during_gameplay",
+      "eng": "Show Tips During Game",
+      "chi": "游戏内显示提示",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "play_original_music",
+      "eng": "Play Duelyst Legacy Soundtrack",
+      "chi": "开启Duelyst传奇音乐包",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "play_original_music_tooltip",
+      "eng": "Swaps to the legacy or new soundtrack after changing screens",
+      "chi": "更换场景后切换到旧的或新的配乐",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "player_details_tooltip",
+      "eng": "Show additional information like remaining cards in deck at all times.",
+      "chi": "显示其他信息，如牌库中的剩余卡片。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "player_details",
+      "eng": "Player Details",
+      "chi": "玩家详情",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "sticky_targeting_tooltip",
+      "eng": "Units stay selected after moving - click to move then attack without reselecting the unit.",
+      "chi": "单位在移动后可以直接选择攻击目标，而不需要重新选择单位。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "sticky_targeting",
+      "eng": "Sticky Targeting",
+      "chi": "粘滞目标",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "razer_chroma",
+      "eng": "Razer Chroma Integration",
+      "chi": "",
+      "originVersionCode": "20.1.13",
+      "translateState": 0
+    },
+    {
+      "code": "do_not_disturb_tooltip",
+      "eng": "Automatically ignore new friend requests from other players. You can still challenge and chat with your friends.",
+      "chi": "自动忽略其他玩家的新好友请求。你仍然可以和已有的好友聊天和切磋。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "do_not_disturb",
+      "eng": "Do Not Disturb",
+      "chi": "请勿打扰",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "profanity_filter_tooltip",
+      "eng": "Hide all bad words",
+      "chi": "屏蔽违禁词汇",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "profanity_filter",
+      "eng": "Profanity Filter",
+      "chi": "信息过滤",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "marketing_emails_tooltip",
+      "eng": "Receive emails about game events and promotions.",
+      "chi": "接收有关游戏活动和促销活动的电子邮件。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "marketing_emails",
+      "eng": "Receive Email Updates",
+      "chi": "接收电子邮件信息",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "block_spectators_tooltip",
+      "eng": "Do not allow friends to spectate your games.",
+      "chi": "不让朋友观看你的比赛。",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "block_spectators",
+      "eng": "Block Spectators",
+      "chi": "禁止观战",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "create_account",
+      "eng": "Create a DUELYST II Account",
+      "chi": "创建一个DUELYST II的账户",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "logout",
+      "eng": "LOGOUT",
+      "chi": "登出",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "quit",
+      "eng": "QUIT",
+      "chi": "离开",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "manage_data",
+      "eng": "Manage Data",
+      "chi": "",
+      "originVersionCode": "20.1.13",
+      "translateState": 0
+    },
+    {
+      "code": "change_username",
+      "eng": "Change username",
+      "chi": "修改用户名",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    },
+    {
+      "code": "change_email_button_label",
+      "eng": "Change email",
+      "chi": "",
+      "originVersionCode": "20.1.13",
+      "translateState": 0
+    },
+    {
+      "code": "send_verification_email_button_label",
+      "eng": "Send verification email",
+      "chi": "",
+      "originVersionCode": "20.1.13",
+      "translateState": 0
+    },
+    {
+      "code": "verification_email_request_success",
+      "eng": "Verification email sent!",
+      "chi": "",
+      "originVersionCode": "20.1.13",
+      "translateState": 0
+    },
+    {
+      "code": "verification_email_request_error",
+      "eng": "An error occurred, try sending again!",
+      "chi": "",
+      "originVersionCode": "20.1.13",
+      "translateState": 0
+    },
+    {
+      "code": "redeem_code",
+      "eng": "Redeem referral / gift code",
+      "chi": "使用推荐码礼品码",
+      "originVersionCode": "20.1.12",
+      "translateState": 4
+    }
+  ]
+}
