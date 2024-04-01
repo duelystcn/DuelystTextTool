@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.25",
+  "nodeCode": "cosmetics",
+  "path": "cosmetics",
+  "orderStart": 100,
+  "orderEnd": 199,
+  "translateItemList": [
+    {
+      "code": "skinline_ghost_name",
+      "eng": "Undead",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_ash_name",
+      "eng": "Volcanic",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_boreal_name",
+      "eng": "Boreal",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_mk2_name",
+      "eng": "MkII",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_boss_name",
+      "eng": "Boss",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_rogueLegacy_name",
+      "eng": "Rogue Legacy",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_doge_name",
+      "eng": "Dogehai",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_festive_name",
+      "eng": "Festive",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_sapphire_name",
+      "eng": "Sapphire",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_emerald_name",
+      "eng": "Emerald",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_ruby_name",
+      "eng": "Ruby",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_ashen_name",
+      "eng": "Ashen",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_strawberry_name",
+      "eng": "Strawberry",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_gilded_name",
+      "eng": "Gilded",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_hallowed_name",
+      "eng": "Hallowed",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_kickstarter_name",
+      "eng": "Founder",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_rainbow_name",
+      "eng": "Chromatic",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_EXCEED_name",
+      "eng": "EXCEED",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_prime_name",
+      "eng": "Prime",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_diamond_name",
+      "eng": "Diamond",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_triumphant_name",
+      "eng": "Triumphant",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_molten_name",
+      "eng": "Molten",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_stormcaller_name",
+      "eng": "Stormcaller",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_tiger_name",
+      "eng": "Tiger",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_owl_name",
+      "eng": "Owl",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_eldritch_name",
+      "eng": "Eldritch",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_celestial_name",
+      "eng": "Ursa Major",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_cottoncandy_name",
+      "eng": "Cotton Candy",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_lizard_name",
+      "eng": "Lizard",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_illuminator_name",
+      "eng": "Illuminator",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_sandbender_name",
+      "eng": "Sandbender",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_krazed_name",
+      "eng": "Krazcent",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_priestess_name",
+      "eng": "Priestess",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_enchanted_name",
+      "eng": "Enchanted",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_vanquished_name",
+      "eng": "Vanquished",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_sandwing_name",
+      "eng": "Sandwing",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_ignideus_name",
+      "eng": "Ignideus",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_celadon_name",
+      "eng": "Celadon",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_sublimation_name",
+      "eng": "Sublimation",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_primed_name",
+      "eng": "Primed",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_calvin_name",
+      "eng": "Midnight",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_thetapdancer_name",
+      "eng": "Duck",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_necroticone_name",
+      "eng": "The End Maiden",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_cropolite_name",
+      "eng": "Dread Matriarch",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_robnoo_name",
+      "eng": "Energized",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_kertic_name",
+      "eng": "Void",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_astral_name",
+      "eng": "Astral",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_thirdrateduelyst_name",
+      "eng": "Third Rate Duelyst",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_logo_name",
+      "eng": "Dream Sloth",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_servo_name",
+      "eng": "Servo",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_divine_name",
+      "eng": "Divine",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_plasma_name",
+      "eng": "Plazma",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_buster_name",
+      "eng": "Buster",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_bumblebee_name",
+      "eng": "Bombus",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_shroom_name",
+      "eng": "Shroom",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_holy_name",
+      "eng": "Holy",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_summer_name",
+      "eng": "Summer",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_soulflame_name",
+      "eng": "Soulflame",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_thundersnow_name",
+      "eng": "Thundersnow",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_prideful_name",
+      "eng": "Prideful",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_celestial2_name",
+      "eng": "Celestial",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_nightmare_name",
+      "eng": "Nightmare",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skinline_freezing_name",
+      "eng": "Freezing",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skindesc_lazyCreator",
+      "eng": "Added on the release of Public Beta. Designed by Lazy.",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skindesc_laguzCreator",
+      "eng": "Added on the release of Public Beta. Designed by Laguz.",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skindesc_kickstarter_backer",
+      "eng": "Created by Kickstarter backer {{backerName}}.",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skindesc_molten",
+      "eng": "Still my heart is blazing...",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skindesc_stormcaller",
+      "eng": "Welcome to the greatest storm...",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skindesc_animal",
+      "eng": "I don't want to talk about the things that make you never...",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skindesc_eldritch",
+      "eng": "The world is indeed comic, but the joke is on mankind.",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skindesc_gilded",
+      "eng": "El Dorado is the city of gold, and I went lookin' for the money.",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skindesc_thirdrateduelyst",
+      "eng": "Third rate duelyst with a fourth rate deck.",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skindesc_cottoncandy",
+      "eng": "Delicious...",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skindesc_logo",
+      "eng": "What dreams are made of.",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skindesc_servo",
+      "eng": "We all danced in fire, trapped in this machine.",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skindesc_plasma",
+      "eng": "I have the ultimate monster.",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skindesc_buster",
+      "eng": "Survival can be a matter of luck or skill. And you can't rely on luck.",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skindesc_summer",
+      "eng": "If summer only lasted one day.",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skindesc_hallowed",
+      "eng": "Send shivers down your spine...",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skindesc_abyssian",
+      "eng": "Vaath in his original Abyssian colors. Designed by Anjo.",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skindesc_soulflame",
+      "eng": "Send even more shivers down your spine...",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "skindesc_bewd",
+      "eng": "This card represents my pride and soul as a Duelyst...",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "cardback_classic_name",
+      "eng": "Classic",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "cardback_classic_desc",
+      "eng": "Your default classic card back.",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "cardback_redstark_name",
+      "eng": "Redstark Blue",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "cardback_redstark_desc",
+      "eng": "Banner of Aestaria's House Ashbourne.",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "cardback_sienna_name",
+      "eng": "Sienna Gold",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "cardback_sienna_desc",
+      "eng": "Burning desire for the Gauntlet.",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "cardback_dance_of_dreams_name",
+      "eng": "Dance of Dreams",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "cardback_dance_of_dreams_desc",
+      "eng": "Nothing is destroyed...Only transformed.",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "cardback_shimzar_name",
+      "eng": "Denizens of Shim'Zar",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "cardback_shimzar_desc",
+      "eng": "From the Shim'Zar Jungle.",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "cardback_azurite_name",
+      "eng": "Silver Azurite",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "cardback_azurite_desc",
+      "eng": "Every sixty years is born the Silver Azurite Lion.",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "cardback_humble_bundle_name",
+      "eng": "Humble Bundle",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "cardback_humble_bundle_desc",
+      "eng": "",
+      "chi": "",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "cardback_dawn_of_duelysts_name",
+      "eng": "Dawn of the Duelysts",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "cardback_dawn_of_duelysts_desc",
+      "eng": "",
+      "chi": "",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "cardback_snowchaser_cup_name",
+      "eng": "Festive Cardback",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "cardback_snowchaser_cup_desc",
+      "eng": "Frostfire Festival has arrived!",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    }
+  ]
+}

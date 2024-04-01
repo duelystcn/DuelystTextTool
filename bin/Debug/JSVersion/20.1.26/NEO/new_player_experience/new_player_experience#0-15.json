@@ -1,0 +1,121 @@
+{
+  "versionCode": "20.1.26",
+  "nodeCode": "new_player_experience",
+  "path": "new_player_experience",
+  "orderStart": 0,
+  "orderEnd": 15,
+  "translateItemList": [
+    {
+      "code": "highlight_practice_game_popover",
+      "eng": "Practice Game Here",
+      "chi": "练习赛在这里",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "highlight_more_practice_games_popover",
+      "eng": "Play more Practice Games",
+      "chi": "进行更多的练习赛",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "highlight_ladder_popover",
+      "eng": "Play Season Ladder Game",
+      "chi": "进行天梯战斗",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "highlight_solo_challenge_popover",
+      "eng": "Play Solo Challenges",
+      "chi": "进行单人挑战",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "play_mode_unlock_message",
+      "eng": "Complete Starter Quests to unlock.",
+      "chi": "完成新手任务来解锁",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "play_mode_unlock_account_verification",
+      "eng": "Verify account to unlock PVP content.",
+      "chi": "验证账户邮箱来解锁PVP战斗。",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "play_mode_gauntlet_unlock_message",
+      "eng": "Reach Level 10 with any Faction to unlock.",
+      "chi": "任何阵营到达10级后解锁。",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "play_mode_unlock_game_count_message",
+      "eng": "Play {{game_count}} more Season Games to unlock.",
+      "chi": "进行{{game_count}}场天梯战斗来解锁。",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "highlight_open_spirit_orbs_popover",
+      "eng": "Open Spirit Orbs to unlock new cards for your Collection.",
+      "chi": "打开卡包来为你的收藏增加新卡牌。",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "new_quests_popover",
+      "eng": "New Quests",
+      "chi": "新任务",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "buy_spirit_orb",
+      "eng": "Get Spirit Orb",
+      "chi": "获得一个卡包",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "new_shop_special_available_popover",
+      "eng": "New Special",
+      "chi": "新特价",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "faction_unlocked_title",
+      "eng": "Faction Unlocked",
+      "chi": "阵营解锁",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "faction_cards_unlocked_progress_label",
+      "eng": "{{card_count}} cards unlocked",
+      "chi": "{{card_count}}张卡牌解锁",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "bloodborn_message",
+      "eng": "This is your [Bloodbound Spell]. It refreshes on your next turn.",
+      "chi": "这是你的[血技]。在你的下个回合刷新。",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "bloodborn_message_plural",
+      "eng": "This is your [Bloodbound Spell]. It refreshes in {{count}} turns.",
+      "chi": "这是你的[血技]。在{{count}}回合后刷新。",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    }
+  ]
+}

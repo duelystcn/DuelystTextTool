@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.25",
+  "nodeCode": "cosmetics",
+  "path": "cosmetics",
+  "orderStart": 400,
+  "orderEnd": 499,
+  "translateItemList": [
+    {
+      "code": "icon_zirix_mk2_name",
+      "eng": "Zirix Starstrider II",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "icon_zirix_mk2_desc",
+      "eng": "'Everything is transformed.'",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "icon_bloodmoon_ruins_name",
+      "eng": "Bloodmoon Ruins",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "icon_bloodmoon_ruins_desc",
+      "eng": "Under the blood-dimmed night.",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "icon_crystal_caverns_name",
+      "eng": "Crystal Caverns",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "icon_crystal_caverns_desc",
+      "eng": "Mirrors of ice.",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "icon_kaero_name",
+      "eng": "Kaero",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "icon_kaero_desc",
+      "eng": "Stronghold of Vetruvia.",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "icon_whistling_blades_name",
+      "eng": "Whistling Blades",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "icon_whistling_blades_desc",
+      "eng": "The creature, the place.",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "icon_obsidian_woods_name",
+      "eng": "Obsidian Woods",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "icon_obsidian_woods_desc",
+      "eng": "Broken, thus strengthened.",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "icon_rashas_tomb_name",
+      "eng": "Rashas Tomb",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "icon_rashas_tomb_desc",
+      "eng": "To burn for eternity.",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "icon_grandmaster_name",
+      "eng": "Grandmaster",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "icon_grandmaster_desc",
+      "eng": "Grandmaster tournament qualifier.",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "icon_dawn_of_duelysts_s1_name",
+      "eng": "Dawn of the Duelysts S1",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "icon_dawn_of_duelysts_s1_desc",
+      "eng": "Dawn of the Duelysts Season 1.",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "icon_dawn_of_duelysts_s2_name",
+      "eng": "Dawn of the Duelysts S2",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "icon_dawn_of_duelysts_s2_desc",
+      "eng": "Dawn of the Duelysts Season 2.",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "icon_brome_name",
+      "eng": "Brome Warcrest",
+      "chi": "布罗姆·战首",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "icon_brome_desc",
+      "eng": "Lyonar Immortal Vanguard General",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "icon_ragnora_name",
+      "eng": "Ragnora the Relentless",
+      "chi": "无情的拉格诺拉",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "icon_ragnora_desc",
+      "eng": "Magmar Immortal Vanguard General",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "icon_shidai_name",
+      "eng": "Shidai Stormblossom",
+      "chi": "剑芒 石黛",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "icon_shidai_desc",
+      "eng": "Songhai Immortal Vanguard General",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "icon_maehv_name",
+      "eng": "Maehv Skinsolder",
+      "chi": "处刑人 玛赫",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "icon_maehv_desc",
+      "eng": "Abyssian Immortal Vanguard General",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "icon_ilena_name",
+      "eng": "Ilena Cryobyte",
+      "chi": "冰晶 伊莲娜",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "icon_ilena_desc",
+      "eng": "Vanar Immortal Vanguard General",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "icon_ciphyron_name",
+      "eng": "Ciphyron Ascendant",
+      "chi": "升星者 西弗荣",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "icon_ciphyron_desc",
+      "eng": "Vetruvian Immortal Vanguard General",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "icon_kaon_deladriss_name",
+      "eng": "Kaon Deladriss - Founder",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "icon_kaon_deladriss_desc",
+      "eng": "An exclusive portrait only available to Kickstarter backers at the Mythron Acolyte tier and above",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "icon_kaon_deladriss_celestial_name",
+      "eng": "Golden Kaon Deladriss - Founder",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "icon_kaon_deladriss_celestial_desc",
+      "eng": "An exclusive portrait only available to Kickstarter backers at the Mythron Patron tier and above",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_hello_name",
+      "eng": "Hello",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_glhf_name",
+      "eng": "GLHF",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_well_played_name",
+      "eng": "Well Played",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_oops_name",
+      "eng": "Oops",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_hm_happy_name",
+      "eng": "Happy Healing Mystic",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_hm_happy_desc",
+      "eng": "Let your joy bubble to the surface!",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_hm_sad_name",
+      "eng": "Sad Healing Mystic",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_hm_sad_desc",
+      "eng": "So sad...",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_hm_thumbs_up_name",
+      "eng": "Thumbs Up Healing Mystic",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_hm_thumbs_up_desc",
+      "eng": "Yata! Good job!",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_hm_surprise_name",
+      "eng": "Surprise Healing Mystic",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_hm_surprise_desc",
+      "eng": "Wow!",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_hm_blink_name",
+      "eng": "Blink Healing Mystic",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_hm_blink_desc",
+      "eng": "Blink, Blink.",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_holiday_snowchaser_name",
+      "eng": "Holiday Snowchaser",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_holiday_snowchaser_desc",
+      "eng": "Those are colored Crystal Wisps.",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_cannon_mech_name",
+      "eng": "Cannon of Mechaz0r",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_cannon_mech_desc",
+      "eng": "Does not compute?!",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_chassis_mech_name",
+      "eng": "Chassis of Mechaz0r",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_chassis_mech_desc",
+      "eng": "SMASH THINGS!!",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_helm_mech_name",
+      "eng": "Helm of Mechaz0r",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_helm_mech_desc",
+      "eng": "Muah!",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_mechaz0r_name",
+      "eng": "Mechaz0r",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_mechaz0r_desc",
+      "eng": "Crying...for YOU!",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_sword_mech_name",
+      "eng": "Sword of Mechaz0r",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_sword_mech_desc",
+      "eng": "Bad manner...",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_wings_mech_name",
+      "eng": "Wings of Mechaz0r",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_wings_mech_desc",
+      "eng": "Fly me to the moon!",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_lady_locke_name",
+      "eng": "Lady Locke",
+      "chi": "链锁女士",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "emote_lady_locke_desc",
+      "eng": ">___<;;",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_phalanxar_name",
+      "eng": "Phalanxar",
+      "chi": "好战者",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "emote_phalanxar_desc",
+      "eng": "Bad Manner.",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_snowchaser_bow_name",
+      "eng": "Snowchaser Bow",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_snowchaser_bow_desc",
+      "eng": "Namaste.",
+      "chi": "合十礼",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "emote_hollow_grovekeeper_name",
+      "eng": "Hollow Grovekeeper",
+      "chi": "幽谷护林兽",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "emote_hollow_grovekeeper_desc",
+      "eng": "Grandmaster Tournament Winner!",
+      "chi": "大师赛冠军！",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "emote_lightbender_name",
+      "eng": "Lightbender",
+      "chi": "扰光法师",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "emote_lightbender_desc",
+      "eng": "Grandmaster Tournament Winner!",
+      "chi": "大师赛冠军！",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "emote_primus_fist_name",
+      "eng": "Primus Fist",
+      "chi": "铁拳教官",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "emote_primus_fist_desc",
+      "eng": "Grandmaster Tournament Winner!",
+      "chi": "大师赛冠军！",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "emote_zenrui_name",
+      "eng": "Zen'Rui",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_zenrui_desc",
+      "eng": "Grandmaster Tournament Winner!",
+      "chi": "大师赛冠军！",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "emote_fog_bow_name",
+      "eng": "Fog Bowing",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_fog_bow_desc",
+      "eng": "Namaste..",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_fog_confused_name",
+      "eng": "Fog Confused",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_fog_confused_desc",
+      "eng": "Nani?",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_fog_gg_name",
+      "eng": "Fog GG",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_fog_gg_desc",
+      "eng": "So pwned..",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_fog_sweat_name",
+      "eng": "Fog Sweat",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_fog_sweat_desc",
+      "eng": "Sweat drop...",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_fog_happy_name",
+      "eng": "Fog Happy",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_fog_happy_desc",
+      "eng": "Yata!",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_fog_cry_name",
+      "eng": "Fog Cry",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_fog_cry_desc",
+      "eng": "Pool of tears..",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_fog_sleep_name",
+      "eng": "Fog Sleep",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_fog_sleep_desc",
+      "eng": "Quick nap!",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_fog_smile_name",
+      "eng": "Fog Smile",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_fog_smile_desc",
+      "eng": "Grin!",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_fog_surprised_name",
+      "eng": "Fog Surprised",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_fog_surprised_desc",
+      "eng": "Wow wow..",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_fog_kiss_name",
+      "eng": "Fog Kiss",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_fog_kiss_desc",
+      "eng": "Kiss!",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_fog_wink_name",
+      "eng": "Fog Wink",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    },
+    {
+      "code": "emote_fog_wink_desc",
+      "eng": "Wink!",
+      "chi": "",
+      "originVersionCode": "20.1.25",
+      "translateState": 0
+    }
+  ]
+}

@@ -1,0 +1,646 @@
+{
+  "versionCode": "20.1.25",
+  "nodeCode": "tutorial",
+  "path": "tutorial",
+  "orderStart": 100,
+  "orderEnd": 190,
+  "translateItemList": [
+    {
+      "code": "tutorial_card_freezing_orb_name",
+      "eng": "Freezing Orb",
+      "chi": "冰冻球",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "tutorial_card_freezing_orb_desc",
+      "eng": "Deal 25 damage to the enemy General.",
+      "chi": "对敌方将领造成25点伤害。",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_lesson1_title",
+      "eng": "Tutorial",
+      "chi": "教程",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_lesson1_description",
+      "eng": "Let's learn Duelyst II",
+      "chi": "来学习DuelsytII",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_lesson1_difficulty",
+      "eng": "2 Minutes",
+      "chi": "2分钟",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_lesson1_start_message",
+      "eng": "Learn the basics of Duelyst II",
+      "chi": "学习Duelyst II的基础操作",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_lesson1_failure_message",
+      "eng": "Don't worry, try again!",
+      "chi": "不要难过，再试一次！",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_lesson1_turn_0_p_1_failure_message",
+      "eng": "Destroy the enemy [General] to claim victory!",
+      "chi": "摧毁敌方将领来获得胜利！",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_lesson1_turn_0_p_1_instruction_1",
+      "eng": "This is your [General]!",
+      "chi": "这是你的[将领]！",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_lesson1_turn_0_p_1_instruction_2",
+      "eng": "This is an allied [Minion].",
+      "chi": "这是一个友方[随从]！",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_lesson1_turn_0_p_1_instruction_3",
+      "eng": "Spaces with [Enemies] are highlighted red.",
+      "chi": "敌方单位下面的格子是红色的。",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_lesson1_turn_0_p_1_instruction_4",
+      "eng": "Destroy the enemy [General] to claim victory!",
+      "chi": "摧毁敌方将领来获得胜利！",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_lesson1_turn_0_p_1_instruction_5",
+      "eng": "Click to select a unit.\nClick again on a highlighted space to move there.",
+      "chi": "点击来选择一个单位！\n再点一个高亮的区域来移动到那里。",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_lesson2_title",
+      "eng": "Tutorial",
+      "chi": "教程",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_lesson2_description",
+      "eng": "Let's learn Duelyst II",
+      "chi": "来学习DuelsytII",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_lesson2_difficulty",
+      "eng": "2 Minutes",
+      "chi": "2分钟",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_lesson2_start_message",
+      "eng": "Learn the basics of Duelyst II",
+      "chi": "学习Duelyst II的基础操作",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_lesson2_failure_message",
+      "eng": "Don't worry, try again!",
+      "chi": "不要难过，再试一次！",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_lesson2_turn_0_p_1_failure_message",
+      "eng": "Destroy the enemy [General] to claim victory!",
+      "chi": "摧毁敌方将领来获得胜利！",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_lesson2_turn_0_p_1_instruction_1",
+      "eng": "Use your [spell] to clear a path to victory!",
+      "chi": "使用你的法术来开辟道路获得胜利！",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_lesson2_turn_0_p_1_instruction_2",
+      "eng": "Click to select your [spell].\nClick again choose a target.",
+      "chi": "点击来选择你的法术。\n再次点击来选择目标。",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_lesson3_title",
+      "eng": "Tutorial",
+      "chi": "教程",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_lesson3_description",
+      "eng": "Let's learn Duelyst II",
+      "chi": "来学习DuelsytII",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_lesson3_difficulty",
+      "eng": "2 Minutes",
+      "chi": "2分钟",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_lesson3_start_message",
+      "eng": "Learn the basics of Duelyst II",
+      "chi": "学习Duelyst II的基础操作",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_lesson3_failure_message",
+      "eng": "Don't worry, try again!",
+      "chi": "不要难过，再试一次！",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_lesson3_turn_0_p_1_failure_message",
+      "eng": "Equip an [Artifact] to power up your [General]!",
+      "chi": "装备一件[神器]来提升[将领]的攻击！",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_lesson3_turn_0_p_1_instruction_1",
+      "eng": "Equip an [Artifact] to power up your [General]!",
+      "chi": "装备一件[神器]来提升[将领]的攻击！",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_lesson3_turn_0_p_2_instruction_1",
+      "eng": "You may have up to 3 [Artifacts] equipped at once.\n[Artifacts] break after being damaged 3 times.",
+      "chi": "你同时最多装备3件[神器]。\n[神器]在你受到3次伤害将被摧毁。",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_lesson3_turn_0_p_2_instruction_2",
+      "eng": "Clear the way and attack!",
+      "chi": "开道，进攻！",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_title",
+      "eng": "Tutorial",
+      "chi": "教程",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_description",
+      "eng": "Let's learn Duelyst II",
+      "chi": "来学习DuelsytII",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_difficulty",
+      "eng": "2 Minutes",
+      "chi": "2分钟",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_start_message",
+      "eng": "Learn the basics of Duelyst II",
+      "chi": "学习Duelyst II的基础操作",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_failure_message",
+      "eng": "Don't worry, try again!",
+      "chi": "不要难过，再试一次！",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_end_your_turn",
+      "eng": "Click here to end your turn.",
+      "chi": "点击这里来结束你的回合。",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_0_p_1_instruction_1",
+      "eng": "This is your [General]!",
+      "chi": "这是你的[将领]！",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_0_p_1_instruction_5",
+      "eng": "And this is their [Health].\nIf it reaches 0, you [Lose.]",
+      "chi": "这里是将领的生命。\n如果被减少到0，你会战败。",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_0_p_1_instruction_3",
+      "eng": "This is the enemy [General]!",
+      "chi": "这是敌方将领。",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_0_p_1_instruction_6",
+      "eng": "When their [Health] reaches 0, you [Win!]",
+      "chi": "当敌方将领的生命\n减少到0，你获胜！",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_0_p_1_instruction_7",
+      "eng": "[Units] on the board can move.\nClick on your [General] to select them...",
+      "chi": "战场上的单位可以移动。\n点击你的将领来选择它。",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_0_p_1_instruction_8",
+      "eng": "Click here to move your [General].",
+      "chi": "点击这里来移动你的将领。",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_0_p_2_instruction_1",
+      "eng": "This is your [mana].\nYou use [mana] to play [cards].",
+      "chi": "这是你的费用。\n你必须支付费用才\n能使用你的卡牌。",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_0_p_2_instruction_3",
+      "eng": "This is your [action bar].\nIt can hold up to 6 [cards].",
+      "chi": "这是你的准备栏。\n这里最多有6张卡牌。",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_0_p_2_instruction_4",
+      "eng": "This [card] is a [minion].\nIt can be played onto the [battlefield].",
+      "chi": "这是一张随从卡。\n它可以被召唤到战场上。",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_0_p_2_instruction_6",
+      "eng": "Click on the [minion] to select it...",
+      "chi": "点击随从来选中它。",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_0_p_2_instruction_7",
+      "eng": "Click here to summon the [minion] on this space.",
+      "chi": "点击这里来召唤那个随从。",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_0_p_3_instruction_1",
+      "eng": "Playing that [minion] cost 2 [mana].",
+      "chi": "使用那个随从会\n消耗2点费用。",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_0_p_3_instruction_2",
+      "eng": "[Minions] are [Exhausted] after being summoned.\nIt can't move or attack until your next turn.",
+      "chi": "随从在被召唤后将会力竭。\n在你的下个回合前不能移\n动和攻击。",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_0_p_3_instruction_4",
+      "eng": "You're all done for now.\nClick here to [end your turn].",
+      "chi": "你做完了所有事。\n点击这里结束你的回合。",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_1_p_1_instruction_1",
+      "eng": "You draw [2] [cards] at the end of your turn.",
+      "chi": "在你的回合结束时\n你抽取2张牌。",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_1_p_1_instruction_2",
+      "eng": "HERE I COME",
+      "chi": "我来了",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_1_p_1_instruction_3",
+      "eng": "Stand behind me little one. You're too cute for battle.",
+      "chi": "站在我身后，你在战斗中像个小可爱。",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_2_p_1_instruction_1",
+      "eng": "At the start of your turn, you gain [+1] maximum mana.",
+      "chi": "在你的回合开始时，\n你获得1点费用上限。",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_2_p_1_instruction_2",
+      "eng": "Your [minion] can now move!",
+      "chi": "你的随从可以移动了！",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_2_p_1_instruction_3",
+      "eng": "Move it next to this enemy [minion].",
+      "chi": "把它移动到这个\n敌方随从旁边。",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_2_p_2_instruction_1",
+      "eng": "[Units] ([Generals] and [minions]) can also attack enemies on [nearby] spaces!",
+      "chi": "单位（将领和随从）\n可以攻击相邻的敌人！",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_2_p_2_instruction_2",
+      "eng": "Click on your [minion] to select it...",
+      "chi": "点击你的随从来选中它",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_2_p_2_instruction_3",
+      "eng": "Click on the enemy [minion] to attack!",
+      "chi": "点击敌方随从来发起攻击！",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_2_p_3_instruction_1",
+      "eng": "Your [minion] dealt [4] damage to the enemy [minion].",
+      "chi": "你的随从对敌方随从\n造成4点伤害。",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_2_p_3_instruction_2",
+      "eng": "After a [unit] is [attacked], it will [counterattack] to deal damage equal to its attack in return",
+      "chi": "在一个单位被攻击后，\n它将进行反击来造成\n伤害。",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_2_p_3_instruction_4",
+      "eng": "You may move and attack with all units that are able each turn.\nMove your [General] here.",
+      "chi": "你每回合可以让你的所\n有单位进行移动和攻击。\n移动你的将领到这里。",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_2_p_4_instruction_1",
+      "eng": "You can play the stronger [minion] now.",
+      "chi": "你现在可以使用更\n强大的随从了。",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_2_p_4_instruction_2",
+      "eng": "Play the [minion] here.",
+      "chi": "在这里使用随从。",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_3_p_1_instruction_1",
+      "eng": "NOW YOU ASKED FOR IT!",
+      "chi": "你自找的！",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_3_p_1_instruction_2",
+      "eng": "[Generals] have [2 Attack]. They can [attack] and [counterattack] just like any other [unit].",
+      "chi": "将领具有2点攻击，它们\n可以像其他单位一样攻\n击和反击。",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_3_p_1_instruction_3",
+      "eng": "You've taken damage, watch out!",
+      "chi": "你受到了伤害，小心！",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_3_p_1_instruction_4",
+      "eng": "This is getting dangerous little one...\nRun back to safety.",
+      "chi": "这是很危险的，回到安全地带去。",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_4_p_1_instruction_1",
+      "eng": "You've drawn a [spell]!\n[Spells] have one-time effects that are activated when played.",
+      "chi": "你抽到了一张法术！\n法术在被使用时可\n以生效一次。",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_4_p_1_instruction_2",
+      "eng": "This [spell] deals [2 Damage] to a [minion].\nCast it on the enemy [minion].",
+      "chi": "这张法术可以对一个随\n从造成2点伤害。\n向一个敌方随从使用它。",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_4_p_1_instruction_3",
+      "eng": "Click on the [spell] to select it...",
+      "chi": "点击这张法术来选中它",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_4_p_1_instruction_4",
+      "eng": "Click here to cast the [spell] on the [unit].",
+      "chi": "点击这里来对目标单位使用法术。",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_4_p_2_instruction_1",
+      "eng": "Now your [minion] can defeat the enemy [minion].",
+      "chi": "现在你的随从可以\n击败敌方随从了。",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_4_p_2_instruction_2",
+      "eng": "Attack the enemy [minion].",
+      "chi": "攻击敌方随从。",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_4_p_3_instruction_1",
+      "eng": "Your [General] also can attack.",
+      "chi": "你的将领也可以进行攻击。",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_4_p_3_instruction_2",
+      "eng": "Attack the enemy [General].",
+      "chi": "攻击敌方将领。",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_4_p_4_instruction_1",
+      "eng": "You still have a [minion] to play.",
+      "chi": "你还可以使用一个随从。",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_4_p_4_instruction_2",
+      "eng": "Play the [minion] here.",
+      "chi": "在这里使用随从。",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_5_p_1_instruction_1",
+      "eng": "Your mana will fully replenish at the start of your turn, so don't hold back!",
+      "chi": "你的费用将会在回合\n开始时补满，所以不\n要犹豫了！",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_5_p_1_instruction_2",
+      "eng": "GAHHH!! I HAVE NOTHING TO PLAY!\nTACTICAL RETREAT!",
+      "chi": "嘘！！我没有什么能用了！\n战术撤退！",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_5_p_1_instruction_3",
+      "eng": "Where are you going?! LITTLE ONE!",
+      "chi": "你要去哪里？！小家伙！",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_6_p_1_instruction_1",
+      "eng": "You've drawn an [artifact].\n[Artifacts] empower your [General] when played.",
+      "chi": "你抽到了一张神器。\n使用神器可以强化你的将领。",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_6_p_1_instruction_2",
+      "eng": "Click on the [artifact] to select it...",
+      "chi": "点击神器来选中它",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_6_p_1_instruction_3",
+      "eng": "Click anywhere on the [battlefield] to [equip] it to your [General].",
+      "chi": "点击战场来让你的将领装备神器。",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_6_p_2_instruction_1",
+      "eng": "Your [General] can have 3 [artifacts] equipped at once",
+      "chi": "你的将领同时最多\n装备3件神器。",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_6_p_2_instruction_2",
+      "eng": "This [artifact] gave your [General] +1/+0.",
+      "chi": "这个神器会让你的将领获得 +1/+0 。",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_6_p_3_instruction_1",
+      "eng": "You don't have enough [mana] to play anything else.",
+      "chi": "你没有足够的费用\n来使用其他牌了。",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_6_p_3_instruction_2",
+      "eng": "Once per turn, you may [replace] a [card] into your [deck] to get a new one.",
+      "chi": "每回合一次，你可以将一\n张手牌放回你的[牌库]中\n来获得一张新的牌。",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_6_p_3_instruction_3",
+      "eng": "Click on the [card] to select it...",
+      "chi": "点击这张牌来选中它",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_6_p_3_instruction_4",
+      "eng": "Click here to [replace] the [card].",
+      "chi": "点击这里来替换那张牌。",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "d2_tutorial_turn_6_p_4_instruction_1",
+      "eng": "It's all up to you now to defeat Calibero!",
+      "chi": "现在全靠你来击败敌方将领！",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    }
+  ]
+}

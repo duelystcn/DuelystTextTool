@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.24",
+  "nodeCode": "cards",
+  "path": "cards",
+  "orderStart": 1600,
+  "orderEnd": 1699,
+  "translateItemList": [
+    {
+      "code": "faction_4_unit_abyssal_juggernaut_name",
+      "eng": "Abyssal Juggernaut",
+      "chi": "深渊巨兽",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_abyssal_juggernaut_desc",
+      "eng": "This minion has +1/+1 for each friendly Shadow Creep.",
+      "chi": "每有一个友方地刺，此随从就具有+1/+1。",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_bloodmoon_priestess_name",
+      "eng": "Bloodtide Priestess",
+      "chi": "血潮女祭司",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_bloodmoon_priestess_desc",
+      "eng": "Deathwatch: Summon a Wraithling on a random nearby space.",
+      "chi": "割魂：在此随从随机相邻位置召唤一个幽冥小鬼。",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_deepfire_devourer_name",
+      "eng": "Deepfire Devourer",
+      "chi": "渊火吞噬兽",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_deepfire_devourer_desc",
+      "eng": "Frenzy\nOpening Gambit: Destroy friendly minions around it and gain +2/+2 for each minion.",
+      "chi": "狂暴\n登场：摧毁所有与此随从相邻的友方随从，每摧毁一个此随从就获得+2/+2。",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_black_solus_name",
+      "eng": "Black Solus",
+      "chi": "黑魂",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_black_solus_desc",
+      "eng": "When you summon a Wraithling, this minion gains +2 Attack.",
+      "chi": "每当你召唤一个幽冥小鬼时，此随从获得+2/+0。",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_reaper_of_the_nine_moons_name",
+      "eng": "Reaper of the Nine Moons",
+      "chi": "玖月死神",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_reaper_of_the_nine_moons_desc",
+      "eng": "Flying\nDying Wish: Summon a random minion from the opponent's deck on this space.",
+      "chi": "飞行\n死愿：将一个对手牌库的随机随从召唤在当前位置。",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_shadowdancer_name",
+      "eng": "Shadowdancer",
+      "chi": "暗影舞者",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_shadowdancer_desc",
+      "eng": "Deathwatch: Deal 1 damage to the enemy General, and restore 1 Health to your General.",
+      "chi": "死愿：对敌方将领造成1点伤害，为你的将领治疗1点伤害。",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_vorpal_reaver_name",
+      "eng": "Vorpal Reaver",
+      "chi": "猎颅者",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_vorpal_reaver_desc",
+      "eng": "Celerity\nDying Wish: Summon six Wraithlings on random spaces.",
+      "chi": "迅捷\n死愿：召唤6个幽冥小鬼在随机位置。",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_spectral_revenant_name",
+      "eng": "Spectral Revenant",
+      "chi": "幽冥亡魂",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_spectral_revenant_desc",
+      "eng": "Rush\nWhenever this damages an enemy minion, deal 4 damage to the enemy General.",
+      "chi": "冲锋\n每当此随从对一个敌方随从造成伤害时，对敌方将领造成4点伤害。",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_wraithling_name",
+      "eng": "Wraithling",
+      "chi": "幽冥小鬼",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_night_fiend_name",
+      "eng": "Night Fiend",
+      "chi": "夜魔",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_night_fiend_desc",
+      "eng": "Opening Gambit: Deal 2 damage to each enemy on or near friendly Shadow Creep.",
+      "chi": "登场：对所有处于地刺之上或与地刺相邻的敌方单位造成2点伤害。",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_gor_name",
+      "eng": "Gor",
+      "chi": "渊晶兽",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_gor_desc",
+      "eng": "Dying Wish: Re-summon this minion in a random corner.",
+      "chi": "死愿：将此随从召唤在一个随机的角落。",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_ooz_name",
+      "eng": "Ooz",
+      "chi": "晶壳虫",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_ooz_desc",
+      "eng": "Whenever this minion takes damage, turn a space occupied by an enemy into Shadow Creep.",
+      "chi": "每当此随从受到伤害时，将一个敌方单位所在位置变为地刺。",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_blood_baronette_name",
+      "eng": "Blood Baronette",
+      "chi": "血腥女爵",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_blood_baronette_desc",
+      "eng": "Opening Gambit: Double a nearby Wraithling's Attack and Health.",
+      "chi": "登场：将一个友方幽冥小鬼的攻防翻倍。",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_arcane_devourer_name",
+      "eng": "Arcane Devourer",
+      "chi": "秘法吞噬魔",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_arcane_devourer_desc",
+      "eng": "Opening Gambit: The next minion you summon this turn costs 1.",
+      "chi": "登场：你这回合内使用的下一张随从费用为1点。",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_klaxon_name",
+      "eng": "Klaxon",
+      "chi": "尖啸",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_klaxon_desc",
+      "eng": "Provoke\nDying Wish: Turn six random spaces into Shadow Creep.",
+      "chi": "嘲讽\n死愿：将6个随机格子变为地刺。",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_shadow_sister_name",
+      "eng": "Shadow Sister Kelaino",
+      "chi": "暗影姐妹 克莱洛",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_shadow_sister_desc",
+      "eng": "Whenever an enemy takes damage, restore 1 Health to your General.",
+      "chi": "每当一个敌方单位受到伤害时，为你的将领治疗1点生命。",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_furosa_name",
+      "eng": "Furiosa",
+      "chi": "怒炎巫师",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_furosa_desc",
+      "eng": "Blood Surge: Friendly Wraithlings gain +1/+1.",
+      "chi": "血涌：所有友方幽冥小鬼获得 +1/+1。",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_horror_burster_name",
+      "eng": "Horror Burster",
+      "chi": "恐怖炸尾蝎",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_horror_burster_desc",
+      "eng": "Dying Wish: Transform a random friendly minion into a 6/6 Horror.",
+      "chi": "死愿：将一个随机友方随从变形为惊惧兽。",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_grandmaster_variax_name",
+      "eng": "Grandmaster Variax",
+      "chi": "宗师 瓦雷克斯",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_grandmaster_variax_desc",
+      "eng": "Opening Gambit: Your Bloodbound Spell costs 3 and is now AWESOME.",
+      "chi": "登场：你的将领血技变为3费，变得更强大。",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_fiend_name",
+      "eng": "Fiend",
+      "chi": "幽暗魔",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_horror_name",
+      "eng": "Horror",
+      "chi": "惊惧兽",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_nightshroud_name",
+      "eng": "Nightshroud",
+      "chi": "夜篷恶灵",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_nightshroud_desc",
+      "eng": "Bond: Your General steals 1 Health from the enemy General for each other friendly Arcanyst.",
+      "chi": "链接：你的将领从敌方将领上偷取X点生命，X为其他奥术师的数量。",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_nocturne_name",
+      "eng": "Nocturne",
+      "chi": "奏夜师",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_nocturne_desc",
+      "eng": "Whenever you make Shadow Creep or a Wraithling, instead make both.",
+      "chi": "每当你制造一个地刺时在其上召唤一个幽冥小鬼，每当你召唤一个幽冥小鬼时将其所在位置变为地刺。",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_death_knell_name",
+      "eng": "Death Knell",
+      "chi": "死亡鸣钟人",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_death_knell_desc",
+      "eng": "Opening Gambit: Summon all friendly non-token Arcanysts destroyed this game nearby.",
+      "chi": "登场：在相邻位置召唤这局游戏被摧毁的所有友方非衍生物奥术师。",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_phantasm_name",
+      "eng": "Phantasm",
+      "chi": "幻影魔",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_phantasm_desc",
+      "eng": "Whenever your opponent summons a minion, give a minion in your action bar +1 Attack.",
+      "chi": "每当你对手召唤一个随从时，使你准备栏中一个随从获得 +1/+0。",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_bound_tormentor_name",
+      "eng": "Bound Tormentor",
+      "chi": "被束缚的笞魔",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_bound_tormentor_desc",
+      "eng": "Sentinel: Minion summoned.\nPut a copy of the minion that transformed this into your action bar. It costs 2 less.",
+      "chi": "守望：对手召唤一个随从。\n复制一张变形后的此随从并放入你的准备栏，且费用减少2点。",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_skullprophet_name",
+      "eng": "Skullprophet",
+      "chi": "骷髅先知",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_skullprophet_desc",
+      "eng": "Sentinel: General attacks.\nThe enemy General has -1 Attack.",
+      "chi": "守望：敌方将领攻击。\n敌方将领具有 -1/-0。",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_xerroloth_name",
+      "eng": "Xerroloth",
+      "chi": "失心魔",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_xerroloth_desc",
+      "eng": "Sentinel: Spell cast.\nWhenever your opponent casts a spell, put a 4/4 Fiend into your action bar.",
+      "chi": "守望：对手使用一张法术。\n每当你的对手使用一张法术时，在你的准备栏放入一张幽暗魔(4/4 2费)。",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_nekomata_name",
+      "eng": "Nekomata",
+      "chi": "猫女",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_nekomata_desc",
+      "eng": "Dying Wish: Draw two minions with Dying Wish from your deck.",
+      "chi": "死愿：从你的牌库抽取两张具有死愿的随从。",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_desolator_name",
+      "eng": "Desolator",
+      "chi": "枯萎之源",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_desolator_desc",
+      "eng": "Opening Gambit: Steal 2 Health from the enemy General.\nDying Wish: Return Desolator to your action bar.",
+      "chi": "登场：从敌方将领偷取2点生命。\n死愿：将枯萎之源返回你的准备栏。",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_watchful_sentinel_name",
+      "eng": "Watchful Sentinel",
+      "chi": "守望哨兵",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_watchful_sentinel_desc",
+      "eng": "Sentinel: This transforms into a powerful minion if its hidden condition is met.",
+      "chi": "守望：当此随从的隐秘条件被满足时，将会变成一个强大的随从。",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_husk_name",
+      "eng": "Husk",
+      "chi": "炎壳兽",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_abomination_name",
+      "eng": "Abomination",
+      "chi": "憎恶",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_cacophynos_name",
+      "eng": "Cacophynos",
+      "chi": "尖叫恶灵",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_cacophynos_desc",
+      "eng": "Dying Wish: Destroy a random nearby enemy minion.",
+      "chi": "死愿：随机摧毁一个相邻的敌方随从。",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_void_talon_name",
+      "eng": "Void Talon",
+      "chi": "虚空爪牙",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_void_talon_desc",
+      "eng": "Build: (1).",
+      "chi": "生产(1)",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_nightmare_operant_name",
+      "eng": "Nightmare Operant",
+      "chi": "梦魇散布机",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_nightmare_operant_desc",
+      "eng": "Dying Wish: Shuffle a MECHAZ0R into your deck.",
+      "chi": "死愿：将一张决战兵器原型机洗入你的牌库。",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_moonrider_name",
+      "eng": "Moonrider",
+      "chi": "月骑",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_moonrider_desc",
+      "eng": "Blood Surge: Summon a 4/4 Fiend on a nearby space.",
+      "chi": "血涌：在相邻位置召唤一个幽暗魔(4/4)。",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_gate_to_the_undervault_name",
+      "eng": "Gate to the Undervault",
+      "chi": "穹底门扉",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_gate_to_the_undervault_desc",
+      "eng": "Build: (3).\nInvulnerable\nDeathwatch: Summon a random Demon nearby.",
+      "chi": "生产(3)\n无敌\n割魂：在相邻位置召唤一个随机恶魔。",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_stygian_observer_name",
+      "eng": "Stygian Observer",
+      "chi": "地狱监察使",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_4_unit_stygian_observer_desc",
+      "eng": "Deathwatch: Give minions in your action bar +2/+2.",
+      "chi": "割魂：使你准备栏中所有随从获得 +2/+2。",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_overload_name",
+      "eng": "Overload",
+      "chi": "超载",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_overload_description",
+      "eng": "Give your General +1 Attack.",
+      "chi": "使你的将领获得 +1/+0。",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_seeking_eye_name",
+      "eng": "Seeking Eye",
+      "chi": "求索之眼",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_seeking_eye_description",
+      "eng": "Both players draw a card.",
+      "chi": "双方玩家抽一张牌。",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_fractal_replication_name",
+      "eng": "Fractal Replication",
+      "chi": "分形复制",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_fractal_replication_description",
+      "eng": "Summon two copies of a friendly minion nearby that minion.",
+      "chi": "选择一个友方随从，在其附近召唤2个该随从的复制。",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_dampening_wave_name",
+      "eng": "Dampening Wave",
+      "chi": "抑制波",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_dampening_wave_description",
+      "eng": "Choose an enemy minion. It can no longer counterattack.",
+      "chi": "使一个敌方随从无法反击。",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_flash_reincarnation_name",
+      "eng": "Flash Reincarnation",
+      "chi": "快速转生",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_flash_reincarnation_description",
+      "eng": "If the next card you play this turn is a minion, it costs 2 less and takes 2 damage.",
+      "chi": "本回合你使用的下一张随从费用减少2点，召唤后对其造成2点伤害。",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_diretide_frenzy_name",
+      "eng": "Diretide Frenzy",
+      "chi": "暗潮汹涌",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_diretide_frenzy_description",
+      "eng": "Give a friendly minion +1 Attack and Frenzy.",
+      "chi": "使一个友方随从获得 +1/+0 和 狂暴。",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_tremor_name",
+      "eng": "Tremor",
+      "chi": "震颤",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_tremor_description",
+      "eng": "Stun enemy minions in a 2x2 area.",
+      "chi": "使2x2区域范围内的敌方单位眩晕。",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_dance_of_dreams_name",
+      "eng": "Dance of Dreams",
+      "chi": "梦之舞",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_dance_of_dreams_description",
+      "eng": "Whenever a friendly minion dies this turn, draw a card.",
+      "chi": "这回合每当一个友方随从死去时，抽一张牌。",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_greater_fortitude_name",
+      "eng": "Greater Fortitude",
+      "chi": "坚韧进化",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_greater_fortitude_description",
+      "eng": "Give a friendly minion +2/+2.",
+      "chi": "使一个友方随从获得 +2/+2。",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_earth_sphere_name",
+      "eng": "Earth Sphere",
+      "chi": "大地领域",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_earth_sphere_description",
+      "eng": "Restore 8 Health to your General.",
+      "chi": "治疗你的将领8点生命。",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_bounded_lifeforce_name",
+      "eng": "Bounded Lifeforce",
+      "chi": "究极进化",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_bounded_lifeforce_description",
+      "eng": "Your General becomes 10/10.",
+      "chi": "你的将领变成10/10。",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_amplification_name",
+      "eng": "Amplification",
+      "chi": "受激进化",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_amplification_description",
+      "eng": "Give a friendly damaged minion +2 Attack and +4 Health.",
+      "chi": "使一个受伤的友方随从获得 +2/+4",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_metamorphosis_name",
+      "eng": "Metamorphosis",
+      "chi": "蜕变",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_metamorphosis_description",
+      "eng": "Transform all enemy minions into 1/1 Magma with no abilities until the end of your opponent's turn.",
+      "chi": "将所有敌方随从变成小石块(1/1)直到你的下个回合开始。",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "faction_5_spell_plasma_storm_name",
+      "eng": "Plasma Storm",
+      "chi": "离子风暴",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    }
+  ]
+}

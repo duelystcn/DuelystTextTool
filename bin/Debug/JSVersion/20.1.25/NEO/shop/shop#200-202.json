@@ -1,0 +1,30 @@
+{
+  "versionCode": "20.1.25",
+  "nodeCode": "shop",
+  "path": "shop",
+  "orderStart": 200,
+  "orderEnd": 202,
+  "translateItemList": [
+    {
+      "code": "individual_product_code_cost",
+      "eng": "When purchasing gift code each product costs",
+      "chi": "购买礼品码时每种商品的费用",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "bundle_discount",
+      "eng": "Discount based on currently owned products",
+      "chi": "基于当前拥有的产品的折扣",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "gift_code_user_discount",
+      "eng": "User discount ({{discount}}%)",
+      "chi": "用户折扣({{discount}}%)",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    }
+  ]
+}

@@ -1,0 +1,415 @@
+{
+  "versionCode": "20.1.26",
+  "nodeCode": "quests",
+  "path": "quests",
+  "orderStart": 0,
+  "orderEnd": 57,
+  "translateItemList": [
+    {
+      "code": "quest_log_title",
+      "eng": "Daily Quests",
+      "chi": "每日任务",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "first_win_of_the_day_active",
+      "eng": "First Win of the Day (+{{first_win_gold_amount}} Gold): ACTIVE",
+      "chi": "每日首胜奖励(+{{first_win_gold_amount}} Gold): 可获取",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "first_win_of_the_day_available_in",
+      "eng": "First win of the day available in:",
+      "chi": "每日首胜奖励刷新倒计时：",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "replace_quest_instructions",
+      "eng": "You can replace each quest once per day.",
+      "chi": "你每天可以替换每个任务一次。",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "quest_rollover_instructions",
+      "eng": "New Quests in: {{time_until_quests}}",
+      "chi": "新任务倒计时: {{time_until_quests}}",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "quest_log_empty",
+      "eng": "You have completed all of your quests. Check back tomorrow!",
+      "chi": "你已经完成了你的所有任务，明天再来看看！",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "daily_free_card_label",
+      "eng": "Daily Free Card",
+      "chi": "每日赠卡",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "claim_your_free_card_label",
+      "eng": "Claim your free card of the day",
+      "chi": "获取你今天的赠卡",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "quest_beginner_win_practice_games_title",
+      "eng": "Win {{count}} Practice Game",
+      "chi": "赢得 {{count}} 场练习比赛",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "quest_beginner_win_practice_games_title_plural",
+      "eng": "Win {{count}} Practice Games",
+      "chi": "赢得 {{count}} 场练习比赛",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "quest_beginner_win_practice_games_description",
+      "eng": "Win {{count}} practice game.",
+      "chi": "赢得 {{count}} 场练习比赛。",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "quest_beginner_win_practice_games_description_plural",
+      "eng": "Win {{count}} practice games.",
+      "chi": "赢得 {{count}} 场练习比赛。",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "quest_beginner_win_ladder_game_title",
+      "eng": "Into the Fray",
+      "chi": "进入战斗",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "quest_beginner_win_ladder_game_desc",
+      "eng": "Win {{count}} Season Ladder Game.",
+      "chi": "赢得 {{count}} 场天梯比赛。",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "quest_beginner_faction_up_title",
+      "eng": "Faction Up",
+      "chi": "阵营等级提升",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "quest_beginner_faction_up_desc",
+      "eng": "Get any Faction to Level 10.",
+      "chi": "将任意一个阵营等级提升至10级。",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "quest_beginner_complete_solo_challenges_title",
+      "eng": "Lone Wolf",
+      "chi": "独狼",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "quest_beginner_complete_solo_challenges_desc",
+      "eng": "Complete {{count}} Solo Challenges.",
+      "chi": "完成 {{count}} 场单人挑战。",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "replace_button_label",
+      "eng": "Replace",
+      "chi": "替换",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "replace_button_starter_label",
+      "eng": "Starter",
+      "chi": "初学者",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "daily_challenge_title",
+      "eng": "Weekly Challenge",
+      "chi": "每周挑战",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "daily_challenge_instructions",
+      "eng": "Complete the Weekly Challenge",
+      "chi": "完成每周挑战",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "daily_challenge_play_button_label",
+      "eng": "Play",
+      "chi": "战斗",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "quest_faction_games_title",
+      "eng": "{{faction_name}} Challenger",
+      "chi": "{{faction_name}} 挑战者",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "quest_faction_games_desc",
+      "eng": "Play {{count}} games with {{faction}}.",
+      "chi": "进行{{count}}场比赛且使用 {{faction}} 牌组",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "quest_faction_abyss_games_desc",
+      "eng": "Play {{count}} games with {{faction}}.",
+      "chi": "进行{{count}}场比赛且使用 {{faction}} 牌组",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "quest_faction_wins_title",
+      "eng": "{{faction_name}} Dominance",
+      "chi": "{{faction_name}}统治",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "quest_faction_wins_desc",
+      "eng": "Win {{count}} games with {{faction}}.",
+      "chi": "赢得{{count}}场比赛且使用 {{faction}} 牌组",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "quest_faction_exploration_title",
+      "eng": "{{faction_name}} Exploration",
+      "chi": "{{faction_name}}探索者",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "quest_faction_exploration_desc",
+      "eng": "Play {{count}} games. Games as {{faction}} count for 2.",
+      "chi": "进行{{count}}比赛，使用{{faction}}牌组时额外增加1进度。",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "quest_multifaction_games_title",
+      "eng": "{{faction_name_1}} or {{faction_name_2}} Challenger",
+      "chi": "{{faction_name_1}}或{{faction_name_2}}挑战者",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "quest_multifaction_games_desc",
+      "eng": "Play {{count}} games with {{faction_name_1}} or {{faction_name_2}}.",
+      "chi": "进行{{count}}场比赛且使用{{faction_name_1}}或{{faction_name_2}}牌组",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "quest_multifaction_wins_title",
+      "eng": "{{faction_name_1}} or {{faction_name_2}} Dominance",
+      "chi": "{{faction_name_1}}或{{faction_name_2}}统治",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "quest_multifaction_wins_desc",
+      "eng": "Win {{count}} games with {{faction_name_1}} or {{faction_name_2}}.",
+      "chi": "赢得{{count}}场比赛且使用{{faction_name_1}}或{{faction_name_2}}",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "quest_gauntlet_games_title",
+      "eng": "Gauntlet Initiate",
+      "chi": "竞技场启程",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "quest_gauntlet_games_desc",
+      "eng": "Play {{count}} Gauntlet games.",
+      "chi": "进行{{count}}场竞技场比赛",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "quest_adventurer_title",
+      "eng": "Adventurer",
+      "chi": "冒险家",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "quest_adventurer_desc",
+      "eng": "Play {{count}} games.",
+      "chi": "进行 {{count}} 局游戏。",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "quest_ultimate_aggressor_title",
+      "eng": "Ultimate Aggressor",
+      "chi": "狂战士",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "quest_ultimate_aggressor_desc",
+      "eng": "Deal {{count}} Damage to enemy Generals.",
+      "chi": "对敌方将领造成 {{count}} 点伤害。",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "quest_assassin_title",
+      "eng": "Assassin",
+      "chi": "刺客",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "quest_assassin_desc",
+      "eng": "Destroy {{count}} enemy minions.",
+      "chi": "摧毁 {{count}} 个敌方随从。",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "quest_unit_healing_title",
+      "eng": "Apothecary",
+      "chi": "药剂师",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "quest_unit_healing_desc",
+      "eng": "Heal units for {{count}} health.",
+      "chi": "治疗单位{{count}}点生命",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "quest_turn_count_title",
+      "eng": "Time Twister",
+      "chi": "时间漩涡",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "quest_turn_count_desc",
+      "eng": "Play through {{count}} turns.",
+      "chi": "进行至少{{count}}回合",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "quest_general_power_title",
+      "eng": "Battle Master",
+      "chi": "战斗大师",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "quest_general_power_desc",
+      "eng": "Deal {{count}} damage with your General.",
+      "chi": "你的将领造成{{count}}伤害",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "quest_damage_all_title",
+      "eng": "Devastation",
+      "chi": "毁灭",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "quest_damage_all_desc",
+      "eng": "Deal {{count}} damage.",
+      "chi": "造成{{count}}伤害",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "quest_damage_spells_title",
+      "eng": "Spell Slinger",
+      "chi": "拼写咒语",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "quest_damage_spells_desc",
+      "eng": "Play {{count}} spells.",
+      "chi": "使用{{count}}张法术.",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "quest_giant_tamer_title",
+      "eng": "Giant Tamer",
+      "chi": "泰坦导师",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "quest_giant_tamer_desc",
+      "eng": "Play {{count}} cards that cost 5+ mana.",
+      "chi": "使用{{count}}张5费或更高的卡",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "quest_welcome_back_title",
+      "eng": "Welcome Back!",
+      "chi": "欢迎回来！",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "quest_welcome_back_desc",
+      "eng": "Play {{count}} Games",
+      "chi": "进行 {{count}} 局游戏。",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "monthly_quest_title",
+      "eng": "Monthly Quest",
+      "chi": "每月任务",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "monthly_quest_desc",
+      "eng": "Complete {{count}} quests.",
+      "chi": "完成 {{count}} 个任务。",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    }
+  ]
+}

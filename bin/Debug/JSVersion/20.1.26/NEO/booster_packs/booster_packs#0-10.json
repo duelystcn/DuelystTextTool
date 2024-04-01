@@ -1,0 +1,86 @@
+{
+  "versionCode": "20.1.26",
+  "nodeCode": "booster_packs",
+  "path": "booster_packs",
+  "orderStart": 0,
+  "orderEnd": 10,
+  "translateItemList": [
+    {
+      "code": "booster_opening_dismiss_rewards_button_label",
+      "eng": "Dismiss",
+      "chi": "忽略",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "rewards_table_rarity_counts_rarity_legendary",
+      "eng": "LEGENDARY",
+      "chi": "传奇",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "rewards_table_rarity_counts_rarity_epic",
+      "eng": "EPIC",
+      "chi": "史诗",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "rewards_table_rarity_counts_rarity_rare",
+      "eng": "RARE",
+      "chi": "稀有",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "rewards_table_rarity_counts_rarity_common",
+      "eng": "COMMON",
+      "chi": "普通",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "rewards_table_rarity_counts_prismatics",
+      "eng": "Prismatics",
+      "chi": "闪卡",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "rewards_table_column_header_card",
+      "eng": "Card",
+      "chi": "卡牌",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "rewards_table_column_header_faction",
+      "eng": "Faction",
+      "chi": "阵营",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "rewards_table_column_header_rarity",
+      "eng": "Rarity",
+      "chi": "品质",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "rewards_table_column_header_prismatic",
+      "eng": "Prismatic",
+      "chi": "闪卡",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "rewards_table_is_prismatic",
+      "eng": "Prismatic",
+      "chi": "闪卡",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    }
+  ]
+}

@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.26",
+  "nodeCode": "cosmetics",
+  "path": "cosmetics",
+  "orderStart": 200,
+  "orderEnd": 299,
+  "translateItemList": [
+    {
+      "code": "cardback_snowchaser_cup_name",
+      "eng": "Festive Cardback",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "cardback_snowchaser_cup_desc",
+      "eng": "Frostfire Festival has arrived!",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "title_empty_name",
+      "eng": "",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "title_twolyst_name",
+      "eng": "Twolyst Enjoyer",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "title_wright_brother_name",
+      "eng": "A Wright Brother",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "title_mythron_disciple_name",
+      "eng": "Mythron Disciple",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "title_mythron_acolyte_name",
+      "eng": "Mythron Acolyte",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "title_mythron_warrior_name",
+      "eng": "Mythron Warrior",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "title_mythron_patron_name",
+      "eng": "Mythron Patron",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "title_mythron_noble_name",
+      "eng": "Mythron Noble",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "title_mythron_emperor_name",
+      "eng": "Mythron Emperor",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "title_mythron_conqueror_name",
+      "eng": "Mythron Conqueror",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "title_mythron_champion_name",
+      "eng": "Mythron Champion",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "title_mythron_deity_name",
+      "eng": "Mythron Deity",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "title_sloth_champion_name",
+      "eng": "Sloth Champi... zZZ",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_tree_of_eyos_name",
+      "eng": "Tree of Eyos",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_abyssal_crawler_name",
+      "eng": "Abyssal Crawler",
+      "chi": "深渊爪牙",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "icon_abyssal_crawler_desc",
+      "eng": "Carrying a darkness to share with the world.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_cassyva_name",
+      "eng": "Cassyva Soulreaper",
+      "chi": "割魂使 卡西瓦",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "icon_cassyva_desc",
+      "eng": "The oldest of all the Bloodbound.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_abyssian_crest_name",
+      "eng": "Abyssian Crest",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_abyssian_crest_desc",
+      "eng": "'Death only makes us stronger.'",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_gloomchaser_name",
+      "eng": "Gloomchaser",
+      "chi": "逐暗幽蛇",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "icon_gloomchaser_desc",
+      "eng": "Oblivion loves company.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_shadow_sister_name",
+      "eng": "Shadow Sister",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_shadow_sister_desc",
+      "eng": "The Wish of Allegiance.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_lilithe_name",
+      "eng": "Lilithe Blightchaser",
+      "chi": "枯萎牧者 莉莉丝",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "icon_lilithe_desc",
+      "eng": "'Feel the edge of suffering.'",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_lilithe_mk2_name",
+      "eng": "Lilithe Blighterchaser II",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_lilithe_mk2_desc",
+      "eng": "A catalyst for something darker.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_vorpal_reaver_name",
+      "eng": "Vorpal Reaver",
+      "chi": "猎颅者",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "icon_vorpal_reaver_desc",
+      "eng": "Face HIS inner demons.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_wraithling_name",
+      "eng": "Abyssian Wraithling",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_wraithling_desc",
+      "eng": "Cuteness as boundless as their numbers.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_frostfire_2015_name",
+      "eng": "Frostfire Festival",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_frostfire_2015_desc",
+      "eng": "Winter 2015 Frostfire Festival.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_arclyte_sentinel_name",
+      "eng": "Arclyte Sentinel",
+      "chi": "阿克莱哨兵",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "icon_arclyte_sentinel_desc",
+      "eng": "Converting light into powerful enchantments.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_argeon_name",
+      "eng": "Argeon Highmayne",
+      "chi": "阿吉恩·金鬃",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "icon_argeon_desc",
+      "eng": "Adopted Cub of the House of Highmayne.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_argeon_mk2_name",
+      "eng": "Argeon Highmayne II",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_argeon_mk2_desc",
+      "eng": "Third in line after his two rightful brothers.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_lyonar_crest_name",
+      "eng": "Lyonar Crest",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_lyonar_crest_desc",
+      "eng": "'Only the unworthy fear the light.'",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_lightchaser_name",
+      "eng": "Lightchaser",
+      "chi": "逐日鼓手",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "icon_lightchaser_desc",
+      "eng": "A beacon of hope in the darkness.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_silverguard_knight_name",
+      "eng": "Silverguard Knight",
+      "chi": "银卫骑士",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "icon_silverguard_knight_desc",
+      "eng": "Courage only exceeded by the thickness of their armor.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_sun_sister_name",
+      "eng": "Sun Sister",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_sun_sister_desc",
+      "eng": "The Wish of Peace.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_suntide_maiden_name",
+      "eng": "Suntide Maiden",
+      "chi": "日潮侍女",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "icon_suntide_maiden_desc",
+      "eng": "Upon golden wings, their fiery resolve turns the tide.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_windblade_adept_name",
+      "eng": "Windblade Adept",
+      "chi": "风刃精兵",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "icon_windblade_adept_desc",
+      "eng": "Few as skilled, none as loyal.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_ziran_name",
+      "eng": "Zir'an Sunforge",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_ziran_desc",
+      "eng": "The Cub of the Sunforge family.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_magmar_crest_name",
+      "eng": "Magmar Crest",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_magmar_crest_desc",
+      "eng": "'Nature will balance the scales.'",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_dreadnought_name",
+      "eng": "Dreadnought",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_dreadnought_desc",
+      "eng": "No conflict, no growth.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_elucidator_name",
+      "eng": "Elucidator",
+      "chi": "阐释者",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "icon_elucidator_desc",
+      "eng": "Their birthing is an explosive event.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_makantor_name",
+      "eng": "Makantor Warbeast",
+      "chi": "纷争制造者",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "icon_makantor_desc",
+      "eng": "The envy of any natural earthquake.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_phalanxar_name",
+      "eng": "Phalanxar",
+      "chi": "好战者",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "icon_phalanxar_desc",
+      "eng": "'I'd hate to be the nail to that hammer.'",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_silithar_elder_name",
+      "eng": "Silithar Elder",
+      "chi": "完全体西里萨",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "icon_silithar_elder_desc",
+      "eng": "Carrying untold generations with each new birth.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_starhorn_1_name",
+      "eng": "Starhorn the Seeker",
+      "chi": "求知的星角",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "icon_starhorn_1_desc",
+      "eng": "'There can only One.'",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_starhorn_2_name",
+      "eng": "Starhorn the Seeker",
+      "chi": "求知的星角",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "icon_starhorn_2_desc",
+      "eng": "The Seventh Star foretold by the prophecy.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_taygete_name",
+      "eng": "Earth Sister",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_taygete_desc",
+      "eng": "The Wish of Integrity.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_vaath_name",
+      "eng": "Vaath the Immortal",
+      "chi": "不朽的瓦斯",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "icon_vaath_desc",
+      "eng": "Tamer of the wild Makantor beasts.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_vaath_mk2_name",
+      "eng": "Vaath the Immortal II",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_vaath_mk2_desc",
+      "eng": "Creator of the first Kolossi.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_veteran_silithar_name",
+      "eng": "Veteran Silithar",
+      "chi": "成熟期西利萨",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "icon_veteran_silithar_desc",
+      "eng": "Fearless of death.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_young_silithar_name",
+      "eng": "Young Silithar",
+      "chi": "幼年期西里萨",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "icon_young_silithar_desc",
+      "eng": "Measuring age not in years, but in lives.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_beastmaster_name",
+      "eng": "Beastmaster",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_beastmaster_desc",
+      "eng": "Shim'zar Beastmaster.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_cannon_mech_name",
+      "eng": "Cannon of Mechaz0r",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_cannon_mech_desc",
+      "eng": "'Acquiring target...'",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_chassis_mech_name",
+      "eng": "Chassis of Mechaz0r",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_chassis_mech_desc",
+      "eng": "'Stabilizing energy output...'",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_gnasher_name",
+      "eng": "Gnasher",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_gnasher_desc",
+      "eng": "Shim'zar Gnasher.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_golden_mantella_name",
+      "eng": "Golden Mantella",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_golden_mantella_desc",
+      "eng": "Shim'zar Golden Mantella.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_grincher_name",
+      "eng": "Grincher",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_grincher_desc",
+      "eng": "Military advisor to the many Houses of Mythron.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_helm_mech_name",
+      "eng": "Helm of Mechaz0r",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_helm_mech_desc",
+      "eng": "A good head on its shoulders.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_hydrax_name",
+      "eng": "Hydrax",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_hydrax_desc",
+      "eng": "Two heads are better than one.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_hydrax_2_name",
+      "eng": "Hydrax II",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "icon_hydrax_2_desc",
+      "eng": "Five heads are better than two.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    }
+  ]
+}

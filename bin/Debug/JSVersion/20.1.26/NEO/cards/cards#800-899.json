@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.26",
+  "nodeCode": "cards",
+  "path": "cards",
+  "orderStart": 800,
+  "orderEnd": 899,
+  "translateItemList": [
+    {
+      "code": "d2_neutral_the_high_hand_desc",
+      "eng": "Opening Gambit: This gains +1/+1 for each card in your opponent's action bar.",
+      "chi": "登场：你的对手每有一张\n手牌，此随从获得+1/+1。",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_twilight_sorcerer_name",
+      "eng": "Twilight Sorcerer",
+      "chi": "暮年奥术师",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_twilight_sorcerer_desc",
+      "eng": "Opening Gambit: Put a copy of a random spell you have played into your action bar.",
+      "chi": "登场：随机复制一张你曾\n打出过的法术并放入你的\n准备栏。",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_archon_spellbinder_name",
+      "eng": "Archon Spellbinder",
+      "chi": "缚法执政官",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_archon_spellbinder_desc",
+      "eng": "Your opponent's spells cost 1 more to play.",
+      "chi": "你对手的打出的法术\n增加1点费用。",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_bonereaper_name",
+      "eng": "Bonereaper",
+      "chi": "集骨家",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_bonereaper_desc",
+      "eng": "Provoke\nAt the end of your turn, deal 2 damage to nearby enemy minions.",
+      "chi": "嘲讽\n在你的回合结束时，对此随\n从相邻的敌方随从造成2点\n伤害。",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_deathblighter_name",
+      "eng": "Deathblighter",
+      "chi": "枯萎化身",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_deathblighter_desc",
+      "eng": "Prevent all healing.",
+      "chi": "防止所有治疗。",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_eclipse_name",
+      "eng": "Eclipse",
+      "chi": "食月天狗",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_eclipse_desc",
+      "eng": "When this takes damage, deal that much damage to the enemy General.",
+      "chi": "每当此随从受到伤害，对敌\n方将领造成等量的伤害。",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_first_sword_of_akrane_name",
+      "eng": "First Sword of Akrane",
+      "chi": "阿克兰的首席剑士",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_first_sword_of_akrane_desc",
+      "eng": "Other allies have +1/+0.",
+      "chi": "所有其他友方单位\n具有 +1/+0。",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_jax_truesight_name",
+      "eng": "Jax Truesight",
+      "chi": "灵视杰斯",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_jax_truesight_desc",
+      "eng": "Ranged\nOpening Gambit: Summon a Mini-Jax on each corner space of the battlefield.",
+      "chi": "远程\n登场：在战场的每个角落召\n唤一个小杰斯斯(1/1 远程)。",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_serpenti_name",
+      "eng": "Serpenti",
+      "chi": "长颈龙",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_serpenti_desc",
+      "eng": "Frenzy",
+      "chi": "狂暴",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_storm_aratha_name",
+      "eng": "Storm Aratha",
+      "chi": "风暴阿格莎",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_storm_aratha_desc",
+      "eng": "Flying\nWhen this attacks an enemy, deal 3 damage to enemies nearby that enemy.",
+      "chi": "飞行\n此随从攻击一个敌方单位时，\n对攻击目标相邻的敌方单位\n造成3点伤害。",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_stormmetal_golem_name",
+      "eng": "Stormmetal Golem",
+      "chi": "铁飓风魔像",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_zenrui_name",
+      "eng": "Zen'Rui, the Blightspawned",
+      "chi": "曾·锐 枯萎之源",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_zenrui_desc",
+      "eng": "Opening Gambit: Destroy a nearby enemy minion with 2 or less attack and summon a 2/2 copy of it on its space.",
+      "chi": "登场：摧毁一个相邻的攻击\n小于等于2的敌方随从，在\n该位置召唤一个你控制的\n2/2的该随从的复制。",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_astral_crusader_name",
+      "eng": "Astral Crusader",
+      "chi": "星界十字军",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_astral_crusader_desc",
+      "eng": "At the start of each turn, switch the positions of both Generals.",
+      "chi": "在每个回合开始时，\n交换双方将领位置。",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_dark_nemesis_name",
+      "eng": "Dark Nemesis",
+      "chi": "黑暗宿敌",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_dark_nemesis_desc",
+      "eng": "At the start of your turn, this gains +4/+0. Deal 4 damage to the enemy General.",
+      "chi": "在你的回合开始时，此随从\n获得 +4/+0，对敌方将领造\n成4点伤害。",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_dragonbone_golem_name",
+      "eng": "Dragonbone Golem",
+      "chi": "龙骨魔像",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_grailmaster_name",
+      "eng": "Grailmaster",
+      "chi": "幻梦学者",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_grailmaster_desc",
+      "eng": "When you summon a minion, this gains a new random keyword from Celerity, Flying, Frenzy, Provoke, and Ranged.",
+      "chi": "每当你召唤一个随从时，此\n随从在迅捷，飞行，狂暴，\n嘲讽，远程中获得一个未拥\n有的关键词。",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_paddo_name",
+      "eng": "Paddo",
+      "chi": "帕多",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_paddo_desc",
+      "eng": "Airdrop\nOpening Gambit: Teleport nearby units to random spaces.",
+      "chi": "空降\n登场：将所有相邻单位\n传送到随机位置。",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_pandora_name",
+      "eng": "Pandora",
+      "chi": "潘多拉",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_pandora_desc",
+      "eng": "At the end of your turn, summon a random Spirit on a random nearby space.",
+      "chi": "在你的回合结束时，在此随\n从相邻随机位置召唤一个幻\n兽(3/3 具有随机关键词)。",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_red_synja_name",
+      "eng": "Red Synja",
+      "chi": "红女王",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_red_synja_desc",
+      "eng": "When your General takes damage, this deals 7 damage to a random nearby enemy minion.",
+      "chi": "当你的将领受到伤害时，此\n随从对随机一个相邻敌方随\n从造成7点伤害。",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_rook_name",
+      "eng": "Rook",
+      "chi": "战车",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_rook_desc",
+      "eng": "Opening Gambit: This moves forward until a unit is in front of it. Deal damage equal to the number of spaces moved to that unit.",
+      "chi": "登场：此随从向前移动直到\n正前方存在一个单位，对那\n个单位造成等同于移动距离\n的伤害。",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_war_talon_name",
+      "eng": "War Talon",
+      "chi": "好斗魔爪",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_war_talon_desc",
+      "eng": "When this attacks or counterattacks an enemy minion, deal excess damage dealt to the enemy General.",
+      "chi": "当此随从与一个敌方随从\n战斗时，对敌方将领造成\n这次战斗产生的过量伤害。",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_whistling_blade_name",
+      "eng": "Whistling Blade",
+      "chi": "啸刃",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_whistling_blade_desc",
+      "eng": "Veil",
+      "chi": "帷幕",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_zurael_the_lifegiver_name",
+      "eng": "Zurael, the Lifegiver",
+      "chi": "复归灵鸟 祖瑞尔",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_zurael_the_lifegiver_desc",
+      "eng": "Airdrop, Flying\nOpening Gambit: Summon other allied minions that were destroyed since your last turn on random spaces.",
+      "chi": "空降，飞行\n登场：在随机位置召唤所有\n从你的上个回合到现在被摧\n毁的友方随从。",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_khymera_name",
+      "eng": "Khymera",
+      "chi": "凯莫拉",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_khymera_desc",
+      "eng": "When this takes damage, summon a random token minion on a random nearby space.",
+      "chi": "每当此随从受到伤害时，在\n相邻随机位置召唤一个随机\n衍生物。",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_zukong_name",
+      "eng": "Zukong",
+      "chi": "悟空",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_zukong_desc",
+      "eng": "Opening Gambit: Give all enemies \"This moves and attacks automatically.\" until your next turn.",
+      "chi": "登场：所有敌方单位将会自\n动移动和攻击直到你的下个\n回合开始。",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_dioltas_tombstone_name",
+      "eng": "Tombstone",
+      "chi": "墓碑",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_dioltas_tombstone_desc",
+      "eng": "Provoke",
+      "chi": "嘲讽",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_minijax_name",
+      "eng": "Mini-Jax",
+      "chi": "小杰斯",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_minijax_desc",
+      "eng": "Ranged",
+      "chi": "远程",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_pandora_frenzy_name",
+      "eng": "Rage",
+      "chi": "狂心幻兽",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_pandora_frenzy_desc",
+      "eng": "Frenzy",
+      "chi": "狂暴",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_pandora_ranged_name",
+      "eng": "Envy",
+      "chi": "妒心幻兽",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_pandora_ranged_desc",
+      "eng": "Ranged",
+      "chi": "远程",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_pandora_flying_name",
+      "eng": "Serenity",
+      "chi": "宁心幻兽",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_pandora_flying_desc",
+      "eng": "Flying",
+      "chi": "飞行",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_pandora_celerity_name",
+      "eng": "Wrath",
+      "chi": "怒心幻兽",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_pandora_celerity_desc",
+      "eng": "Celerity",
+      "chi": "迅捷",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_pandora_provoke_name",
+      "eng": "Fear",
+      "chi": "惧心幻兽",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_pandora_provoke_desc",
+      "eng": "Provoke",
+      "chi": "嘲讽",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_mechaz0r_name",
+      "eng": "MECHAZ0R!!",
+      "chi": "决战兵器原型机！！",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_mechaz0r_desc",
+      "eng": "Airdrop, Frenzy, Ranged, Veil",
+      "chi": "空降，狂暴，远程，帷幕",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_shadow_puppeteer_name",
+      "eng": "Verdmother",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_shadow_puppeteer_desc",
+      "eng": "Opening Gambit: Put a Verdkin into your action bar.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_shade_name",
+      "eng": "Verdkin",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_shade_desc",
+      "eng": "Provoke\nDispel any unit that deals damage to this.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_gambler_name",
+      "eng": "Emissary of Chaos",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_gambler_desc",
+      "eng": "Opening Gambit and Dying Wish: Randomly permute the costs of cards in all action bars.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_artifact_smarty_core_name",
+      "eng": "Smarty's Core",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_artifact_smarty_core_desc",
+      "eng": "Timeless\nYour General has +3/+0",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "d2_frostfire_imp_name",
+      "eng": "Frostfire Imp",
+      "chi": "霜火精灵",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_frostfire_snowchser_name",
+      "eng": "Frostfire Snowchaser",
+      "chi": "霜火寻雪精灵",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_frostfire_tiger_name",
+      "eng": "Frostfire Tiger",
+      "chi": "霜火虎",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_aer_pridebeak_name",
+      "eng": "Owlbeast Adept",
+      "chi": "枭兽精英",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_aer_pridebeak_desc",
+      "eng": "When you play a spell, this gains +0/+1. When your opponent plays a spell, this gains +1/+0.",
+      "chi": "当你打出一张法术时，\n此随从获得+0/+1。\n当对手打出一张法术时，\n此随从获得+1/+0。",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_alter_rexx_name",
+      "eng": "Chew-e",
+      "chi": "咀嚼",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_alter_rexx_desc",
+      "eng": "After this destroys a minion, it fully heals, gains Attack equal to the Attack that minion had, and gains the ability of that minion.",
+      "chi": "当此随从摧毁一个随从后，\n治愈此随从，获得该随从\n的效果和攻击。",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_riftwalker_name",
+      "eng": "Riftwalker",
+      "chi": "裂隙行者",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_riftwalker_desc",
+      "eng": "Airdrop\nOpening Gambit: Deal 2 damage to the nearest unit in front, behind, above, and below this.",
+      "chi": "空降\n登场：对此随从前方，\n上方，后方，下方最近的\n单位造成2点伤害。",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_worldcore_golem_name",
+      "eng": "Worldcore Golem",
+      "chi": "地核魔像",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_worldcore_golem_desc",
+      "eng": "This card costs 1 less for each enemy minion and 1 more for each allied minion.",
+      "chi": "每有一个敌方随从费用减1，\n每有一个友方随从费用加1。",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_matter_shaper_name",
+      "eng": "Mana Artificer",
+      "chi": "魔能技工",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_matter_shaper_desc",
+      "eng": "Dying Wish: Create a Mana Spring tile on this space.",
+      "chi": "死愿：在所在位置创造\n一个魔泉。",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_capricious_marauder_name",
+      "eng": "Capricious Marauder",
+      "chi": "任性掠夺者",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_capricious_marauder_desc",
+      "eng": "After this attacks an enemy, destroy enemy minions diagonal from that enemy.",
+      "chi": "此随从攻击后，摧毁被攻击\n单位对角线方向的所有敌方\n随从。",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_sinister_silhouette_name",
+      "eng": "Sinister Silhouette",
+      "chi": "险恶剪影",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_sinister_silhouette_desc",
+      "eng": "Backer Design: Khoa",
+      "chi": "Backer Design: Khoa",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_theobule_name",
+      "eng": "Dezark",
+      "chi": "德扎克",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_theobule_desc",
+      "eng": "At the end of your turn, draw an additional card.",
+      "chi": "在你的回合结束时，\n额外抽一张牌。",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_boulder_breacher_name",
+      "eng": "Boulder Breacher",
+      "chi": "碎岩魔像",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_boulder_breacher_desc",
+      "eng": "Opening Gambit: Deal 3 damage to other allied Golems and all units nearby them.",
+      "chi": "登场：对其他友方魔像\n及与这些魔像相邻的单\n位造成3点伤害。",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_rawr_name",
+      "eng": "Pummy the Stormchaser",
+      "chi": "风暴追逐者普米",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_rawr_desc",
+      "eng": "Airdrop\nAfter this attacks, deal 2 damage to joined enemies and switch positions with the farthest joined enemy minion.",
+      "chi": "空降\n当此随从攻击后，对相连的\n敌人造成2点伤害，并与最\n远的相连的敌人交换位置。",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_metaltooth_name",
+      "eng": "Metaltooth",
+      "chi": "钢牙",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_metaltooth_desc",
+      "eng": "Frenzy\nThis has Rush if you control another Mech.",
+      "chi": "狂暴\n当你控制其他机兵时\n此随从具有冲锋。",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_carcynus_name",
+      "eng": "Decapotheosis",
+      "chi": "十足蟹",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_carcynus_desc",
+      "eng": "Veil\nAfter this takes damage, summon an exact copy of it on a random nearby space.",
+      "chi": "帷幕\n当此随从受到伤害后，在\n相邻随机位置召唤一个此\n随从的精准复制。",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_bloodbound_mentor_name",
+      "eng": "Owlbeast Prophet",
+      "chi": "枭兽先知",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    },
+    {
+      "code": "d2_neutral_bloodbound_mentor_desc",
+      "eng": "Opening Gambit: If you have played a spell this turn, deal 1 damage to a unit.",
+      "chi": "登场：若你本回合打出过\n法术，对目标单位造成1点\n伤害。",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "versionCode": "20.1.26",
+  "nodeCode": "notifications",
+  "path": "notifications",
+  "orderStart": 0,
+  "orderEnd": 0,
+  "translateItemList": [
+    {
+      "code": "email_verification_notification_message",
+      "eng": "Your account has not yet been verified. Check your inbox or request another email.",
+      "chi": "你的账号尚未经过验证。 检查你的收件箱或请求另一封电子邮件。",
+      "originVersionCode": "20.1.25",
+      "translateState": 4
+    }
+  ]
+}

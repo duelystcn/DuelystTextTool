@@ -1,0 +1,156 @@
+{
+  "versionCode": "20.1.25",
+  "nodeCode": "gauntlet",
+  "path": "gauntlet",
+  "orderStart": 0,
+  "orderEnd": 20,
+  "translateItemList": [
+    {
+      "code": "gauntlet_title",
+      "eng": "The Gauntlet",
+      "chi": "竞技场",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "gauntlet_instructions",
+      "eng": "Test your skills in the Gauntlet. Draft a deck from groups of cards and face off against other players. Play 4 games earning 5 gold for each win and a free Gauntlet ticket with 3 or more wins.",
+      "chi": "在竞技场中进行试炼，选择组合牌堆来构建你的牌组。进行四场战斗，每次胜利会赢得5金币，获得3场胜利将会赢得一张免费的竞技场门票。",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "gauntlet_start_instructions",
+      "eng": "Start a Gauntlet run for {{gold_price}} Gold or use a ticket.",
+      "chi": "消耗{{gold_price}}金币或一张门票来开始一次竞技场战斗。",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "ticket_inventory_label",
+      "eng": "you have {{count}} ticket",
+      "chi": "你有{{count}}张门票",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "ticket_inventory_label_plural",
+      "eng": "you have {{count}} tickets",
+      "chi": "你有{{count}}张门票",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "start_button_label",
+      "eng": "Start",
+      "chi": "开始",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "start_error_message_insufficient_gold",
+      "eng": "You do not have sufficient gold to start the Gauntlet run.",
+      "chi": "你没有足够的金币来开始一次竞技场战斗。",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "start_error_message_generic",
+      "eng": "Oops... there was a problem starting your Gauntlet run. Please try again.",
+      "chi": "抱歉，这次竞技场开启失败，请再试一次。",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "select_faction_label",
+      "eng": "Select your Faction",
+      "chi": "选择你的阵营",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "select_general_label",
+      "eng": "Select your General",
+      "chi": "选择你的将领",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "select_card_label",
+      "eng": "Select a Card",
+      "chi": "选择一张牌",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "select_bucket_label",
+      "eng": "Select a group of cards ({{bucketNumber}}/{{totalBuckets}})",
+      "chi": "选择一组牌({{bucketNumber}}/{{totalBuckets}})",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "delete_bucket_label",
+      "eng": "Remove a group of cards ({{bucketNumber}}/{{totalBuckets}}) or",
+      "chi": "移除一组牌({{bucketNumber}}/{{totalBuckets}}) 或",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "skip_deletes",
+      "eng": "Continue",
+      "chi": "继续",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "resign_run_button_label",
+      "eng": "Resign",
+      "chi": "放弃",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "resign_confirmation_message",
+      "eng": "Are you sure you want to resign?",
+      "chi": "你确认你要放弃吗？",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "claim_rewards_win_count_label",
+      "eng": "{{count}} Win",
+      "chi": "{{count}}胜",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "claim_rewards_win_count_label_plural",
+      "eng": "{{count}} Wins",
+      "chi": "{{count}}胜",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "claim_rewards_button_label",
+      "eng": "Claim Rewards",
+      "chi": "领取奖励",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "win_loss_label",
+      "eng": "WINS: {{win_count}}   LOSSES: {{loss_count}}",
+      "chi": "胜: {{win_count}}   败: {{loss_count}}",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    },
+    {
+      "code": "no_available_gauntlet_decks",
+      "eng": "You have no recent gauntlet decks.",
+      "chi": "你没有最近的竞技场套牌。",
+      "originVersionCode": "20.1.24",
+      "translateState": 4
+    }
+  ]
+}

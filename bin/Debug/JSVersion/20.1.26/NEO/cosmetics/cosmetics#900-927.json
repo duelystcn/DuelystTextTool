@@ -1,0 +1,205 @@
+{
+  "versionCode": "20.1.26",
+  "nodeCode": "cosmetics",
+  "path": "cosmetics",
+  "orderStart": 900,
+  "orderEnd": 927,
+  "translateItemList": [
+    {
+      "code": "title_grapefruit",
+      "eng": "Grapefruit",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "title_theimplication",
+      "eng": "The Implication",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "title_wanderingguardian",
+      "eng": "Wandering Guardian",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "title_bestowerofhearts",
+      "eng": "Bestower of Hearts",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "title_aspectoftherager",
+      "eng": "Idiot Savant",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "title_saikyostyle",
+      "eng": "Saikyo Style",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "title_thiccmommy",
+      "eng": "UWUTHICCX3MOMMYOWO",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "title_celestial",
+      "eng": "Celestial",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "title_notinmynavy",
+      "eng": "NOT IN MY NAVY!!!",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "title_thestormchaser",
+      "eng": "The Stormchaser",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "title_lordamidststorms",
+      "eng": "Lord Amidst Storms",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "title_whatsbehindit",
+      "eng": "What's behind it?",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "title_dubious",
+      "eng": "Dubious",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "title_theunhallowedone",
+      "eng": "The Unhallowed One",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "title_developerblatm",
+      "eng": "Developer Blatm",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "title_makeitrain",
+      "eng": "Make It Rain!",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "title_SeriallyEpic",
+      "eng": "Serially Epic",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "title_EpicChampion",
+      "eng": "Epic Champion",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "title_EpicContender",
+      "eng": "Epic Contender",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "title_SeriesRival",
+      "eng": "Series Rival",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "title_EpicStyle",
+      "eng": "Epic Style",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "title_PlushChaser",
+      "eng": "Plush Chaser",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "title_SnowChaser",
+      "eng": "Snow Chaser",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "title_SnowCatcher",
+      "eng": "Snow Catcher",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "title_WinterSoldier",
+      "eng": "Winter Soldier",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "title_WinterVespyr",
+      "eng": "Winter Vespyr",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "title_ChromaticChampion",
+      "eng": "Chromatic Champion",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "title_AmazyngRacer",
+      "eng": "Amazyng Racer",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    }
+  ]
+}

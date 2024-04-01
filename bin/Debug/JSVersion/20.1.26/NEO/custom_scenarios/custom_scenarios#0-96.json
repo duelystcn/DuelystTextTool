@@ -1,0 +1,688 @@
+{
+  "versionCode": "20.1.26",
+  "nodeCode": "custom_scenarios",
+  "path": "custom_scenarios",
+  "orderStart": 0,
+  "orderEnd": 96,
+  "translateItemList": [
+    {
+      "code": "editor_widget_accordion_title_cards",
+      "eng": "Manage Cards",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "editor_widget_accordion_title_mana",
+      "eng": "Edit Mana",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "editor_widget_accordion_title_health",
+      "eng": "Edit Health",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "editor_tooltip_remove_general",
+      "eng": "Can not remove generals from the game.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "editor_location_board",
+      "eng": "Board",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "editor_location_hand",
+      "eng": "Hand",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "editor_select_label_player",
+      "eng": "Player",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "editor_select_label_card_type",
+      "eng": "Type",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "editor_select_label_faction",
+      "eng": "Faction",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "editor_select_label_card",
+      "eng": "Card",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "editor_select_label_health",
+      "eng": "Health",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "editor_select_label_player_1",
+      "eng": "Player 1",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "editor_select_label_player_2",
+      "eng": "Player 2",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "scenario_filter_search_label",
+      "eng": "Search",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "scenario_filter_search_input_placeholder",
+      "eng": "Search title & description",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "scenario_filter_difficulty_label",
+      "eng": "Filter difficulty",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "scenario_filter_sort_label",
+      "eng": "Sort by",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "scenario_filter_sort_date_newest_label",
+      "eng": "Date (Newest)",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "scenario_filter_sort_date_oldest_label",
+      "eng": "Date (Oldest)",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "scenario_label_title",
+      "eng": "Title",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "scenario_label_difficulty",
+      "eng": "Difficulty",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "scenario_label_description",
+      "eng": "Description",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "scenario_label_is_hidden",
+      "eng": "Hidden",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "scenario_difficulty_option_all",
+      "eng": "All",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "scenario_difficulty_option_easy",
+      "eng": "Easy",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "scenario_difficulty_option_medium",
+      "eng": "Medium",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "scenario_difficulty_option_hard",
+      "eng": "Hard",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "scenario_is_hidden",
+      "eng": "This scenario is not visible in the public listing.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "scenario_is_public",
+      "eng": "Anyone can see and play this scenario.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "scenario_browser_nav_browse",
+      "eng": "Browse",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "scenario_browser_nav_my",
+      "eng": "My challenges",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "scenario_browser_scroll_bottom",
+      "eng": "Scroll to bottom or click to load more",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "scenario_browser_scroll_bottom_end",
+      "eng": "You've reached the end of list. Expand the search by changing search criteria.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "scenario_browser_hidden_tooltip",
+      "eng": "This scenario is not publicly listed.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "scenario_browser_item_no_description",
+      "eng": "Missing description.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "scenario_browser_item_description_show_more",
+      "eng": "show more",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "scenario_browser_item_description_show_less",
+      "eng": "show less",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "scenario_browser_item_posted",
+      "eng": "Posted {{timestamp}} by {{username}}",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "scenario_browser_item_metrics",
+      "eng": "Global Statistics",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "scenario_browser_item_metrics_attempted",
+      "eng": "Times attempted",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "scenario_browser_item_metrics_completed",
+      "eng": "Times completed",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "scenario_browser_item_completed",
+      "eng": "Completed on",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "scenario_browser_item_attempted",
+      "eng": "Last attempted on",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "scenario_browser_item_not_attempted",
+      "eng": "Not yet attempted",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "save_form_modal_new_title",
+      "eng": "Save custom puzzle",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "save_form_modal_update_title",
+      "eng": "Update puzzle",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "save_form_input_title_placeholder",
+      "eng": "Between 3 and 100 characters",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "save_form_input_description_placeholder",
+      "eng": "A short description of your custom scenario.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "save_form_input_difficulty_option_placeholder",
+      "eng": "select an option",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "save_form_tooltip_is_hidden",
+      "eng": "Defines weather this scenario will be publicly visible in the scenario listing.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "save_form_validation_metadata_missing",
+      "eng": "Missing scenario metadata.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "save_form_validation_fields_failed",
+      "eng": "Following fields contain invalid data",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "save_form_validation_title_missing",
+      "eng": "Missing scenario title metadata.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "save_form_validation_title_invalid",
+      "eng": "Scenario title must be between 3 and 100 characters long.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "save_form_validation_difficulty_missing",
+      "eng": "Missing scenario difficulty metadata.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "save_form_validation_difficulty_invalid",
+      "eng": "Not a valid scenario difficulty option.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "save_form_validation_difficulty_not_selected",
+      "eng": "Must select difficulty option.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "save_form_validation_is_hidden_missing",
+      "eng": "Missing scenario isHidden option.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "save_form_validation_is_hidden_invalid",
+      "eng": "Not a valid scenario isHidden option.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "delete_form_metadata_error",
+      "eng": "Saved scenario data is missing or is invalid.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "delete_form_modal_title",
+      "eng": "Delete custom puzzle",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "report_modal_title",
+      "eng": "Report scenario",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "report_reason_label",
+      "eng": "Please select a reason",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "report_reason_option_placeholder",
+      "eng": "-- select an option --",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "report_reason_option_vulgar",
+      "eng": "Author used vulgar langauge for title or description",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "report_reason_option_inapropriate_placement",
+      "eng": "Author used inapropriate placement of units",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "report_reason_option_rng",
+      "eng": "Scenario relies too much on RNG in order to win",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "report_reason_option_other",
+      "eng": "Other",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "report_message_default_label",
+      "eng": "Additional notes",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "report_message_other_label",
+      "eng": "Please provide more details",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "report_form_validation_message_too_short",
+      "eng": "Please provide more context so we can properly assess the situation.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "button_label_validate",
+      "eng": "Validate",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "button_label_add",
+      "eng": "Add",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "button_label_remove",
+      "eng": "Remove",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "button_label_save",
+      "eng": "Save",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "button_label_edit",
+      "eng": "Edit",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "button_label_update",
+      "eng": "Update",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "button_label_delete",
+      "eng": "Delete",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "button_label_confirm",
+      "eng": "Confirm",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "button_label_cancel",
+      "eng": "Cancel",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "button_label_report",
+      "eng": "Report",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "button_label_play",
+      "eng": "Play",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "scenario_saved",
+      "eng": "Custom puzzle '{{title}}' successfully saved!",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "scenario_updated",
+      "eng": "Puzzle '{{title}}' successfully updated!",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "scenario_deleted",
+      "eng": "Custom puzzle '{{title}}' successfully deleted!",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "scenario_reported",
+      "eng": "Custom puzzle '{{title}}' reported!",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "scenario_saved_successfully",
+      "eng": "Custom puzzle successfully saved.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "error_new_scenario_metadata_exists",
+      "eng": "Could not save the scenario. An entry for this scenario already exist.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "error_update_url_changed",
+      "eng": "An error ocurred while updating scenario. Missmatch in file path metadata.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "error_parsing_bucket_file",
+      "eng": "User submitted scenario file is corrupted.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "errors_scenario_not_found",
+      "eng": "Could not find requested scenario.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "error_user_not_author",
+      "eng": "You are not the author of this scenario.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "error_update_no_metadata",
+      "eng": "Could not find metadata associated to the scenario submitted for an update.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "scenario_reported_successfully",
+      "eng": "Successfully submitted scenario report.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "scenario_report_mail_send_error",
+      "eng": "An error occurred while attempting to send report email.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "record_attempt_error_default",
+      "eng": "Failed to update custom puzzle attempt records.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "record_completion_error_default",
+      "eng": "Failed to update custom puzzle completion records.",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "versionCode": "20.1.26",
+  "nodeCode": "modifiers",
+  "path": "modifiers",
+  "orderStart": 500,
+  "orderEnd": 509,
+  "translateItemList": [
+    {
+      "code": "abyssianquest_counter_applied_desc",
+      "eng": "Spells Cast: {{spell_count}}/6",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "vetruvianquest_counter_applied_name",
+      "eng": "Trial of Vetruvian",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "vetruvianquest_counter_applied_desc",
+      "eng": "Trial Incomplete",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "magmarquest_counter_applied_name",
+      "eng": "Trial of Magmar",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "magmarquest_counter_applied_desc",
+      "eng": "Spells Cast: {{spell_count}}/7",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "vanarquest_counter_applied_name",
+      "eng": "Trial of Vanar",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "vanarquest_counter_applied_desc",
+      "eng": "Tokens: {{token_count}}/5",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "neutralquest_counter_applied_name",
+      "eng": "Trial of Mythron",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "neutralquest_counter_applied_desc",
+      "eng": "Trial Incomplete",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    },
+    {
+      "code": "quest_completed_applied_desc",
+      "eng": "Trial Completed",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 0
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "versionCode": "20.1.24",
+  "nodeCode": "races",
+  "path": "races",
+  "orderStart": 0,
+  "orderEnd": 9,
+  "translateItemList": [
+    {
+      "code": "golem",
+      "eng": "Golem",
+      "chi": "魔像",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "arcanyst",
+      "eng": "Arcanyst",
+      "chi": "奥术师",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "dervish",
+      "eng": "Dervish",
+      "chi": "苦行僧",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "mech",
+      "eng": "Mech",
+      "chi": "机兵",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "vespyr",
+      "eng": "Vespyr",
+      "chi": "霜灵",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "structure",
+      "eng": "Structure",
+      "chi": "建筑",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "battle_pet",
+      "eng": "Battle Pet",
+      "chi": "战宠",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "spirit",
+      "eng": "Spirit",
+      "chi": "精怪",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "chrysalis",
+      "eng": "Chrysalis",
+      "chi": "蛹",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    },
+    {
+      "code": "single_tribe",
+      "eng": "a {{tribe}}",
+      "chi": "一个{{tribe}}",
+      "originVersionCode": "20.1.23",
+      "translateState": 4
+    }
+  ]
+}
