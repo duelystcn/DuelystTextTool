@@ -1,0 +1,72 @@
+{
+  "versionCode": "20.1.27",
+  "nodeCode": "shop",
+  "path": "shop",
+  "orderStart": 200,
+  "orderEnd": 208,
+  "translateItemList": [
+    {
+      "code": "timeless_wave_two_description",
+      "eng": "3 copies of each card from the second wave of the Timeless Collection, plus the 'Grandmaster of Time' profile title! Limited to one purchase per account.",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "kickstarter_all_waves",
+      "eng": "Founder's Collection Set",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "kickstarter_all_waves_description",
+      "eng": "3 copies of each card from all waves of the Founder's Collection, plus all previous exclusive titles!. Limited to one purchase per account.",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "individual_product_cost",
+      "eng": "Individual product costs",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "individual_product_code_cost",
+      "eng": "When purchasing gift code each product costs",
+      "chi": "购买礼品码时每种商品的费用",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "bundle_discount",
+      "eng": "Discount based on currently owned products",
+      "chi": "基于当前拥有的产品的折扣",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "gift_code_user_discount",
+      "eng": "User discount ({{discount}}%)",
+      "chi": "用户折扣({{discount}}%)",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "lyonar_steel_bundle_name",
+      "eng": "Lyonar - Steel Skin Bundle",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "lyonar_steel_bundle_description",
+      "eng": "Lyonar - Steel skin bundle. Limited to one purchase per account.",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    }
+  ]
+}

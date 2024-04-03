@@ -177,3 +177,7 @@ D:\work\DuelystTextTool2\obj\Debug\DuelystText.exe
 D:\work\DuelystTextTool2\obj\Debug\DuelystText.pdb
 D:\work\DuelystTextTool2\bin\Debug\JSVersion\20.1.25\index.json
 D:\work\DuelystTextTool2\bin\Debug\JSVersion\20.1.26\index.json
+D:\work\DuelystTextTool(1)\DuelystTextTool\bin\Debug\JSVersion\20.1.24\index.json
+D:\work\DuelystTextTool(1)\DuelystTextTool\bin\Debug\JSVersion\20.1.25\index.json
+D:\work\DuelystTextTool(1)\DuelystTextTool\bin\Debug\JSVersion\20.1.26\index.json
+D:\work\DuelystTextTool(1)\DuelystTextTool\bin\Debug\JSVersion\20.1.27\index.json

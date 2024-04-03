@@ -1,0 +1,93 @@
+{
+  "versionCode": "20.1.27",
+  "nodeCode": "modifiers",
+  "path": "modifiers",
+  "orderStart": 500,
+  "orderEnd": 511,
+  "translateItemList": [
+    {
+      "code": "songhaiquest_counter_applied_desc",
+      "eng": "Minions Summoned: {{summon_count}}/7\nCosts Summoned: {{manacost_list}}",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "abyssianquest_counter_applied_name",
+      "eng": "Trial of Abyssian",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "abyssianquest_counter_applied_desc",
+      "eng": "Spells Cast: {{spell_count}}/6",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "vetruvianquest_counter_applied_name",
+      "eng": "Trial of Vetruvian",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "vetruvianquest_counter_applied_desc",
+      "eng": "Trial Incomplete",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "magmarquest_counter_applied_name",
+      "eng": "Trial of Magmar",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "magmarquest_counter_applied_desc",
+      "eng": "Spells Cast: {{spell_count}}/7",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "vanarquest_counter_applied_name",
+      "eng": "Trial of Vanar",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "vanarquest_counter_applied_desc",
+      "eng": "Tokens: {{token_count}}/5",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "neutralquest_counter_applied_name",
+      "eng": "Trial of Mythron",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "neutralquest_counter_applied_desc",
+      "eng": "Trial Incomplete",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "quest_completed_applied_desc",
+      "eng": "Trial Completed",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    }
+  ]
+}

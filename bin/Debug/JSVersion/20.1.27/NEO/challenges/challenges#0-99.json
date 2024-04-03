@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.27",
+  "nodeCode": "challenges",
+  "path": "challenges",
+  "orderStart": 0,
+  "orderEnd": 99,
+  "translateItemList": [
+    {
+      "code": "challenge_label",
+      "eng": "Challenge",
+      "chi": "挑战",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "challenge_label_plural",
+      "eng": "Challenges",
+      "chi": "挑战",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "retry_challenge_title",
+      "eng": "Replay Challenge",
+      "chi": "回放挑战",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "retry_challenge_button_label",
+      "eng": "Try Again!",
+      "chi": "再试一次！",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "daily_challenge_label",
+      "eng": "Weekly Challenge",
+      "chi": "每周挑战",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "daily_challenge_desc",
+      "eng": "Defeat the {{faction}} General in ONE turn.",
+      "chi": "在一回合内击败{{faction}}将领。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "challenge_p1_label",
+      "eng": "You",
+      "chi": "你",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "challenge_p2_label",
+      "eng": "Opponent",
+      "chi": "对手",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "challenge_label_start",
+      "eng": "Start!",
+      "chi": "开始！",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "challenge_locked_label",
+      "eng": "Attempt previous challenge to unlock.",
+      "chi": "尝试上一个挑战来解锁。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "challenge_gate_0_title",
+      "eng": "0: Training",
+      "chi": "0: 训练",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "challenge_gate_0_desc",
+      "eng": "Learn the basics of DUELYST II.",
+      "chi": "学习DUELYST II的基本操作。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "challenge_gate_1_title",
+      "eng": "1: The Elemental Secrets",
+      "chi": "1: 元素的奥秘",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "challenge_gate_1_desc",
+      "eng": "Learn mechanics and earn rewards by enjoying these solo challenges. Difficulty: Beginner",
+      "chi": "学习技巧，通过单人挑战获取奖励。难度：初级",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "challenge_gate_2_title",
+      "eng": "2: The Realm of Dreams",
+      "chi": "2: 梦境",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "challenge_gate_2_desc",
+      "eng": "New solo challenges and rewards! Difficulty: Intermediate",
+      "chi": "新的单人挑战喝奖励！ 难度：中级",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "challenge_gate_3_title",
+      "eng": "3: Trials of the Seven Stars",
+      "chi": "3: 七星的裁决",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "challenge_gate_3_desc",
+      "eng": "Embark on more exciting solo challenges! Difficulty: Intermediate",
+      "chi": "开始更多精彩的单人挑战！难度：中级",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "challenge_gate_4_title",
+      "eng": "4: The Vault of Generations",
+      "chi": "4: 先祖宝库",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "challenge_gate_4_desc",
+      "eng": "Another set of fun solo challenges! Difficulty: Advanced",
+      "chi": "另一组有趣的单人挑战！难度：高级",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "challenge_gate_5_title",
+      "eng": "5: The Adeptus Gate",
+      "chi": "5: 根源之门",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "challenge_gate_5_desc",
+      "eng": "You've earned it! Now for some tougher challenges. Difficulty: Advanced",
+      "chi": "如你所愿！现在是一些更严峻的挑战。难度：高级",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "challenge_gate_6_title",
+      "eng": "6: Trials of the Seven Stars",
+      "chi": "6: 七星的裁决",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "challenge_gate_6_desc",
+      "eng": "Experience the first Trial of Champions. Difficulty: Hard",
+      "chi": "体验冠军的第一次试炼。难度：困难",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "challenge_gate_7_title",
+      "eng": "7: The Adeptus Gate",
+      "chi": "7: 根源之门",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "challenge_gate_7_desc",
+      "eng": "To acquire knowledge, one must study; but to acquire wisdom, one must observe. Difficulty: Hard",
+      "chi": "要获得知识，只需学习。但要获得智慧，必须观察。难度：困难",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "challenge_gate_8_title",
+      "eng": "8: Sacred Path to Aperion",
+      "chi": "8: 通往无限领域的圣路",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "challenge_gate_8_desc",
+      "eng": "The voyage of discovery is not in seeking new landscapes but in having new eyes. Difficulty: Hard",
+      "chi": "探索之旅不在于寻找新的风景，而在于拥有新的眼界。难度：困难",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "challenge_gate_9_title",
+      "eng": "9: The Tacticians' Contest",
+      "chi": "9: 战略家的竞赛",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "challenge_gate_9_desc",
+      "eng": "Created for the community, by the community. Difficulty: Expert",
+      "chi": "由社区创建。难度：专家",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "challenge_gate_10_title",
+      "eng": "10: The Contest of Grandmasters",
+      "chi": "10: 宗师的纷争",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "challenge_gate_10_desc",
+      "eng": "Extremely challenging. Good luck. Difficulty: Insane",
+      "chi": "极具挑战性。祝你好运。难度：疯狂",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_flying_challenge_title",
+      "eng": "Lyonar: Earn your Wings",
+      "chi": "Lyonar: 赢得你的光翼",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_flying_challenge_description",
+      "eng": "Use Flying to destroy the enemy General in one turn.",
+      "chi": "使用飞行在一个回合内击败敌方将领。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_flying_challenge_start",
+      "eng": "Use Flying to destroy the enemy General in one turn.",
+      "chi": "使用飞行在一个回合内击败敌方将领。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_flying_challenge_fail",
+      "eng": "Use Flying to destroy the enemy General in one turn.",
+      "chi": "使用飞行在一个回合内击败敌方将领。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_flying_challenge_taunt",
+      "eng": "You still have much to learn!",
+      "chi": "你还有很多要学的！",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_ranged_challenge_title",
+      "eng": "Lyonar: Dead Center",
+      "chi": "Lyonar: 死亡中心",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_ranged_challenge_description",
+      "eng": "Defeat the Vanar General in ONE turn.",
+      "chi": "在一个回合内击败Vanar将领。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_ranged_challenge_start",
+      "eng": "Finish off Vanar General in ONE turn!",
+      "chi": "在一个回合内击败Vanar将领。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_ranged_challenge_fail",
+      "eng": "Hint: Stop the Windstopper.",
+      "chi": "提示：阻止停风者。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_ranged_challenge_taunt",
+      "eng": "Frost will conquer!",
+      "chi": "寒冬将被征服",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "advanced_abyss_1_title",
+      "eng": "Abyssian: Malediction",
+      "chi": "Abyssian: 诅咒",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "advanced_abyss_1_description",
+      "eng": "Test your skills and destroy the enemy General in one turn.",
+      "chi": "尝试在一个回合内击败敌方将领。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "advanced_abyss_1_start",
+      "eng": "Test your skills and destroy the enemy General in one turn.",
+      "chi": "尝试在一个回合内击败敌方将领。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "advanced_abyss_1_fail",
+      "eng": "Test your skills and destroy the enemy General in one turn.",
+      "chi": "尝试在一个回合内击败敌方将领。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "advanced_abyss_1_taunt",
+      "eng": "Feel the heat of life!",
+      "chi": "感受这生命的炙热！",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_abyss_1_title",
+      "eng": "Abyssian: Shadow Ritual",
+      "chi": "Abyssian: 暗影仪式",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_abyss_1_description",
+      "eng": "Use Deathwatch to destroy the enemy General in one turn.",
+      "chi": "使用割魂在一个回合内击败敌方将领。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_abyss_1_start",
+      "eng": "Use Deathwatch to destroy the enemy General in one turn.",
+      "chi": "使用割魂在一个回合内击败敌方将领。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_abyss_1_fail",
+      "eng": "Use Deathwatch to destroy the enemy General in one turn.",
+      "chi": "使用割魂在一个回合内击败敌方将领。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_abyss_1_taunt",
+      "eng": "Burn in fire and sand!",
+      "chi": "在火和沙中燃烧！",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_abyss_2_title",
+      "eng": "Abyssian: Engulf the Flame",
+      "chi": "Abyssian: 燃起烈火",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_abyss_2_description",
+      "eng": "Defeat the Songhai General in ONE turn.",
+      "chi": "在一个回合内击败Songhai将领。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_abyss_2_start",
+      "eng": "Finish off Kaleos Xaan in ONE turn!",
+      "chi": "一个回合内击败卡莱·肖！",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_abyss_2_fail",
+      "eng": "Hint: Wraithlings make great sacrifices.",
+      "chi": "提示：小鬼们会做出巨大的牺牲。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_abyss_2_taunt",
+      "eng": "Feel the heat of life!",
+      "chi": "感受这生命的炙热！",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_abyss_3_title",
+      "eng": "Abyssian: Power Overwhelming",
+      "chi": "Abyssian: 主宰一切",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_abyss_3_description",
+      "eng": "Use Dying Wish to destroy the enemy General in one turn.",
+      "chi": "使用死愿在一个回合内击败敌方将领。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_abyss_3_start",
+      "eng": "Use Dying Wish to destroy the enemy General in one turn.",
+      "chi": "使用死愿在一个回合内击败敌方将领。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_abyss_3_fail",
+      "eng": "Use Dying Wish to destroy the enemy General in one turn.",
+      "chi": "使用死愿在一个回合内击败敌方将领。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_abyss_3_taunt",
+      "eng": "Feel the heat of life!",
+      "chi": "感受这生命的炙热！",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_abyss_4_title",
+      "eng": "Abyssian: Frenzied Swarm",
+      "chi": "Abyssian: 疯狂虫群",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_abyss_4_description",
+      "eng": "Use Frenzy to destroy the enemy General in one turn.",
+      "chi": "使用狂暴在一个回合内击败敌方将领。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_abyss_4_start",
+      "eng": "Use Frenzy to destroy the enemy General in one turn.",
+      "chi": "使用狂暴在一个回合内击败敌方将领。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_abyss_4_fail",
+      "eng": "Use Frenzy to destroy the enemy General in one turn.",
+      "chi": "使用狂暴在一个回合内击败敌方将领。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_abyss_4_taunt",
+      "eng": "Perish in blood and sand!",
+      "chi": "在血与尘中消亡吧！",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_abyss_5_title",
+      "eng": "Abyssian: A Force to Fear",
+      "chi": "Abyssian: 恐惧之力",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_abyss_5_description",
+      "eng": "Test your skills and destroy the enemy General in one turn.",
+      "chi": "尝试在一个回合内击败敌方将领。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_abyss_5_start",
+      "eng": "Test your skills and destroy the enemy General in one turn.",
+      "chi": "尝试在一个回合内击败敌方将领。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_abyss_5_fail",
+      "eng": "Test your skills and destroy the enemy General in one turn.",
+      "chi": "尝试在一个回合内击败敌方将领。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_abyss_5_taunt",
+      "eng": "Perish in blood and sand!",
+      "chi": "在血与尘中消亡吧！",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_abyss_6_title",
+      "eng": "Abyssian: Alluring Demise",
+      "chi": "Abyssian: 死亡诱惑",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_abyss_6_description",
+      "eng": "Use ENEMY DISPLACEMENT to defeat the Vetruvian General in ONE turn.",
+      "chi": "使敌人位移来一个回合内击败Vetruvian将领。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_abyss_6_start",
+      "eng": "Finish off the Vetruvian General in ONE turn!",
+      "chi": "在一个回合内击败Vetruvian将领！",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_abyss_6_fail",
+      "eng": "Nothing is beyond our Grasp. Bring forth that Komodo so that I may strike it down and spread its pain among our enemies.",
+      "chi": "掌控一切。使用科莫多，这样我就可以把它击倒，把它的痛苦传播给我们的敌人。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_abyss_6_taunt",
+      "eng": "Perish in blood and sand!",
+      "chi": "在血与尘中消亡吧！",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "medium_abyss_1_title",
+      "eng": "Abyssian: Shadows of Light",
+      "chi": "Abyssian: 光所产生的暗影",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "medium_abyss_1_description",
+      "eng": "Defeat the Lyonar General in ONE turn.",
+      "chi": "在一个回合内击败Lyonar将领。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "medium_abyss_1_start",
+      "eng": "Finish off Argeon Highmayne in ONE turn!",
+      "chi": "一个回合内终结阿吉恩·金鬃！",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "medium_abyss_1_fail",
+      "eng": "Hint: Destroy the Sunstone Templar with your general.",
+      "chi": "提示：和你的将领一起摧毁阳石圣殿武士。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "medium_abyss_1_taunt",
+      "eng": "Feel the heat of life!",
+      "chi": "感受这生命的炙热！",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "advanced_lyonar_1_title",
+      "eng": "Lyonar: Rightful Heir",
+      "chi": "Lyonar: 合法继承人",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "advanced_lyonar_1_description",
+      "eng": "Test your skills and destroy the enemy General in one turn.",
+      "chi": "尝试在一个回合内击败敌方将领。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "advanced_lyonar_1_start",
+      "eng": "Finish off the Lyonar General in ONE turn!",
+      "chi": "一个回合内终结Lyonar将领！",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "advanced_lyonar_1_fail",
+      "eng": "Test your skills and destroy the enemy General in one turn.",
+      "chi": "尝试在一个回合内击败敌方将领。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "advanced_lyonar_1_taunt",
+      "eng": "Blaze and burn!",
+      "chi": "全部点燃！",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "advanced_lyonar_2_title",
+      "eng": "Lyonar: Inspiring Presence",
+      "chi": "Lyonar: 振奋军心",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "advanced_lyonar_2_description",
+      "eng": "Use ZEAL to march across the map and bring down the enemy General.",
+      "chi": "使用热诚在一个回合内击败敌方将领。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "advanced_lyonar_2_start",
+      "eng": "Finish off the enemy General in ONE turn!",
+      "chi": "在一个回合内击败敌方将领！",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "advanced_lyonar_2_fail",
+      "eng": "Hint: Call back the Guardian to aid in your assault.",
+      "chi": "提示：召回守护者来协助你的进攻。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "advanced_lyonar_2_taunt",
+      "eng": "Blaze and burn!",
+      "chi": "全部点燃！",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_lyonar_1_title",
+      "eng": "Lyonar: Swiftness of Movement",
+      "chi": "Lyonar: 急行军",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_lyonar_1_description",
+      "eng": "Use CELERITY to defeat Calibero in ONE turn.",
+      "chi": "使用迅捷在一个回合内击败敌方将领。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_lyonar_1_start",
+      "eng": "Finish off Calibero in ONE turn!",
+      "chi": "在一个回合内击败敌方将领！",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_lyonar_1_fail",
+      "eng": "Hint: Clear a path for your Azurite Lion.",
+      "chi": "提示：为你的石青狮开辟一条道路。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_lyonar_1_taunt",
+      "eng": "Burn in fire and sand!",
+      "chi": "在火和沙中燃烧！",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_lyonar_2_title",
+      "eng": "Lyonar: Divine Zeal",
+      "chi": "Lyonar: 崇高热诚",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_lyonar_2_description",
+      "eng": "Use Zeal to destroy the enemy General in one turn.",
+      "chi": "使用热诚在一个回合内击败敌方将领。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "beginner_lyonar_2_start",
+      "eng": "Use Zeal to destroy the enemy General in one turn.",
+      "chi": "使用热诚在一个回合内击败敌方将领。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    }
+  ]
+}

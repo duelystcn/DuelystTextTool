@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.27",
+  "nodeCode": "cards",
+  "path": "cards",
+  "orderStart": 400,
+  "orderEnd": 499,
+  "translateItemList": [
+    {
+      "code": "d2_faction_5_spell_bounded_lifeforce_name",
+      "eng": "Bounded Lifeforce",
+      "chi": "究极进化",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_spell_bounded_lifeforce_description",
+      "eng": "Your General becomes 10/10.",
+      "chi": "你的将领变成10/10。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_spell_amplification_name",
+      "eng": "Amplification",
+      "chi": "受激进化",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_spell_amplification_description",
+      "eng": "Give a minion \"Grow: +2/+2\".\nGrow allies with Grow.",
+      "chi": "使一个随从获得\n\"成长：+2/+2\"。\n所有友方单位成长一次。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_spell_metamorphosis_name",
+      "eng": "Metamorphosis",
+      "chi": "蜕变",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_spell_metamorphosis_description",
+      "eng": "Transform enemy minions into Magma until the end of the next turn.",
+      "chi": "将所有敌方随从变成\n小石块(1/1)直到你的\n下个回合开始。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_spell_plasma_storm_name",
+      "eng": "Plasma Storm",
+      "chi": "离子风暴",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_spell_plasma_storm_description",
+      "eng": "Destroy minions with 3 or less Attack in a 3x3 area.",
+      "chi": "摧毁目标3x3区域内攻击\n小于等于3的随从。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_spell_chrysalis_burst_name",
+      "eng": "Chrysalis Burst",
+      "chi": "蛹动",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_spell_chrysalis_burst_description",
+      "eng": "Summon an Egg of each allied minion on the space directly behind that minion.",
+      "chi": "在所有友方随从的正后方\n召唤一个该随从的蛋。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_spell_natural_selection_name",
+      "eng": "Natural Selection",
+      "chi": "物竞天择",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_spell_natural_selection_description",
+      "eng": "Destroy a minion with the lowest Attack.",
+      "chi": "摧毁目标攻击力最低的随从。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_spell_mind_steal_name",
+      "eng": "Mind Steal",
+      "chi": "思维窃取",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_spell_mind_steal_description",
+      "eng": "Your action bar becomes a copy of your opponent's action bar.",
+      "chi": "你的准备栏变为你对手的\n准备栏的复制。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_spell_egg_morph_name",
+      "eng": "Egg Morph",
+      "chi": "化蛹",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_spell_egg_morph_description",
+      "eng": "Transform a minion into an Egg of itself. If it is already an Egg, hatch it instead.",
+      "chi": "将一个随从变成该随从的蛋。\n如果已经是蛋，则改为孵化它。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_spell_kinetic_equilibrium_name",
+      "eng": "Kinetic Equilibrium",
+      "chi": "优胜劣汰",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_spell_kinetic_equilibrium_description",
+      "eng": "Deal 2 damage to minions in a 3x3 area and give allied minions in that area +2/+0.",
+      "chi": "对3x3区域内所有随从造成\n2点伤害，使区域内的友方\n随从获得 +2/+0。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_spell_immortal_resolve_name",
+      "eng": "Immortal Resolve",
+      "chi": "不朽决心",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_spell_immortal_resolve_desc",
+      "eng": "Give your General +1/+0 this turn, heal your General for 2, and shuffle a copy of this into your deck.",
+      "chi": "使你的将领获得+1/+0直到\n回合结束。治疗你的将领\n2点生命。将一张不朽决心\n洗入你的牌库。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_spell_square_peg_name",
+      "eng": "Anachronize",
+      "chi": "中和反应",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_spell_square_peg_desc",
+      "eng": "Destroy minions that were summoned since your last turn. End your turn.",
+      "chi": "摧毁所有自你的上个回合\n结束后召唤的随从。\n结束你的回合。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_artifact_adamantite_claws_name",
+      "eng": "Adamantite Claws",
+      "chi": "刚玉爪",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_artifact_adamantite_claws_description",
+      "eng": "Timeless\nYour General has +3/+0.",
+      "chi": "永恒\n你的将领具有+3/+0。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_artifact_twin_fang_name",
+      "eng": "Twin Fang",
+      "chi": "双牙",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_artifact_twin_fang_description",
+      "eng": "Your General has an additional +2/+0 for each time an ally takes damage.",
+      "chi": "每当一个友方单位受到伤害时，\n你的将领具有 +2/+0。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_artifact_iridium_scale_name",
+      "eng": "Iridium Scale",
+      "chi": "铱金鳞",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_artifact_iridium_scale_description",
+      "eng": "Your General has Frenzy.",
+      "chi": "你的将领具有狂暴。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_artifact_growtifact_name",
+      "eng": "Godhammer",
+      "chi": "神锤",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_artifact_growtifact_desc",
+      "eng": "Timeless\nAllied minions have \"Grow: +1/+1\".",
+      "chi": "永恒\n所有友方随从具有\n“成长：+1/+1”。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_unit_vaath_name",
+      "eng": "Vaath the Immortal",
+      "chi": "不朽的瓦斯",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_unit_vaath_desc",
+      "eng": "",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_unit_starhorn_name",
+      "eng": "Starhorn the Seeker",
+      "chi": "求知的星角",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_unit_starhorn_desc",
+      "eng": "",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_unit_ragnora_name",
+      "eng": "Ragnora the Relentless",
+      "chi": "无情的拉格诺拉",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_unit_ragnora_desc",
+      "eng": "",
+      "chi": "",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_unit_kujata_name",
+      "eng": "Kujata",
+      "chi": "库亚塔",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_unit_kujata_desc",
+      "eng": "Your minions cost 1 less to play. When you play a minion, deal 1 damage to it.",
+      "chi": "你的随从打出时费用减少1点。\n当你打出一个随从后，对其\n造成1点伤害。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_unit_phalanxar_name",
+      "eng": "Phalanxar",
+      "chi": "好战者",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_unit_phalanxar_desc",
+      "eng": "This moves 1 less space.",
+      "chi": "移动距离减少1格。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_unit_young_silithar_name",
+      "eng": "Young Silithar",
+      "chi": "幼年期西里萨",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_unit_young_silithar_desc",
+      "eng": "Rebirth",
+      "chi": "重生",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_unit_earth_walker_name",
+      "eng": "Earth Walker",
+      "chi": "滚石",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_unit_earth_walker_desc",
+      "eng": "Grow: +1/+1.",
+      "chi": "成长：+1/+1",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_unit_primordial_gazer_name",
+      "eng": "Primordial Gazer",
+      "chi": "照管者",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_unit_primordial_gazer_desc",
+      "eng": "Opening Gambit: Give a nearby minion +2/+1.",
+      "chi": "登场：使一个相邻的\n随从获得 +2/+1。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_unit_vindicator_name",
+      "eng": "Vindicator",
+      "chi": "维护者",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_unit_vindicator_desc",
+      "eng": "Rush\nThe next time an allied minion is summoned nearby this, give it Rush.",
+      "chi": "冲锋\n下一个你召唤在此随从相邻\n位置的友方随从获得冲锋。.",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_unit_elucidator_name",
+      "eng": "Elucidator",
+      "chi": "阐释者",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_unit_elucidator_desc",
+      "eng": "Rush\nOpening Gambit: Deal 4 damage to your General.",
+      "chi": "冲锋\n登场：对你的将领造成4点\n伤害。.",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_unit_grimrock_name",
+      "eng": "Grimrock",
+      "chi": "不动魔岩",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_unit_grimrock_desc",
+      "eng": "Grow: +2/+2.",
+      "chi": "成长：+2/+2",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_unit_veteran_silithar_name",
+      "eng": "Veteran Silithar",
+      "chi": "成熟期西利萨",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_unit_veteran_silithar_desc",
+      "eng": "Rebirth",
+      "chi": "重生",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_unit_kolossus_name",
+      "eng": "Kolossus",
+      "chi": "巍峨巨像",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_unit_kolossus_desc",
+      "eng": "Grow: +4/+4.",
+      "chi": "成长：+4/+4",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_unit_spirit_harvester_name",
+      "eng": "Spirit Harvester",
+      "chi": "收割者",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_unit_spirit_harvester_desc",
+      "eng": "At the end of your turn, deal 1 damage to other minions.",
+      "chi": "在你的回合结束时，对所有\n其他随从造成1点伤害。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_unit_makantor_warbeast_name",
+      "eng": "Makantor Warbeast",
+      "chi": "纷争制造者",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_unit_makantor_warbeast_desc",
+      "eng": "Frenzy, Rush",
+      "chi": "狂暴，冲锋",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_unit_silithar_elder_name",
+      "eng": "Silithar Elder",
+      "chi": "完全体西里萨",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_unit_silithar_elder_desc",
+      "eng": "Rebirth\nAt the end of your turn, summon an Egg of this directly behind it.",
+      "chi": "重生\n在你的回合结束时，在此\n随从正后方召唤一个此随\n从的蛋。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_unit_unstable_leviathan_name",
+      "eng": "Unstable Leviathan",
+      "chi": "不稳定的利维坦",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_unit_unstable_leviathan_desc",
+      "eng": "At the end of your turn, deal 4 damage to a random unit. If the unit is allied, give it +4/+0.",
+      "chi": "在你的回合结束时，对一个\n随机单位造成4点伤害，如\n果是友方单位，使该单位\n获得 +4/+0。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_unit_egg_name",
+      "eng": "Egg",
+      "chi": "蛋",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_unit_magma_name",
+      "eng": "Magma",
+      "chi": "小石块",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_unit_crouching_lizard_name",
+      "eng": "Timecloak Coiler",
+      "chi": "时间卷曲者",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_unit_crouching_lizard_desc",
+      "eng": "At the end of your turn, give your general +2/+0 until they move or teleport.",
+      "chi": "在你的回合结束时，你的\n将领获得+2/+0直到将领\n移动或被传送。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_unit_progenitor_name",
+      "eng": "Progenitor",
+      "chi": "元祖蜥",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_unit_progenitor_desc",
+      "eng": "Opening Gambit: Summon two Hatchling Eggs nearby your general.",
+      "chi": "登场：在你的将领相邻位置\n召唤2个初生蜥(0费2/1)的蛋。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_unit_silithar_hatchling_name",
+      "eng": "Hatchling",
+      "chi": "初生蜥",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_unit_silithar_hatchling_desc",
+      "eng": "Frenzy",
+      "chi": "狂暴",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_unit_generation_scribe_name",
+      "eng": "Generation Scribe",
+      "chi": "世代记录者",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_unit_generation_scribe_desc",
+      "eng": "Opening Gambit: Activate the start of turn and end of turn effects of an allied minion.",
+      "chi": "登场：触发一个友方随从\n的回合结束和回合开始效果。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_unit_visionar_name",
+      "eng": "Skycarrier",
+      "chi": "空天母舰",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_5_unit_visionar_desc",
+      "eng": "Your cards cost 3.",
+      "chi": "你的卡费用消耗变为3点。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_spell_gravity_well_name",
+      "eng": "Gravity Well",
+      "chi": "重力井",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_spell_gravity_well_description",
+      "eng": "Summon four joined Frost Wells.",
+      "chi": "召唤四个相邻的霜\n冻井(0/1 嘲讽)。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_spell_bonechill_barrier_name",
+      "eng": "Bonechill Barrier",
+      "chi": "刺骨栏栅",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_spell_bonechill_barrier_description",
+      "eng": "Summon three joined Ice Barriers.",
+      "chi": "召唤三个相邻的冰栅(0/2 \n霜灵 眩晕对此随从造成\n伤害且相邻的随从)。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_spell_blazing_spines_name",
+      "eng": "Blazing Spines",
+      "chi": "闪光冰锥",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_spell_blazing_spines_description",
+      "eng": "Summon two joined Frigid Spines.",
+      "chi": "召唤两个相邻的冰锥(3/3)。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_spell_chromatic_cold_name",
+      "eng": "Chromatic Cold",
+      "chi": "折射寒光",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_spell_chromatic_cold_description",
+      "eng": "Dispel a space. If there is an enemy on that space, deal 2 damage to it.",
+      "chi": "驱散一个格子并对其上的\n敌方单位造成2点伤害。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_spell_flash_freeze_name",
+      "eng": "Flash Freeze",
+      "chi": "速冻术",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_spell_flash_freeze_description",
+      "eng": "Deal 1 damage to a minion and Stun it.",
+      "chi": "对一个随从造成1点伤害\n并眩晕它。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_spell_frostfire_name",
+      "eng": "Frostfire",
+      "chi": "霜火",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_spell_frostfire_description",
+      "eng": "Give a minion +3/+0. If it is Vespyr, give it +3/+3 instead.",
+      "chi": "使一个随从获得 +3/+0，\n如果该随从是霜灵，\n改为使其获得 +3/+3。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_spell_avalanche_name",
+      "eng": "Avalanche",
+      "chi": "雪崩术",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_spell_avalanche_description",
+      "eng": "Deal 4 damage to units on your starting side of the battlefield and Stun them.",
+      "chi": "对所有处于你的半场的单位\n造成4点伤害并眩晕。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_spell_boundless_courage_name",
+      "eng": "Boundless Courage",
+      "chi": "无尽勇气",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_spell_boundless_courage_description",
+      "eng": "Give an allied minion +2/+0. This turn, give it \"This takes no damage\".",
+      "chi": "使一个友方随从获得 +2/+0，\n这个回合内，该随从不会受\n到伤害。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_spell_mesmerize_name",
+      "eng": "Mesmerize",
+      "chi": "催眠术",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_spell_mesmerize_description",
+      "eng": "Deal 3 damage to enemy minions on a column and Stun them.",
+      "chi": "对战场一列上的敌方随从\n造成3点伤害并眩晕。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_spell_mark_of_solitude_name",
+      "eng": "Mark of Solitude",
+      "chi": "孤独印记",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_spell_mark_of_solitude_description",
+      "eng": "Give a minion \"This cannot attack Generals\". It becomes 6/6.",
+      "chi": "使一个随从变成6/6，\n该随从获得\"无法攻击将领\"。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_spell_aspect_of_the_fox_name",
+      "eng": "Aspect of the Fox",
+      "chi": "狐之形",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_spell_aspect_of_the_fox_description",
+      "eng": "Transform a minion into a Fox Ravager.",
+      "chi": "将一个随从变形为掠形狐(3/3)。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_spell_aspect_of_the_drake_name",
+      "eng": "Aspect of the Wyrm",
+      "chi": "龙之形",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "d2_faction_6_spell_aspect_of_the_drake_description",
+      "eng": "Put a copy of a minion into its owner's action bar and transform that minion into a Whyte Wyrm.",
+      "chi": "将一个随从的复制放入其\n控制者的准备栏。\n将该随从变形为白龙(4/4 )。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    }
+  ]
+}

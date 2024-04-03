@@ -1,0 +1,709 @@
+{
+  "versionCode": "20.1.27",
+  "nodeCode": "modifiers",
+  "path": "modifiers",
+  "orderStart": 400,
+  "orderEnd": 499,
+  "translateItemList": [
+    {
+      "code": "faction_6_spell_auroraboros_1",
+      "eng": "Boreal Cycle",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_spell_auroraboros_2",
+      "eng": "Dying Wish: Re-summon this in its space.",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_6_spell_mark_of_solitude_1",
+      "eng": "Solitude",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_6_spell_mark_of_solitude_2",
+      "eng": "Set to {{atk}}/{{maxHP}}",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_artifact_coldbiter_1",
+      "eng": "At the end of your turn, your General deals 2 damage to each enemy minion around it.",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_artifact_winterblade_1",
+      "eng": "Enemy minions damaged by your General are Stunned",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_artifact_winterblade_2",
+      "eng": "it is STUNNED",
+      "chi": "被眩晕",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "faction_6_artifact_white_asp_1",
+      "eng": "a 3/3 Blazing Spine Wall",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_artifact_white_asp_2",
+      "eng": "Whenever your General destroys a minion, summon a 3/3 Blazing Spine Wall on that space.",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_artifact_animus_plate_1",
+      "eng": "Animus Surge",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_6_artifact_winterblade_buff_name",
+      "eng": "Snow Cover",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "d2_faction_6_artifact_winterblade_buff_description",
+      "eng": "Immune to damage until your next turn.",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_owlbeast_sage_modifier",
+      "eng": "Arcanyst Fortitude",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_primus_fist_modifier_2",
+      "eng": "Fist of the Primus",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_dark_nemesis_modifier",
+      "eng": "Siphon Power",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_mirkblood_devourer_modifier",
+      "eng": "Mirkblood Aid",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_azure_horn_shaman_modifier",
+      "eng": "Shaman's Sacrifice",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_first_sword_of_akrane_modifier",
+      "eng": "Might of Akrane",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_lady_locke_modifier",
+      "eng": "Lockedown",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_songweaver_modifier_2",
+      "eng": "Songwoven",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_sand_sister_modifier",
+      "eng": "Might of the Sands",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_wind_sister_modifier",
+      "eng": "Wind's Fortitude",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_wind_runner_modifier",
+      "eng": "Wind's Strength",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_sun_elemental_modifier",
+      "eng": "Vitamin D",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_sun_elemental_modifier",
+      "eng": "Vitamin XD",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_wings_of_paradise_modifier",
+      "eng": "Divine Winds",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_arrow_whistler_modifier",
+      "eng": "Arrow's Might",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_golden_justicar_modifier",
+      "eng": "Reach of Justice",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_golden_justicar_modifier_2",
+      "eng": "May move 2 additional spaces",
+      "chi": "可以额外移动2格距离。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_skywing_modifier",
+      "eng": "Skywing's Support",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_bastion_modifier",
+      "eng": "Bastion's Fortitude",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_shiro_puppydragon_modifier",
+      "eng": "Puppydragon Power!",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_ruby_rifter_modifier",
+      "eng": "Heavy Rifter",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_feralu_modifier",
+      "eng": "Tribal Might",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_boulder_breacher_modifier",
+      "eng": "BREACHED!",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_boulder_breacher_modifier_2",
+      "eng": "Can't counterattack this turn.",
+      "chi": "这回合不能反击。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_lesson_of_courage_modifier",
+      "eng": "Heart of Flame",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_project_omega_1",
+      "eng": "Collective Strength",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_redsteel_minos_1",
+      "eng": "Brute Strength",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_impervious_giago_1",
+      "eng": "Go Giago, Go!",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_forge_artifact_1",
+      "eng": "Primal Surge",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_primus_shieldmaster_modifier",
+      "eng": "Shield of the Primus",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_blaze_hound_modifier",
+      "eng": "Ignited",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_sworn_defender_modifier",
+      "eng": "Barricade",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "glacial_elemental_infiltrated_effect",
+      "eng": "When you summon a Vespyr, deal 2 damage to a random enemy minion.",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "neutral_omnom_atk",
+      "eng": "Tasty Morsels",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "d2_neutral_artifact_smarty_core",
+      "eng": "Smarty's Core",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_5_applied_name",
+      "eng": "Zendo's Faithful",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_5_applied_desc",
+      "eng": "Zendo cannot be damaged while this minion lives.",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_6_applied_name",
+      "eng": "D3cepticle's Limb",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_22_applied_name",
+      "eng": "Crystalline Sacrifice",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_24_applied_name_1",
+      "eng": "Skurge's Eye",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_24_applied_name_2",
+      "eng": "Sibling's Bond",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_25_applied_name",
+      "eng": "Shadow Lord's Guile",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_30_applied_name",
+      "eng": "Warrior's Spirit",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_33_applied_name",
+      "eng": "Legion's Agility",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_33_applied_name_2",
+      "eng": "Legion's Strength",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_36_applied_name",
+      "eng": "Unending Hunger",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_37_applied_name",
+      "eng": "Soul Vessel",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_37_applied_desc",
+      "eng": "Soulstealer's spirit can transfer to this when it dies",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss40_converttobinary_enemy_name",
+      "eng": "Binarized",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss40_converttobinary_enemy_desc",
+      "eng": "Set to 0/1",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss40_converttobinary_ally_name",
+      "eng": "111101101",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "building_text",
+      "eng": "Builds into {{unit_name}} (this ability cannot be dispelled)",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "building_counter_applied_name",
+      "eng": "Building",
+      "chi": "生产中",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "building_counter_applied_desc",
+      "eng": "Turns Until Complete: {{turns_until_complete}}",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "mechazor_counter_applied_name",
+      "eng": "MECHAZ0R Progress",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "mechazor_counter_applied_desc",
+      "eng": "MECHAZ0R is {{percent_complete}}% complete",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "shadowcreep_counter_applied_name",
+      "eng": "Stacking Shadows",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "shadowcreep_counter_applied_desc",
+      "eng": "Shadow Creep Tiles: {{tile_count}}",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "forged_artifact_lyonar",
+      "eng": "Your General gains +{{numericValue}} Attack.\nWhenever your General takes damage, restore {{numericValue}} Health to them",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "forged_artifact_songhai",
+      "eng": "Your General gains +{{numericValue}} Attack.\nWhenever your General attacks or counterattacks, deal {{numericValue}} damage to a random enemy",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "forged_artifact_vetruvian",
+      "eng": "Your General gains +{{numericValue}} Attack.\nWhenever your General attacks, summon {{numericValue}} destroyed friendly minions on random spaces",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "forged_artifact_abyssian",
+      "eng": "Your General gains +{{numericValue}} Attack.\nWhenever your General attacks a minion, they steal {{numericValue}} Health from the enemy General",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "forged_artifact_magmar",
+      "eng": "Your General gains +{{numericValue}} Attack.\nWhenever your General deals damage, friendly minions gain +{{numericValue}}/+{{numericValue}}",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "forged_artifact_vanar",
+      "eng": "Your General gains +{{numericValue}} Attack.\nWhenever your General attacks, summon {{numericValue}} Vespyr Night Howlers nearby",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "forged_artifact_neutral",
+      "eng": "Your General gains +{{numericValue}} Attack.",
+      "chi": "你的将领获得+{{numericValue}}/+0。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "intensify_counter_applied_name",
+      "eng": "Intensified",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "intensify_counter_applied_desc",
+      "eng": "Effect boosted by: {{intensify_effect_level}}x",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "immune_to_attacks",
+      "eng": "Immune to Attacks",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "amazyng_race_checkpoint",
+      "eng": "Checkpoint",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "amazyng_race_checkpoint_description",
+      "eng": "Step on this tile to clear this checkpoint. The General that clears all checkpoints wins!",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "amazyng_race_doomed_name",
+      "eng": "Step Off or Die",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "amazyng_race_doomed_description",
+      "eng": "Move off of cleared checkpoints if a legal move can be made or you will lose.",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "checkpoint",
+      "eng": "Checkpoint",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "checkpoint_name",
+      "eng": "Checkpoint %X",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "checkpoint_cleared",
+      "eng": "Successfully cleared checkpoint",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "sentinel_watchful",
+      "eng": "This minion is watching you!",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "sentinel_general_attack",
+      "eng": "When your opponent attacks with their General, this minion reveals its true form.",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "sentinel_spell_cast",
+      "eng": "When your opponent casts a spell, this minion reveals its true form.",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "sentinel_summon",
+      "eng": "When your opponent summons a minion on their turn, this minion reveals its true form.",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "deathwatch_buff_applied_name",
+      "eng": "Gathering Shadow",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "bound_name",
+      "eng": "Bound",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "bound_desc",
+      "eng": "Cannot be replaced.",
+      "chi": "不能被替换。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "cannot_replace_error",
+      "eng": "You can't replace that!",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "frostfire_chest_name",
+      "eng": "Frostfire Chest",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "frostfire_chest_desc",
+      "eng": "Collect this and get a gift. But don't be greedy...",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "lyonarquest_counter_applied_name",
+      "eng": "Trial of Lyonar",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "lyonarquest_counter_applied_desc",
+      "eng": "Minions Summoned: {{summon_count}}/12",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "songhaiquest_counter_applied_name",
+      "eng": "Trial of Songhai",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    }
+  ]
+}

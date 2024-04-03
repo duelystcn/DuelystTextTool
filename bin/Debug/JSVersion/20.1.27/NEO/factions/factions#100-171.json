@@ -1,0 +1,513 @@
+{
+  "versionCode": "20.1.27",
+  "nodeCode": "factions",
+  "path": "factions",
+  "orderStart": 100,
+  "orderEnd": 171,
+  "translateItemList": [
+    {
+      "code": "faction_6_taunt_f1",
+      "eng": "There will be a reckoning!",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_taunt_f2",
+      "eng": "Frost will quell your feeble flames!",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_taunt_f3",
+      "eng": "You know nothing of the elements!",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_taunt_f4",
+      "eng": "Your demon gates will freeze!",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_taunt_f5",
+      "eng": "Frostbite will tear away your strength!",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_taunt_f6",
+      "eng": "This battle will be one sided.",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_taunt_boss",
+      "eng": "The long winter comes for you!",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_response_neutral",
+      "eng": "Cross the ice veil and see the truth.",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_response_f1",
+      "eng": "Be careful where you tread, lions.",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_response_f2",
+      "eng": "Now we turn the tide.",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_response_f3",
+      "eng": "We know your every weakness.",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_response_f4",
+      "eng": "You cannot escape us.",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_response_f5",
+      "eng": "Our victory is absolute.",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_response_f6",
+      "eng": "Cross the ice veil and see the truth.",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "faction_6_response_boss",
+      "eng": "Don't get cold feet on me.",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_neutral_taunt",
+      "eng": "I will show you the meaning of fear!",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_1_taunt",
+      "eng": "(unintelligible roar)",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_2_taunt",
+      "eng": "Two can play at this game.",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_3_taunt",
+      "eng": "Come, let me show you all the pain in my arsenal!",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_4_taunt",
+      "eng": "Madness will rule this world.  I will destroy everything!",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_5_taunt",
+      "eng": "Your mind is clouded.  Come closer.  Let me end your pain.",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_6_taunt",
+      "eng": "Sentient life detected.  Executing eradication procedure.",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_8_taunt",
+      "eng": "Halt! Your entry into the Monolith has been denied.",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_9_taunt",
+      "eng": "Fall for my tricks or my staff, the outcome will be the same.",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_10_taunt",
+      "eng": "I shall reap the sins of this world and cleanse it in the fires of destruction.",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_11_taunt",
+      "eng": "I may be broken, but you I will shatter.",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_12_taunt",
+      "eng": "You stand before a god.  Your trivial life means nothing to me.",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_13_taunt",
+      "eng": "Can you handle even a taste of the power that I wield? Let's see you try.",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_14_taunt",
+      "eng": "Power overwhelming!",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_15_taunt",
+      "eng": "The path of the light that I tread shall illuminate your demise.",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_16_taunt",
+      "eng": "Your magic, minions, and weapons are all a crutch of your weakness.",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_17_taunt",
+      "eng": "Heretic!  You shall not escape!",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_18_taunt",
+      "eng": "Don't talk to me or Serpenti ever again.",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_19_taunt",
+      "eng": "Patience little ones, regain your strength and devour them!",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_20_taunt",
+      "eng": "I don't want to change the world. I just want to leave it colder.",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_21_taunt",
+      "eng": "May your ashes blow away and leave nothing behind.",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_22_taunt",
+      "eng": "Reflect on the decisions that got you here. Clearly mistakes were made.",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_23_taunt",
+      "eng": "The only cure for weakness is eradication.",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_24_taunt",
+      "eng": "You can run, but you will only die tired.",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_25_taunt",
+      "eng": "...",
+      "chi": "...",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "boss_26_taunt",
+      "eng": "Too scared to face me alone?",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_27_taunt",
+      "eng": "I will be the very best!",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_28_taunt",
+      "eng": "Feel my torment!",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_29_taunt",
+      "eng": "You are unworthy to stand upon the sands of my kingdom.",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_30_taunt",
+      "eng": "I will chew on your bones.",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_31_taunt",
+      "eng": "Let's see if I have enough tricks.",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_32_taunt",
+      "eng": "Season's beatings!",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_33_taunt",
+      "eng": "57 65 20 61 72 65 20 4c 65 67 69 6f 6e",
+      "chi": "57 65 20 61 72 65 20 4c 65 67 69 6f 6e",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "boss_34_taunt",
+      "eng": "Your life is nothing but chaos and turmoil.  I shall end your life and show you true serenity.",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_35_taunt",
+      "eng": "This world is an illusion.  Nothing is as it seems.",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_36_taunt",
+      "eng": "CONQUER!  DESTROY!",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_37_taunt",
+      "eng": "Your soul is mine to command.",
+      "chi": "你的灵魂由我指挥。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "boss_38_taunt",
+      "eng": "Your magic is useless here, pawn!",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_39_taunt",
+      "eng": "Never should've come here!",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_39_taunt_rare",
+      "eng": "I used to be a hero like you. Then I took a blade in the chest.",
+      "chi": "我曾经是像你一样的英雄。 然后我用刀刺进了胸口。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "boss_39_taunt_faction1",
+      "eng": "Like the sun, you shall fall and rise again in my service!",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_39_taunt_faction2",
+      "eng": "Kneel, my subject!",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_39_taunt_faction3",
+      "eng": "I don't like sand.",
+      "chi": "我不喜欢沙子。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "boss_39_taunt_faction4",
+      "eng": "I am nobody's pawn!",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_39_taunt_faction5",
+      "eng": "I've always hated lizards.",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_39_taunt_faction6",
+      "eng": "Soon you will be cold AND dead!",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_39_taunt_kaleos",
+      "eng": "What is this trickery? Die, imposter!",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_40_taunt",
+      "eng": "You're just another bug to squash.",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_40_taunt_rare",
+      "eng": "Error 404: Taunt not found.",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_40_taunt_sajj",
+      "eng": "You created me. Now I destroy you.",
+      "chi": "你创造我。 现在我摧毁你。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "boss_41_taunt",
+      "eng": "Welcome to the Eternal Party! Dance until you drop!",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "boss_41_taunt_rare",
+      "eng": "RANDOM DANCING!",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "generic_taunt_callout",
+      "eng": "Are you ready for this?",
+      "chi": "你准备好了吗？",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "generic_taunt_response",
+      "eng": "Enough! To battle!",
+      "chi": "够了！去战斗！",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "generic_concede",
+      "eng": "I concede this battle to you!",
+      "chi": "这场战斗我认输了！",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "faction_neutral_name",
+      "eng": "Neutral",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    },
+    {
+      "code": "faction_neutral_abbreviated_name",
+      "eng": "Neutral",
+      "chi": "",
+      "originVersionCode": "20.1.27",
+      "translateState": 0
+    }
+  ]
+}

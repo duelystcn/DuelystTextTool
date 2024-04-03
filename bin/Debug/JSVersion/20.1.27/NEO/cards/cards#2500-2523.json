@@ -1,0 +1,177 @@
+{
+  "versionCode": "20.1.27",
+  "nodeCode": "cards",
+  "path": "cards",
+  "orderStart": 2500,
+  "orderEnd": 2523,
+  "translateItemList": [
+    {
+      "code": "neutral_silver_name",
+      "eng": "S.I.L.V.E.R.",
+      "chi": "银白",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_silver_desc",
+      "eng": "Whenever you summon this or another Mech, friendly Mechs gain all keywords of other friendly Mechs.",
+      "chi": "当你召唤此随从或其他机兵时，友方机兵获得其他友方机兵具有的关键词异能。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_project_omega_name",
+      "eng": "Project Ω",
+      "chi": "欧米伽实验品",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_project_omega_desc",
+      "eng": "This minion gains +2/+2 for each other Mech minion you summoned this game.",
+      "chi": "这局游戏你每召唤一次其他机兵，此随从就获得+2/+2。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_reliquarian_name",
+      "eng": "Reliquarian",
+      "chi": "圣物铸造师",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_reliquarian_desc",
+      "eng": "Opening Gambit: Forge a friendly minion into a Faction artifact with equal Attack.",
+      "chi": "登场：将一个友方随从铸造为所属阵营的特殊神器并装备，该神器的效果数值等于该随从的攻击。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_empty_relic_name",
+      "eng": "Empty Relic",
+      "chi": "空遗物",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_shining_relic_name",
+      "eng": "Shining Relic",
+      "chi": "闪耀遗物",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_blazing_relic_name",
+      "eng": "Blazing Relic",
+      "chi": "炽热遗物",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_void_relic_name",
+      "eng": "Void Relic",
+      "chi": "虚空遗物",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_barren_relic_name",
+      "eng": "Barren Relic",
+      "chi": "荒芜遗物",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_primal_relic_name",
+      "eng": "Primal Relic",
+      "chi": "原始遗物",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_howling_relic_name",
+      "eng": "Howling Relic",
+      "chi": "呼啸遗物",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_forge_artifact_name",
+      "eng": "Forge Artifact",
+      "chi": "锻造神器",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_forge_artifact_desc",
+      "eng": "Forge a friendly minion into an artifact.",
+      "chi": "将一个友方随从锻造为神器",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_gauntletspecial_fortuneshaper_name",
+      "eng": "Fortuneshaper",
+      "chi": "运气塑造者",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_gauntletspecial_fortuneshaper_desc",
+      "eng": "Your next Gauntlet card choices will be Epic cards.",
+      "chi": "你下一次选择将会是史诗卡。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_gauntletspecial_futureshaker_name",
+      "eng": "Futureshaker",
+      "chi": "未来改变者",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_gauntletspecial_futureshaker_desc",
+      "eng": "Your next Gauntlet card choices will be Legendary Neutral cards.",
+      "chi": "你下一次选择将会是中立的传奇卡。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_gauntletspecial_fatesealer_name",
+      "eng": "Fatesealer",
+      "chi": "命运封印者",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "neutral_gauntletspecial_fatesealer_desc",
+      "eng": "Your next Gauntlet card choices will be Legendary Faction cards.",
+      "chi": "你下一次选择将会是所属阵营的传奇卡。",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "frostfire_imp_name",
+      "eng": "Frostfire Imp",
+      "chi": "霜火精灵",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "frostfire_snowchser_name",
+      "eng": "Frostfire Snowchaser",
+      "chi": "霜火寻雪精灵",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    },
+    {
+      "code": "frostfire_tiger_name",
+      "eng": "Frostfire Tiger",
+      "chi": "霜火虎",
+      "originVersionCode": "20.1.26",
+      "translateState": 4
+    }
+  ]
+}
