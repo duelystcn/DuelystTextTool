@@ -526,7 +526,7 @@
     {
       "code": "d2_faction_5_unit_visionar_name",
       "eng": "Skycarrier",
-      "chi": "空天母舰",
+      "chi": "顶天者",
       "originVersionCode": "20.1.26",
       "translateState": 4
     },
@@ -701,7 +701,7 @@
     {
       "code": "d2_faction_6_spell_aspect_of_the_drake_description",
       "eng": "Put a copy of a minion into its owner's action bar and transform that minion into a Whyte Wyrm.",
-      "chi": "将一个随从的复制放入其\n控制者的准备栏。\n将该随从变形为白龙(4/4 )。",
+      "chi": "将一个随从的复制放入其\n控制者的准备栏。\n将该随从变形为白龙(3/4 )。",
       "originVersionCode": "20.1.26",
       "translateState": 4
     }

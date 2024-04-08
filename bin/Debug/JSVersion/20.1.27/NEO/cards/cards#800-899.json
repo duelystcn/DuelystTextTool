@@ -183,58 +183,58 @@
     {
       "code": "d2_neutral_shadow_puppeteer_name",
       "eng": "Verdmother",
-      "chi": "",
+      "chi": "育崽碧绿兽",
       "originVersionCode": "20.1.27",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_shadow_puppeteer_desc",
       "eng": "Opening Gambit: Put a Verdkin into your action bar.",
-      "chi": "",
+      "chi": "登场：将一张碧绿幼崽放\n入你的准备栏。",
       "originVersionCode": "20.1.27",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_shade_name",
       "eng": "Verdkin",
-      "chi": "",
+      "chi": "碧绿幼崽",
       "originVersionCode": "20.1.27",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_shade_desc",
       "eng": "Provoke\nDispel any unit that deals damage to this.",
-      "chi": "",
+      "chi": "嘲讽\n驱散对此随从造成\n伤害的单位。",
       "originVersionCode": "20.1.27",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_gambler_name",
       "eng": "Emissary of Chaos",
-      "chi": "",
+      "chi": "混沌使者",
       "originVersionCode": "20.1.27",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_gambler_desc",
       "eng": "Opening Gambit and Dying Wish: Randomly permute the costs of cards in all action bars.",
-      "chi": "",
+      "chi": "登场和死愿：使所有玩家\n准备栏中的卡牌费用随机\n调换。",
       "originVersionCode": "20.1.27",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_artifact_smarty_core_name",
       "eng": "Smarty's Core",
-      "chi": "",
+      "chi": "玲珑心",
       "originVersionCode": "20.1.27",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_neutral_artifact_smarty_core_desc",
       "eng": "This cannot lose durability when you take damage.\nYour General has +1/+0",
-      "chi": "",
+      "chi": "此神器在你受到伤害时\n不会失去耐久。\n你的将领具有+1/+0。",
       "originVersionCode": "20.1.27",
-      "translateState": 0
+      "translateState": 4
     },
     {
       "code": "d2_frostfire_imp_name",
@@ -596,14 +596,14 @@
     {
       "code": "d2_neutral_exun_name",
       "eng": "Eternity Sage Smarty",
-      "chi": "永恒圣者逊吼",
+      "chi": "永恒贤者 玲珑",
       "originVersionCode": "20.1.26",
       "translateState": 4
     },
     {
       "code": "d2_neutral_exun_desc",
       "eng": "Opening Gambit: Equip Smarty's Core.\nDying Wish: Destroy a random artifact equipped to resummon this on the same space.",
-      "chi": "登场：装备一件逊吼之核\n死愿：随机摧毁一件你装\n备的神器，然后重新召唤\n此随从。",
+      "chi": "登场：装备神器玲珑心\n死愿：随机摧毁一件你装\n备的神器，然后重新召唤\n此随从。",
       "originVersionCode": "20.1.26",
       "translateState": 4
     },
